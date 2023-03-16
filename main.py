@@ -426,8 +426,20 @@ def demo(**config):
         json_to_md(json_file, md_file, task='Update Wechat', \
                    to_web=False, use_title=False, show_badge=show_badge)
 
+        
+def create_files():
+    filenames = ['daily-paper.json', 'daily-paper-web.json', 'dily-paper-wechat.json', 'index.md']
+    if not os.path.exists('docs'):
+        os.mkdir('docs')
+    for filename in filenames:
+        if not os.path.isfile(os.path.join('docs', filename)):
+            print(f'create {filename}')
+            f = open(os.path.join('docs', filename), 'x')
+            f.close()
 
+    
 if __name__ == "__main__":
+    create_files()
     parser = argparse.ArgumentParser()
     parser.add_argument('--config_path', type=str, default='config.yaml',
                         help='configuration file path')
