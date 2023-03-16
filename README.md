@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2023-03-15**|**Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer**|Serin Yang et.al.|[2303.08622](http://arxiv.org/abs/2303.08622)|null|
 |**2023-03-15**|**SymBa: Symmetric Backpropagation-Free Contrastive Learning with Forward-Forward Algorithm for Optimizing Convergence**|Heung-Chang Lee et.al.|[2303.08418](http://arxiv.org/abs/2303.08418)|null|
-|**2023-03-15**|**DualFair: Fair Representation Learning at Both Group and Individual Levels via Contrastive Self-supervision**|Sungwon Han et.al.|[2303.08403](http://arxiv.org/abs/2303.08403)|null|
+|**2023-03-15**|**DualFair: Fair Representation Learning at Both Group and Individual Levels via Contrastive Self-supervision**|Sungwon Han et.al.|[2303.08403](http://arxiv.org/abs/2303.08403)|**[link](https://github.com/sungwon-han/dualfair)**|
 |**2023-03-15**|**DICNet: Deep Instance-Level Contrastive Network for Double Incomplete Multi-View Multi-Label Classification**|Chengliang Liu et.al.|[2303.08358](http://arxiv.org/abs/2303.08358)|null|
 |**2023-03-14**|**Diffusion Models for Contrast Harmonization of Magnetic Resonance Images**|Alicia Durrer et.al.|[2303.08189](http://arxiv.org/abs/2303.08189)|null|
 |**2023-03-14**|**Non-Contrastive Unsupervised Learning of Physiological Signals from Video**|Jeremy Speth et.al.|[2303.07944](http://arxiv.org/abs/2303.07944)|null|
