@@ -44,16 +44,16 @@ jobs:
           pip install requests
           pip install pyyaml
           
-      - name: Run daily arxiv 
+      - name: Run daily paper 
         run: |
-          python daily_arxiv.py
+          python main.py
           
-      - name: Push new cv-arxiv-daily.md
+      - name: Push new daily-paper.md
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update CV Arxiv Papers"
-          files: README.md docs/cv-arxiv-daily.json docs/cv-arxiv-daily-web.json docs/index.md docs/cv-arxiv-daily-wechat.json docs/wechat.md
+          commit-message: "Github Action Automatic Update Papers"
+          files: README.md docs/daily-paper.json docs/daily-paper-web.json docs/index.md docs/daily-paper-wechat.json
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
