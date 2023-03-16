@@ -428,7 +428,7 @@ def demo(**config):
 
         
 def create_files():
-    filenames = ['daily-paper.json', 'daily-paper-web.json', 'dily-paper-wechat.json', 'index.md']
+    filenames = ['daily-paper.json', 'daily-paper-web.json', 'daily-paper-wechat.json', 'index.md']
     if not os.path.exists('docs'):
         os.mkdir('docs')
     for filename in filenames:
