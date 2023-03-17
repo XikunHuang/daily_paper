@@ -1,4 +1,4 @@
-## Updated on 2023.03.16
+## Updated on 2023.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,13 +24,13 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-03-14**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157](http://arxiv.org/abs/2303.08157)|null|
+|**2023-03-16**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157](http://arxiv.org/abs/2303.08157)|null|
 |**2023-03-14**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph Neural Networks**|Kaidi Cao et.al.|[2303.07669](http://arxiv.org/abs/2303.07669)|null|
 |**2023-03-13**|**End-to-end Deformable Attention Graph Neural Network for Single-view Liver Mesh Reconstruction**|Matej Gazda et.al.|[2303.07432](http://arxiv.org/abs/2303.07432)|null|
 |**2023-03-13**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph Neural Networks**|Luca Pegolotti et.al.|[2303.07310](http://arxiv.org/abs/2303.07310)|**[link](https://github.com/stanfordcbcl/grom)**|
@@ -41,5 +41,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230317>back to top</a>)</p>
 

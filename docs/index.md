@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.16
+## Updated on 2023.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -24,7 +24,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-14**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157](http://arxiv.org/abs/2303.08157)|null|
+|**2023-03-16**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157](http://arxiv.org/abs/2303.08157)|null|
 |**2023-03-14**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph Neural Networks**|Kaidi Cao et.al.|[2303.07669](http://arxiv.org/abs/2303.07669)|null|
 |**2023-03-13**|**End-to-end Deformable Attention Graph Neural Network for Single-view Liver Mesh Reconstruction**|Matej Gazda et.al.|[2303.07432](http://arxiv.org/abs/2303.07432)|null|
 |**2023-03-13**|**Learning Reduced-Order Models for Cardiovascular Simulations with Graph Neural Networks**|Luca Pegolotti et.al.|[2303.07310](http://arxiv.org/abs/2303.07310)|**[link](https://github.com/stanfordcbcl/grom)**|
