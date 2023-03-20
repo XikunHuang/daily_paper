@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902](http://arxiv.org/abs/2303.09902)|null|
+|**2023-03-17**|**mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection**|Markus Reiter-Haas et.al.|[2303.09901](http://arxiv.org/abs/2303.09901)|**[link](https://github.com/socialcomplab/semeval23-mcpt)**|
+|**2023-03-17**|**On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering**|Daniel J. Trosten et.al.|[2303.09877](http://arxiv.org/abs/2303.09877)|**[link](https://github.com/danieltrosten/deepmvc)**|
 |**2023-03-16**|**All4One: Symbiotic Neighbour Contrastive Learning via Self-Attention and Redundancy Reduction**|Imanol G. Estepa et.al.|[2303.09417](http://arxiv.org/abs/2303.09417)|null|
 |**2023-03-16**|**Identifiability Results for Multimodal Contrastive Learning**|Imant Daunhawer et.al.|[2303.09166](http://arxiv.org/abs/2303.09166)|**[link](https://github.com/imantdaunhawer/multimodal-contrastive-learning)**|
 |**2023-03-16**|**Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank**|Shirui Huang et.al.|[2303.09101](http://arxiv.org/abs/2303.09101)|**[link](https://github.com/huang-shirui/semi-uir)**|
@@ -28,6 +31,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139](http://arxiv.org/abs/2303.10139)|**[link](https://github.com/tamararruda/dnx)**|
+|**2023-03-17**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782](http://arxiv.org/abs/2303.09782)|null|
 |**2023-03-15**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964](http://arxiv.org/abs/2303.08964)|null|
 |**2023-03-16**|**Graph Neural Network Surrogates of Fair Graph Filtering**|Emmanouil Krasanakis et.al.|[2303.08157](http://arxiv.org/abs/2303.08157)|null|
 |**2023-03-14**|**AutoTransfer: AutoML with Knowledge Transfer -- An Application to Graph Neural Networks**|Kaidi Cao et.al.|[2303.07669](http://arxiv.org/abs/2303.07669)|null|
