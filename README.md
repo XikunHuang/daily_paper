@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning**|Weixuan Sun et.al.|[2303.11302](http://arxiv.org/abs/2303.11302)|null|
+|**2023-03-20**|**Constructing Bayesian Pseudo-Coresets using Contrastive Divergence**|Piyush Tiwary et.al.|[2303.11278](http://arxiv.org/abs/2303.11278)|null|
+|**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052](http://arxiv.org/abs/2303.11052)|null|
+|**2023-03-20**|**Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization**|Fida Mohammad Thoker et.al.|[2303.11003](http://arxiv.org/abs/2303.11003)|null|
+|**2023-03-20**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904](http://arxiv.org/abs/2303.10904)|null|
+|**2023-03-20**|**MXM-CLR: A Unified Framework for Contrastive Learning of Multifold Cross-Modal Representations**|Ye Wang et.al.|[2303.10839](http://arxiv.org/abs/2303.10839)|null|
+|**2023-03-18**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation**|Mingjie Li et.al.|[2303.10323](http://arxiv.org/abs/2303.10323)|**[link](https://github.com/mlii0117/dcl)**|
+|**2023-03-17**|**Exploring contrast generalisation in deep learning-based brain MRI-to-CT synthesis**|Lotte Nijskens et.al.|[2303.10202](http://arxiv.org/abs/2303.10202)|null|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902](http://arxiv.org/abs/2303.09902)|null|
 |**2023-03-17**|**mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few- and Zero-shot Framing Detection**|Markus Reiter-Haas et.al.|[2303.09901](http://arxiv.org/abs/2303.09901)|**[link](https://github.com/socialcomplab/semeval23-mcpt)**|
 |**2023-03-17**|**On the Effects of Self-supervision and Contrastive Alignment in Deep Multi-view Clustering**|Daniel J. Trosten et.al.|[2303.09877](http://arxiv.org/abs/2303.09877)|**[link](https://github.com/danieltrosten/deepmvc)**|
@@ -37,6 +45,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-20**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993](http://arxiv.org/abs/2303.10993)|null|
+|**2023-03-20**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms**|Ao Zhou et.al.|[2303.10875](http://arxiv.org/abs/2303.10875)|null|
 |**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139](http://arxiv.org/abs/2303.10139)|**[link](https://github.com/tamararruda/dnx)**|
 |**2023-03-17**|**High Accurate and Explainable Multi-Pill Detection Framework with Graph Neural Network-Assisted Multimodal Data Fusion**|Anh Duy Nguyen et.al.|[2303.09782](http://arxiv.org/abs/2303.09782)|null|
 |**2023-03-15**|**CS-TGN: Community Search via Temporal Graph Neural Networks**|Farnoosh Hashemi et.al.|[2303.08964](http://arxiv.org/abs/2303.08964)|null|
