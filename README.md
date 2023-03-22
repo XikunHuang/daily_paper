@@ -1,4 +1,4 @@
-## Updated on 2023.03.21
+## Updated on 2023.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,8 +17,8 @@
 |**2023-03-20**|**Constructing Bayesian Pseudo-Coresets using Contrastive Divergence**|Piyush Tiwary et.al.|[2303.11278](http://arxiv.org/abs/2303.11278)|null|
 |**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052](http://arxiv.org/abs/2303.11052)|null|
 |**2023-03-20**|**Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization**|Fida Mohammad Thoker et.al.|[2303.11003](http://arxiv.org/abs/2303.11003)|null|
-|**2023-03-20**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904](http://arxiv.org/abs/2303.10904)|null|
-|**2023-03-20**|**MXM-CLR: A Unified Framework for Contrastive Learning of Multifold Cross-Modal Representations**|Ye Wang et.al.|[2303.10839](http://arxiv.org/abs/2303.10839)|null|
+|**2023-03-21**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904](http://arxiv.org/abs/2303.10904)|null|
+|**2023-03-21**|**MXM-CLR: A Unified Framework for Contrastive Learning of Multifold Cross-Modal Representations**|Ye Wang et.al.|[2303.10839](http://arxiv.org/abs/2303.10839)|null|
 |**2023-03-18**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation**|Mingjie Li et.al.|[2303.10323](http://arxiv.org/abs/2303.10323)|**[link](https://github.com/mlii0117/dcl)**|
 |**2023-03-17**|**Exploring contrast generalisation in deep learning-based brain MRI-to-CT synthesis**|Lotte Nijskens et.al.|[2303.10202](http://arxiv.org/abs/2303.10202)|null|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902](http://arxiv.org/abs/2303.09902)|null|
@@ -39,7 +39,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230322>back to top</a>)</p>
 
 ## GNN
 
@@ -61,5 +61,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230322>back to top</a>)</p>
 

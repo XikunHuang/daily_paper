@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.03.21
+## Updated on 2023.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -13,8 +13,8 @@ layout: default
 |**2023-03-20**|**Constructing Bayesian Pseudo-Coresets using Contrastive Divergence**|Piyush Tiwary et.al.|[2303.11278](http://arxiv.org/abs/2303.11278)|null|
 |**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052](http://arxiv.org/abs/2303.11052)|null|
 |**2023-03-20**|**Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization**|Fida Mohammad Thoker et.al.|[2303.11003](http://arxiv.org/abs/2303.11003)|null|
-|**2023-03-20**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904](http://arxiv.org/abs/2303.10904)|null|
-|**2023-03-20**|**MXM-CLR: A Unified Framework for Contrastive Learning of Multifold Cross-Modal Representations**|Ye Wang et.al.|[2303.10839](http://arxiv.org/abs/2303.10839)|null|
+|**2023-03-21**|**Actionlet-Dependent Contrastive Learning for Unsupervised Skeleton-Based Action Recognition**|Lilang Lin et.al.|[2303.10904](http://arxiv.org/abs/2303.10904)|null|
+|**2023-03-21**|**MXM-CLR: A Unified Framework for Contrastive Learning of Multifold Cross-Modal Representations**|Ye Wang et.al.|[2303.10839](http://arxiv.org/abs/2303.10839)|null|
 |**2023-03-18**|**Dynamic Graph Enhanced Contrastive Learning for Chest X-ray Report Generation**|Mingjie Li et.al.|[2303.10323](http://arxiv.org/abs/2303.10323)|**[link](https://github.com/mlii0117/dcl)**|
 |**2023-03-17**|**Exploring contrast generalisation in deep learning-based brain MRI-to-CT synthesis**|Lotte Nijskens et.al.|[2303.10202](http://arxiv.org/abs/2303.10202)|null|
 |**2023-03-17**|**Contrastive Self-supervised Learning in Recommender Systems: A Survey**|Mengyuan Jing et.al.|[2303.09902](http://arxiv.org/abs/2303.09902)|null|
