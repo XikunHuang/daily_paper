@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-21**|**Comparing Apples with Apples: Robust Detection Limits for Exoplanet High-Contrast Imaging in the Presence of non-Gaussian Noise**|Markus J. Bonse et.al.|[2303.12030](http://arxiv.org/abs/2303.12030)|null|
+|**2023-03-21**|**Visual Representation Learning from Unlabeled Video using Contrastive Masked Autoencoders**|Jefferson Hernandez et.al.|[2303.12001](http://arxiv.org/abs/2303.12001)|null|
+|**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938](http://arxiv.org/abs/2303.11938)|null|
+|**2023-03-21**|**Time Series Contrastive Learning with Information-Aware Augmentations**|Dongsheng Luo et.al.|[2303.11911](http://arxiv.org/abs/2303.11911)|null|
+|**2023-03-21**|**Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning**|Lingzi Zhang et.al.|[2303.11879](http://arxiv.org/abs/2303.11879)|null|
+|**2023-03-21**|**Contrastive Alignment of Vision to Language Through Parameter-Efficient Transfer Learning**|Zaid Khan et.al.|[2303.11866](http://arxiv.org/abs/2303.11866)|**[link](https://github.com/codezakh/lilt)**|
+|**2023-03-21**|**CLIP-ReIdent: Contrastive Training for Player Re-Identification**|Konrad Habel et.al.|[2303.11855](http://arxiv.org/abs/2303.11855)|null|
+|**2023-03-21**|**Debiased Contrastive Learning for Sequential Recommendation**|Yuhao Yang et.al.|[2303.11780](http://arxiv.org/abs/2303.11780)|**[link](https://github.com/hkuds/dcrec)**|
 |**2023-03-20**|**Learning Audio-Visual Source Localization via False Negative Aware Contrastive Learning**|Weixuan Sun et.al.|[2303.11302](http://arxiv.org/abs/2303.11302)|null|
 |**2023-03-20**|**Constructing Bayesian Pseudo-Coresets using Contrastive Divergence**|Piyush Tiwary et.al.|[2303.11278](http://arxiv.org/abs/2303.11278)|null|
 |**2023-03-20**|**ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-real Novel View Synthesis via Contrastive Learning**|Hao Yang et.al.|[2303.11052](http://arxiv.org/abs/2303.11052)|null|
@@ -39,6 +47,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-20**|**Deep trip generation with graph neural networks for bike sharing system expansion**|Yuebing Liang et.al.|[2303.11977](http://arxiv.org/abs/2303.11977)|null|
+|**2023-03-21**|**DIPPM: a Deep Learning Inference Performance Predictive Model using Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733](http://arxiv.org/abs/2303.11733)|null|
+|**2023-03-20**|**GNN-Ensemble: Towards Random Decision Graph Neural Networks**|Wenqi Wei et.al.|[2303.11376](http://arxiv.org/abs/2303.11376)|null|
 |**2023-03-20**|**A Survey on Oversmoothing in Graph Neural Networks**|T. Konstantin Rusch et.al.|[2303.10993](http://arxiv.org/abs/2303.10993)|null|
 |**2023-03-20**|**Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms**|Ao Zhou et.al.|[2303.10875](http://arxiv.org/abs/2303.10875)|null|
 |**2023-03-17**|**Distill n' Explain: explaining graph neural networks using simple surrogates**|Tamara Pereira et.al.|[2303.10139](http://arxiv.org/abs/2303.10139)|**[link](https://github.com/tamararruda/dnx)**|
