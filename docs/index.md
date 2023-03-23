@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**|Yiting Cheng et.al.|[2303.12793](http://arxiv.org/abs/2303.12793)|**[link](https://github.com/FangyunWei/SLRT)**|
+|**2023-03-22**|**MaskCon: Masked Contrastive Learning for Coarse-Labelled Dataset**|Chen Feng et.al.|[2303.12756](http://arxiv.org/abs/2303.12756)|**[link](https://github.com/MrChenFeng/MaskCon_CVPR2023)**|
+|**2023-03-22**|**Multi-view Feature Extraction based on Triple Contrastive Heads**|Hongjie Zhang et.al.|[2303.12615](http://arxiv.org/abs/2303.12615)|null|
+|**2023-03-22**|**End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling**|Yan Luo et.al.|[2303.12507](http://arxiv.org/abs/2303.12507)|null|
+|**2023-03-22**|**Unsupervised Domain Adaptation for Training Event-Based Networks Using Contrastive Learning and Uncorrelated Conditioning**|Dayuan Jian et.al.|[2303.12424](http://arxiv.org/abs/2303.12424)|null|
+|**2023-03-22**|**CLIP^2: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data**|Yihan Zeng et.al.|[2303.12417](http://arxiv.org/abs/2303.12417)|null|
+|**2023-03-22**|**Preventing Dimensional Collapse of Incomplete Multi-View Clustering via Direct Contrastive Learning**|Kaiwu Zhang et.al.|[2303.12241](http://arxiv.org/abs/2303.12241)|null|
+|**2023-03-21**|**CLSA: Contrastive Learning-based Survival Analysis for Popularity Prediction in MEC Networks**|Zohreh Hajiakhondi-Meybodi et.al.|[2303.12097](http://arxiv.org/abs/2303.12097)|null|
 |**2023-03-21**|**Comparing Apples with Apples: Robust Detection Limits for Exoplanet High-Contrast Imaging in the Presence of non-Gaussian Noise**|Markus J. Bonse et.al.|[2303.12030](http://arxiv.org/abs/2303.12030)|null|
 |**2023-03-21**|**Visual Representation Learning from Unlabeled Video using Contrastive Masked Autoencoders**|Jefferson Hernandez et.al.|[2303.12001](http://arxiv.org/abs/2303.12001)|null|
 |**2023-03-21**|**3D-CLFusion: Fast Text-to-3D Rendering with Contrastive Latent Diffusion**|Yu-Jhe Li et.al.|[2303.11938](http://arxiv.org/abs/2303.11938)|null|
@@ -47,6 +55,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|null|
 |**2023-03-20**|**Deep trip generation with graph neural networks for bike sharing system expansion**|Yuebing Liang et.al.|[2303.11977](http://arxiv.org/abs/2303.11977)|null|
 |**2023-03-21**|**DIPPM: a Deep Learning Inference Performance Predictive Model using Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733](http://arxiv.org/abs/2303.11733)|null|
 |**2023-03-20**|**GNN-Ensemble: Towards Random Decision Graph Neural Networks**|Wenqi Wei et.al.|[2303.11376](http://arxiv.org/abs/2303.11376)|null|
