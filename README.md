@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**CoBIT: A Contrastive Bi-directional Image-Text Generation Model**|Haoxuan You et.al.|[2303.13455](http://arxiv.org/abs/2303.13455)|null|
+|**2023-03-23**|**Low-Light Image Enhancement by Learning Contrastive Representations in Spatial and Frequency Domains**|Yi Huang et.al.|[2303.13412](http://arxiv.org/abs/2303.13412)|null|
+|**2023-03-23**|**SC-MIL: Supervised Contrastive Multiple Instance Learning for Imbalanced Classification in Pathology**|Dinkar Juyal et.al.|[2303.13405](http://arxiv.org/abs/2303.13405)|null|
+|**2023-03-23**|**A theoretical model for en face optical coherence tomography imaging and its application to volumetric differential contrast imaging**|Kiriko Tomita et.al.|[2303.13139](http://arxiv.org/abs/2303.13139)|null|
+|**2023-03-23**|**Generative Image Inpainting with Segmentation Confusion Adversarial Training and Contrastive Learning**|Zhiwen Zuo et.al.|[2303.13133](http://arxiv.org/abs/2303.13133)|null|
+|**2023-03-23**|**Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection**|Shengyang Sun et.al.|[2303.13051](http://arxiv.org/abs/2303.13051)|null|
+|**2023-03-23**|**Adversarially Contrastive Estimation of Conditional Neural Processes**|Zesheng Ye et.al.|[2303.13004](http://arxiv.org/abs/2303.13004)|null|
 |**2023-03-22**|**CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning**|Yiting Cheng et.al.|[2303.12793](http://arxiv.org/abs/2303.12793)|**[link](https://github.com/FangyunWei/SLRT)**|
 |**2023-03-22**|**MaskCon: Masked Contrastive Learning for Coarse-Labelled Dataset**|Chen Feng et.al.|[2303.12756](http://arxiv.org/abs/2303.12756)|**[link](https://github.com/MrChenFeng/MaskCon_CVPR2023)**|
 |**2023-03-22**|**Multi-view Feature Extraction based on Triple Contrastive Heads**|Hongjie Zhang et.al.|[2303.12615](http://arxiv.org/abs/2303.12615)|null|
@@ -61,6 +68,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-23**|**Stochastic Graph Neural Network-based Value Decomposition for MARL in Internet of Vehicles**|Baidi Xiao et.al.|[2303.13213](http://arxiv.org/abs/2303.13213)|null|
+|**2023-03-22**|**A Comparison of Graph Neural Networks for Malware Classification**|Vrinda Malhotra et.al.|[2303.12812](http://arxiv.org/abs/2303.12812)|null|
 |**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|null|
 |**2023-03-20**|**Deep trip generation with graph neural networks for bike sharing system expansion**|Yuebing Liang et.al.|[2303.11977](http://arxiv.org/abs/2303.11977)|null|
 |**2023-03-21**|**DIPPM: a Deep Learning Inference Performance Predictive Model using Graph Neural Networks**|Karthick Panner Selvam et.al.|[2303.11733](http://arxiv.org/abs/2303.11733)|null|
