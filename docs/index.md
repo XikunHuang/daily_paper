@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning**|Xiaoyang Wu et.al.|[2303.14191](http://arxiv.org/abs/2303.14191)|**[link](https://github.com/Pointcept/Pointcept)**|
+|**2023-03-24**|**Local Contrastive Learning for Medical Image Recognition**|S. A. Rizvi et.al.|[2303.14153](http://arxiv.org/abs/2303.14153)|null|
+|**2023-03-24**|**Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data**|Paul Hager et.al.|[2303.14080](http://arxiv.org/abs/2303.14080)|**[link](https://github.com/paulhager/mmcl-tabular-imaging)**|
+|**2023-03-24**|**CCL: Continual Contrastive Learning for LiDAR Place Recognition**|Jiafeng Cui et.al.|[2303.13952](http://arxiv.org/abs/2303.13952)|**[link](https://github.com/cloudcjf/ccl)**|
+|**2023-03-24**|**DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution**|Ye Mao et.al.|[2303.13933](http://arxiv.org/abs/2303.13933)|null|
+|**2023-03-24**|**Harmonizing Base and Novel Classes: A Class-Contrastive Approach for Generalized Few-Shot Segmentation**|Weide Liu et.al.|[2303.13724](http://arxiv.org/abs/2303.13724)|null|
+|**2023-03-23**|**Ultrafast X-ray Phase Contrast Imaging of High Repetition Rate Shockwaves**|Christopher S. Campbell et.al.|[2303.13690](http://arxiv.org/abs/2303.13690)|null|
+|**2023-03-23**|**Temperature Schedules for Self-Supervised Contrastive Methods on Long-Tail Data**|Anna Kukleva et.al.|[2303.13664](http://arxiv.org/abs/2303.13664)|null|
 |**2023-03-23**|**CoBIT: A Contrastive Bi-directional Image-Text Generation Model**|Haoxuan You et.al.|[2303.13455](http://arxiv.org/abs/2303.13455)|null|
 |**2023-03-23**|**Low-Light Image Enhancement by Learning Contrastive Representations in Spatial and Frequency Domains**|Yi Huang et.al.|[2303.13412](http://arxiv.org/abs/2303.13412)|null|
 |**2023-03-23**|**SC-MIL: Supervised Contrastive Multiple Instance Learning for Imbalanced Classification in Pathology**|Dinkar Juyal et.al.|[2303.13405](http://arxiv.org/abs/2303.13405)|null|
@@ -62,6 +70,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-24**|**IMA-GNN: In-Memory Acceleration of Centralized and Decentralized Graph Neural Networks at the Edge**|Mehrdad Morsali et.al.|[2303.14162](http://arxiv.org/abs/2303.14162)|null|
+|**2023-03-24**|**PoisonedGNN: Backdoor Attack on Graph Neural Networks-based Hardware Security Systems**|Lilas Alrahis et.al.|[2303.14009](http://arxiv.org/abs/2303.14009)|null|
+|**2023-03-24**|**Topological Reconstruction of Particle Physics Processes using Graph Neural Networks**|Lukas Ehrke et.al.|[2303.13937](http://arxiv.org/abs/2303.13937)|null|
+|**2023-03-24**|**GSplit: Scaling Graph Neural Network Training on Large Graphs via Split-Parallelism**|Sandeep Polisetty et.al.|[2303.13775](http://arxiv.org/abs/2303.13775)|null|
+|**2023-03-24**|**A Graph Neural Network Approach to Nanosatellite Task Scheduling: Insights into Learning Mixed-Integer Models**|Bruno Machado Pacheco et.al.|[2303.13773](http://arxiv.org/abs/2303.13773)|null|
 |**2023-03-23**|**Stochastic Graph Neural Network-based Value Decomposition for MARL in Internet of Vehicles**|Baidi Xiao et.al.|[2303.13213](http://arxiv.org/abs/2303.13213)|null|
 |**2023-03-22**|**A Comparison of Graph Neural Networks for Malware Classification**|Vrinda Malhotra et.al.|[2303.12812](http://arxiv.org/abs/2303.12812)|null|
 |**2023-03-22**|**Logical Expressiveness of Graph Neural Network for Knowledge Graph Reasoning**|Haiquan Qiu et.al.|[2303.12306](http://arxiv.org/abs/2303.12306)|null|
