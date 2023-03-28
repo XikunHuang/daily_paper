@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**CLIDiM: Contrastive Learning for Image Denoising in Microscopy**|Felix Fuentes-Hurtado et.al.|[2303.15214](http://arxiv.org/abs/2303.15214)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
+|**2023-03-27**|**Wave propagation in high-contrast media: periodic and beyond**|Élise Fressart et.al.|[2303.15151](http://arxiv.org/abs/2303.15151)|null|
+|**2023-03-27**|**Contrastive Learning Is Spectral Clustering On Similarity Graph**|Zhiquan Tan et.al.|[2303.15103](http://arxiv.org/abs/2303.15103)|null|
+|**2023-03-27**|**Multi-contrast MRI Super-resolution via Implicit Neural Representations**|Julian McGinnis et.al.|[2303.15065](http://arxiv.org/abs/2303.15065)|null|
+|**2023-03-27**|**Revisiting Multimodal Representation in Contrastive Learning: From Patch and Token Embeddings to Finite Discrete Tokens**|Yuxiao Chen et.al.|[2303.14865](http://arxiv.org/abs/2303.14865)|null|
+|**2023-03-26**|**Contrastive Transformer: Contrastive Learning Scheme with Transformer innate Patches**|Sander Riisøen Jyhne et.al.|[2303.14806](http://arxiv.org/abs/2303.14806)|null|
+|**2023-03-26**|**Conditional Score-Based Reconstructions for Multi-contrast MRI**|Brett Levac et.al.|[2303.14795](http://arxiv.org/abs/2303.14795)|null|
+|**2023-03-25**|**COFFEE: A Contrastive Oracle-Free Framework for Event Extraction**|Meiru Zhang et.al.|[2303.14452](http://arxiv.org/abs/2303.14452)|null|
+|**2023-03-25**|**Deep Active Learning with Contrastive Learning Under Realistic Data Pool Assumptions**|Jihyo Kim et.al.|[2303.14433](http://arxiv.org/abs/2303.14433)|null|
+|**2023-03-25**|**Spatio-Temporal Pixel-Level Contrastive Learning-based Source-Free Domain Adaptation for Video Semantic Segmentation**|Shao-Yuan Lo et.al.|[2303.14361](http://arxiv.org/abs/2303.14361)|**[link](https://github.com/shaoyuanlo/stpl)**|
 |**2023-03-24**|**Masked Scene Contrast: A Scalable Framework for Unsupervised 3D Representation Learning**|Xiaoyang Wu et.al.|[2303.14191](http://arxiv.org/abs/2303.14191)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2023-03-24**|**Local Contrastive Learning for Medical Image Recognition**|S. A. Rizvi et.al.|[2303.14153](http://arxiv.org/abs/2303.14153)|null|
 |**2023-03-27**|**Best of Both Worlds: Multimodal Contrastive Learning with Tabular and Imaging Data**|Paul Hager et.al.|[2303.14080](http://arxiv.org/abs/2303.14080)|**[link](https://github.com/paulhager/mmcl-tabular-imaging)**|
@@ -70,6 +80,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-27**|**Towards Open Temporal Graph Neural Networks**|Kaituo Feng et.al.|[2303.15015](http://arxiv.org/abs/2303.15015)|null|
+|**2023-03-26**|**Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis**|Haoyu He et.al.|[2303.14836](http://arxiv.org/abs/2303.14836)|**[link](https://github.com/iheartgraph/illuminati)**|
+|**2023-03-25**|**Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey**|Guangyin Jin et.al.|[2303.14483](http://arxiv.org/abs/2303.14483)|null|
+|**2023-03-25**|**Spatio-Temporal driven Attention Graph Neural Network with Block Adjacency matrix (STAG-NN-BA)**|U. Nazir et.al.|[2303.14322](http://arxiv.org/abs/2303.14322)|null|
 |**2023-03-24**|**IMA-GNN: In-Memory Acceleration of Centralized and Decentralized Graph Neural Networks at the Edge**|Mehrdad Morsali et.al.|[2303.14162](http://arxiv.org/abs/2303.14162)|null|
 |**2023-03-24**|**PoisonedGNN: Backdoor Attack on Graph Neural Networks-based Hardware Security Systems**|Lilas Alrahis et.al.|[2303.14009](http://arxiv.org/abs/2303.14009)|null|
 |**2023-03-27**|**Topological Reconstruction of Particle Physics Processes using Graph Neural Networks**|Lukas Ehrke et.al.|[2303.13937](http://arxiv.org/abs/2303.13937)|null|
