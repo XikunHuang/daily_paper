@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-28**|**MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation**|Ziyuan Zhao et.al.|[2303.15826](http://arxiv.org/abs/2303.15826)|null|
+|**2023-03-28**|**Colo-SCRL: Self-Supervised Contrastive Representation Learning for Colonoscopic Video Retrieval**|Qingzhong Chen et.al.|[2303.15671](http://arxiv.org/abs/2303.15671)|null|
 |**2023-03-27**|**CLIDiM: Contrastive Learning for Image Denoising in Microscopy**|Felix Fuentes-Hurtado et.al.|[2303.15214](http://arxiv.org/abs/2303.15214)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
 |**2023-03-27**|**Wave propagation in high-contrast media: periodic and beyond**|Élise Fressart et.al.|[2303.15151](http://arxiv.org/abs/2303.15151)|null|
 |**2023-03-27**|**Contrastive Learning Is Spectral Clustering On Similarity Graph**|Zhiquan Tan et.al.|[2303.15103](http://arxiv.org/abs/2303.15103)|null|
@@ -86,6 +88,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-27**|**Graph Neural Networks for Power Allocation in Wireless Networks with Full Duplex Nodes**|Lili Chen et.al.|[2303.16113](http://arxiv.org/abs/2303.16113)|null|
+|**2023-03-27**|**Railway Network Delay Evolution: A Heterogeneous Graph Neural Network Approach**|Zhongcan Li et.al.|[2303.15489](http://arxiv.org/abs/2303.15489)|null|
+|**2023-03-27**|**Knowledge Enhanced Graph Neural Networks**|Luisa Werner et.al.|[2303.15487](http://arxiv.org/abs/2303.15487)|null|
 |**2023-03-27**|**Towards Open Temporal Graph Neural Networks**|Kaituo Feng et.al.|[2303.15015](http://arxiv.org/abs/2303.15015)|null|
 |**2023-03-26**|**Illuminati: Towards Explaining Graph Neural Networks for Cybersecurity Analysis**|Haoyu He et.al.|[2303.14836](http://arxiv.org/abs/2303.14836)|**[link](https://github.com/iheartgraph/illuminati)**|
 |**2023-03-25**|**Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey**|Guangyin Jin et.al.|[2303.14483](http://arxiv.org/abs/2303.14483)|null|
