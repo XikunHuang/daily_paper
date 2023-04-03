@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting**|Xiaochen Zheng et.al.|[2303.18205](http://arxiv.org/abs/2303.18205)|null|
+|**2023-03-31**|**LaCViT: A Label-aware Contrastive Training Framework for Vision Transformers**|Zijun Long et.al.|[2303.18013](http://arxiv.org/abs/2303.18013)|null|
 |**2023-03-30**|**Dynamic Conceptional Contrastive Learning for Generalized Category Discovery**|Nan Pu et.al.|[2303.17393](http://arxiv.org/abs/2303.17393)|**[link](https://github.com/tpcd/dccl)**|
 |**2023-03-30**|**Soft Neighbors are Positive Supporters in Contrastive Visual Representation Learning**|Chongjian Ge et.al.|[2303.17142](http://arxiv.org/abs/2303.17142)|null|
 |**2023-03-29**|**ContraSim -- A Similarity Measure Based on Contrastive Learning**|Adir Rahamim et.al.|[2303.16992](http://arxiv.org/abs/2303.16992)|**[link](https://github.com/technion-cs-nlp/contrasim)**|
@@ -87,6 +89,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157](http://arxiv.org/abs/2303.18157)|null|
 |**2023-03-29**|**GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection**|Xinxin Hu et.al.|[2303.17334](http://arxiv.org/abs/2303.17334)|**[link](https://github.com/xxhu94/gat-cobo)**|
 |**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874](http://arxiv.org/abs/2303.16874)|null|
 |**2023-03-29**|**Graph Neural Networks for Hardware Vulnerability Analysis -- Can you Trust your GNN?**|Lilas Alrahis et.al.|[2303.16690](http://arxiv.org/abs/2303.16690)|null|
