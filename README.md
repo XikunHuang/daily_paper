@@ -1,4 +1,4 @@
-## Updated on 2023.04.02
+## Updated on 2023.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2023-03-30**|**Dynamic Conceptional Contrastive Learning for Generalized Category Discovery**|Nan Pu et.al.|[2303.17393](http://arxiv.org/abs/2303.17393)|**[link](https://github.com/tpcd/dccl)**|
 |**2023-03-30**|**Soft Neighbors are Positive Supporters in Contrastive Visual Representation Learning**|Chongjian Ge et.al.|[2303.17142](http://arxiv.org/abs/2303.17142)|null|
-|**2023-03-29**|**ContraSim -- A Similarity Measure Based on Contrastive Learning**|Adir Rahamim et.al.|[2303.16992](http://arxiv.org/abs/2303.16992)|null|
+|**2023-03-29**|**ContraSim -- A Similarity Measure Based on Contrastive Learning**|Adir Rahamim et.al.|[2303.16992](http://arxiv.org/abs/2303.16992)|**[link](https://github.com/technion-cs-nlp/contrasim)**|
 |**2023-03-29**|**FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Yuning Wang et.al.|[2303.16574](http://arxiv.org/abs/2303.16574)|null|
 |**2023-03-28**|**Data Efficient Contrastive Learning in Histopatholgy using Active Sampling**|Tahsin Reasat et.al.|[2303.16247](http://arxiv.org/abs/2303.16247)|null|
 |**2023-03-28**|**MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation**|Ziyuan Zhao et.al.|[2303.15826](http://arxiv.org/abs/2303.15826)|null|
@@ -87,7 +87,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## GNN
 
@@ -133,5 +133,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
