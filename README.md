@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**Investigation of the Electric Field and Charge Density Distribution of pristine and defective 2D WSe $_2$ by Differential Phase Contrast Imaging**|Maja Groll et.al.|[2304.01068](http://arxiv.org/abs/2304.01068)|null|
+|**2023-04-03**|**RegionPLC: Regional Point-Language Contrastive Learning for Open-World 3D Scene Understanding**|Jihan Yang et.al.|[2304.00962](http://arxiv.org/abs/2304.00962)|null|
+|**2023-04-03**|**MoLo: Motion-augmented Long-short Contrastive Learning for Few-shot Action Recognition**|Xiang Wang et.al.|[2304.00946](http://arxiv.org/abs/2304.00946)|null|
+|**2023-04-03**|**Focalized Contrastive View-invariant Learning for Self-supervised Skeleton-based Action Recognition**|Qianhui Men et.al.|[2304.00858](http://arxiv.org/abs/2304.00858)|null|
+|**2023-04-02**|**Constructive Assimilation: Boosting Contrastive Learning Performance through View Generation Strategies**|Ligong Han et.al.|[2304.00601](http://arxiv.org/abs/2304.00601)|null|
+|**2023-04-02**|**Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning**|Zeyin Song et.al.|[2304.00426](http://arxiv.org/abs/2304.00426)|**[link](https://github.com/zysong0113/savc)**|
+|**2023-04-01**|**Towards Understanding the Mechanism of Contrastive Learning via Similarity Structure: A Theoretical Analysis**|Hiroki Waida et.al.|[2304.00395](http://arxiv.org/abs/2304.00395)|null|
+|**2023-04-01**|**Conveying Autonomous Robot Capabilities through Contrasting Behaviour Summaries**|Peter Du et.al.|[2304.00367](http://arxiv.org/abs/2304.00367)|null|
+|**2023-03-31**|**Weakly-Supervised Text-driven Contrastive Learning for Facial Behavior Understanding**|Xiang Zhang et.al.|[2304.00058](http://arxiv.org/abs/2304.00058)|null|
 |**2023-03-31**|**SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting**|Xiaochen Zheng et.al.|[2303.18205](http://arxiv.org/abs/2303.18205)|**[link](https://github.com/locuslab/TCN)**|
 |**2023-03-31**|**LaCViT: A Label-aware Contrastive Training Framework for Vision Transformers**|Zijun Long et.al.|[2303.18013](http://arxiv.org/abs/2303.18013)|null|
 |**2023-03-30**|**Dynamic Conceptional Contrastive Learning for Generalized Category Discovery**|Nan Pu et.al.|[2303.17393](http://arxiv.org/abs/2303.17393)|**[link](https://github.com/tpcd/dccl)**|
@@ -95,6 +104,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**FMGNN: Fused Manifold Graph Neural Network**|Cheng Deng et.al.|[2304.01081](http://arxiv.org/abs/2304.01081)|null|
+|**2023-04-03**|**A Post-Training Framework for Improving Heterogeneous Graph Neural Networks**|Cheng Yang et.al.|[2304.00698](http://arxiv.org/abs/2304.00698)|null|
+|**2023-03-31**|**E( $3$ ) Equivariant Graph Neural Networks for Particle-Based Fluid Mechanics**|Artur P. Toshev et.al.|[2304.00150](http://arxiv.org/abs/2304.00150)|null|
+|**2023-03-31**|**On the Relationships between Graph Neural Networks for the Simulation of Physical Systems and Classical Numerical Methods**|Artur P. Toshev et.al.|[2304.00146](http://arxiv.org/abs/2304.00146)|null|
 |**2023-03-31**|**MAGNNETO: A Graph Neural Network-based Multi-Agent system for Traffic Engineering**|Guillermo Bernárdez et.al.|[2303.18157](http://arxiv.org/abs/2303.18157)|null|
 |**2023-03-29**|**GAT-COBO: Cost-Sensitive Graph Neural Network for Telecom Fraud Detection**|Xinxin Hu et.al.|[2303.17334](http://arxiv.org/abs/2303.17334)|**[link](https://github.com/xxhu94/gat-cobo)**|
 |**2023-03-29**|**CheckerPose: Progressive Dense Keypoint Localization for Object Pose Estimation with Graph Neural Network**|Ruyi Lian et.al.|[2303.16874](http://arxiv.org/abs/2303.16874)|null|
