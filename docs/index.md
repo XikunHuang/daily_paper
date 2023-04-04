@@ -2,20 +2,20 @@
 layout: default
 ---
 
-## Updated on 2023.04.03
+## Updated on 2023.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-03-31**|**SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting**|Xiaochen Zheng et.al.|[2303.18205](http://arxiv.org/abs/2303.18205)|null|
+|**2023-03-31**|**SimTS: Rethinking Contrastive Representation Learning for Time Series Forecasting**|Xiaochen Zheng et.al.|[2303.18205](http://arxiv.org/abs/2303.18205)|**[link](https://github.com/locuslab/TCN)**|
 |**2023-03-31**|**LaCViT: A Label-aware Contrastive Training Framework for Vision Transformers**|Zijun Long et.al.|[2303.18013](http://arxiv.org/abs/2303.18013)|null|
 |**2023-03-30**|**Dynamic Conceptional Contrastive Learning for Generalized Category Discovery**|Nan Pu et.al.|[2303.17393](http://arxiv.org/abs/2303.17393)|**[link](https://github.com/tpcd/dccl)**|
 |**2023-03-30**|**Soft Neighbors are Positive Supporters in Contrastive Visual Representation Learning**|Chongjian Ge et.al.|[2303.17142](http://arxiv.org/abs/2303.17142)|null|
 |**2023-03-29**|**ContraSim -- A Similarity Measure Based on Contrastive Learning**|Adir Rahamim et.al.|[2303.16992](http://arxiv.org/abs/2303.16992)|**[link](https://github.com/technion-cs-nlp/contrasim)**|
 |**2023-03-29**|**FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Yuning Wang et.al.|[2303.16574](http://arxiv.org/abs/2303.16574)|null|
-|**2023-03-28**|**Data Efficient Contrastive Learning in Histopatholgy using Active Sampling**|Tahsin Reasat et.al.|[2303.16247](http://arxiv.org/abs/2303.16247)|null|
+|**2023-04-03**|**Data Efficient Contrastive Learning in Histopathology using Active Sampling**|Tahsin Reasat et.al.|[2303.16247](http://arxiv.org/abs/2303.16247)|null|
 |**2023-03-28**|**MS-MT: Multi-Scale Mean Teacher with Contrastive Unpaired Translation for Cross-Modality Vestibular Schwannoma and Cochlea Segmentation**|Ziyuan Zhao et.al.|[2303.15826](http://arxiv.org/abs/2303.15826)|null|
 |**2023-03-28**|**Colo-SCRL: Self-Supervised Contrastive Representation Learning for Colonoscopic Video Retrieval**|Qingzhong Chen et.al.|[2303.15671](http://arxiv.org/abs/2303.15671)|null|
 |**2023-03-29**|**Generalizable Denoising of Microscopy Images using Generative Adversarial Networks and Contrastive Learning**|Felix Fuentes-Hurtado et.al.|[2303.15214](http://arxiv.org/abs/2303.15214)|**[link](https://github.com/ffuhu/clidim-microscopy-image-denoising)**|
@@ -95,7 +95,7 @@ layout: default
 |**2023-03-29**|**Graph Neural Networks for Hardware Vulnerability Analysis -- Can you Trust your GNN?**|Lilas Alrahis et.al.|[2303.16690](http://arxiv.org/abs/2303.16690)|null|
 |**2023-03-29**|**Futures Quantitative Investment with Heterogeneous Continual Graph Neural Network**|Zhizhong Tan et.al.|[2303.16532](http://arxiv.org/abs/2303.16532)|null|
 |**2023-03-29**|**GNNBuilder: An Automated Framework for Generic Graph Neural Network Accelerator Generation, Simulation, and Optimization**|Stefan Abi-Karam et.al.|[2303.16459](http://arxiv.org/abs/2303.16459)|null|
-|**2023-03-29**|**When to Pre-Train Graph Neural Networks? An Answer from Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458](http://arxiv.org/abs/2303.16458)|null|
+|**2023-04-03**|**When to Pre-Train Graph Neural Networks? An Answer from Data Generation Perspective!**|Yuxuan Cao et.al.|[2303.16458](http://arxiv.org/abs/2303.16458)|null|
 |**2023-03-27**|**Graph Neural Networks for Power Allocation in Wireless Networks with Full Duplex Nodes**|Lili Chen et.al.|[2303.16113](http://arxiv.org/abs/2303.16113)|null|
 |**2023-03-27**|**Railway Network Delay Evolution: A Heterogeneous Graph Neural Network Approach**|Zhongcan Li et.al.|[2303.15489](http://arxiv.org/abs/2303.15489)|null|
 |**2023-03-27**|**Knowledge Enhanced Graph Neural Networks**|Luisa Werner et.al.|[2303.15487](http://arxiv.org/abs/2303.15487)|null|
