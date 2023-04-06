@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.05
+## Updated on 2023.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-04**|**Multi-Level Contrastive Learning for Dense Prediction Task**|Qiushan Guo et.al.|[2304.02010](http://arxiv.org/abs/2304.02010)|**[link](https://github.com/guoqiushan/mcl)**|
 |**2023-04-04**|**Learning Invariant Representation via Contrastive Feature Alignment for Clutter Robust SAR Target Recognition**|Bowen Peng et.al.|[2304.01747](http://arxiv.org/abs/2304.01747)|null|
-|**2023-04-04**|**A Unified Contrastive Transfer Framework with Propagation Structure for Boosting Low-Resource Rumor Detection**|Hongzhan Lin et.al.|[2304.01492](http://arxiv.org/abs/2304.01492)|null|
+|**2023-04-05**|**A Unified Contrastive Transfer Framework with Propagation Structure for Boosting Low-Resource Rumor Detection**|Hongzhan Lin et.al.|[2304.01492](http://arxiv.org/abs/2304.01492)|null|
 |**2023-04-03**|**CoReFusion: Contrastive Regularized Fusion for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2304.01243](http://arxiv.org/abs/2304.01243)|**[link](https://github.com/kasliwal17/corefusion)**|
 |**2023-04-02**|**Abnormal Event Detection via Hypergraph Contrastive Learning**|Bo Yan et.al.|[2304.01226](http://arxiv.org/abs/2304.01226)|null|
 |**2023-04-03**|**Investigation of the Electric Field and Charge Density Distribution of pristine and defective 2D WSe $_2$ by Differential Phase Contrast Imaging**|Maja Groll et.al.|[2304.01068](http://arxiv.org/abs/2304.01068)|null|
