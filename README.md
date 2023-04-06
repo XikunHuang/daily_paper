@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-04**|**Fully Variational Noise-Contrastive Estimation**|Christopher Zach et.al.|[2304.02473](http://arxiv.org/abs/2304.02473)|null|
+|**2023-04-05**|**Adaptive Data Augmentation for Contrastive Learning**|Yuhan Zhang et.al.|[2304.02451](http://arxiv.org/abs/2304.02451)|null|
+|**2023-04-04**|**Optimal operating MR contrast for brain ventricle parcellation**|Savannah P. Hays et.al.|[2304.02056](http://arxiv.org/abs/2304.02056)|null|
 |**2023-04-04**|**Multi-Level Contrastive Learning for Dense Prediction Task**|Qiushan Guo et.al.|[2304.02010](http://arxiv.org/abs/2304.02010)|**[link](https://github.com/guoqiushan/mcl)**|
 |**2023-04-04**|**Learning Invariant Representation via Contrastive Feature Alignment for Clutter Robust SAR Target Recognition**|Bowen Peng et.al.|[2304.01747](http://arxiv.org/abs/2304.01747)|null|
 |**2023-04-05**|**A Unified Contrastive Transfer Framework with Propagation Structure for Boosting Low-Resource Rumor Detection**|Hongzhan Lin et.al.|[2304.01492](http://arxiv.org/abs/2304.01492)|null|
