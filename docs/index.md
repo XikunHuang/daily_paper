@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**High-resolution Emission Spectroscopy of the Ultrahot Jupiter KELT-9b: Little Variation in Day- and Nightside Emission Line Contrasts**|Andrew Ridden-Harper et.al.|[2304.03248](http://arxiv.org/abs/2304.03248)|null|
+|**2023-04-06**|**Synthetic Hard Negative Samples for Contrastive Learning**|Hengkui Dong et.al.|[2304.02971](http://arxiv.org/abs/2304.02971)|null|
+|**2023-04-05**|**ACTION++: Improving Semi-supervised Medical Image Segmentation with Adaptive Anatomical Contrast**|Chenyu You et.al.|[2304.02689](http://arxiv.org/abs/2304.02689)|null|
 |**2023-04-04**|**Fully Variational Noise-Contrastive Estimation**|Christopher Zach et.al.|[2304.02473](http://arxiv.org/abs/2304.02473)|null|
 |**2023-04-05**|**Adaptive Data Augmentation for Contrastive Learning**|Yuhan Zhang et.al.|[2304.02451](http://arxiv.org/abs/2304.02451)|null|
 |**2023-04-04**|**Optimal operating MR contrast for brain ventricle parcellation**|Savannah P. Hays et.al.|[2304.02056](http://arxiv.org/abs/2304.02056)|null|
@@ -106,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215](http://arxiv.org/abs/2304.03215)|null|
 |**2023-04-04**|**The expressive power of pooling in Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2304.01575](http://arxiv.org/abs/2304.01575)|**[link](https://github.com/filippomb/the-expressive-power-of-pooling-in-gnns)**|
 |**2023-04-03**|**FMGNN: Fused Manifold Graph Neural Network**|Cheng Deng et.al.|[2304.01081](http://arxiv.org/abs/2304.01081)|null|
 |**2023-04-03**|**A Post-Training Framework for Improving Heterogeneous Graph Neural Networks**|Cheng Yang et.al.|[2304.00698](http://arxiv.org/abs/2304.00698)|null|
