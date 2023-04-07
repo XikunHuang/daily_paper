@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.06
+## Updated on 2023.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -106,7 +106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-04**|**The expressive power of pooling in Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2304.01575](http://arxiv.org/abs/2304.01575)|null|
+|**2023-04-04**|**The expressive power of pooling in Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2304.01575](http://arxiv.org/abs/2304.01575)|**[link](https://github.com/filippomb/the-expressive-power-of-pooling-in-gnns)**|
 |**2023-04-03**|**FMGNN: Fused Manifold Graph Neural Network**|Cheng Deng et.al.|[2304.01081](http://arxiv.org/abs/2304.01081)|null|
 |**2023-04-03**|**A Post-Training Framework for Improving Heterogeneous Graph Neural Networks**|Cheng Yang et.al.|[2304.00698](http://arxiv.org/abs/2304.00698)|null|
 |**2023-03-31**|**E( $3$ ) Equivariant Graph Neural Networks for Particle-Based Fluid Mechanics**|Artur P. Toshev et.al.|[2304.00150](http://arxiv.org/abs/2304.00150)|null|
