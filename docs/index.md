@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.09
+## Updated on 2023.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-06**|**High-resolution Emission Spectroscopy of the Ultrahot Jupiter KELT-9b: Little Variation in Day- and Nightside Emission Line Contrasts**|Andrew Ridden-Harper et.al.|[2304.03248](http://arxiv.org/abs/2304.03248)|null|
 |**2023-04-06**|**Synthetic Hard Negative Samples for Contrastive Learning**|Hengkui Dong et.al.|[2304.02971](http://arxiv.org/abs/2304.02971)|null|
-|**2023-04-05**|**ACTION++: Improving Semi-supervised Medical Image Segmentation with Adaptive Anatomical Contrast**|Chenyu You et.al.|[2304.02689](http://arxiv.org/abs/2304.02689)|null|
+|**2023-04-07**|**ACTION++: Improving Semi-supervised Medical Image Segmentation with Adaptive Anatomical Contrast**|Chenyu You et.al.|[2304.02689](http://arxiv.org/abs/2304.02689)|null|
 |**2023-04-04**|**Fully Variational Noise-Contrastive Estimation**|Christopher Zach et.al.|[2304.02473](http://arxiv.org/abs/2304.02473)|null|
 |**2023-04-05**|**Adaptive Data Augmentation for Contrastive Learning**|Yuhan Zhang et.al.|[2304.02451](http://arxiv.org/abs/2304.02451)|null|
 |**2023-04-04**|**Optimal operating MR contrast for brain ventricle parcellation**|Savannah P. Hays et.al.|[2304.02056](http://arxiv.org/abs/2304.02056)|null|

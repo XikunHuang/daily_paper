@@ -1,4 +1,4 @@
-## Updated on 2023.04.09
+## Updated on 2023.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2023-04-06**|**High-resolution Emission Spectroscopy of the Ultrahot Jupiter KELT-9b: Little Variation in Day- and Nightside Emission Line Contrasts**|Andrew Ridden-Harper et.al.|[2304.03248](http://arxiv.org/abs/2304.03248)|null|
 |**2023-04-06**|**Synthetic Hard Negative Samples for Contrastive Learning**|Hengkui Dong et.al.|[2304.02971](http://arxiv.org/abs/2304.02971)|null|
-|**2023-04-05**|**ACTION++: Improving Semi-supervised Medical Image Segmentation with Adaptive Anatomical Contrast**|Chenyu You et.al.|[2304.02689](http://arxiv.org/abs/2304.02689)|null|
+|**2023-04-07**|**ACTION++: Improving Semi-supervised Medical Image Segmentation with Adaptive Anatomical Contrast**|Chenyu You et.al.|[2304.02689](http://arxiv.org/abs/2304.02689)|null|
 |**2023-04-04**|**Fully Variational Noise-Contrastive Estimation**|Christopher Zach et.al.|[2304.02473](http://arxiv.org/abs/2304.02473)|null|
 |**2023-04-05**|**Adaptive Data Augmentation for Contrastive Learning**|Yuhan Zhang et.al.|[2304.02451](http://arxiv.org/abs/2304.02451)|null|
 |**2023-04-04**|**Optimal operating MR contrast for brain ventricle parcellation**|Savannah P. Hays et.al.|[2304.02056](http://arxiv.org/abs/2304.02056)|null|
@@ -109,7 +109,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
 ## GNN
 
@@ -162,5 +162,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
 
