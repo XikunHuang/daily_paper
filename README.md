@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**On the Importance of Contrastive Loss in Multimodal Learning**|Yunwei Ren et.al.|[2304.03717](http://arxiv.org/abs/2304.03717)|null|
+|**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588](http://arxiv.org/abs/2304.03588)|null|
+|**2023-04-07**|**Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model**|Hongrun Zhang et.al.|[2304.03572](http://arxiv.org/abs/2304.03572)|null|
+|**2023-04-07**|**Linking Representations with Multimodal Contrastive Learning**|Abhishek Arora et.al.|[2304.03464](http://arxiv.org/abs/2304.03464)|null|
+|**2023-04-07**|**mcLARO: Multi-Contrast Learned Acquisition and Reconstruction Optimization for simultaneous quantitative multi-parametric mapping**|Jinwei Zhang et.al.|[2304.03458](http://arxiv.org/abs/2304.03458)|null|
+|**2023-04-07**|**Supervised Contrastive Learning with Heterogeneous Similarity for Distribution Shifts**|Takuro Kutsuna et.al.|[2304.03440](http://arxiv.org/abs/2304.03440)|null|
+|**2023-04-06**|**Localized Region Contrast for Enhancing Self-Supervised Learning in Medical Image Segmentation**|Xiangyi Yan et.al.|[2304.03406](http://arxiv.org/abs/2304.03406)|null|
+|**2023-04-06**|**CAPOT: Creating Robust Dense Query Encoders using Post Training Contrastive Alignment**|Daniel Campos et.al.|[2304.03401](http://arxiv.org/abs/2304.03401)|null|
 |**2023-04-06**|**High-resolution Emission Spectroscopy of the Ultrahot Jupiter KELT-9b: Little Variation in Day- and Nightside Emission Line Contrasts**|Andrew Ridden-Harper et.al.|[2304.03248](http://arxiv.org/abs/2304.03248)|null|
 |**2023-04-06**|**Synthetic Hard Negative Samples for Contrastive Learning**|Hengkui Dong et.al.|[2304.02971](http://arxiv.org/abs/2304.02971)|null|
 |**2023-04-07**|**ACTION++: Improving Semi-supervised Medical Image Segmentation with Adaptive Anatomical Contrast**|Chenyu You et.al.|[2304.02689](http://arxiv.org/abs/2304.02689)|null|
@@ -115,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-07**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507](http://arxiv.org/abs/2304.03507)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215](http://arxiv.org/abs/2304.03215)|null|
 |**2023-04-04**|**The expressive power of pooling in Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2304.01575](http://arxiv.org/abs/2304.01575)|**[link](https://github.com/filippomb/the-expressive-power-of-pooling-in-gnns)**|
 |**2023-04-03**|**FMGNN: Fused Manifold Graph Neural Network**|Cheng Deng et.al.|[2304.01081](http://arxiv.org/abs/2304.01081)|null|
