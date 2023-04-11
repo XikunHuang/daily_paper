@@ -1,4 +1,4 @@
-## Updated on 2023.04.10
+## Updated on 2023.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,13 +14,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-07**|**On the Importance of Contrastive Loss in Multimodal Learning**|Yunwei Ren et.al.|[2304.03717](http://arxiv.org/abs/2304.03717)|null|
-|**2023-04-07**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588](http://arxiv.org/abs/2304.03588)|null|
+|**2023-04-10**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588](http://arxiv.org/abs/2304.03588)|null|
 |**2023-04-07**|**Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model**|Hongrun Zhang et.al.|[2304.03572](http://arxiv.org/abs/2304.03572)|null|
 |**2023-04-07**|**Linking Representations with Multimodal Contrastive Learning**|Abhishek Arora et.al.|[2304.03464](http://arxiv.org/abs/2304.03464)|null|
 |**2023-04-07**|**mcLARO: Multi-Contrast Learned Acquisition and Reconstruction Optimization for simultaneous quantitative multi-parametric mapping**|Jinwei Zhang et.al.|[2304.03458](http://arxiv.org/abs/2304.03458)|null|
 |**2023-04-07**|**Supervised Contrastive Learning with Heterogeneous Similarity for Distribution Shifts**|Takuro Kutsuna et.al.|[2304.03440](http://arxiv.org/abs/2304.03440)|null|
 |**2023-04-06**|**Localized Region Contrast for Enhancing Self-Supervised Learning in Medical Image Segmentation**|Xiangyi Yan et.al.|[2304.03406](http://arxiv.org/abs/2304.03406)|null|
-|**2023-04-06**|**CAPOT: Creating Robust Dense Query Encoders using Post Training Contrastive Alignment**|Daniel Campos et.al.|[2304.03401](http://arxiv.org/abs/2304.03401)|null|
+|**2023-04-10**|**Noise-Robust Dense Retrieval via Contrastive Alignment Post Training**|Daniel Campos et.al.|[2304.03401](http://arxiv.org/abs/2304.03401)|null|
 |**2023-04-06**|**High-resolution Emission Spectroscopy of the Ultrahot Jupiter KELT-9b: Little Variation in Day- and Nightside Emission Line Contrasts**|Andrew Ridden-Harper et.al.|[2304.03248](http://arxiv.org/abs/2304.03248)|null|
 |**2023-04-06**|**Synthetic Hard Negative Samples for Contrastive Learning**|Hengkui Dong et.al.|[2304.02971](http://arxiv.org/abs/2304.02971)|null|
 |**2023-04-07**|**ACTION++: Improving Semi-supervised Medical Image Segmentation with Adaptive Anatomical Contrast**|Chenyu You et.al.|[2304.02689](http://arxiv.org/abs/2304.02689)|null|
@@ -117,7 +117,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
 ## GNN
 
@@ -171,5 +171,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230411>back to top</a>)</p>
 
