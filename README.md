@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning**|Huiwei Lin et.al.|[2304.04408](http://arxiv.org/abs/2304.04408)|null|
+|**2023-04-10**|**CAVL: Learning Contrastive and Adaptive Representations of Vision and Language**|Shentong Mo et.al.|[2304.04399](http://arxiv.org/abs/2304.04399)|null|
+|**2023-04-08**|**Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning**|Binqian Xu et.al.|[2304.04023](http://arxiv.org/abs/2304.04023)|null|
+|**2023-04-08**|**On The Application Of Log Compression and Enhanced Denoising In Contrast Enhancement Of Digital Radiography Images**|Asif M S et.al.|[2304.04018](http://arxiv.org/abs/2304.04018)|null|
+|**2023-04-08**|**The Short Text Matching Model Enhanced with Knowledge via Contrastive Learning**|Qiqiang Zhong et.al.|[2304.03898](http://arxiv.org/abs/2304.03898)|null|
+|**2023-04-08**|**Contrastive Cross-Domain Sequential Recommendation**|Jiangxia Cao et.al.|[2304.03891](http://arxiv.org/abs/2304.03891)|**[link](https://github.com/cjx96/c2dsr)**|
+|**2023-04-07**|**Conservative objective models are a special kind of contrastive divergence-based energy model**|Christopher Beckham et.al.|[2304.03866](http://arxiv.org/abs/2304.03866)|null|
 |**2023-04-07**|**On the Importance of Contrastive Loss in Multimodal Learning**|Yunwei Ren et.al.|[2304.03717](http://arxiv.org/abs/2304.03717)|null|
 |**2023-04-10**|**Anomalous Sound Detection using Audio Representation with Machine ID based Contrastive Learning Pretraining**|Jian Guan et.al.|[2304.03588](http://arxiv.org/abs/2304.03588)|null|
 |**2023-04-07**|**Weakly supervised segmentation with point annotations for histopathology images via contrast-based variational model**|Hongrun Zhang et.al.|[2304.03572](http://arxiv.org/abs/2304.03572)|null|
@@ -123,6 +130,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**Graph Neural Network-Aided Exploratory Learning for Community Detection with Unknown Topology**|Yu Hou et.al.|[2304.04497](http://arxiv.org/abs/2304.04497)|null|
+|**2023-04-09**|**Adversarially Robust Neural Architecture Search for Graph Neural Networks**|Beini Xie et.al.|[2304.04168](http://arxiv.org/abs/2304.04168)|null|
+|**2023-04-08**|**Generating a Graph Colouring Heuristic with Deep Q-Learning and Graph Neural Networks**|George Watkins et.al.|[2304.04051](http://arxiv.org/abs/2304.04051)|null|
+|**2023-04-07**|**SGDP: A Stream-Graph Neural Network Based Data Prefetcher**|Yiyuan Yang et.al.|[2304.03864](http://arxiv.org/abs/2304.03864)|**[link](https://github.com/yyysjz1997/SGDP)**|
 |**2023-04-07**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507](http://arxiv.org/abs/2304.03507)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215](http://arxiv.org/abs/2304.03215)|null|
 |**2023-04-04**|**The expressive power of pooling in Graph Neural Networks**|Filippo Maria Bianchi et.al.|[2304.01575](http://arxiv.org/abs/2304.01575)|**[link](https://github.com/filippomb/the-expressive-power-of-pooling-in-gnns)**|
