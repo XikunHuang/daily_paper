@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Semi-Supervised Relational Contrastive Learning**|Attiano Purpura-Pontoniere et.al.|[2304.05047](http://arxiv.org/abs/2304.05047)|null|
+|**2023-04-11**|**Sentence-Level Relation Extraction via Contrastive Learning with Descriptive Relation Prompts**|Jiewen Zheng et.al.|[2304.04935](http://arxiv.org/abs/2304.04935)|null|
 |**2023-04-10**|**PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning**|Huiwei Lin et.al.|[2304.04408](http://arxiv.org/abs/2304.04408)|null|
 |**2023-04-10**|**CAVL: Learning Contrastive and Adaptive Representations of Vision and Language**|Shentong Mo et.al.|[2304.04399](http://arxiv.org/abs/2304.04399)|null|
 |**2023-04-08**|**Attack is Good Augmentation: Towards Skeleton-Contrastive Representation Learning**|Binqian Xu et.al.|[2304.04023](http://arxiv.org/abs/2304.04023)|null|
@@ -124,6 +126,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Equivariant Graph Neural Networks for Charged Particle Tracking**|Daniel Murnane et.al.|[2304.05293](http://arxiv.org/abs/2304.05293)|**[link](https://github.com/ameya1101/equivariant-tracking)**|
+|**2023-04-11**|**TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification**|Huaiyuan Liu et.al.|[2304.05078](http://arxiv.org/abs/2304.05078)|**[link](https://github.com/liuxz1011/todynet)**|
+|**2023-04-07**|**A new perspective on building efficient and expressive 3D equivariant graph neural networks**|Weitao Du et.al.|[2304.04757](http://arxiv.org/abs/2304.04757)|**[link](https://github.com/yuanqidu/leftnet)**|
 |**2023-04-10**|**Graph Neural Network-Aided Exploratory Learning for Community Detection with Unknown Topology**|Yu Hou et.al.|[2304.04497](http://arxiv.org/abs/2304.04497)|null|
 |**2023-04-09**|**Adversarially Robust Neural Architecture Search for Graph Neural Networks**|Beini Xie et.al.|[2304.04168](http://arxiv.org/abs/2304.04168)|null|
 |**2023-04-08**|**Generating a Graph Colouring Heuristic with Deep Q-Learning and Graph Neural Networks**|George Watkins et.al.|[2304.04051](http://arxiv.org/abs/2304.04051)|**[link](https://github.com/gpdwatkins/graph_colouring_with_RL)**|
