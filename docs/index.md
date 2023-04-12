@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.11
+## Updated on 2023.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -126,7 +126,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-10**|**Graph Neural Network-Aided Exploratory Learning for Community Detection with Unknown Topology**|Yu Hou et.al.|[2304.04497](http://arxiv.org/abs/2304.04497)|null|
 |**2023-04-09**|**Adversarially Robust Neural Architecture Search for Graph Neural Networks**|Beini Xie et.al.|[2304.04168](http://arxiv.org/abs/2304.04168)|null|
-|**2023-04-08**|**Generating a Graph Colouring Heuristic with Deep Q-Learning and Graph Neural Networks**|George Watkins et.al.|[2304.04051](http://arxiv.org/abs/2304.04051)|null|
+|**2023-04-08**|**Generating a Graph Colouring Heuristic with Deep Q-Learning and Graph Neural Networks**|George Watkins et.al.|[2304.04051](http://arxiv.org/abs/2304.04051)|**[link](https://github.com/gpdwatkins/graph_colouring_with_RL)**|
 |**2023-04-07**|**SGDP: A Stream-Graph Neural Network Based Data Prefetcher**|Yiyuan Yang et.al.|[2304.03864](http://arxiv.org/abs/2304.03864)|**[link](https://github.com/yyysjz1997/SGDP)**|
 |**2023-04-07**|**Distributional Signals for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2304.03507](http://arxiv.org/abs/2304.03507)|null|
 |**2023-04-06**|**Hierarchical Graph Neural Network with Cross-Attention for Cross-Device User Matching**|Ali Taghibakhshi et.al.|[2304.03215](http://arxiv.org/abs/2304.03215)|null|
