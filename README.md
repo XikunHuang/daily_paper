@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-12**|**Regularizing Contrastive Predictive Coding for Speech Applications**|Saurabhchand Bhati et.al.|[2304.05974](http://arxiv.org/abs/2304.05974)|null|
+|**2023-04-12**|**CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data**|Chen Zhao et.al.|[2304.05542](http://arxiv.org/abs/2304.05542)|null|
 |**2023-04-11**|**Semi-Supervised Relational Contrastive Learning**|Attiano Purpura-Pontoniere et.al.|[2304.05047](http://arxiv.org/abs/2304.05047)|null|
 |**2023-04-11**|**Sentence-Level Relation Extraction via Contrastive Learning with Descriptive Relation Prompts**|Jiewen Zheng et.al.|[2304.04935](http://arxiv.org/abs/2304.04935)|null|
 |**2023-04-10**|**PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning**|Huiwei Lin et.al.|[2304.04408](http://arxiv.org/abs/2304.04408)|null|
