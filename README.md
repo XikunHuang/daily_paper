@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-14**|**BCE-Net: Reliable Building Footprints Change Extraction based on Historical Map and Up-to-Date Images using Contrastive Learning**|Cheng Liao et.al.|[2304.07076](http://arxiv.org/abs/2304.07076)|**[link](https://github.com/liaochengcsu/bce-net)**|
+|**2023-04-13**|**A contrastive method based on elevation data for remote sensing with scarce and high level semantic labels**|Omar A. Castaño-Idarraga et.al.|[2304.06857](http://arxiv.org/abs/2304.06857)|null|
 |**2023-04-13**|**Single-shot quantitative differential phase contrast imaging combined with programmable polarization multiplexing illumination**|Siying Liu et.al.|[2304.06570](http://arxiv.org/abs/2304.06570)|null|
 |**2023-04-12**|**Regularizing Contrastive Predictive Coding for Speech Applications**|Saurabhchand Bhati et.al.|[2304.05974](http://arxiv.org/abs/2304.05974)|null|
 |**2023-04-12**|**CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data**|Chen Zhao et.al.|[2304.05542](http://arxiv.org/abs/2304.05542)|null|
@@ -135,6 +137,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**DGNN-Booster: A Generic FPGA Accelerator Framework For Dynamic Graph Neural Network Inference**|Hanqiu Chen et.al.|[2304.06831](http://arxiv.org/abs/2304.06831)|**[link](https://github.com/sharc-lab/dgnn-booster)**|
 |**2023-04-13**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based Perception**|Felix Fent et.al.|[2304.06547](http://arxiv.org/abs/2304.06547)|**[link](https://github.com/tumftm/radargnn)**|
 |**2023-04-11**|**Equivariant Graph Neural Networks for Charged Particle Tracking**|Daniel Murnane et.al.|[2304.05293](http://arxiv.org/abs/2304.05293)|**[link](https://github.com/ameya1101/equivariant-tracking)**|
 |**2023-04-11**|**TodyNet: Temporal Dynamic Graph Neural Network for Multivariate Time Series Classification**|Huaiyuan Liu et.al.|[2304.05078](http://arxiv.org/abs/2304.05078)|**[link](https://github.com/liuxz1011/todynet)**|
