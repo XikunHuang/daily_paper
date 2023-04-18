@@ -1,4 +1,4 @@
-## Updated on 2023.04.17
+## Updated on 2023.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-04-14**|**BCE-Net: Reliable Building Footprints Change Extraction based on Historical Map and Up-to-Date Images using Contrastive Learning**|Cheng Liao et.al.|[2304.07076](http://arxiv.org/abs/2304.07076)|**[link](https://github.com/liaochengcsu/bce-net)**|
-|**2023-04-13**|**A contrastive method based on elevation data for remote sensing with scarce and high level semantic labels**|Omar A. Castaño-Idarraga et.al.|[2304.06857](http://arxiv.org/abs/2304.06857)|null|
+|**2023-04-17**|**A Contrastive Method Based on Elevation Data for Remote Sensing with Scarce and High Level Semantic Labels**|Omar A. Castaño-Idarraga et.al.|[2304.06857](http://arxiv.org/abs/2304.06857)|null|
 |**2023-04-13**|**Single-shot quantitative differential phase contrast imaging combined with programmable polarization multiplexing illumination**|Siying Liu et.al.|[2304.06570](http://arxiv.org/abs/2304.06570)|null|
 |**2023-04-12**|**Regularizing Contrastive Predictive Coding for Speech Applications**|Saurabhchand Bhati et.al.|[2304.05974](http://arxiv.org/abs/2304.05974)|null|
 |**2023-04-12**|**CLCLSA: Cross-omics Linked embedding with Contrastive Learning and Self Attention for multi-omics integration with incomplete multi-omics data**|Chen Zhao et.al.|[2304.05542](http://arxiv.org/abs/2304.05542)|null|
@@ -131,7 +131,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
 ## GNN
 
@@ -194,5 +194,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230417>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230418>back to top</a>)</p>
 
