@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training**|Yihao Chen et.al.|[2304.08480](http://arxiv.org/abs/2304.08480)|**[link](https://github.com/idea-research/disco-clip)**|
+|**2023-04-17**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
+|**2023-04-17**|**Progressive Visual Prompt Learning with Contrastive Feature Re-formation**|Chen Xu et.al.|[2304.08386](http://arxiv.org/abs/2304.08386)|null|
+|**2023-04-17**|**Features-over-the-Air: Contrastive Learning Enabled Cooperative Edge Inference**|Haotian Wu et.al.|[2304.08221](http://arxiv.org/abs/2304.08221)|null|
+|**2023-04-17**|**VECO 2.0: Cross-lingual Language Model Pre-training with Multi-granularity Contrastive Learning**|Zhen-Ru Zhang et.al.|[2304.08205](http://arxiv.org/abs/2304.08205)|null|
+|**2023-04-17**|**Audio coding with unified noise shaping and phase contrast control**|Byeongho Jo et.al.|[2304.08076](http://arxiv.org/abs/2304.08076)|null|
+|**2023-04-17**|**PerCoNet: News Recommendation with Explicit Persona and Contrastive Learning**|Rui Liu et.al.|[2304.07923](http://arxiv.org/abs/2304.07923)|null|
+|**2023-04-16**|**Time-series Anomaly Detection via Contextual Discriminative Contrastive Learning**|Katrina Chen et.al.|[2304.07898](http://arxiv.org/abs/2304.07898)|null|
+|**2023-04-16**|**Meta-optimized Contrastive Learning for Sequential Recommendation**|Xiuyuan Qin et.al.|[2304.07763](http://arxiv.org/abs/2304.07763)|**[link](https://github.com/qinhsiu/mclrec)**|
+|**2023-04-15**|**Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation**|Bingchao Wu et.al.|[2304.07506](http://arxiv.org/abs/2304.07506)|null|
 |**2023-04-14**|**BCE-Net: Reliable Building Footprints Change Extraction based on Historical Map and Up-to-Date Images using Contrastive Learning**|Cheng Liao et.al.|[2304.07076](http://arxiv.org/abs/2304.07076)|**[link](https://github.com/liaochengcsu/bce-net)**|
 |**2023-04-17**|**A Contrastive Method Based on Elevation Data for Remote Sensing with Scarce and High Level Semantic Labels**|Omar A. Castaño-Idarraga et.al.|[2304.06857](http://arxiv.org/abs/2304.06857)|null|
 |**2023-04-13**|**Single-shot quantitative differential phase contrast imaging combined with programmable polarization multiplexing illumination**|Siying Liu et.al.|[2304.06570](http://arxiv.org/abs/2304.06570)|null|
@@ -137,6 +147,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-13**|**Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks**|Bingxin Zhou et.al.|[2304.08299](http://arxiv.org/abs/2304.08299)|null|
+|**2023-04-14**|**RF-GNN: Random Forest Boosted Graph Neural Network for Social Bot Detection**|Shuhao Shi et.al.|[2304.08239](http://arxiv.org/abs/2304.08239)|**[link](https://github.com/graphdetec/rf-gnn)**|
+|**2023-04-17**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098](http://arxiv.org/abs/2304.08098)|null|
+|**2023-04-16**|**M2GNN: Metapath and Multi-interest Aggregated Graph Neural Network for Tag-based Cross-domain Recommendation**|Zepeng Huai et.al.|[2304.07911](http://arxiv.org/abs/2304.07911)|**[link](https://github.com/huaizepeng2020/m2gnn_git)**|
+|**2023-04-15**|**Temporal Aggregation and Propagation Graph Neural Networks for Dynamic Representation**|Tongya Zheng et.al.|[2304.07503](http://arxiv.org/abs/2304.07503)|**[link](https://github.com/doujiang-zheng/tap-gnn)**|
+|**2023-04-15**|**Transition Propagation Graph Neural Networks for Temporal Networks**|Tongya Zheng et.al.|[2304.07501](http://arxiv.org/abs/2304.07501)|**[link](https://github.com/doujiang-zheng/tip-gnn)**|
+|**2023-04-14**|**HGWaveNet: A Hyperbolic Graph Neural Network for Temporal Link Prediction**|Qijie Bai et.al.|[2304.07302](http://arxiv.org/abs/2304.07302)|null|
 |**2023-04-13**|**DGNN-Booster: A Generic FPGA Accelerator Framework For Dynamic Graph Neural Network Inference**|Hanqiu Chen et.al.|[2304.06831](http://arxiv.org/abs/2304.06831)|**[link](https://github.com/sharc-lab/dgnn-booster)**|
 |**2023-04-13**|**RadarGNN: Transformation Invariant Graph Neural Network for Radar-based Perception**|Felix Fent et.al.|[2304.06547](http://arxiv.org/abs/2304.06547)|**[link](https://github.com/tumftm/radargnn)**|
 |**2023-04-11**|**Equivariant Graph Neural Networks for Charged Particle Tracking**|Daniel Murnane et.al.|[2304.05293](http://arxiv.org/abs/2304.05293)|**[link](https://github.com/ameya1101/equivariant-tracking)**|
