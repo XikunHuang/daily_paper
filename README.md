@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**Implementation and evaluation of a dynamic contrast enhanced mr perfusion protocol for glioblastoma using a 0.35T mri-Linac system**|Danilo Maziero et.al.|[2304.09128](http://arxiv.org/abs/2304.09128)|null|
+|**2023-04-18**|**D2CSE: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings**|Hyunjae Lee et.al.|[2304.08991](http://arxiv.org/abs/2304.08991)|null|
+|**2023-04-18**|**Towards Zero-Shot Personalized Table-to-Text Generation with Contrastive Persona Distillation**|Haolan Zhan et.al.|[2304.08911](http://arxiv.org/abs/2304.08911)|null|
+|**2023-04-18**|**Dual-Ganularity Contrastive Learning for Session-based Recommendation**|Zihan Wang et.al.|[2304.08873](http://arxiv.org/abs/2304.08873)|null|
+|**2023-04-18**|**Recovering both the wave speed and the source function in a time-domain wave equation by injecting high contrast bubbles**|Soumen Senapati et.al.|[2304.08869](http://arxiv.org/abs/2304.08869)|null|
 |**2023-04-17**|**DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training**|Yihao Chen et.al.|[2304.08480](http://arxiv.org/abs/2304.08480)|**[link](https://github.com/idea-research/disco-clip)**|
 |**2023-04-18**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
 |**2023-04-17**|**Progressive Visual Prompt Learning with Contrastive Feature Re-formation**|Chen Xu et.al.|[2304.08386](http://arxiv.org/abs/2304.08386)|null|
@@ -147,6 +152,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-18**|**ProGAP: Progressive Graph Neural Networks with Differential Privacy Guarantees**|Sina Sajadmanesh et.al.|[2304.08928](http://arxiv.org/abs/2304.08928)|null|
+|**2023-04-18**|**NPS: A Framework for Accurate Program Sampling Using Graph Neural Network**|Yuanwei Fang et.al.|[2304.08880](http://arxiv.org/abs/2304.08880)|null|
+|**2023-04-17**|**GrOVe: Ownership Verification of Graph Neural Networks using Embeddings**|Asim Waheed et.al.|[2304.08566](http://arxiv.org/abs/2304.08566)|null|
 |**2023-04-13**|**Accurate and Definite Mutational Effect Prediction with Lightweight Equivariant Graph Neural Networks**|Bingxin Zhou et.al.|[2304.08299](http://arxiv.org/abs/2304.08299)|null|
 |**2023-04-14**|**RF-GNN: Random Forest Boosted Graph Neural Network for Social Bot Detection**|Shuhao Shi et.al.|[2304.08239](http://arxiv.org/abs/2304.08239)|**[link](https://github.com/graphdetec/rf-gnn)**|
 |**2023-04-17**|**Transformer-based Graph Neural Networks for Outfit Generation**|Federico Becattini et.al.|[2304.08098](http://arxiv.org/abs/2304.08098)|null|
