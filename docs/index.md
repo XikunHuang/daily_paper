@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.18
+## Updated on 2023.04.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-17**|**DisCo-CLIP: A Distributed Contrastive Loss for Memory Efficient CLIP Training**|Yihao Chen et.al.|[2304.08480](http://arxiv.org/abs/2304.08480)|**[link](https://github.com/idea-research/disco-clip)**|
-|**2023-04-17**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
+|**2023-04-18**|**Multimodal Short Video Rumor Detection System Based on Contrastive Learning**|Yuxing Yang et.al.|[2304.08401](http://arxiv.org/abs/2304.08401)|null|
 |**2023-04-17**|**Progressive Visual Prompt Learning with Contrastive Feature Re-formation**|Chen Xu et.al.|[2304.08386](http://arxiv.org/abs/2304.08386)|null|
 |**2023-04-17**|**Features-over-the-Air: Contrastive Learning Enabled Cooperative Edge Inference**|Haotian Wu et.al.|[2304.08221](http://arxiv.org/abs/2304.08221)|null|
 |**2023-04-17**|**VECO 2.0: Cross-lingual Language Model Pre-training with Multi-granularity Contrastive Learning**|Zhen-Ru Zhang et.al.|[2304.08205](http://arxiv.org/abs/2304.08205)|null|
