@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**Contrastive Learning based Semantic Communication for Wireless Image Transmission**|Shunpu Tang et.al.|[2304.09438](http://arxiv.org/abs/2304.09438)|null|
+|**2023-04-19**|**Shuffle & Divide: Contrastive Learning for Long Text**|Joonseok Lee et.al.|[2304.09374](http://arxiv.org/abs/2304.09374)|null|
+|**2023-04-19**|**ContraCluster: Learning to Classify without Labels by Contrastive Self-Supervision and Prototype-Based Semi-Supervision**|Seongho Joe et.al.|[2304.09369](http://arxiv.org/abs/2304.09369)|null|
 |**2023-04-19**|**Implementation and evaluation of a dynamic contrast enhanced mr perfusion protocol for glioblastoma using a 0.35T mri-Linac system**|Danilo Maziero et.al.|[2304.09128](http://arxiv.org/abs/2304.09128)|null|
 |**2023-04-18**|**D2CSE: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings**|Hyunjae Lee et.al.|[2304.08991](http://arxiv.org/abs/2304.08991)|null|
 |**2023-04-18**|**Towards Zero-Shot Personalized Table-to-Text Generation with Contrastive Persona Distillation**|Haolan Zhan et.al.|[2304.08911](http://arxiv.org/abs/2304.08911)|null|
@@ -152,6 +155,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-19**|**AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks**|Shengrui Li et.al.|[2304.09595](http://arxiv.org/abs/2304.09595)|null|
+|**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367](http://arxiv.org/abs/2304.09367)|null|
 |**2023-04-18**|**ProGAP: Progressive Graph Neural Networks with Differential Privacy Guarantees**|Sina Sajadmanesh et.al.|[2304.08928](http://arxiv.org/abs/2304.08928)|null|
 |**2023-04-18**|**NPS: A Framework for Accurate Program Sampling Using Graph Neural Network**|Yuanwei Fang et.al.|[2304.08880](http://arxiv.org/abs/2304.08880)|null|
 |**2023-04-17**|**GrOVe: Ownership Verification of Graph Neural Networks using Embeddings**|Asim Waheed et.al.|[2304.08566](http://arxiv.org/abs/2304.08566)|null|
