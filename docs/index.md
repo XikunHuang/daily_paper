@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.04.19
+## Updated on 2023.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-18**|**Implementation and evaluation of a dynamic contrast enhanced mr perfusion protocol for glioblastoma using a 0.35T mri-Linac system**|Danilo Maziero et.al.|[2304.09128](http://arxiv.org/abs/2304.09128)|null|
+|**2023-04-19**|**Implementation and evaluation of a dynamic contrast enhanced mr perfusion protocol for glioblastoma using a 0.35T mri-Linac system**|Danilo Maziero et.al.|[2304.09128](http://arxiv.org/abs/2304.09128)|null|
 |**2023-04-18**|**D2CSE: Difference-aware Deep continuous prompts for Contrastive Sentence Embeddings**|Hyunjae Lee et.al.|[2304.08991](http://arxiv.org/abs/2304.08991)|null|
 |**2023-04-18**|**Towards Zero-Shot Personalized Table-to-Text Generation with Contrastive Persona Distillation**|Haolan Zhan et.al.|[2304.08911](http://arxiv.org/abs/2304.08911)|null|
 |**2023-04-18**|**Dual-Ganularity Contrastive Learning for Session-based Recommendation**|Zihan Wang et.al.|[2304.08873](http://arxiv.org/abs/2304.08873)|null|
