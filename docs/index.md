@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.20
+## Updated on 2023.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -150,7 +150,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-19**|**AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks**|Shengrui Li et.al.|[2304.09595](http://arxiv.org/abs/2304.09595)|null|
-|**2023-04-19**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367](http://arxiv.org/abs/2304.09367)|null|
+|**2023-04-20**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367](http://arxiv.org/abs/2304.09367)|null|
 |**2023-04-18**|**ProGAP: Progressive Graph Neural Networks with Differential Privacy Guarantees**|Sina Sajadmanesh et.al.|[2304.08928](http://arxiv.org/abs/2304.08928)|null|
 |**2023-04-18**|**NPS: A Framework for Accurate Program Sampling Using Graph Neural Network**|Yuanwei Fang et.al.|[2304.08880](http://arxiv.org/abs/2304.08880)|null|
 |**2023-04-17**|**GrOVe: Ownership Verification of Graph Neural Networks using Embeddings**|Asim Waheed et.al.|[2304.08566](http://arxiv.org/abs/2304.08566)|null|
