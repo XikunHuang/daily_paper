@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget**|Johannes Lehner et.al.|[2304.10520](http://arxiv.org/abs/2304.10520)|**[link](https://github.com/ml-jku/mae-ct)**|
+|**2023-04-20**|**Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning**|Hao Zhang et.al.|[2304.10309](http://arxiv.org/abs/2304.10309)|null|
+|**2023-04-19**|**Harnessing the Power of Text-image Contrastive Models for Automatic Detection of Online Misinformation**|Hao Chen et.al.|[2304.10249](http://arxiv.org/abs/2304.10249)|null|
+|**2023-04-20**|**Domain Generalization for Mammographic Image Analysis via Contrastive Learning**|Zheren Li et.al.|[2304.10226](http://arxiv.org/abs/2304.10226)|null|
+|**2023-04-20**|**Effective Open Intent Classification with K-center Contrastive Learning and Adjustable Decision Boundary**|Xiaokang Liu et.al.|[2304.10220](http://arxiv.org/abs/2304.10220)|**[link](https://github.com/lxk00/clap)**|
+|**2023-04-20**|**Contrasting electronic states of RuI3 and RuCl3**|Lu Liu et.al.|[2304.10090](http://arxiv.org/abs/2304.10090)|null|
+|**2023-04-20**|**Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis**|Mindi Ruan et.al.|[2304.10073](http://arxiv.org/abs/2304.10073)|null|
+|**2023-04-20**|**ID-MixGCL: Identity Mixup for Graph Contrastive Learning**|Gehang Zhang et.al.|[2304.10045](http://arxiv.org/abs/2304.10045)|null|
 |**2023-04-19**|**Contrastive Learning based Semantic Communication for Wireless Image Transmission**|Shunpu Tang et.al.|[2304.09438](http://arxiv.org/abs/2304.09438)|null|
 |**2023-04-19**|**Shuffle & Divide: Contrastive Learning for Long Text**|Joonseok Lee et.al.|[2304.09374](http://arxiv.org/abs/2304.09374)|null|
 |**2023-04-19**|**ContraCluster: Learning to Classify without Labels by Contrastive Self-Supervision and Prototype-Based Semi-Supervision**|Seongho Joe et.al.|[2304.09369](http://arxiv.org/abs/2304.09369)|null|
@@ -149,6 +157,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One**|Hongyuan Zhang et.al.|[2304.10126](http://arxiv.org/abs/2304.10126)|null|
+|**2023-04-20**|**Improving Graph Neural Networks on Multi-node Tasks with Labeling Tricks**|Xiyuan Wang et.al.|[2304.10074](http://arxiv.org/abs/2304.10074)|null|
+|**2023-04-19**|**Solving the Kidney-Exchange Problem via Graph Neural Networks with No Supervision**|Pedro Foletto Pimenta et.al.|[2304.09975](http://arxiv.org/abs/2304.09975)|null|
 |**2023-04-19**|**AdapterGNN: Efficient Delta Tuning Improves Generalization Ability in Graph Neural Networks**|Shengrui Li et.al.|[2304.09595](http://arxiv.org/abs/2304.09595)|null|
 |**2023-04-20**|**Graph Neural Network-Based Anomaly Detection for River Network Systems**|Katie Buchhorn et.al.|[2304.09367](http://arxiv.org/abs/2304.09367)|null|
 |**2023-04-18**|**ProGAP: Progressive Graph Neural Networks with Differential Privacy Guarantees**|Sina Sajadmanesh et.al.|[2304.08928](http://arxiv.org/abs/2304.08928)|null|
