@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**|Shangda Wu et.al.|[2304.11029](http://arxiv.org/abs/2304.11029)|**[link](https://github.com/microsoft/muzic/tree/main/clamp)**|
+|**2023-04-21**|**Reduced order modeling for elliptic problems with high contrast diffusion coefficients**|Albert Cohen et.al.|[2304.10971](http://arxiv.org/abs/2304.10971)|null|
+|**2023-04-21**|**Contrastive Language, Action, and State Pre-training for Robot Learning**|Krishan Rana et.al.|[2304.10782](http://arxiv.org/abs/2304.10782)|null|
+|**2023-04-21**|**Deep Multiview Clustering by Contrasting Cluster Assignments**|Jie Chen et.al.|[2304.10769](http://arxiv.org/abs/2304.10769)|**[link](https://github.com/chenjie20/cvcl)**|
 |**2023-04-20**|**Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget**|Johannes Lehner et.al.|[2304.10520](http://arxiv.org/abs/2304.10520)|**[link](https://github.com/ml-jku/mae-ct)**|
 |**2023-04-20**|**Improving Speech Translation by Cross-Modal Multi-Grained Contrastive Learning**|Hao Zhang et.al.|[2304.10309](http://arxiv.org/abs/2304.10309)|null|
 |**2023-04-19**|**Harnessing the Power of Text-image Contrastive Models for Automatic Detection of Online Misinformation**|Hao Chen et.al.|[2304.10249](http://arxiv.org/abs/2304.10249)|null|
@@ -157,6 +161,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-21**|**Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140](http://arxiv.org/abs/2304.11140)|null|
 |**2023-04-20**|**Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One**|Hongyuan Zhang et.al.|[2304.10126](http://arxiv.org/abs/2304.10126)|null|
 |**2023-04-20**|**Improving Graph Neural Networks on Multi-node Tasks with Labeling Tricks**|Xiyuan Wang et.al.|[2304.10074](http://arxiv.org/abs/2304.10074)|null|
 |**2023-04-19**|**Solving the Kidney-Exchange Problem via Graph Neural Networks with No Supervision**|Pedro Foletto Pimenta et.al.|[2304.09975](http://arxiv.org/abs/2304.09975)|null|
