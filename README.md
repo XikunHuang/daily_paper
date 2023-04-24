@@ -1,4 +1,4 @@
-## Updated on 2023.04.23
+## Updated on 2023.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |**2023-04-20**|**Domain Generalization for Mammographic Image Analysis via Contrastive Learning**|Zheren Li et.al.|[2304.10226](http://arxiv.org/abs/2304.10226)|null|
 |**2023-04-20**|**Effective Open Intent Classification with K-center Contrastive Learning and Adjustable Decision Boundary**|Xiaokang Liu et.al.|[2304.10220](http://arxiv.org/abs/2304.10220)|**[link](https://github.com/lxk00/clap)**|
 |**2023-04-20**|**Contrasting electronic states of RuI3 and RuCl3**|Lu Liu et.al.|[2304.10090](http://arxiv.org/abs/2304.10090)|null|
-|**2023-04-20**|**Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis**|Mindi Ruan et.al.|[2304.10073](http://arxiv.org/abs/2304.10073)|null|
+|**2023-04-21**|**Video-based Contrastive Learning on Decision Trees: from Action Recognition to Autism Diagnosis**|Mindi Ruan et.al.|[2304.10073](http://arxiv.org/abs/2304.10073)|null|
 |**2023-04-20**|**ID-MixGCL: Identity Mixup for Graph Contrastive Learning**|Gehang Zhang et.al.|[2304.10045](http://arxiv.org/abs/2304.10045)|null|
 |**2023-04-19**|**Contrastive Learning based Semantic Communication for Wireless Image Transmission**|Shunpu Tang et.al.|[2304.09438](http://arxiv.org/abs/2304.09438)|null|
 |**2023-04-19**|**Shuffle & Divide: Contrastive Learning for Long Text**|Joonseok Lee et.al.|[2304.09374](http://arxiv.org/abs/2304.09374)|null|
@@ -157,7 +157,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230424>back to top</a>)</p>
 
 ## GNN
 
@@ -235,5 +235,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230424>back to top</a>)</p>
 
