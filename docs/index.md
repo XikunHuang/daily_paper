@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.04.24
+## Updated on 2023.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-04-21**|**CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**|Shangda Wu et.al.|[2304.11029](http://arxiv.org/abs/2304.11029)|**[link](https://github.com/microsoft/muzic/tree/main/clamp)**|
+|**2023-04-24**|**CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**|Shangda Wu et.al.|[2304.11029](http://arxiv.org/abs/2304.11029)|**[link](https://github.com/microsoft/muzic/tree/main/clamp)**|
 |**2023-04-21**|**Reduced order modeling for elliptic problems with high contrast diffusion coefficients**|Albert Cohen et.al.|[2304.10971](http://arxiv.org/abs/2304.10971)|null|
 |**2023-04-21**|**Contrastive Language, Action, and State Pre-training for Robot Learning**|Krishan Rana et.al.|[2304.10782](http://arxiv.org/abs/2304.10782)|null|
 |**2023-04-21**|**Deep Multiview Clustering by Contrasting Cluster Assignments**|Jie Chen et.al.|[2304.10769](http://arxiv.org/abs/2304.10769)|**[link](https://github.com/chenjie20/cvcl)**|
