@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Pre-Training Strategies Using Contrastive Learning and Playlist Information for Music Classification and Similarity**|Pablo Alonso-Jiménez et.al.|[2304.12257](http://arxiv.org/abs/2304.12257)|null|
+|**2023-04-24**|**Multi-crop Contrastive Learning for Unsupervised Image-to-Image Translation**|Chen Zhao et.al.|[2304.12235](http://arxiv.org/abs/2304.12235)|null|
+|**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228](http://arxiv.org/abs/2304.12228)|null|
+|**2023-04-24**|**Generation-driven Contrastive Self-training for Zero-shot Text Classification with Instruction-tuned GPT**|Ruohong Zhang et.al.|[2304.11872](http://arxiv.org/abs/2304.11872)|**[link](https://github.com/riflezhang/genco)**|
+|**2023-04-23**|**CoReFace: Sample-Guided Contrastive Regularization for Deep Face Recognition**|Youzhe Song et.al.|[2304.11668](http://arxiv.org/abs/2304.11668)|null|
+|**2023-04-23**|**Capturing Fine-grained Semantics in Contrastive Graph Representation Learning**|Lin Shu et.al.|[2304.11658](http://arxiv.org/abs/2304.11658)|null|
+|**2023-04-22**|**Unsupervised CD in satellite image time series by contrastive learning and feature tracking**|Yuxing Chen et.al.|[2304.11375](http://arxiv.org/abs/2304.11375)|null|
+|**2023-04-22**|**Spectral normalized dual contrastive regularization for image-to-image translation**|Chen Zhao et.al.|[2304.11319](http://arxiv.org/abs/2304.11319)|null|
 |**2023-04-24**|**CLaMP: Contrastive Language-Music Pre-training for Cross-Modal Symbolic Music Information Retrieval**|Shangda Wu et.al.|[2304.11029](http://arxiv.org/abs/2304.11029)|**[link](https://github.com/microsoft/muzic/tree/main/clamp)**|
 |**2023-04-21**|**Reduced order modeling for elliptic problems with high contrast diffusion coefficients**|Albert Cohen et.al.|[2304.10971](http://arxiv.org/abs/2304.10971)|null|
 |**2023-04-21**|**Contrastive Language, Action, and State Pre-training for Robot Learning**|Krishan Rana et.al.|[2304.10782](http://arxiv.org/abs/2304.10782)|null|
@@ -161,6 +169,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228](http://arxiv.org/abs/2304.12228)|null|
+|**2023-04-23**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534](http://arxiv.org/abs/2304.11534)|null|
+|**2023-04-23**|**Bi-Level Attention Graph Neural Networks**|Roshni G. Iyer et.al.|[2304.11533](http://arxiv.org/abs/2304.11533)|null|
 |**2023-04-21**|**Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140](http://arxiv.org/abs/2304.11140)|null|
 |**2023-04-20**|**Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One**|Hongyuan Zhang et.al.|[2304.10126](http://arxiv.org/abs/2304.10126)|null|
 |**2023-04-20**|**Improving Graph Neural Networks on Multi-node Tasks with Labeling Tricks**|Xiyuan Wang et.al.|[2304.10074](http://arxiv.org/abs/2304.10074)|null|
