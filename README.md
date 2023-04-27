@@ -1,4 +1,4 @@
-## Updated on 2023.04.26
+## Updated on 2023.04.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |**2023-04-25**|**Imaging mechanism and contrast separation in low-voltage scanning electron microscopy imaging of carbon nanotube arrays on SiO2/Si substrate**|Boxiang Zhang et.al.|[2304.12999](http://arxiv.org/abs/2304.12999)|null|
 |**2023-04-25**|**Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning**|Cheng Lu et.al.|[2304.12824](http://arxiv.org/abs/2304.12824)|null|
 |**2023-04-25**|**CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis**|Chaejeong Lee et.al.|[2304.12654](http://arxiv.org/abs/2304.12654)|null|
-|**2023-04-25**|**Unsupervised Synthetic Image Refinement via Contrastive Learning and Consistent Semantic and Structure Constraints**|Ganning Zhao et.al.|[2304.12591](http://arxiv.org/abs/2304.12591)|null|
+|**2023-04-26**|**Unsupervised Synthetic Image Refinement via Contrastive Learning and Consistent Semantic-Structural Constraints**|Ganning Zhao et.al.|[2304.12591](http://arxiv.org/abs/2304.12591)|null|
 |**2023-04-25**|**GARCIA: Powering Representations of Long-tail Query with Multi-granularity Contrastive Learning**|Weifan Wang et.al.|[2304.12537](http://arxiv.org/abs/2304.12537)|null|
 |**2023-04-24**|**Pre-Training Strategies Using Contrastive Learning and Playlist Information for Music Classification and Similarity**|Pablo Alonso-Jiménez et.al.|[2304.12257](http://arxiv.org/abs/2304.12257)|null|
 |**2023-04-24**|**Multi-crop Contrastive Learning for Unsupervised Image-to-Image Translation**|Chen Zhao et.al.|[2304.12235](http://arxiv.org/abs/2304.12235)|null|
@@ -174,7 +174,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
 
 ## GNN
 
@@ -256,5 +256,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
 
