@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**HDR-VDP-3: A multi-metric for predicting image differences, quality and contrast distortions in high dynamic range and regular content**|Rafal K. Mantiuk et.al.|[2304.13625](http://arxiv.org/abs/2304.13625)|null|
+|**2023-04-26**|**Tissue Classification During Needle Insertion Using Self-Supervised Contrastive Learning and Optical Coherence Tomography**|Debayan Bhattacharya et.al.|[2304.13574](http://arxiv.org/abs/2304.13574)|null|
+|**2023-04-26**|**All Information is Necessary: Integrating Speech Positive and Negative Information by Contrastive Learning for Speech Enhancement**|Xinmeng Xu et.al.|[2304.13439](http://arxiv.org/abs/2304.13439)|null|
+|**2023-04-26**|**Valley-contrasting interband transitions and excitons in symmetrically biased dice model**|Lei Hao et.al.|[2304.13404](http://arxiv.org/abs/2304.13404)|null|
 |**2023-04-25**|**Imaging mechanism and contrast separation in low-voltage scanning electron microscopy imaging of carbon nanotube arrays on SiO2/Si substrate**|Boxiang Zhang et.al.|[2304.12999](http://arxiv.org/abs/2304.12999)|null|
 |**2023-04-25**|**Contrastive Energy Prediction for Exact Energy-Guided Diffusion Sampling in Offline Reinforcement Learning**|Cheng Lu et.al.|[2304.12824](http://arxiv.org/abs/2304.12824)|null|
 |**2023-04-25**|**CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis**|Chaejeong Lee et.al.|[2304.12654](http://arxiv.org/abs/2304.12654)|null|
@@ -180,6 +184,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532](http://arxiv.org/abs/2304.13532)|null|
 |**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228](http://arxiv.org/abs/2304.12228)|null|
 |**2023-04-23**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534](http://arxiv.org/abs/2304.11534)|null|
 |**2023-04-23**|**Bi-Level Attention Graph Neural Networks**|Roshni G. Iyer et.al.|[2304.11533](http://arxiv.org/abs/2304.11533)|**[link](https://github.com/roshnigiyer/ba-gnn)**|
