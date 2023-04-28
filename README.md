@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-27**|**CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants**|Albert Yu Sun et.al.|[2304.14364](http://arxiv.org/abs/2304.14364)|null|
+|**2023-04-27**|**High-contrast detection of exoplanets with a kernel-nuller at the VLTI**|Peter Marley Chingaipe et.al.|[2304.14193](http://arxiv.org/abs/2304.14193)|null|
+|**2023-04-27**|**Density Invariant Contrast Maximization for Neuromorphic Earth Observations**|Sami Arja et.al.|[2304.14125](http://arxiv.org/abs/2304.14125)|**[link](https://github.com/neuromorphicsystems/event_warping)**|
+|**2023-04-27**|**Towards Precise Weakly Supervised Object Detection via Interactive Contrastive Learning of Context Information**|Lai Qi et.al.|[2304.14114](http://arxiv.org/abs/2304.14114)|null|
+|**2023-04-27**|**ContraNeRF: 3D-Aware Generative Model via Contrastive Learning with Unsupervised Implicit Pose Embedding**|Mijeoong Kim et.al.|[2304.14005](http://arxiv.org/abs/2304.14005)|null|
+|**2023-04-26**|**MAPConNet: Self-supervised 3D Pose Transfer with Mesh and Point Contrastive Learning**|Jiaze Sun et.al.|[2304.13819](http://arxiv.org/abs/2304.13819)|**[link](https://github.com/justin941208/mapconnet)**|
 |**2023-04-26**|**HDR-VDP-3: A multi-metric for predicting image differences, quality and contrast distortions in high dynamic range and regular content**|Rafal K. Mantiuk et.al.|[2304.13625](http://arxiv.org/abs/2304.13625)|null|
 |**2023-04-26**|**Tissue Classification During Needle Insertion Using Self-Supervised Contrastive Learning and Optical Coherence Tomography**|Debayan Bhattacharya et.al.|[2304.13574](http://arxiv.org/abs/2304.13574)|null|
 |**2023-04-26**|**All Information is Necessary: Integrating Speech Positive and Negative Information by Contrastive Learning for Speech Enhancement**|Xinmeng Xu et.al.|[2304.13439](http://arxiv.org/abs/2304.13439)|null|
@@ -184,6 +190,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-25**|**When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability**|Sitao Luan et.al.|[2304.14274](http://arxiv.org/abs/2304.14274)|null|
+|**2023-04-27**|**Bitcoin Double-Spending Attack Detection using Graph Neural Network**|Changhoon Kang et.al.|[2304.13935](http://arxiv.org/abs/2304.13935)|null|
 |**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532](http://arxiv.org/abs/2304.13532)|null|
 |**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228](http://arxiv.org/abs/2304.12228)|null|
 |**2023-04-27**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534](http://arxiv.org/abs/2304.11534)|null|
