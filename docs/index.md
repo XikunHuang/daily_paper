@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.04.27
+## Updated on 2023.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -180,7 +180,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-04-26**|**SCV-GNN: Sparse Compressed Vector-based Graph Neural Network Aggregation**|Nanda K. Unnikrishnan et.al.|[2304.13532](http://arxiv.org/abs/2304.13532)|null|
 |**2023-04-24**|**Hierarchical Contrastive Learning Enhanced Heterogeneous Graph Neural Network**|Nian Liu et.al.|[2304.12228](http://arxiv.org/abs/2304.12228)|null|
-|**2023-04-23**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534](http://arxiv.org/abs/2304.11534)|null|
+|**2023-04-27**|**Graph Neural Networks for Text Classification: A Survey**|Kunze Wang et.al.|[2304.11534](http://arxiv.org/abs/2304.11534)|null|
 |**2023-04-23**|**Bi-Level Attention Graph Neural Networks**|Roshni G. Iyer et.al.|[2304.11533](http://arxiv.org/abs/2304.11533)|**[link](https://github.com/roshnigiyer/ba-gnn)**|
 |**2023-04-21**|**Convergence of Message Passing Graph Neural Networks with Generic Aggregation On Large Random Graphs**|Matthieu Cordonnier et.al.|[2304.11140](http://arxiv.org/abs/2304.11140)|null|
 |**2023-04-20**|**Decouple Graph Neural Networks: Train Multiple Simple GNNs Simultaneously Instead of One**|Hongyuan Zhang et.al.|[2304.10126](http://arxiv.org/abs/2304.10126)|null|
