@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-01**|**Effect of depolarizing and quenching collisions on contrast of the coherent population trapping resonance**|K. M. Sabakar et.al.|[2305.00761](http://arxiv.org/abs/2305.00761)|null|
+|**2023-05-01**|**Part Aware Contrastive Learning for Self-Supervised Action Recognition**|Yilei Hua et.al.|[2305.00666](http://arxiv.org/abs/2305.00666)|**[link](https://github.com/githubofhyl97/skeattnclr)**|
+|**2023-05-01**|**A Simplified Framework for Contrastive Learning for Node Representations**|Ilgee Hong et.al.|[2305.00623](http://arxiv.org/abs/2305.00623)|null|
+|**2023-04-30**|**Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization**|Xilie Xu et.al.|[2305.00374](http://arxiv.org/abs/2305.00374)|null|
+|**2023-04-29**|**Non-Linear Phase-Retrieval Algorithms for X-ray Propagation-Based Phase-Contrast Tomography**|K. Aditya Mohan et.al.|[2305.00334](http://arxiv.org/abs/2305.00334)|null|
+|**2023-04-29**|**X-ray Recognition: Patient identification from X-rays using a contrastive objective**|Hao Liang et.al.|[2305.00149](http://arxiv.org/abs/2305.00149)|null|
 |**2023-04-28**|**LostPaw: Finding Lost Pets using a Contrastive Learning-based Transformer with Visual Input**|Andrei Voinea et.al.|[2304.14765](http://arxiv.org/abs/2304.14765)|null|
 |**2023-04-28**|**Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation**|Hanwen Du et.al.|[2304.14668](http://arxiv.org/abs/2304.14668)|null|
 |**2023-04-27**|**CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants**|Albert Yu Sun et.al.|[2304.14364](http://arxiv.org/abs/2304.14364)|null|
@@ -186,6 +192,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-30**|**Nearly Optimal Steiner Trees using Graph Neural Network Assisted Monte Carlo Tree Search**|Reyan Ahmed et.al.|[2305.00535](http://arxiv.org/abs/2305.00535)|**[link](https://github.com/abureyanahmed/gnn-mcts-steiner)**|
+|**2023-04-29**|**Physics-Guided Graph Neural Networks for Real-time AC/DC Power Flow Analysis**|Mei Yang et.al.|[2305.00216](http://arxiv.org/abs/2305.00216)|null|
+|**2023-04-29**|**Leveraging Label Non-Uniformity for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2305.00139](http://arxiv.org/abs/2305.00139)|**[link](https://github.com/amblee0306/label-non-uniformity-gnn)**|
 |**2023-04-28**|**Learning Graph Neural Networks using Exact Compression**|Jeroen Bollen et.al.|[2304.14793](http://arxiv.org/abs/2304.14793)|null|
 |**2023-04-28**|**Graph Neural Networks on Factor Graphs for Robust, Fast, and Scalable Linear State Estimation with PMUs**|Ognjen Kundacina et.al.|[2304.14680](http://arxiv.org/abs/2304.14680)|null|
 |**2023-04-25**|**When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability**|Sitao Luan et.al.|[2304.14274](http://arxiv.org/abs/2304.14274)|null|
