@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Contrastive Speech Mixup for Low-resource Keyword Spotting**|Dianwen Ng et.al.|[2305.01170](http://arxiv.org/abs/2305.01170)|null|
+|**2023-05-01**|**CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations**|Gengchen Mai et.al.|[2305.01118](http://arxiv.org/abs/2305.01118)|null|
+|**2023-05-01**|**A Comprehensive Corpus Callosum Segmentation Tool for Detecting Callosal Abnormalities and Genetic Associations from Multi Contrast MRIs**|Shruti P. Gadewar et.al.|[2305.01107](http://arxiv.org/abs/2305.01107)|null|
+|**2023-05-02**|**TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis**|Mathis Petrovich et.al.|[2305.00976](http://arxiv.org/abs/2305.00976)|null|
 |**2023-05-01**|**Effect of depolarizing and quenching collisions on contrast of the coherent population trapping resonance**|K. M. Sabakar et.al.|[2305.00761](http://arxiv.org/abs/2305.00761)|null|
 |**2023-05-01**|**Part Aware Contrastive Learning for Self-Supervised Action Recognition**|Yilei Hua et.al.|[2305.00666](http://arxiv.org/abs/2305.00666)|**[link](https://github.com/githubofhyl97/skeattnclr)**|
 |**2023-05-01**|**A Simplified Framework for Contrastive Learning for Node Representations**|Ilgee Hong et.al.|[2305.00623](http://arxiv.org/abs/2305.00623)|null|
@@ -198,6 +202,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-02**|**Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks**|Philipp Christmann et.al.|[2305.01548](http://arxiv.org/abs/2305.01548)|null|
+|**2023-05-02**|**Analysis of different temporal graph neural network configurations on dynamic graphs**|Rishu Verma et.al.|[2305.01128](http://arxiv.org/abs/2305.01128)|null|
 |**2023-04-30**|**Nearly Optimal Steiner Trees using Graph Neural Network Assisted Monte Carlo Tree Search**|Reyan Ahmed et.al.|[2305.00535](http://arxiv.org/abs/2305.00535)|**[link](https://github.com/abureyanahmed/gnn-mcts-steiner)**|
 |**2023-04-29**|**Physics-Guided Graph Neural Networks for Real-time AC/DC Power Flow Analysis**|Mei Yang et.al.|[2305.00216](http://arxiv.org/abs/2305.00216)|null|
 |**2023-04-29**|**Leveraging Label Non-Uniformity for Node Classification in Graph Neural Networks**|Feng Ji et.al.|[2305.00139](http://arxiv.org/abs/2305.00139)|**[link](https://github.com/amblee0306/label-non-uniformity-gnn)**|
