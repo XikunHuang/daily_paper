@@ -1,4 +1,4 @@
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |**2023-04-30**|**Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization**|Xilie Xu et.al.|[2305.00374](http://arxiv.org/abs/2305.00374)|null|
 |**2023-04-29**|**Non-Linear Phase-Retrieval Algorithms for X-ray Propagation-Based Phase-Contrast Tomography**|K. Aditya Mohan et.al.|[2305.00334](http://arxiv.org/abs/2305.00334)|null|
 |**2023-04-29**|**X-ray Recognition: Patient identification from X-rays using a contrastive objective**|Hao Liang et.al.|[2305.00149](http://arxiv.org/abs/2305.00149)|null|
-|**2023-04-28**|**LostPaw: Finding Lost Pets using a Contrastive Learning-based Transformer with Visual Input**|Andrei Voinea et.al.|[2304.14765](http://arxiv.org/abs/2304.14765)|null|
+|**2023-04-28**|**LostPaw: Finding Lost Pets using a Contrastive Learning-based Transformer with Visual Input**|Andrei Voinea et.al.|[2304.14765](http://arxiv.org/abs/2304.14765)|**[link](https://github.com/vandrw/lostpaw-transformer)**|
 |**2023-04-28**|**Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation**|Hanwen Du et.al.|[2304.14668](http://arxiv.org/abs/2304.14668)|null|
 |**2023-04-27**|**CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants**|Albert Yu Sun et.al.|[2304.14364](http://arxiv.org/abs/2304.14364)|null|
 |**2023-04-27**|**High-contrast detection of exoplanets with a kernel-nuller at the VLTI**|Peter Marley Chingaipe et.al.|[2304.14193](http://arxiv.org/abs/2304.14193)|null|
@@ -192,7 +192,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
 
 ## GNN
 
@@ -282,5 +282,5 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230503>back to top</a>)</p>
 

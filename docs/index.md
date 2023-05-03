@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.02
+## Updated on 2023.05.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -15,7 +15,7 @@ layout: default
 |**2023-04-30**|**Enhancing Adversarial Contrastive Learning via Adversarial Invariant Regularization**|Xilie Xu et.al.|[2305.00374](http://arxiv.org/abs/2305.00374)|null|
 |**2023-04-29**|**Non-Linear Phase-Retrieval Algorithms for X-ray Propagation-Based Phase-Contrast Tomography**|K. Aditya Mohan et.al.|[2305.00334](http://arxiv.org/abs/2305.00334)|null|
 |**2023-04-29**|**X-ray Recognition: Patient identification from X-rays using a contrastive objective**|Hao Liang et.al.|[2305.00149](http://arxiv.org/abs/2305.00149)|null|
-|**2023-04-28**|**LostPaw: Finding Lost Pets using a Contrastive Learning-based Transformer with Visual Input**|Andrei Voinea et.al.|[2304.14765](http://arxiv.org/abs/2304.14765)|null|
+|**2023-04-28**|**LostPaw: Finding Lost Pets using a Contrastive Learning-based Transformer with Visual Input**|Andrei Voinea et.al.|[2304.14765](http://arxiv.org/abs/2304.14765)|**[link](https://github.com/vandrw/lostpaw-transformer)**|
 |**2023-04-28**|**Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation**|Hanwen Du et.al.|[2304.14668](http://arxiv.org/abs/2304.14668)|null|
 |**2023-04-27**|**CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants**|Albert Yu Sun et.al.|[2304.14364](http://arxiv.org/abs/2304.14364)|null|
 |**2023-04-27**|**High-contrast detection of exoplanets with a kernel-nuller at the VLTI**|Peter Marley Chingaipe et.al.|[2304.14193](http://arxiv.org/abs/2304.14193)|null|
