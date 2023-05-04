@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**Viscosity contrasts in the Venus mantle from tidal deformations**|Christelle Saliby et.al.|[2305.02278](http://arxiv.org/abs/2305.02278)|null|
+|**2023-05-03**|**Improving Contrastive Learning of Sentence Embeddings from AI Feedback**|Qinyuan Cheng et.al.|[2305.01918](http://arxiv.org/abs/2305.01918)|**[link](https://github.com/xiami2019/claif)**|
+|**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915](http://arxiv.org/abs/2305.01915)|null|
+|**2023-05-03**|**Convolutional neural network-based single-shot speckle tracking for x-ray phase-contrast imaging**|Serena Qinyun Z. Shi et.al.|[2305.01871](http://arxiv.org/abs/2305.01871)|null|
+|**2023-05-02**|**Cross-view Action Recognition via Contrastive View-invariant Representation**|Yuexi Zhang et.al.|[2305.01733](http://arxiv.org/abs/2305.01733)|null|
 |**2023-05-02**|**Contrastive Speech Mixup for Low-resource Keyword Spotting**|Dianwen Ng et.al.|[2305.01170](http://arxiv.org/abs/2305.01170)|null|
 |**2023-05-01**|**CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations**|Gengchen Mai et.al.|[2305.01118](http://arxiv.org/abs/2305.01118)|null|
 |**2023-05-01**|**A Comprehensive Corpus Callosum Segmentation Tool for Detecting Callosal Abnormalities and Genetic Associations from Multi Contrast MRIs**|Shruti P. Gadewar et.al.|[2305.01107](http://arxiv.org/abs/2305.01107)|null|
@@ -196,6 +201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-03**|**An Exploration of Conditioning Methods in Graph Neural Networks**|Yeskendir Koishekenov et.al.|[2305.01933](http://arxiv.org/abs/2305.01933)|**[link](https://github.com/yeskendirk/conditioning-gnns)**|
 |**2023-05-02**|**Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks**|Philipp Christmann et.al.|[2305.01548](http://arxiv.org/abs/2305.01548)|null|
 |**2023-05-02**|**Analysis of different temporal graph neural network configurations on dynamic graphs**|Rishu Verma et.al.|[2305.01128](http://arxiv.org/abs/2305.01128)|null|
 |**2023-04-30**|**Nearly Optimal Steiner Trees using Graph Neural Network Assisted Monte Carlo Tree Search**|Reyan Ahmed et.al.|[2305.00535](http://arxiv.org/abs/2305.00535)|**[link](https://github.com/abureyanahmed/gnn-mcts-steiner)**|
