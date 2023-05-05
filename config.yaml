@@ -22,6 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "Diffusion":
+        filters: ["diffusion"]
     "SSL":
         filters: ["contrastive"]
     "GNN":
