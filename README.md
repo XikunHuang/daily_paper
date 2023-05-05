@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Contrastive Mean Teacher for Domain Adaptive Object Detectors**|Shengcao Cao et.al.|[2305.03034](http://arxiv.org/abs/2305.03034)|null|
+|**2023-05-04**|**Forward-Forward Contrastive Learning**|Md. Atik Ahamed et.al.|[2305.02927](http://arxiv.org/abs/2305.02927)|null|
+|**2023-05-04**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
+|**2023-05-04**|**FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction**|Chen-Yu Lee et.al.|[2305.02549](http://arxiv.org/abs/2305.02549)|null|
+|**2023-05-04**|**Revisiting Graph Contrastive Learning for Anomaly Detection**|Zhiyuan Liu et.al.|[2305.02496](http://arxiv.org/abs/2305.02496)|**[link](https://github.com/liuyishoua/mag-framework)**|
+|**2023-05-03**|**Cross-Stream Contrastive Learning for Self-Supervised Skeleton-Based Action Recognition**|Ding Li et.al.|[2305.02324](http://arxiv.org/abs/2305.02324)|null|
 |**2023-05-03**|**Viscosity contrasts in the Venus mantle from tidal deformations**|Christelle Saliby et.al.|[2305.02278](http://arxiv.org/abs/2305.02278)|null|
 |**2023-05-04**|**Improving Contrastive Learning of Sentence Embeddings from AI Feedback**|Qinyuan Cheng et.al.|[2305.01918](http://arxiv.org/abs/2305.01918)|**[link](https://github.com/xiami2019/claif)**|
 |**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915](http://arxiv.org/abs/2305.01915)|null|
@@ -207,6 +213,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**Single Node Injection Label Specificity Attack on Graph Neural Networks via Reinforcement Learning**|Dayuan Chen et.al.|[2305.02901](http://arxiv.org/abs/2305.02901)|null|
+|**2023-05-04**|**In-situ Anomaly Detection in Additive Manufacturing with Graph Neural Networks**|Sebastian Larsen et.al.|[2305.02695](http://arxiv.org/abs/2305.02695)|null|
+|**2023-05-04**|**BitGNN: Unleashing the Performance Potential of Binary Graph Neural Networks on GPUs**|Jou-An Chen et.al.|[2305.02522](http://arxiv.org/abs/2305.02522)|null|
 |**2023-05-03**|**An Exploration of Conditioning Methods in Graph Neural Networks**|Yeskendir Koishekenov et.al.|[2305.01933](http://arxiv.org/abs/2305.01933)|**[link](https://github.com/yeskendirk/conditioning-gnns)**|
 |**2023-05-02**|**Explainable Conversational Question Answering over Heterogeneous Sources via Iterative Graph Neural Networks**|Philipp Christmann et.al.|[2305.01548](http://arxiv.org/abs/2305.01548)|null|
 |**2023-05-02**|**Analysis of different temporal graph neural network configurations on dynamic graphs**|Rishu Verma et.al.|[2305.01128](http://arxiv.org/abs/2305.01128)|null|
