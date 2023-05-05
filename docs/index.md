@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.04
+## Updated on 2023.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-03**|**Viscosity contrasts in the Venus mantle from tidal deformations**|Christelle Saliby et.al.|[2305.02278](http://arxiv.org/abs/2305.02278)|null|
-|**2023-05-03**|**Improving Contrastive Learning of Sentence Embeddings from AI Feedback**|Qinyuan Cheng et.al.|[2305.01918](http://arxiv.org/abs/2305.01918)|**[link](https://github.com/xiami2019/claif)**|
+|**2023-05-04**|**Improving Contrastive Learning of Sentence Embeddings from AI Feedback**|Qinyuan Cheng et.al.|[2305.01918](http://arxiv.org/abs/2305.01918)|**[link](https://github.com/xiami2019/claif)**|
 |**2023-05-03**|**Denoising Multi-modal Sequential Recommenders with Contrastive Learning**|Dong Yao et.al.|[2305.01915](http://arxiv.org/abs/2305.01915)|null|
 |**2023-05-03**|**Convolutional neural network-based single-shot speckle tracking for x-ray phase-contrast imaging**|Serena Qinyun Z. Shi et.al.|[2305.01871](http://arxiv.org/abs/2305.01871)|null|
 |**2023-05-02**|**Cross-view Action Recognition via Contrastive View-invariant Representation**|Yuexi Zhang et.al.|[2305.01733](http://arxiv.org/abs/2305.01733)|null|
