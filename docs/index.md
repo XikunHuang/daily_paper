@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.05
+## Updated on 2023.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -296,4 +296,19 @@ layout: default
 |**2023-03-10**|**Vertical Federated Graph Neural Network for Recommender System**|Peihua Mai et.al.|[2303.05786](http://arxiv.org/abs/2303.05786)|null|
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
+
+## Diffusion
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-04**|**Exciton Diffusion in a Quantum Dot Ensemble**|Karol Kawa et.al.|[2305.02905](http://arxiv.org/abs/2305.02905)|null|
+|**2023-05-04**|**On Vertically-Drifted First Arrival Position Distribution in Diffusion Channels**|Yen-Chi Lee et.al.|[2305.02706](http://arxiv.org/abs/2305.02706)|null|
+|**2023-05-04**|**Structural equation modeling with latent variables for diffusion processes and its application to sparse estimation**|Shogo Kusano et.al.|[2305.02655](http://arxiv.org/abs/2305.02655)|null|
+|**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
+|**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567](http://arxiv.org/abs/2305.02567)|null|
+|**2023-05-03**|**Diffuse and Localized Functional Dysconnectivity in Schizophrenia: a Bootstrapped Top-Down Approach**|Davide Coluzzi et.al.|[2305.02369](http://arxiv.org/abs/2305.02369)|null|
+|**2023-05-04**|**DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion**|Kiyohiro Nakayama et.al.|[2305.01921](http://arxiv.org/abs/2305.01921)|null|
+|**2023-05-04**|**The Impacts of Dimensionality, Diffusion, and Directedness on Intrinsic Cross-Model Simulation in Tile-Based Self-Assembly**|Daniel Hader et.al.|[2305.01877](http://arxiv.org/abs/2305.01877)|null|
+|**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
+|**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
