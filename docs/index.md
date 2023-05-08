@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-05**|**Contrastive Graph Clustering in Curvature Spaces**|Li Sun et.al.|[2305.03555](http://arxiv.org/abs/2305.03555)|null|
+|**2023-05-05**|**Contrastive Learning for Low-light Raw Denoising**|Taoyong Cui et.al.|[2305.03352](http://arxiv.org/abs/2305.03352)|null|
+|**2023-05-05**|**Contrastive Learning for Sleep Staging based on Inter Subject Correlation**|Tongxu Zhang et.al.|[2305.03178](http://arxiv.org/abs/2305.03178)|null|
+|**2023-05-04**|**Contrastive losses as generalized models of global epistasis**|David H. Brookes et.al.|[2305.03136](http://arxiv.org/abs/2305.03136)|null|
 |**2023-05-04**|**Contrastive Mean Teacher for Domain Adaptive Object Detectors**|Shengcao Cao et.al.|[2305.03034](http://arxiv.org/abs/2305.03034)|null|
 |**2023-05-04**|**Forward-Forward Contrastive Learning**|Md. Atik Ahamed et.al.|[2305.02927](http://arxiv.org/abs/2305.02927)|null|
 |**2023-05-04**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
@@ -207,6 +211,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-05**|**HiPool: Modeling Long Documents Using Graph Neural Networks**|Irene Li et.al.|[2305.03319](http://arxiv.org/abs/2305.03319)|**[link](https://github.com/irenezihuili/hipool)**|
+|**2023-05-04**|**Communication-Efficient Graph Neural Networks with Probabilistic Neighborhood Expansion Analysis and Caching**|Tim Kaler et.al.|[2305.03152](http://arxiv.org/abs/2305.03152)|**[link](https://github.com/mitibmxgraph/salient_plusplus_artifact)**|
 |**2023-05-04**|**Single Node Injection Label Specificity Attack on Graph Neural Networks via Reinforcement Learning**|Dayuan Chen et.al.|[2305.02901](http://arxiv.org/abs/2305.02901)|null|
 |**2023-05-04**|**In-situ Anomaly Detection in Additive Manufacturing with Graph Neural Networks**|Sebastian Larsen et.al.|[2305.02695](http://arxiv.org/abs/2305.02695)|null|
 |**2023-05-04**|**BitGNN: Unleashing the Performance Potential of Binary Graph Neural Networks on GPUs**|Jou-An Chen et.al.|[2305.02522](http://arxiv.org/abs/2305.02522)|null|
@@ -301,6 +307,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-05**|**Uniform convergence of Dyson Ferrari-Spohn diffusions to the Airy line ensemble**|Evgeni Dimitrov et.al.|[2305.03723](http://arxiv.org/abs/2305.03723)|null|
+|**2023-05-05**|**Reflection of a Diffuser in a Liquid Interface**|C. Silva et.al.|[2305.03682](http://arxiv.org/abs/2305.03682)|null|
+|**2023-05-05**|**Stochastic maximum principle for sub-diffusions and its applications**|Shuaiqi Zhang et.al.|[2305.03676](http://arxiv.org/abs/2305.03676)|null|
+|**2023-05-05**|**Conditional Diffusion Feature Refinement for Continuous Sign Language Recognition**|Leming Guo et.al.|[2305.03614](http://arxiv.org/abs/2305.03614)|null|
+|**2023-05-05**|**Iterative $α$ -(de)Blending: a Minimalist Deterministic Diffusion Model**|Eric Heitz et.al.|[2305.03486](http://arxiv.org/abs/2305.03486)|null|
+|**2023-05-05**|**Generative Steganography Diffusion**|Ping Wei et.al.|[2305.03472](http://arxiv.org/abs/2305.03472)|null|
+|**2023-05-05**|**Domain-agnostic segmentation of thalamic nuclei from joint structural and diffusion MRI**|Henry F. J. Tregidgo et.al.|[2305.03413](http://arxiv.org/abs/2305.03413)|null|
+|**2023-05-05**|**Reaction-diffusion transport into core-shell geometry: Well-posedness and stability of stationary solutions**|T. G. de Jong et.al.|[2305.03397](http://arxiv.org/abs/2305.03397)|null|
+|**2023-05-05**|**Guided Image Synthesis via Initial Image Editing in Diffusion Model**|Jiafeng Mao et.al.|[2305.03382](http://arxiv.org/abs/2305.03382)|null|
+|**2023-05-05**|**Investigating particle size effects on NMR spectra of ions diffusing in porous carbons through a mesoscopic model**|Anagha Sasikumar et.al.|[2305.03371](http://arxiv.org/abs/2305.03371)|null|
 |**2023-05-04**|**Exciton Diffusion in a Quantum Dot Ensemble**|Karol Kawa et.al.|[2305.02905](http://arxiv.org/abs/2305.02905)|null|
 |**2023-05-05**|**Capacity Bounds for Vertically-Drifted First Arrival Position Channels under a Second-Moment Constraint**|Yun-Feng Lo et.al.|[2305.02706](http://arxiv.org/abs/2305.02706)|null|
 |**2023-05-04**|**Structural equation modeling with latent variables for diffusion processes and its application to sparse estimation**|Shogo Kusano et.al.|[2305.02655](http://arxiv.org/abs/2305.02655)|null|
