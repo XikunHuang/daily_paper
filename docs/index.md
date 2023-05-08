@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.07
+## Updated on 2023.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -302,7 +302,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-04**|**Exciton Diffusion in a Quantum Dot Ensemble**|Karol Kawa et.al.|[2305.02905](http://arxiv.org/abs/2305.02905)|null|
-|**2023-05-04**|**On Vertically-Drifted First Arrival Position Distribution in Diffusion Channels**|Yen-Chi Lee et.al.|[2305.02706](http://arxiv.org/abs/2305.02706)|null|
+|**2023-05-05**|**Capacity Bounds for Vertically-Drifted First Arrival Position Channels under a Second-Moment Constraint**|Yun-Feng Lo et.al.|[2305.02706](http://arxiv.org/abs/2305.02706)|null|
 |**2023-05-04**|**Structural equation modeling with latent variables for diffusion processes and its application to sparse estimation**|Shogo Kusano et.al.|[2305.02655](http://arxiv.org/abs/2305.02655)|null|
 |**2023-05-04**|**Multimodal-driven Talking Face Generation, Face Swapping, Diffusion Model**|Chao Xu et.al.|[2305.02594](http://arxiv.org/abs/2305.02594)|null|
 |**2023-05-04**|**LayoutDM: Transformer-based Diffusion Model for Layout Generation**|Shang Chai et.al.|[2305.02567](http://arxiv.org/abs/2305.02567)|null|
