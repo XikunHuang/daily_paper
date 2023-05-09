@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**CSGCL: Community-Strength-Enhanced Graph Contrastive Learning**|Han Chen et.al.|[2305.04658](http://arxiv.org/abs/2305.04658)|**[link](https://github.com/hanchen-hust/csgcl)**|
+|**2023-05-08**|**Cone: Unsupervised Contrastive Opinion Extraction**|Runcong Zhao et.al.|[2305.04599](http://arxiv.org/abs/2305.04599)|**[link](https://github.com/blpxspg/cone)**|
+|**2023-05-08**|**SEGA: Structural Entropy Guided Anchor View for Graph Contrastive Learning**|Junran Wu et.al.|[2305.04501](http://arxiv.org/abs/2305.04501)|null|
+|**2023-05-08**|**Behavior Contrastive Learning for Unsupervised Skill Discovery**|Rushuai Yang et.al.|[2305.04477](http://arxiv.org/abs/2305.04477)|**[link](https://github.com/rooshy-yang/becl)**|
+|**2023-05-08**|**Vision Lanauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474](http://arxiv.org/abs/2305.04474)|null|
+|**2023-05-07**|**Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation**|Xinyu Du et.al.|[2305.04322](http://arxiv.org/abs/2305.04322)|**[link](https://github.com/sudaada/slime4rec)**|
+|**2023-05-06**|**PointCMP: Contrastive Mask Prediction for Self-supervised Learning on Point Cloud Videos**|Zhiqiang Shen et.al.|[2305.04075](http://arxiv.org/abs/2305.04075)|null|
+|**2023-05-06**|**Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**|Minyi Zhao et.al.|[2305.04072](http://arxiv.org/abs/2305.04072)|null|
+|**2023-05-06**|**Automated Spatio-Temporal Graph Contrastive Learning**|Qianru Zhang et.al.|[2305.03920](http://arxiv.org/abs/2305.03920)|**[link](https://github.com/hkuds/autost)**|
+|**2023-05-05**|**Revisiting contrast mechanism of lateral piezoresponse force microscopy**|Jaegyu Kim et.al.|[2305.03864](http://arxiv.org/abs/2305.03864)|null|
 |**2023-05-05**|**Contrastive Graph Clustering in Curvature Spaces**|Li Sun et.al.|[2305.03555](http://arxiv.org/abs/2305.03555)|null|
 |**2023-05-05**|**Contrastive Learning for Low-light Raw Denoising**|Taoyong Cui et.al.|[2305.03352](http://arxiv.org/abs/2305.03352)|null|
 |**2023-05-05**|**Contrastive Learning for Sleep Staging based on Inter Subject Correlation**|Tongxu Zhang et.al.|[2305.03178](http://arxiv.org/abs/2305.03178)|null|
@@ -211,6 +221,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**Can graph neural network-based detection mitigate the impact of hardware imperfections?**|Lamprini Mitsiou et.al.|[2305.04612](http://arxiv.org/abs/2305.04612)|null|
+|**2023-05-07**|**LSGNN: Towards General Graph Neural Network in Node Classification by Local Similarity**|Yuhan Chen et.al.|[2305.04225](http://arxiv.org/abs/2305.04225)|**[link](https://github.com/draym28/lsgnn)**|
+|**2023-05-06**|**Rhetorical Role Labeling of Legal Documents using Transformers and Graph Neural Networks**|Anshika Gupta et.al.|[2305.04100](http://arxiv.org/abs/2305.04100)|null|
 |**2023-05-05**|**HiPool: Modeling Long Documents Using Graph Neural Networks**|Irene Li et.al.|[2305.03319](http://arxiv.org/abs/2305.03319)|**[link](https://github.com/irenezihuili/hipool)**|
 |**2023-05-04**|**Communication-Efficient Graph Neural Networks with Probabilistic Neighborhood Expansion Analysis and Caching**|Tim Kaler et.al.|[2305.03152](http://arxiv.org/abs/2305.03152)|**[link](https://github.com/mitibmxgraph/salient_plusplus_artifact)**|
 |**2023-05-04**|**Single Node Injection Label Specificity Attack on Graph Neural Networks via Reinforcement Learning**|Dayuan Chen et.al.|[2305.02901](http://arxiv.org/abs/2305.02901)|null|
@@ -307,6 +320,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919](http://arxiv.org/abs/2305.04919)|null|
+|**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745](http://arxiv.org/abs/2305.04745)|null|
+|**2023-05-08**|**Hele-Shaw flow as a singular limit of a Keller-Segel system with nonlinear diffusion**|Antoine Mellet et.al.|[2305.04742](http://arxiv.org/abs/2305.04742)|null|
+|**2023-05-08**|**ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Shot Image Translation**|Yupei Lin et.al.|[2305.04651](http://arxiv.org/abs/2305.04651)|null|
+|**2023-05-08**|**Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**|Zhiyuan Zhang et.al.|[2305.04547](http://arxiv.org/abs/2305.04547)|null|
+|**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517](http://arxiv.org/abs/2305.04517)|null|
+|**2023-05-08**|**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**|Zecheng Tang et.al.|[2305.04465](http://arxiv.org/abs/2305.04465)|**[link](https://github.com/codinnlg/bridge_gap_diffusion)**|
+|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
+|**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457](http://arxiv.org/abs/2305.04457)|null|
+|**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441](http://arxiv.org/abs/2305.04441)|null|
 |**2023-05-05**|**Uniform convergence of Dyson Ferrari-Spohn diffusions to the Airy line ensemble**|Evgeni Dimitrov et.al.|[2305.03723](http://arxiv.org/abs/2305.03723)|null|
 |**2023-05-05**|**Reflection of a Diffuser in a Liquid Interface**|C. Silva et.al.|[2305.03682](http://arxiv.org/abs/2305.03682)|null|
 |**2023-05-05**|**Stochastic maximum principle for sub-diffusions and its applications**|Shuaiqi Zhang et.al.|[2305.03676](http://arxiv.org/abs/2305.03676)|null|
