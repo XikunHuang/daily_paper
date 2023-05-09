@@ -1,4 +1,4 @@
-## Updated on 2023.05.08
+## Updated on 2023.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,10 +17,10 @@
 |**2023-05-05**|**Contrastive Graph Clustering in Curvature Spaces**|Li Sun et.al.|[2305.03555](http://arxiv.org/abs/2305.03555)|null|
 |**2023-05-05**|**Contrastive Learning for Low-light Raw Denoising**|Taoyong Cui et.al.|[2305.03352](http://arxiv.org/abs/2305.03352)|null|
 |**2023-05-05**|**Contrastive Learning for Sleep Staging based on Inter Subject Correlation**|Tongxu Zhang et.al.|[2305.03178](http://arxiv.org/abs/2305.03178)|null|
-|**2023-05-04**|**Contrastive losses as generalized models of global epistasis**|David H. Brookes et.al.|[2305.03136](http://arxiv.org/abs/2305.03136)|null|
+|**2023-05-08**|**Contrastive losses as generalized models of global epistasis**|David H. Brookes et.al.|[2305.03136](http://arxiv.org/abs/2305.03136)|null|
 |**2023-05-04**|**Contrastive Mean Teacher for Domain Adaptive Object Detectors**|Shengcao Cao et.al.|[2305.03034](http://arxiv.org/abs/2305.03034)|null|
 |**2023-05-04**|**Forward-Forward Contrastive Learning**|Md. Atik Ahamed et.al.|[2305.02927](http://arxiv.org/abs/2305.02927)|null|
-|**2023-05-04**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
+|**2023-05-07**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
 |**2023-05-04**|**FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction**|Chen-Yu Lee et.al.|[2305.02549](http://arxiv.org/abs/2305.02549)|null|
 |**2023-05-04**|**Revisiting Graph Contrastive Learning for Anomaly Detection**|Zhiyuan Liu et.al.|[2305.02496](http://arxiv.org/abs/2305.02496)|**[link](https://github.com/liuyishoua/mag-framework)**|
 |**2023-05-03**|**Cross-Stream Contrastive Learning for Self-Supervised Skeleton-Based Action Recognition**|Ding Li et.al.|[2305.02324](http://arxiv.org/abs/2305.02324)|null|
@@ -212,7 +212,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
 
 ## GNN
 
@@ -310,7 +310,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
 
 ## Diffusion
 
@@ -337,5 +337,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.08
+## Updated on 2023.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -12,10 +12,10 @@ layout: default
 |**2023-05-05**|**Contrastive Graph Clustering in Curvature Spaces**|Li Sun et.al.|[2305.03555](http://arxiv.org/abs/2305.03555)|null|
 |**2023-05-05**|**Contrastive Learning for Low-light Raw Denoising**|Taoyong Cui et.al.|[2305.03352](http://arxiv.org/abs/2305.03352)|null|
 |**2023-05-05**|**Contrastive Learning for Sleep Staging based on Inter Subject Correlation**|Tongxu Zhang et.al.|[2305.03178](http://arxiv.org/abs/2305.03178)|null|
-|**2023-05-04**|**Contrastive losses as generalized models of global epistasis**|David H. Brookes et.al.|[2305.03136](http://arxiv.org/abs/2305.03136)|null|
+|**2023-05-08**|**Contrastive losses as generalized models of global epistasis**|David H. Brookes et.al.|[2305.03136](http://arxiv.org/abs/2305.03136)|null|
 |**2023-05-04**|**Contrastive Mean Teacher for Domain Adaptive Object Detectors**|Shengcao Cao et.al.|[2305.03034](http://arxiv.org/abs/2305.03034)|null|
 |**2023-05-04**|**Forward-Forward Contrastive Learning**|Md. Atik Ahamed et.al.|[2305.02927](http://arxiv.org/abs/2305.02927)|null|
-|**2023-05-04**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
+|**2023-05-07**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
 |**2023-05-04**|**FormNetV2: Multimodal Graph Contrastive Learning for Form Document Information Extraction**|Chen-Yu Lee et.al.|[2305.02549](http://arxiv.org/abs/2305.02549)|null|
 |**2023-05-04**|**Revisiting Graph Contrastive Learning for Anomaly Detection**|Zhiyuan Liu et.al.|[2305.02496](http://arxiv.org/abs/2305.02496)|**[link](https://github.com/liuyishoua/mag-framework)**|
 |**2023-05-03**|**Cross-Stream Contrastive Learning for Self-Supervised Skeleton-Based Action Recognition**|Ding Li et.al.|[2305.02324](http://arxiv.org/abs/2305.02324)|null|
