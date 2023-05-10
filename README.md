@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query**|Ho Hin Lee et.al.|[2305.05598](http://arxiv.org/abs/2305.05598)|null|
+|**2023-05-09**|**Traffic Forecasting on New Roads Unseen in the Training Data Using Spatial Contrastive Pre-Training**|Arian Prabowo et.al.|[2305.05237](http://arxiv.org/abs/2305.05237)|**[link](https://github.com/deepkashiwa20/dl-traff-graph)**|
+|**2023-05-09**|**Quantitative phase retrieval for Zernike phase-contrast microscopy**|Rikimaru Kurata et.al.|[2305.05156](http://arxiv.org/abs/2305.05156)|null|
 |**2023-05-08**|**CSGCL: Community-Strength-Enhanced Graph Contrastive Learning**|Han Chen et.al.|[2305.04658](http://arxiv.org/abs/2305.04658)|**[link](https://github.com/hanchen-hust/csgcl)**|
 |**2023-05-08**|**Cone: Unsupervised Contrastive Opinion Extraction**|Runcong Zhao et.al.|[2305.04599](http://arxiv.org/abs/2305.04599)|**[link](https://github.com/blpxspg/cone)**|
 |**2023-05-08**|**SEGA: Structural Entropy Guided Anchor View for Graph Contrastive Learning**|Junran Wu et.al.|[2305.04501](http://arxiv.org/abs/2305.04501)|null|
@@ -228,6 +231,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Graph Neural Networks for Airfoil Design**|Florent Bonnet et.al.|[2305.05469](http://arxiv.org/abs/2305.05469)|null|
+|**2023-05-09**|**PLM-GNN: A Webpage Classification Method based on Joint Pre-trained Language Model and Graph Neural Network**|Qiwei Lang et.al.|[2305.05378](http://arxiv.org/abs/2305.05378)|null|
+|**2023-05-09**|**Graph Neural Network-based surrogate model for granular flows**|Yongjin Choi et.al.|[2305.05218](http://arxiv.org/abs/2305.05218)|null|
+|**2023-05-09**|**Cooperating Graph Neural Networks with Deep Reinforcement Learning for Vaccine Prioritization**|Lu Ling et.al.|[2305.05163](http://arxiv.org/abs/2305.05163)|null|
+|**2023-05-08**|**From Relational Pooling to Subgraph GNNs: A Universal Framework for More Expressive Graph Neural Networks**|Cai Zhou et.al.|[2305.04963](http://arxiv.org/abs/2305.04963)|null|
+|**2023-05-07**|**Generative Pretrained Autoregressive Transformer Graph Neural Network applied to the Analysis and Discovery of Novel Proteins**|Markus J. Buehler et.al.|[2305.04934](http://arxiv.org/abs/2305.04934)|null|
 |**2023-05-08**|**Can graph neural network-based detection mitigate the impact of hardware imperfections?**|Lamprini Mitsiou et.al.|[2305.04612](http://arxiv.org/abs/2305.04612)|null|
 |**2023-05-07**|**LSGNN: Towards General Graph Neural Network in Node Classification by Local Similarity**|Yuhan Chen et.al.|[2305.04225](http://arxiv.org/abs/2305.04225)|**[link](https://github.com/draym28/lsgnn)**|
 |**2023-05-06**|**Rhetorical Role Labeling of Legal Documents using Transformers and Graph Neural Networks**|Anshika Gupta et.al.|[2305.04100](http://arxiv.org/abs/2305.04100)|null|
@@ -329,6 +338,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464](http://arxiv.org/abs/2305.05464)|**[link](https://github.com/haha-lisa/style-a-video)**|
+|**2023-05-09**|**Implicit-explicit Runge-Kutta for radiation hydrodynamics I: gray diffusion**|Ben S. Southworth et.al.|[2305.05452](http://arxiv.org/abs/2305.05452)|null|
+|**2023-05-09**|**Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation**|David Stojanovski et.al.|[2305.05424](http://arxiv.org/abs/2305.05424)|null|
+|**2023-05-09**|**Activity Induced Diffusion Recovery in Crowded Colloidal Suspension**|Arnab Maiti et.al.|[2305.05397](http://arxiv.org/abs/2305.05397)|null|
+|**2023-05-09**|**Measurement of ultra-high-energy diffuse gamma-ray emission of the Galactic plane from 10 TeV to 1 PeV with LHAASO-KM2A**|Zhen Cao et.al.|[2305.05372](http://arxiv.org/abs/2305.05372)|null|
+|**2023-05-09**|**An optimal-transport finite-particle method for mass diffusion**|Anna Pandolfi et.al.|[2305.05315](http://arxiv.org/abs/2305.05315)|null|
+|**2023-05-09**|**Concentration in an advection-diffusion model with diffusion coefficient depending on the past trajectory**|Cosmin Burtea et.al.|[2305.05251](http://arxiv.org/abs/2305.05251)|null|
+|**2023-05-09**|**SUR-adapter: Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models**|Shanshan Zhong et.al.|[2305.05189](http://arxiv.org/abs/2305.05189)|null|
+|**2023-05-09**|**Modeling Viral Information Spreading via Directed Acyclic Graph Diffusion**|Chinthaka Dinesh et.al.|[2305.05107](http://arxiv.org/abs/2305.05107)|null|
+|**2023-05-08**|**Atmospheric Turbulence Correction via Variational Deep Diffusion**|Xijun Wang et.al.|[2305.05077](http://arxiv.org/abs/2305.05077)|null|
 |**2023-05-08**|**DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models**|Sicheng Yang et.al.|[2305.04919](http://arxiv.org/abs/2305.04919)|null|
 |**2023-05-08**|**Controllable Light Diffusion for Portraits**|David Futschik et.al.|[2305.04745](http://arxiv.org/abs/2305.04745)|null|
 |**2023-05-08**|**Hele-Shaw flow as a singular limit of a Keller-Segel system with nonlinear diffusion**|Antoine Mellet et.al.|[2305.04742](http://arxiv.org/abs/2305.04742)|null|
