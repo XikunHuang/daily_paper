@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -13,7 +13,7 @@ layout: default
 |**2023-05-08**|**Cone: Unsupervised Contrastive Opinion Extraction**|Runcong Zhao et.al.|[2305.04599](http://arxiv.org/abs/2305.04599)|**[link](https://github.com/blpxspg/cone)**|
 |**2023-05-08**|**SEGA: Structural Entropy Guided Anchor View for Graph Contrastive Learning**|Junran Wu et.al.|[2305.04501](http://arxiv.org/abs/2305.04501)|null|
 |**2023-05-08**|**Behavior Contrastive Learning for Unsupervised Skill Discovery**|Rushuai Yang et.al.|[2305.04477](http://arxiv.org/abs/2305.04477)|**[link](https://github.com/rooshy-yang/becl)**|
-|**2023-05-08**|**Vision Lanauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474](http://arxiv.org/abs/2305.04474)|null|
+|**2023-05-09**|**Vision Langauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474](http://arxiv.org/abs/2305.04474)|null|
 |**2023-05-07**|**Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation**|Xinyu Du et.al.|[2305.04322](http://arxiv.org/abs/2305.04322)|**[link](https://github.com/sudaada/slime4rec)**|
 |**2023-05-06**|**PointCMP: Contrastive Mask Prediction for Self-supervised Learning on Point Cloud Videos**|Zhiqiang Shen et.al.|[2305.04075](http://arxiv.org/abs/2305.04075)|null|
 |**2023-05-06**|**Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**|Minyi Zhao et.al.|[2305.04072](http://arxiv.org/abs/2305.04072)|null|
@@ -327,7 +327,7 @@ layout: default
 |**2023-05-08**|**Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**|Zhiyuan Zhang et.al.|[2305.04547](http://arxiv.org/abs/2305.04547)|null|
 |**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517](http://arxiv.org/abs/2305.04517)|null|
 |**2023-05-08**|**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**|Zecheng Tang et.al.|[2305.04465](http://arxiv.org/abs/2305.04465)|**[link](https://github.com/codinnlg/bridge_gap_diffusion)**|
-|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
+|**2023-05-09**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
 |**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457](http://arxiv.org/abs/2305.04457)|null|
 |**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441](http://arxiv.org/abs/2305.04441)|null|
 |**2023-05-05**|**Uniform convergence of Dyson Ferrari-Spohn diffusions to the Airy line ensemble**|Evgeni Dimitrov et.al.|[2305.03723](http://arxiv.org/abs/2305.03723)|null|

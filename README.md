@@ -1,4 +1,4 @@
-## Updated on 2023.05.09
+## Updated on 2023.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |**2023-05-08**|**Cone: Unsupervised Contrastive Opinion Extraction**|Runcong Zhao et.al.|[2305.04599](http://arxiv.org/abs/2305.04599)|**[link](https://github.com/blpxspg/cone)**|
 |**2023-05-08**|**SEGA: Structural Entropy Guided Anchor View for Graph Contrastive Learning**|Junran Wu et.al.|[2305.04501](http://arxiv.org/abs/2305.04501)|null|
 |**2023-05-08**|**Behavior Contrastive Learning for Unsupervised Skill Discovery**|Rushuai Yang et.al.|[2305.04477](http://arxiv.org/abs/2305.04477)|**[link](https://github.com/rooshy-yang/becl)**|
-|**2023-05-08**|**Vision Lanauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474](http://arxiv.org/abs/2305.04474)|null|
+|**2023-05-09**|**Vision Langauge Pre-training by Contrastive Learning with Cross-Modal Similarity Regulation**|Chaoya Jiang et.al.|[2305.04474](http://arxiv.org/abs/2305.04474)|null|
 |**2023-05-07**|**Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation**|Xinyu Du et.al.|[2305.04322](http://arxiv.org/abs/2305.04322)|**[link](https://github.com/sudaada/slime4rec)**|
 |**2023-05-06**|**PointCMP: Contrastive Mask Prediction for Self-supervised Learning on Point Cloud Videos**|Zhiqiang Shen et.al.|[2305.04075](http://arxiv.org/abs/2305.04075)|null|
 |**2023-05-06**|**Keyword-Based Diverse Image Retrieval by Semantics-aware Contrastive Learning and Transformer**|Minyi Zhao et.al.|[2305.04072](http://arxiv.org/abs/2305.04072)|null|
@@ -222,7 +222,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
 
 ## GNN
 
@@ -323,7 +323,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
 
 ## Diffusion
 
@@ -336,7 +336,7 @@
 |**2023-05-08**|**Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous Dimensions in Pre-trained Language Models Caused by Backdoor or Bias**|Zhiyuan Zhang et.al.|[2305.04547](http://arxiv.org/abs/2305.04547)|null|
 |**2023-05-08**|**DiffBFR: Bootstrapping Diffusion Model Towards Blind Face Restoration**|Xinmin Qiu et.al.|[2305.04517](http://arxiv.org/abs/2305.04517)|null|
 |**2023-05-08**|**Can Diffusion Model Achieve Better Performance in Text Generation? Bridging the Gap between Training and Inference!**|Zecheng Tang et.al.|[2305.04465](http://arxiv.org/abs/2305.04465)|**[link](https://github.com/codinnlg/bridge_gap_diffusion)**|
-|**2023-05-08**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
+|**2023-05-09**|**Locally Attentional SDF Diffusion for Controllable 3D Shape Generation**|Xin-Yang Zheng et.al.|[2305.04461](http://arxiv.org/abs/2305.04461)|null|
 |**2023-05-08**|**Real-World Denoising via Diffusion Model**|Cheng Yang et.al.|[2305.04457](http://arxiv.org/abs/2305.04457)|null|
 |**2023-05-08**|**Prompt Tuning Inversion for Text-Driven Image Editing Using Diffusion Models**|Wenkai Dong et.al.|[2305.04441](http://arxiv.org/abs/2305.04441)|null|
 |**2023-05-05**|**Uniform convergence of Dyson Ferrari-Spohn diffusions to the Airy line ensemble**|Evgeni Dimitrov et.al.|[2305.03723](http://arxiv.org/abs/2305.03723)|null|
@@ -360,5 +360,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230509>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230510>back to top</a>)</p>
 
