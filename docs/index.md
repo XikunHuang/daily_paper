@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Weakly-supervised ROI extraction method based on contrastive learning for remote sensing images**|Lingfeng He et.al.|[2305.05887](http://arxiv.org/abs/2305.05887)|**[link](https://github.com/he-lingfeng/roi-extraction)**|
+|**2023-05-10**|**Inclusive FinTech Lending via Contrastive Learning and Domain Adaptation**|Xiyang Hu et.al.|[2305.05827](http://arxiv.org/abs/2305.05827)|null|
 |**2023-05-09**|**Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query**|Ho Hin Lee et.al.|[2305.05598](http://arxiv.org/abs/2305.05598)|null|
 |**2023-05-09**|**Traffic Forecasting on New Roads Unseen in the Training Data Using Spatial Contrastive Pre-Training**|Arian Prabowo et.al.|[2305.05237](http://arxiv.org/abs/2305.05237)|**[link](https://github.com/deepkashiwa20/dl-traff-graph)**|
 |**2023-05-09**|**Quantitative phase retrieval for Zernike phase-contrast microscopy**|Rikimaru Kurata et.al.|[2305.05156](http://arxiv.org/abs/2305.05156)|null|
@@ -224,6 +226,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Feature Expansion for Graph Neural Networks**|Jiaqi Sun et.al.|[2305.06142](http://arxiv.org/abs/2305.06142)|null|
+|**2023-05-10**|**Graph Neural Networks and 3-Dimensional Topology**|Pavel Putrov et.al.|[2305.05966](http://arxiv.org/abs/2305.05966)|**[link](https://github.com/songjin91/learningplumbings)**|
+|**2023-05-10**|**Unraveling the MEV Enigma: ABI-Free Detection Model using Graph Neural Networks**|Seongwan Park et.al.|[2305.05952](http://arxiv.org/abs/2305.05952)|null|
+|**2023-05-10**|**Dual Intent Enhanced Graph Neural Network for Session-based New Item Recommendation**|Di Jin et.al.|[2305.05848](http://arxiv.org/abs/2305.05848)|**[link](https://github.com/ee1s/nirgnn)**|
 |**2023-05-09**|**Graph Neural Networks for Airfoil Design**|Florent Bonnet et.al.|[2305.05469](http://arxiv.org/abs/2305.05469)|null|
 |**2023-05-09**|**PLM-GNN: A Webpage Classification Method based on Joint Pre-trained Language Model and Graph Neural Network**|Qiwei Lang et.al.|[2305.05378](http://arxiv.org/abs/2305.05378)|null|
 |**2023-05-09**|**Graph Neural Network-based surrogate model for granular flows**|Yongjin Choi et.al.|[2305.05218](http://arxiv.org/abs/2305.05218)|null|
@@ -329,6 +335,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-10**|**Crank-Nicolson schemes for sub-diffusion equations with nonsingular and singular source terms in time**|Han Zhou et.al.|[2305.06138](http://arxiv.org/abs/2305.06138)|null|
+|**2023-05-10**|**Relightify: Relightable 3D Faces from a Single Image via Diffusion Models**|Foivos Paraperas Papantoniou et.al.|[2305.06077](http://arxiv.org/abs/2305.06077)|null|
+|**2023-05-10**|**Dissipation and diffusion in one-dimensional solids**|Harshitra Mahalingam et.al.|[2305.06027](http://arxiv.org/abs/2305.06027)|null|
+|**2023-05-10**|**Multi-Hill Strategy in Metadynamics for Interstitial Diffusion in Crystals**|Kazuaki Toyoura et.al.|[2305.05978](http://arxiv.org/abs/2305.05978)|null|
+|**2023-05-10**|**On the impact of noise on quennching for a nonlocal diffusion model driven by a mixture of Brownian and fractional Brownian motions**|Nikos I. Kavallaris et.al.|[2305.05946](http://arxiv.org/abs/2305.05946)|null|
+|**2023-05-10**|**Diffusion-based Signal Refiner for Speech Enhancement**|Masato Hirano et.al.|[2305.05857](http://arxiv.org/abs/2305.05857)|null|
+|**2023-05-09**|**DifFIQA: Face Image Quality Assessment Using Denoising Diffusion Probabilistic Models**|Žiga Babnik et.al.|[2305.05768](http://arxiv.org/abs/2305.05768)|null|
+|**2023-05-09**|**Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling**|Hildeberto Jardón-Kojakhmetov et.al.|[2305.05747](http://arxiv.org/abs/2305.05747)|null|
 |**2023-05-09**|**Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer**|Nisha Huang et.al.|[2305.05464](http://arxiv.org/abs/2305.05464)|**[link](https://github.com/haha-lisa/style-a-video)**|
 |**2023-05-09**|**Implicit-explicit Runge-Kutta for radiation hydrodynamics I: gray diffusion**|Ben S. Southworth et.al.|[2305.05452](http://arxiv.org/abs/2305.05452)|null|
 |**2023-05-09**|**Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation**|David Stojanovski et.al.|[2305.05424](http://arxiv.org/abs/2305.05424)|null|
