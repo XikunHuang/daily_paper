@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction**|Xinyi Wang et.al.|[2305.06616](http://arxiv.org/abs/2305.06616)|**[link](https://github.com/nju-websoft/sckd)**|
+|**2023-05-10**|**LACoS-BLOOM: Low-rank Adaptation with Contrastive objective on 8 bits Siamese-BLOOM**|Wen-Yu Hua et.al.|[2305.06404](http://arxiv.org/abs/2305.06404)|null|
 |**2023-05-10**|**Weakly-supervised ROI extraction method based on contrastive learning for remote sensing images**|Lingfeng He et.al.|[2305.05887](http://arxiv.org/abs/2305.05887)|**[link](https://github.com/he-lingfeng/roi-extraction)**|
 |**2023-05-10**|**Inclusive FinTech Lending via Contrastive Learning and Domain Adaptation**|Xiyang Hu et.al.|[2305.05827](http://arxiv.org/abs/2305.05827)|null|
 |**2023-05-09**|**Region-based Contrastive Pretraining for Medical Image Retrieval with Anatomic Query**|Ho Hin Lee et.al.|[2305.05598](http://arxiv.org/abs/2305.05598)|null|
@@ -233,6 +235,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**How Expressive are Spectral-Temporal Graph Neural Networks for Time Series Forecasting?**|Ming Jin et.al.|[2305.06587](http://arxiv.org/abs/2305.06587)|null|
+|**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398](http://arxiv.org/abs/2305.06398)|**[link](https://github.com/jvasso/graph-rl4adaptive-learning)**|
 |**2023-05-10**|**Feature Expansion for Graph Neural Networks**|Jiaqi Sun et.al.|[2305.06142](http://arxiv.org/abs/2305.06142)|null|
 |**2023-05-10**|**Graph Neural Networks and 3-Dimensional Topology**|Pavel Putrov et.al.|[2305.05966](http://arxiv.org/abs/2305.05966)|**[link](https://github.com/songjin91/learningplumbings)**|
 |**2023-05-10**|**Unraveling the MEV Enigma: ABI-Free Detection Model using Graph Neural Networks**|Seongwan Park et.al.|[2305.05952](http://arxiv.org/abs/2305.05952)|null|
@@ -344,6 +348,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015](http://arxiv.org/abs/2305.07015)|null|
+|**2023-05-11**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948](http://arxiv.org/abs/2305.06948)|null|
+|**2023-05-11**|**Quantum reaction-limited reaction-diffusion dynamics of annihilation processes**|Gabriele Perfetto et.al.|[2305.06944](http://arxiv.org/abs/2305.06944)|null|
+|**2023-05-11**|**Multigrid preconditioning of singularly perturbed convection-diffusion equations**|M. Shahid et.al.|[2305.06823](http://arxiv.org/abs/2305.06823)|null|
+|**2023-05-11**|**Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models**|Sojung Go et.al.|[2305.06813](http://arxiv.org/abs/2305.06813)|null|
+|**2023-05-11**|**Null-text Guidance in Diffusion Models is Secretly a Cartoon-style Creator**|Jing Zhao et.al.|[2305.06710](http://arxiv.org/abs/2305.06710)|null|
+|**2023-05-11**|**Large Deviation Principles of Stochastic Reaction-Diffusion Lattice Systems**|Bixiang Wang et.al.|[2305.06510](http://arxiv.org/abs/2305.06510)|null|
+|**2023-05-10**|**Analyzing Bias in Diffusion-based Face Generation Models**|Malsha V. Perera et.al.|[2305.06402](http://arxiv.org/abs/2305.06402)|null|
+|**2023-05-10**|**The Next Generation Virgo Cluster Survey (NGVS). XXXV. First Kinematical Clues of Overly-Massive Dark Matter Halos in Several Ultra-Diffuse Galaxies in the Virgo Cluster**|Elisa Toloba et.al.|[2305.06369](http://arxiv.org/abs/2305.06369)|null|
 |**2023-05-10**|**Crank-Nicolson schemes for sub-diffusion equations with nonsingular and singular source terms in time**|Han Zhou et.al.|[2305.06138](http://arxiv.org/abs/2305.06138)|null|
 |**2023-05-10**|**Relightify: Relightable 3D Faces from a Single Image via Diffusion Models**|Foivos Paraperas Papantoniou et.al.|[2305.06077](http://arxiv.org/abs/2305.06077)|null|
 |**2023-05-10**|**Dissipation and diffusion in one-dimensional solids**|Harshitra Mahalingam et.al.|[2305.06027](http://arxiv.org/abs/2305.06027)|null|
