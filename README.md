@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding**|Hongliang He et.al.|[2305.07424](http://arxiv.org/abs/2305.07424)|null|
+|**2023-05-12**|**Surfacing Biases in Large Language Models using Contrastive Input Decoding**|Gal Yona et.al.|[2305.07378](http://arxiv.org/abs/2305.07378)|null|
+|**2023-05-11**|**Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild**|Ting Wu et.al.|[2305.07085](http://arxiv.org/abs/2305.07085)|null|
 |**2023-05-11**|**Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction**|Xinyi Wang et.al.|[2305.06616](http://arxiv.org/abs/2305.06616)|**[link](https://github.com/nju-websoft/sckd)**|
 |**2023-05-10**|**LACoS-BLOOM: Low-rank Adaptation with Contrastive objective on 8 bits Siamese-BLOOM**|Wen-Yu Hua et.al.|[2305.06404](http://arxiv.org/abs/2305.06404)|null|
 |**2023-05-10**|**Weakly-supervised ROI extraction method based on contrastive learning for remote sensing images**|Lingfeng He et.al.|[2305.05887](http://arxiv.org/abs/2305.05887)|**[link](https://github.com/he-lingfeng/roi-extraction)**|
@@ -235,6 +238,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-11**|**Graph Neural Network for Accurate and Low-complexity SAR ATR**|Bingyi Zhang et.al.|[2305.07119](http://arxiv.org/abs/2305.07119)|null|
 |**2023-05-11**|**How Expressive are Spectral-Temporal Graph Neural Networks for Time Series Forecasting?**|Ming Jin et.al.|[2305.06587](http://arxiv.org/abs/2305.06587)|null|
 |**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398](http://arxiv.org/abs/2305.06398)|**[link](https://github.com/jvasso/graph-rl4adaptive-learning)**|
 |**2023-05-10**|**Feature Expansion for Graph Neural Networks**|Jiaqi Sun et.al.|[2305.06142](http://arxiv.org/abs/2305.06142)|null|
@@ -348,6 +352,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-12**|**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images**|Muhammad Usman Akbar et.al.|[2305.07644](http://arxiv.org/abs/2305.07644)|null|
+|**2023-05-12**|**Sound waves, diffusive transport, and wall slip in nanoconfined compressible fluids**|Hannes Holey et.al.|[2305.07501](http://arxiv.org/abs/2305.07501)|null|
+|**2023-05-12**|**Synchronization of phase oscillators due to nonlocal coupling mediated by the slow diffusion of a substance**|Pedro Haerter et.al.|[2305.07471](http://arxiv.org/abs/2305.07471)|null|
+|**2023-05-12**|**Experimental optimization of lensless digital holographic microscopy with rotating diffuser-based coherent noise reduction**|Piotr Arcab et.al.|[2305.07373](http://arxiv.org/abs/2305.07373)|null|
+|**2023-05-12**|**Tamed-adaptive Euler-Maruyama approximation for SDEs with superlinearly growing and piecewise continuous drift, superlinearly growing and locally Hölder continuous diffusion**|Minh-Thang Do et.al.|[2305.07298](http://arxiv.org/abs/2305.07298)|null|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015](http://arxiv.org/abs/2305.07015)|null|
 |**2023-05-12**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948](http://arxiv.org/abs/2305.06948)|null|
 |**2023-05-11**|**Quantum reaction-limited reaction-diffusion dynamics of annihilation processes**|Gabriele Perfetto et.al.|[2305.06944](http://arxiv.org/abs/2305.06944)|null|
