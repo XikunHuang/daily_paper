@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.14
+## Updated on 2023.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -340,7 +340,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-11**|**Exploiting Diffusion Prior for Real-World Image Super-Resolution**|Jianyi Wang et.al.|[2305.07015](http://arxiv.org/abs/2305.07015)|null|
-|**2023-05-11**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948](http://arxiv.org/abs/2305.06948)|null|
+|**2023-05-12**|**Galactic diffuse gamma-ray emission from GeV to PeV energies in light of up-to-date cosmic ray measurements**|Rui Zhang et.al.|[2305.06948](http://arxiv.org/abs/2305.06948)|null|
 |**2023-05-11**|**Quantum reaction-limited reaction-diffusion dynamics of annihilation processes**|Gabriele Perfetto et.al.|[2305.06944](http://arxiv.org/abs/2305.06944)|null|
 |**2023-05-11**|**Multigrid preconditioning of singularly perturbed convection-diffusion equations**|M. Shahid et.al.|[2305.06823](http://arxiv.org/abs/2305.06823)|null|
 |**2023-05-11**|**Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models**|Sojung Go et.al.|[2305.06813](http://arxiv.org/abs/2305.06813)|null|
