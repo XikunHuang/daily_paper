@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Learning Better Contrastive View from Radiologist's Gaze**|Sheng Wang et.al.|[2305.08826](http://arxiv.org/abs/2305.08826)|null|
+|**2023-05-15**|**Preparing an unsupervised massive analysis of SPHERE high contrast data with the PACO algorithm**|A. Chomez et.al.|[2305.08766](http://arxiv.org/abs/2305.08766)|null|
+|**2023-05-15**|**Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation**|Fangwen Wu et.al.|[2305.08491](http://arxiv.org/abs/2305.08491)|null|
+|**2023-05-15**|**"Nothing Abnormal": Disambiguating Medical Reports via Contrastive Knowledge Infusion**|Zexue He et.al.|[2305.08300](http://arxiv.org/abs/2305.08300)|null|
+|**2023-05-14**|**Distinguish Before Answer: Generating Contrastive Explanation as Knowledge for Commonsense Question Answering**|Qianglong Chen et.al.|[2305.08135](http://arxiv.org/abs/2305.08135)|null|
+|**2023-05-13**|**RC3: Regularized Contrastive Cross-lingual Cross-modal Pre-training**|Chulun Zhou et.al.|[2305.07927](http://arxiv.org/abs/2305.07927)|null|
+|**2023-05-13**|**Contrastive Domain Generalization via Logit Attribution Matching**|Han Gao et.al.|[2305.07888](http://arxiv.org/abs/2305.07888)|null|
 |**2023-05-12**|**Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding**|Hongliang He et.al.|[2305.07424](http://arxiv.org/abs/2305.07424)|**[link](https://github.com/dll-wu/is-cse)**|
 |**2023-05-12**|**Surfacing Biases in Large Language Models using Contrastive Input Decoding**|Gal Yona et.al.|[2305.07378](http://arxiv.org/abs/2305.07378)|null|
 |**2023-05-11**|**Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild**|Ting Wu et.al.|[2305.07085](http://arxiv.org/abs/2305.07085)|null|
@@ -231,6 +238,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction**|Ziyuan Zhao et.al.|[2305.08316](http://arxiv.org/abs/2305.08316)|null|
+|**2023-05-14**|**Decoupled Graph Neural Networks for Large Dynamic Graphs**|Yanping Zheng et.al.|[2305.08273](http://arxiv.org/abs/2305.08273)|null|
+|**2023-05-14**|**TSGN: Temporal Scene Graph Neural Networks with Projected Vectorized Representation for Multi-Agent Motion Prediction**|Yunong Wu et.al.|[2305.08190](http://arxiv.org/abs/2305.08190)|null|
+|**2023-05-14**|**Towards Understanding the Generalization of Graph Neural Networks**|Huayi Tang et.al.|[2305.08048](http://arxiv.org/abs/2305.08048)|null|
+|**2023-05-12**|**Predicting COVID-19 pandemic by spatio-temporal graph neural networks: A New Zealand's study**|Viet Bach Nguyen et.al.|[2305.07731](http://arxiv.org/abs/2305.07731)|**[link](https://github.com/hysonlab/pandemic_tgnn)**|
 |**2023-05-11**|**Graph Neural Network for Accurate and Low-complexity SAR ATR**|Bingyi Zhang et.al.|[2305.07119](http://arxiv.org/abs/2305.07119)|null|
 |**2023-05-11**|**How Expressive are Spectral-Temporal Graph Neural Networks for Time Series Forecasting?**|Ming Jin et.al.|[2305.06587](http://arxiv.org/abs/2305.06587)|null|
 |**2023-05-10**|**Towards Scalable Adaptive Learning with Graph Neural Networks and Reinforcement Learning**|Jean Vassoyan et.al.|[2305.06398](http://arxiv.org/abs/2305.06398)|**[link](https://github.com/jvasso/graph-rl4adaptive-learning)**|
@@ -343,6 +355,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|
+|**2023-05-15**|**Atomistic mechanisms underlying the maximum in diffusivity in doped Li $_7$La$_3$Zr$_2$O$_{12}$**|Juan C. Verduzco et.al.|[2305.08839](http://arxiv.org/abs/2305.08839)|null|
+|**2023-05-15**|**Diffusion-weighted SPECIAL improves the detection of J-coupled metabolites at ultra-high magnetic field**|Jessie Mosso et.al.|[2305.08708](http://arxiv.org/abs/2305.08708)|null|
+|**2023-05-15**|**A Reproducible Extraction of Training Images from Diffusion Models**|Ryan Webster et.al.|[2305.08694](http://arxiv.org/abs/2305.08694)|**[link](https://github.com/ryanwebster90/onestep-extraction)**|
+|**2023-05-15**|**In-plane thermal diffusivity determination using beam-offset frequency-domain thermoreflectance with a one-dimensional optical heat source**|Kai Xu et.al.|[2305.08564](http://arxiv.org/abs/2305.08564)|null|
+|**2023-05-15**|**Random walks and moving boundaries: Estimating the penetration of diffusants into dense rubbers**|Surendra Nepal et.al.|[2305.08520](http://arxiv.org/abs/2305.08520)|null|
+|**2023-05-15**|**Higher-order Maxwell-Stefan model of diffusion**|Bérénice Grec et.al.|[2305.08412](http://arxiv.org/abs/2305.08412)|null|
+|**2023-05-15**|**TESS: Text-to-Text Self-Conditioned Simplex Diffusion**|Rabeeh Karimi Mahabadi et.al.|[2305.08379](http://arxiv.org/abs/2305.08379)|null|
+|**2023-05-14**|**Diffusion Models for Imperceptible and Transferable Adversarial Attack**|Jianqi Chen et.al.|[2305.08192](http://arxiv.org/abs/2305.08192)|**[link](https://github.com/windvchen/diffattack)**|
+|**2023-05-14**|**Meta-DM: Applications of Diffusion Models on Few-Shot Learning**|Wentao Hu et.al.|[2305.08092](http://arxiv.org/abs/2305.08092)|null|
 |**2023-05-12**|**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain tumor images**|Muhammad Usman Akbar et.al.|[2305.07644](http://arxiv.org/abs/2305.07644)|null|
 |**2023-05-12**|**Sound waves, diffusive transport, and wall slip in nanoconfined compressible fluids**|Hannes Holey et.al.|[2305.07501](http://arxiv.org/abs/2305.07501)|null|
 |**2023-05-12**|**Synchronization of phase oscillators due to nonlocal coupling mediated by the slow diffusion of a substance**|Pedro Haerter et.al.|[2305.07471](http://arxiv.org/abs/2305.07471)|null|
