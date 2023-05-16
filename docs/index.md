@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.05.15
+## Updated on 2023.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-12**|**Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding**|Hongliang He et.al.|[2305.07424](http://arxiv.org/abs/2305.07424)|null|
+|**2023-05-12**|**Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding**|Hongliang He et.al.|[2305.07424](http://arxiv.org/abs/2305.07424)|**[link](https://github.com/dll-wu/is-cse)**|
 |**2023-05-12**|**Surfacing Biases in Large Language Models using Contrastive Input Decoding**|Gal Yona et.al.|[2305.07378](http://arxiv.org/abs/2305.07378)|null|
 |**2023-05-11**|**Enhancing Contrastive Learning with Noise-Guided Attack: Towards Continual Relation Extraction in the Wild**|Ting Wu et.al.|[2305.07085](http://arxiv.org/abs/2305.07085)|null|
 |**2023-05-11**|**Serial Contrastive Knowledge Distillation for Continual Few-shot Relation Extraction**|Xinyi Wang et.al.|[2305.06616](http://arxiv.org/abs/2305.06616)|**[link](https://github.com/nju-websoft/sckd)**|
