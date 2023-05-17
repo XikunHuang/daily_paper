@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Contrastive Label Enhancement**|Yifei Wang et.al.|[2305.09500](http://arxiv.org/abs/2305.09500)|null|
+|**2023-05-16**|**UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning**|Heqing Zou et.al.|[2305.09299](http://arxiv.org/abs/2305.09299)|null|
+|**2023-05-16**|**ContrastNet: A Contrastive Learning Framework for Few-Shot Text Classification**|Junfan Chen et.al.|[2305.09269](http://arxiv.org/abs/2305.09269)|null|
+|**2023-05-15**|**Exploiting high-contrast Stokes preconditioners to efficiently solve incompressible fluid-structure interaction problems**|Michał Wichrowski et.al.|[2305.08986](http://arxiv.org/abs/2305.08986)|null|
+|**2023-05-14**|**Model-driven CT reconstruction algorithm for nano-resolution X-ray phase contrast imaging**|Xuebao Cai et.al.|[2305.08882](http://arxiv.org/abs/2305.08882)|null|
 |**2023-05-15**|**Learning Better Contrastive View from Radiologist's Gaze**|Sheng Wang et.al.|[2305.08826](http://arxiv.org/abs/2305.08826)|**[link](https://github.com/jamesqfreeman/miceye)**|
 |**2023-05-15**|**Preparing an unsupervised massive analysis of SPHERE high contrast data with the PACO algorithm**|A. Chomez et.al.|[2305.08766](http://arxiv.org/abs/2305.08766)|null|
 |**2023-05-15**|**Masked Collaborative Contrast for Weakly Supervised Semantic Segmentation**|Fangwen Wu et.al.|[2305.08491](http://arxiv.org/abs/2305.08491)|null|
@@ -245,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585](http://arxiv.org/abs/2305.09585)|null|
 |**2023-05-15**|**SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction**|Ziyuan Zhao et.al.|[2305.08316](http://arxiv.org/abs/2305.08316)|null|
 |**2023-05-14**|**Decoupled Graph Neural Networks for Large Dynamic Graphs**|Yanping Zheng et.al.|[2305.08273](http://arxiv.org/abs/2305.08273)|null|
 |**2023-05-14**|**TSGN: Temporal Scene Graph Neural Networks with Projected Vectorized Representation for Multi-Agent Motion Prediction**|Yunong Wu et.al.|[2305.08190](http://arxiv.org/abs/2305.08190)|null|
@@ -364,6 +370,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605](http://arxiv.org/abs/2305.09605)|null|
+|**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515](http://arxiv.org/abs/2305.09515)|null|
+|**2023-05-16**|**Discrete Diffusion Probabilistic Models for Symbolic Music Generation**|Matthias Plasser et.al.|[2305.09489](http://arxiv.org/abs/2305.09489)|null|
+|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447](http://arxiv.org/abs/2305.09447)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-16**|**Diffusion Dataset Generation: Towards Closing the Sim2Real Gap for Pedestrian Detection**|Andrew Farley et.al.|[2305.09401](http://arxiv.org/abs/2305.09401)|null|
+|**2023-05-16**|**AMD Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381](http://arxiv.org/abs/2305.09381)|null|
+|**2023-05-16**|**Two-species reaction-diffusion system in the presence of random velocity fluctuations**|Michal Hnatič et.al.|[2305.09350](http://arxiv.org/abs/2305.09350)|null|
+|**2023-05-16**|**Diffusion of intruders in granular suspensions: Enskog theory and random walk interpretation**|Rubén Gómez González et.al.|[2305.09259](http://arxiv.org/abs/2305.09259)|null|
+|**2023-05-16**|**CDDM: Channel Denoising Diffusion Models for Wireless Communications**|Tong Wu et.al.|[2305.09161](http://arxiv.org/abs/2305.09161)|null|
+|**2023-05-16**|**A deep learning method for multi-material diffusion problems based on physics-informed neural networks**|Yanzhong Yao et.al.|[2305.09125](http://arxiv.org/abs/2305.09125)|null|
 |**2023-05-15**|**Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**|Antoni Bigata Casademunt et.al.|[2305.08854](http://arxiv.org/abs/2305.08854)|null|
 |**2023-05-15**|**Atomistic mechanisms underlying the maximum in diffusivity in doped Li $_7$La$_3$Zr$_2$O$_{12}$**|Juan C. Verduzco et.al.|[2305.08839](http://arxiv.org/abs/2305.08839)|null|
 |**2023-05-15**|**Diffusion-weighted SPECIAL improves the detection of J-coupled metabolites at ultra-high magnetic field**|Jessie Mosso et.al.|[2305.08708](http://arxiv.org/abs/2305.08708)|null|
