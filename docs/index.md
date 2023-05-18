@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.17
+## Updated on 2023.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -11,8 +11,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-16**|**Contrastive Label Enhancement**|Yifei Wang et.al.|[2305.09500](http://arxiv.org/abs/2305.09500)|null|
 |**2023-05-16**|**UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning**|Heqing Zou et.al.|[2305.09299](http://arxiv.org/abs/2305.09299)|null|
-|**2023-05-16**|**ContrastNet: A Contrastive Learning Framework for Few-Shot Text Classification**|Junfan Chen et.al.|[2305.09269](http://arxiv.org/abs/2305.09269)|null|
-|**2023-05-15**|**Exploiting high-contrast Stokes preconditioners to efficiently solve incompressible fluid-structure interaction problems**|Michał Wichrowski et.al.|[2305.08986](http://arxiv.org/abs/2305.08986)|null|
+|**2023-05-16**|**ContrastNet: A Contrastive Learning Framework for Few-Shot Text Classification**|Junfan Chen et.al.|[2305.09269](http://arxiv.org/abs/2305.09269)|**[link](https://github.com/BDBC-KG-NLP/AAAI2022_ContrastNet)**|
+|**2023-05-17**|**Exploiting high-contrast Stokes preconditioners to efficiently solve incompressible fluid-structure interaction problems**|Michał Wichrowski et.al.|[2305.08986](http://arxiv.org/abs/2305.08986)|null|
 |**2023-05-14**|**Model-driven CT reconstruction algorithm for nano-resolution X-ray phase contrast imaging**|Xuebao Cai et.al.|[2305.08882](http://arxiv.org/abs/2305.08882)|null|
 |**2023-05-15**|**Learning Better Contrastive View from Radiologist's Gaze**|Sheng Wang et.al.|[2305.08826](http://arxiv.org/abs/2305.08826)|**[link](https://github.com/jamesqfreeman/miceye)**|
 |**2023-05-15**|**Preparing an unsupervised massive analysis of SPHERE high contrast data with the PACO algorithm**|A. Chomez et.al.|[2305.08766](http://arxiv.org/abs/2305.08766)|null|
@@ -363,10 +363,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605](http://arxiv.org/abs/2305.09605)|null|
 |**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515](http://arxiv.org/abs/2305.09515)|null|
-|**2023-05-16**|**Discrete Diffusion Probabilistic Models for Symbolic Music Generation**|Matthias Plasser et.al.|[2305.09489](http://arxiv.org/abs/2305.09489)|null|
-|**2023-05-16**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447](http://arxiv.org/abs/2305.09447)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
+|**2023-05-16**|**Discrete Diffusion Probabilistic Models for Symbolic Music Generation**|Matthias Plasser et.al.|[2305.09489](http://arxiv.org/abs/2305.09489)|**[link](https://github.com/plassma/symbolic-music-discrete-diffusion)**|
+|**2023-05-17**|**Multi-Level Global Context Cross Consistency Model for Semi-Supervised Ultrasound Image Segmentation with Diffusion Model**|Fenghe Tang et.al.|[2305.09447](http://arxiv.org/abs/2305.09447)|**[link](https://github.com/FengheTan9/Multi-Level-Global-Context-Cross-Consistency)**|
 |**2023-05-16**|**Diffusion Dataset Generation: Towards Closing the Sim2Real Gap for Pedestrian Detection**|Andrew Farley et.al.|[2305.09401](http://arxiv.org/abs/2305.09401)|null|
-|**2023-05-16**|**AMD Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381](http://arxiv.org/abs/2305.09381)|null|
+|**2023-05-17**|**AMD: Autoregressive Motion Diffusion**|Bo Han et.al.|[2305.09381](http://arxiv.org/abs/2305.09381)|null|
 |**2023-05-16**|**Two-species reaction-diffusion system in the presence of random velocity fluctuations**|Michal Hnatič et.al.|[2305.09350](http://arxiv.org/abs/2305.09350)|null|
 |**2023-05-16**|**Diffusion of intruders in granular suspensions: Enskog theory and random walk interpretation**|Rubén Gómez González et.al.|[2305.09259](http://arxiv.org/abs/2305.09259)|null|
 |**2023-05-16**|**CDDM: Channel Denoising Diffusion Models for Wireless Communications**|Tong Wu et.al.|[2305.09161](http://arxiv.org/abs/2305.09161)|null|
