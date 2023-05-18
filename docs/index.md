@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**From Region to Patch: Attribute-Aware Foreground-Background Contrastive Learning for Fine-Grained Fashion Retrieval**|Jianfeng Dong et.al.|[2305.10260](http://arxiv.org/abs/2305.10260)|null|
+|**2023-05-17**|**Exploring Inductive Biases in Contrastive Learning: A Clustering Perspective**|Yunzhe Zhang et.al.|[2305.10229](http://arxiv.org/abs/2305.10229)|null|
+|**2023-05-16**|**Distilling Semantic Concept Embeddings from Contrastively Fine-Tuned Language Models**|Na Li et.al.|[2305.09785](http://arxiv.org/abs/2305.09785)|**[link](https://github.com/lina-luck/semantic_concept_embeddings)**|
 |**2023-05-16**|**Contrastive Label Enhancement**|Yifei Wang et.al.|[2305.09500](http://arxiv.org/abs/2305.09500)|null|
 |**2023-05-16**|**UniS-MMC: Multimodal Classification via Unimodality-supervised Multimodal Contrastive Learning**|Heqing Zou et.al.|[2305.09299](http://arxiv.org/abs/2305.09299)|null|
 |**2023-05-16**|**ContrastNet: A Contrastive Learning Framework for Few-Shot Text Classification**|Junfan Chen et.al.|[2305.09269](http://arxiv.org/abs/2305.09269)|**[link](https://github.com/BDBC-KG-NLP/AAAI2022_ContrastNet)**|
@@ -243,6 +246,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**Predicting Tweet Engagement with Graph Neural Networks**|Marco Arazzi et.al.|[2305.10103](http://arxiv.org/abs/2305.10103)|**[link](https://github.com/ocram17/engagementgnn)**|
+|**2023-05-17**|**SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation**|Haoyu Liu et.al.|[2305.09958](http://arxiv.org/abs/2305.09958)|null|
+|**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729](http://arxiv.org/abs/2305.09729)|**[link](https://github.com/cynricfu/fedhgn)**|
+|**2023-05-16**|**Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting**|Guojun Liang et.al.|[2305.09703](http://arxiv.org/abs/2305.09703)|**[link](https://github.com/gorgen2020/dvgnn)**|
 |**2023-05-16**|**Inductive Graph Neural Networks for Moving Object Segmentation**|Wieke Prummel et.al.|[2305.09585](http://arxiv.org/abs/2305.09585)|null|
 |**2023-05-15**|**SemiGNN-PPI: Self-Ensembling Multi-Graph Neural Network for Efficient and Generalizable Protein-Protein Interaction Prediction**|Ziyuan Zhao et.al.|[2305.08316](http://arxiv.org/abs/2305.08316)|null|
 |**2023-05-14**|**Decoupled Graph Neural Networks for Large Dynamic Graphs**|Yanping Zheng et.al.|[2305.08273](http://arxiv.org/abs/2305.08273)|null|
@@ -361,6 +368,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399](http://arxiv.org/abs/2305.10399)|null|
+|**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388](http://arxiv.org/abs/2305.10388)|null|
+|**2023-05-17**|**Baryon diffusion coefficient of the strongly interacting medium**|Tribhuban Parida et.al.|[2305.10371](http://arxiv.org/abs/2305.10371)|null|
+|**2023-05-17**|**Unstable cosmic-ray nuclei constrain low-diffusion zones in the Galactic disk**|Hanno Jacobs et.al.|[2305.10337](http://arxiv.org/abs/2305.10337)|null|
+|**2023-05-17**|**Controllable Mind Visual Diffusion Model**|Bohan Zeng et.al.|[2305.10135](http://arxiv.org/abs/2305.10135)|null|
+|**2023-05-17**|**Pyramid Diffusion Models For Low-light Image Enhancement**|Dewei Zhou et.al.|[2305.10028](http://arxiv.org/abs/2305.10028)|**[link](https://github.com/limuloo/pydiff)**|
+|**2023-05-16**|**Selective Guidance: Are All the Denoising Steps of Guided Diffusion Important?**|Pareesa Ameneh Golnari et.al.|[2305.09847](http://arxiv.org/abs/2305.09847)|null|
+|**2023-05-16**|**The Diffuse Ionized Gas of the Large Magellanic Cloud**|B. M. Smart et.al.|[2305.09829](http://arxiv.org/abs/2305.09829)|null|
+|**2023-05-16**|**Fast-reaction limits for predator--prey reaction--diffusion systems: improved convergence**|Cinzia Soresina et.al.|[2305.09775](http://arxiv.org/abs/2305.09775)|null|
 |**2023-05-16**|**Expressiveness Remarks for Denoising Diffusion Models and Samplers**|Francisco Vargas et.al.|[2305.09605](http://arxiv.org/abs/2305.09605)|null|
 |**2023-05-16**|**AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation**|Tong Wu et.al.|[2305.09515](http://arxiv.org/abs/2305.09515)|null|
 |**2023-05-16**|**Discrete Diffusion Probabilistic Models for Symbolic Music Generation**|Matthias Plasser et.al.|[2305.09489](http://arxiv.org/abs/2305.09489)|**[link](https://github.com/plassma/symbolic-music-discrete-diffusion)**|
