@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081](http://arxiv.org/abs/2305.11081)|**[link](https://github.com/hn-rs/csa)**|
+|**2023-05-18**|**Is Our Organization Actually Measuring Productivity? How Contrasting Organizational and Individual Measures of Engineering Success is an Opportunity to Drive Engineering Transformation**|Carol S. Lee et.al.|[2305.11030](http://arxiv.org/abs/2305.11030)|null|
+|**2023-05-18**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837](http://arxiv.org/abs/2305.10837)|**[link](https://github.com/zzmeei/adaptivegcl)**|
+|**2023-05-18**|**GraphMoco:a Graph Momentum Contrast Model that Using Multimodel Structure Information for Large-scale Binary Function Representation Learning**|Sun RuiJin et.al.|[2305.10826](http://arxiv.org/abs/2305.10826)|null|
+|**2023-05-18**|**CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-training**|Zhenhui Ye et.al.|[2305.10763](http://arxiv.org/abs/2305.10763)|null|
+|**2023-05-18**|**Noise-aware Speech Separation with Contrastive Learning**|Zizheng Zhang et.al.|[2305.10761](http://arxiv.org/abs/2305.10761)|null|
+|**2023-05-18**|**Vision-Language Pre-training with Object Contrastive Learning for 3D Scene Understanding**|Taolin Zhang et.al.|[2305.10714](http://arxiv.org/abs/2305.10714)|null|
+|**2023-05-18**|**Tuned Contrastive Learning**|Chaitanya Animesh et.al.|[2305.10675](http://arxiv.org/abs/2305.10675)|null|
+|**2023-05-18**|**Speech Separation based on Contrastive Learning and Deep Modularization**|Peter Ochieng et.al.|[2305.10652](http://arxiv.org/abs/2305.10652)|null|
+|**2023-05-17**|**Investigating the Effect of Hard Negative Sample Distribution on Contrastive Knowledge Graph Embedding**|Honggen Zhang et.al.|[2305.10563](http://arxiv.org/abs/2305.10563)|null|
 |**2023-05-17**|**From Region to Patch: Attribute-Aware Foreground-Background Contrastive Learning for Fine-Grained Fashion Retrieval**|Jianfeng Dong et.al.|[2305.10260](http://arxiv.org/abs/2305.10260)|null|
 |**2023-05-17**|**Exploring Inductive Biases in Contrastive Learning: A Clustering Perspective**|Yunzhe Zhang et.al.|[2305.10229](http://arxiv.org/abs/2305.10229)|null|
 |**2023-05-16**|**Distilling Semantic Concept Embeddings from Contrastively Fine-Tuned Language Models**|Na Li et.al.|[2305.09785](http://arxiv.org/abs/2305.09785)|**[link](https://github.com/lina-luck/semantic_concept_embeddings)**|
@@ -246,6 +256,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**Extracting Low-/High- Frequency Knowledge from Graph Neural Networks and Injecting it into MLPs: An Effective GNN-to-MLP Distillation Framework**|Lirong Wu et.al.|[2305.10758](http://arxiv.org/abs/2305.10758)|**[link](https://github.com/lirongwu/ff-g2m)**|
 |**2023-05-17**|**Predicting Tweet Engagement with Graph Neural Networks**|Marco Arazzi et.al.|[2305.10103](http://arxiv.org/abs/2305.10103)|**[link](https://github.com/ocram17/engagementgnn)**|
 |**2023-05-17**|**SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation**|Haoyu Liu et.al.|[2305.09958](http://arxiv.org/abs/2305.09958)|**[link](https://github.com/conferencescode/simga)**|
 |**2023-05-16**|**FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks**|Xinyu Fu et.al.|[2305.09729](http://arxiv.org/abs/2305.09729)|**[link](https://github.com/cynricfu/fedhgn)**|
@@ -368,6 +379,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147](http://arxiv.org/abs/2305.11147)|null|
+|**2023-05-18**|**Stability of the surface diffusion flow and volume-preserving mean curvature flow in the flat torus**|Daniele De Gennaro et.al.|[2305.11100](http://arxiv.org/abs/2305.11100)|null|
+|**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089](http://arxiv.org/abs/2305.11089)|**[link](https://github.com/lanl/blackout-diffusion)**|
+|**2023-05-18**|**Conditions for existence and uniqueness of the inverse first-passage time problem applicable for Lévy processes and diffusions**|Alexander Klump et.al.|[2305.10967](http://arxiv.org/abs/2305.10967)|null|
+|**2023-05-18**|**Unsupervised Pansharpening via Low-rank Diffusion Model**|Xiangyu Rui et.al.|[2305.10925](http://arxiv.org/abs/2305.10925)|**[link](https://github.com/xyrui/plrdiff)**|
+|**2023-05-18**|**Structural Pruning for Diffusion Models**|Gongfan Fang et.al.|[2305.10924](http://arxiv.org/abs/2305.10924)|**[link](https://github.com/vainf/diff-pruning)**|
+|**2023-05-18**|**Diffusion-Based Mel-Spectrogram Enhancement for Personalized Speech Synthesis with Found Data**|Yusheng Tian et.al.|[2305.10891](http://arxiv.org/abs/2305.10891)|null|
+|**2023-05-18**|**VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation**|Wenjing Wang et.al.|[2305.10874](http://arxiv.org/abs/2305.10874)|null|
+|**2023-05-18**|**TextDiffuser: Diffusion Models as Text Painters**|Jingye Chen et.al.|[2305.10855](http://arxiv.org/abs/2305.10855)|**[link](https://github.com/microsoft/unilm/tree/master/textdiffuser)**|
+|**2023-05-18**|**LDM3D: Latent Diffusion Model for 3D**|Gabriela Ben Melech Stan et.al.|[2305.10853](http://arxiv.org/abs/2305.10853)|null|
 |**2023-05-17**|**End-To-End Latent Variational Diffusion Models for Inverse Problems in High Energy Physics**|Alexander Shmakov et.al.|[2305.10399](http://arxiv.org/abs/2305.10399)|null|
 |**2023-05-17**|**Raising the Bar for Certified Adversarial Robustness with Diffusion Models**|Thomas Altstidl et.al.|[2305.10388](http://arxiv.org/abs/2305.10388)|null|
 |**2023-05-17**|**Baryon diffusion coefficient of the strongly interacting medium**|Tribhuban Parida et.al.|[2305.10371](http://arxiv.org/abs/2305.10371)|null|
