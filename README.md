@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**ImSimCSE: Improving Contrastive Learning for Sentence Embeddings from Two Perspectives**|Jiahao Xu et.al.|[2305.13192](http://arxiv.org/abs/2305.13192)|null|
+|**2023-05-22**|**Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning**|Xiaoxiao Sheng et.al.|[2305.12959](http://arxiv.org/abs/2305.12959)|null|
+|**2023-05-22**|**uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering**|Jae-woong Lee et.al.|[2305.12768](http://arxiv.org/abs/2305.12768)|null|
+|**2023-05-21**|**Contrastive Learning with Logic-driven Data Augmentation for Logical Reasoning over Text**|Qiming Bao et.al.|[2305.12599](http://arxiv.org/abs/2305.12599)|**[link](https://github.com/strong-ai-lab/logical-equivalence-driven-amr-data-augmentation-for-representation-learning)**|
+|**2023-05-21**|**Many or Few Samples? Comparing Transfer, Contrastive and Meta-Learning in Encrypted Traffic Classification**|Idio Guarino et.al.|[2305.12432](http://arxiv.org/abs/2305.12432)|null|
+|**2023-05-20**|**Contrastive inverse regression for dimension reduction**|Sam Hawke et.al.|[2305.12287](http://arxiv.org/abs/2305.12287)|null|
+|**2023-05-20**|**Joint Generative-Contrastive Representation Learning for Anomalous Sound Detection**|Xiao-Min Zeng et.al.|[2305.12111](http://arxiv.org/abs/2305.12111)|null|
+|**2023-05-19**|**Not All Semantics are Created Equal: Contrastive Self-supervised Learning with Automatic Temperature Individualization**|Zi-Hao Qiu et.al.|[2305.11965](http://arxiv.org/abs/2305.11965)|null|
+|**2023-05-19**|**Towards understanding neural collapse in supervised contrastive learning with the information bottleneck method**|Siwei Wang et.al.|[2305.11957](http://arxiv.org/abs/2305.11957)|null|
+|**2023-05-19**|**Quantifying stimulus-relevant representational drift using cross-modality contrastive learning**|Siwei Wang et.al.|[2305.11953](http://arxiv.org/abs/2305.11953)|null|
 |**2023-05-19**|**Enhancing Personalized Dialogue Generation with Contrastive Latent Variables: Combining Sparse and Dense Persona**|Yihong Tang et.al.|[2305.11482](http://arxiv.org/abs/2305.11482)|null|
 |**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081](http://arxiv.org/abs/2305.11081)|**[link](https://github.com/hn-rs/csa)**|
 |**2023-05-19**|**Is Our Organization Actually Measuring Productivity? How Contrasting Organizational and Individual Measures of Engineering Success is an Opportunity to Drive Engineering Transformation**|Carol S. Lee et.al.|[2305.11030](http://arxiv.org/abs/2305.11030)|null|
@@ -264,6 +274,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**Causal-Based Supervision of Attention in Graph Neural Network: A Better and Simpler Choice towards Powerful Attention**|Hongjun Wang et.al.|[2305.13115](http://arxiv.org/abs/2305.13115)|null|
+|**2023-05-22**|**DEGREE: Decomposition Based Explanation For Graph Neural Networks**|Qizhang Feng et.al.|[2305.12895](http://arxiv.org/abs/2305.12895)|**[link](https://github.com/Qizhang-Feng/DEGREE)**|
+|**2023-05-22**|**Accelerating Graph Neural Networks via Edge Pruning for Power Allocation in Wireless Networks**|Lili Chen et.al.|[2305.12639](http://arxiv.org/abs/2305.12639)|null|
+|**2023-05-21**|**Self-Explainable Graph Neural Networks for Link Prediction**|Huaisheng Zhu et.al.|[2305.12578](http://arxiv.org/abs/2305.12578)|null|
+|**2023-05-19**|**Learning for Open-World Calibration with Graph Neural Networks**|Qin Zhang et.al.|[2305.12039](http://arxiv.org/abs/2305.12039)|null|
 |**2023-05-18**|**Extracting Low-/High- Frequency Knowledge from Graph Neural Networks and Injecting it into MLPs: An Effective GNN-to-MLP Distillation Framework**|Lirong Wu et.al.|[2305.10758](http://arxiv.org/abs/2305.10758)|**[link](https://github.com/lirongwu/ff-g2m)**|
 |**2023-05-17**|**Predicting Tweet Engagement with Graph Neural Networks**|Marco Arazzi et.al.|[2305.10103](http://arxiv.org/abs/2305.10103)|**[link](https://github.com/ocram17/engagementgnn)**|
 |**2023-05-17**|**SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation**|Haoyu Liu et.al.|[2305.09958](http://arxiv.org/abs/2305.09958)|**[link](https://github.com/conferencescode/simga)**|
@@ -389,6 +404,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
+|**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308](http://arxiv.org/abs/2305.13308)|null|
+|**2023-05-22**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
+|**2023-05-22**|**DiffusionNER: Boundary Diffusion for Named Entity Recognition**|Yongliang Shen et.al.|[2305.13298](http://arxiv.org/abs/2305.13298)|**[link](https://github.com/tricktreat/diffusionner)**|
+|**2023-05-22**|**GSURE-Based Diffusion Model Training with Corrupted Data**|Bahjat Kawar et.al.|[2305.13128](http://arxiv.org/abs/2305.13128)|**[link](https://github.com/bahjat-kawar/gsure-diffusion)**|
+|**2023-05-22**|**Policy Representation via Diffusion Probability Model for Reinforcement Learning**|Long Yang et.al.|[2305.13122](http://arxiv.org/abs/2305.13122)|**[link](https://github.com/bellmantimehut/dipo)**|
+|**2023-05-22**|**AudioToken: Adaptation of Text-Conditioned Diffusion Models for Audio-to-Image Generation**|Guy Yariv et.al.|[2305.13050](http://arxiv.org/abs/2305.13050)|**[link](https://github.com/guyyariv/AudioToken)**|
+|**2023-05-22**|**Macroscopic diffusive fluctuations for generalized hard rods dynamics**|Pablo A. Ferrari et.al.|[2305.13037](http://arxiv.org/abs/2305.13037)|null|
+|**2023-05-22**|**Hierarchical Integration Diffusion Model for Realistic Image Deblurring**|Zheng Chen et.al.|[2305.12966](http://arxiv.org/abs/2305.12966)|null|
+|**2023-05-22**|**Is Synthetic Data From Diffusion Models Ready for Knowledge Distillation?**|Zheng Li et.al.|[2305.12954](http://arxiv.org/abs/2305.12954)|**[link](https://github.com/zhengli97/dm-kd)**|
 |**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870](http://arxiv.org/abs/2305.11870)|null|
 |**2023-05-19**|**Any-to-Any Generation via Composable Diffusion**|Zineng Tang et.al.|[2305.11846](http://arxiv.org/abs/2305.11846)|**[link](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)**|
 |**2023-05-19**|**Efficient Cross-Lingual Transfer for Chinese Stable Diffusion with Images as Pivots**|Jinyi Hu et.al.|[2305.11540](http://arxiv.org/abs/2305.11540)|null|
