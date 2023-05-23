@@ -1,4 +1,4 @@
-## Updated on 2023.05.22
+## Updated on 2023.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Enhancing Personalized Dialogue Generation with Contrastive Latent Variables: Combining Sparse and Dense Persona**|Yihong Tang et.al.|[2305.11482](http://arxiv.org/abs/2305.11482)|null|
 |**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081](http://arxiv.org/abs/2305.11081)|**[link](https://github.com/hn-rs/csa)**|
 |**2023-05-19**|**Is Our Organization Actually Measuring Productivity? How Contrasting Organizational and Individual Measures of Engineering Success is an Opportunity to Drive Engineering Transformation**|Carol S. Lee et.al.|[2305.11030](http://arxiv.org/abs/2305.11030)|null|
 |**2023-05-18**|**Adaptive Graph Contrastive Learning for Recommendation**|Yangqin Jiang et.al.|[2305.10837](http://arxiv.org/abs/2305.10837)|**[link](https://github.com/zzmeei/adaptivegcl)**|
@@ -257,7 +258,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
 ## GNN
 
@@ -382,12 +383,21 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-19**|**Chupa: Carving 3D Clothed Humans from Skinned Shape Priors using 2D Diffusion Probabilistic Models**|Byungjun Kim et.al.|[2305.11870](http://arxiv.org/abs/2305.11870)|null|
+|**2023-05-19**|**Any-to-Any Generation via Composable Diffusion**|Zineng Tang et.al.|[2305.11846](http://arxiv.org/abs/2305.11846)|**[link](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)**|
+|**2023-05-19**|**Efficient Cross-Lingual Transfer for Chinese Stable Diffusion with Images as Pivots**|Jinyi Hu et.al.|[2305.11540](http://arxiv.org/abs/2305.11540)|null|
+|**2023-05-19**|**Late-Constraint Diffusion Guidance for Controllable Image Synthesis**|Chang Liu et.al.|[2305.11520](http://arxiv.org/abs/2305.11520)|null|
+|**2023-05-19**|**DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion**|Chao-Hong Tan et.al.|[2305.11517](http://arxiv.org/abs/2305.11517)|null|
+|**2023-05-19**|**Accelerating Convergence in Global Non-Convex Optimization with Reversible Diffusion**|Ryo Fujino et.al.|[2305.11493](http://arxiv.org/abs/2305.11493)|null|
+|**2023-05-19**|**Incomplete Multi-view Clustering via Diffusion Completion**|Sifan Fang et.al.|[2305.11489](http://arxiv.org/abs/2305.11489)|null|
+|**2023-05-19**|**A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model**|Ibrahim Malik et.al.|[2305.11413](http://arxiv.org/abs/2305.11413)|null|
+|**2023-05-18**|**SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models**|Ziyi Wu et.al.|[2305.11281](http://arxiv.org/abs/2305.11281)|null|
 |**2023-05-18**|**UniControl: A Unified Diffusion Model for Controllable Visual Generation In the Wild**|Can Qin et.al.|[2305.11147](http://arxiv.org/abs/2305.11147)|null|
 |**2023-05-18**|**Stability of the surface diffusion flow and volume-preserving mean curvature flow in the flat torus**|Daniele De Gennaro et.al.|[2305.11100](http://arxiv.org/abs/2305.11100)|null|
 |**2023-05-18**|**Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces**|Javier E Santos et.al.|[2305.11089](http://arxiv.org/abs/2305.11089)|**[link](https://github.com/lanl/blackout-diffusion)**|
@@ -490,5 +500,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230522>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230523>back to top</a>)</p>
 
