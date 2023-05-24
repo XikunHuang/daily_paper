@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321](http://arxiv.org/abs/2305.14321)|**[link](https://github.com/wwbrannon/congrat)**|
+|**2023-05-23**|**Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding**|Yu Zhang et.al.|[2305.14232](http://arxiv.org/abs/2305.14232)|null|
+|**2023-05-23**|**Strong attentional modulation of V1/V2 activity implements a robust, contrast-invariant control mechanism for selective information processing**|Lukas-Paul Rausch et.al.|[2305.14153](http://arxiv.org/abs/2305.14153)|null|
+|**2023-05-23**|**Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification**|Sangmin Bae et.al.|[2305.14032](http://arxiv.org/abs/2305.14032)|**[link](https://github.com/raymin0223/patch-mix_contrastive_learning)**|
+|**2023-05-23**|**Target-Agnostic Gender-Aware Contrastive Learning for Mitigating Bias in Multilingual Machine Translation**|Minwoo Lee et.al.|[2305.14016](http://arxiv.org/abs/2305.14016)|null|
+|**2023-05-23**|**Temporal Contrastive Learning for Spiking Neural Networks**|Haonan Qiu et.al.|[2305.13909](http://arxiv.org/abs/2305.13909)|null|
+|**2023-05-23**|**Coarse-to-Fine Contrastive Learning in Image-Text-Graph Space for Improved Vision-Language Compositionality**|Harman Singh et.al.|[2305.13812](http://arxiv.org/abs/2305.13812)|null|
+|**2023-05-23**|**Generalizable Synthetic Image Detection via Language-guided Contrastive Learning**|Haiwei Wu et.al.|[2305.13800](http://arxiv.org/abs/2305.13800)|**[link](https://github.com/highwaywu/lasted)**|
+|**2023-05-23**|**Optimizing Non-Autoregressive Transformers with Contrastive Learning**|Chenxin An et.al.|[2305.13667](http://arxiv.org/abs/2305.13667)|null|
+|**2023-05-23**|**Improving Self-training for Cross-lingual Named Entity Recognition with Contrastive and Prototype Learning**|Ran Zhou et.al.|[2305.13628](http://arxiv.org/abs/2305.13628)|null|
 |**2023-05-22**|**ImSimCSE: Improving Contrastive Learning for Sentence Embeddings from Two Perspectives**|Jiahao Xu et.al.|[2305.13192](http://arxiv.org/abs/2305.13192)|null|
 |**2023-05-22**|**Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning**|Xiaoxiao Sheng et.al.|[2305.12959](http://arxiv.org/abs/2305.12959)|null|
 |**2023-05-22**|**uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering**|Jae-woong Lee et.al.|[2305.12768](http://arxiv.org/abs/2305.12768)|null|
@@ -267,6 +277,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks**|Peng Xu et.al.|[2305.14065](http://arxiv.org/abs/2305.14065)|null|
+|**2023-05-23**|**The Evolution of Distributed Systems for Graph Neural Networks and their Origin in Graph Processing and Deep Learning: A Survey**|Jana Vatter et.al.|[2305.13854](http://arxiv.org/abs/2305.13854)|null|
+|**2023-05-23**|**Link Prediction without Graph Neural Networks**|Zexi Huang et.al.|[2305.13656](http://arxiv.org/abs/2305.13656)|**[link](https://github.com/facebookresearch/SEAL_OGB)**|
 |**2023-05-22**|**Causal-Based Supervision of Attention in Graph Neural Network: A Better and Simpler Choice towards Powerful Attention**|Hongjun Wang et.al.|[2305.13115](http://arxiv.org/abs/2305.13115)|null|
 |**2023-05-22**|**DEGREE: Decomposition Based Explanation For Graph Neural Networks**|Qizhang Feng et.al.|[2305.12895](http://arxiv.org/abs/2305.12895)|**[link](https://github.com/Qizhang-Feng/DEGREE)**|
 |**2023-05-22**|**Accelerating Graph Neural Networks via Edge Pruning for Power Allocation in Wireless Networks**|Lili Chen et.al.|[2305.12639](http://arxiv.org/abs/2305.12639)|null|
@@ -395,6 +408,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
+|**2023-05-23**|**SEEDS: Exponential SDE Solvers for Fast High-Quality Sampling from Diffusion Models**|Martin Gonzalez et.al.|[2305.14267](http://arxiv.org/abs/2305.14267)|null|
+|**2023-05-23**|**Improved Convergence of Score-Based Diffusion Models via Prediction-Correction**|Francesco Pedrotti et.al.|[2305.14164](http://arxiv.org/abs/2305.14164)|null|
+|**2023-05-23**|**Scaling relations between viscosity and diffusivity in shear-thickening suspensions**|Abhinendra Singh et.al.|[2305.14030](http://arxiv.org/abs/2305.14030)|null|
+|**2023-05-23**|**Realistic Noise Synthesis with Diffusion Models**|Qi Wu et.al.|[2305.14022](http://arxiv.org/abs/2305.14022)|null|
+|**2023-05-23**|**Node-wise Diffusion for Scalable Graph Learning**|Keke Huang et.al.|[2305.14000](http://arxiv.org/abs/2305.14000)|null|
+|**2023-05-23**|**Compositional Text-to-Image Synthesis with Attention Map Control of Diffusion Models**|Ruichen Wang et.al.|[2305.13921](http://arxiv.org/abs/2305.13921)|null|
+|**2023-05-23**|**Subsampling Error in Stochastic Gradient Langevin Diffusions**|Kexin Jin et.al.|[2305.13882](http://arxiv.org/abs/2305.13882)|null|
+|**2023-05-23**|**Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models**|Yiting Qu et.al.|[2305.13873](http://arxiv.org/abs/2305.13873)|null|
+|**2023-05-23**|**Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models**|Weifeng Chen et.al.|[2305.13840](http://arxiv.org/abs/2305.13840)|null|
 |**2023-05-22**|**VDT: An Empirical Study on Video Diffusion with Transformers**|Haoyu Lu et.al.|[2305.13311](http://arxiv.org/abs/2305.13311)|**[link](https://github.com/rerv/vdt)**|
 |**2023-05-22**|**If at First You Don't Succeed, Try, Try Again: Faithful Diffusion-based Text-to-Image Generation by Selection**|Shyamgopal Karthik et.al.|[2305.13308](http://arxiv.org/abs/2305.13308)|null|
 |**2023-05-23**|**Training Diffusion Models with Reinforcement Learning**|Kevin Black et.al.|[2305.13301](http://arxiv.org/abs/2305.13301)|null|
