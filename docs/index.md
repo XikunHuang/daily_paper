@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|null|
+|**2023-05-24**|**Clinically Labeled Contrastive Learning for OCT Biomarker Classification**|Kiran Kokilepersaud et.al.|[2305.15154](http://arxiv.org/abs/2305.15154)|null|
+|**2023-05-24**|**Cream: Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models**|Geewook Kim et.al.|[2305.15080](http://arxiv.org/abs/2305.15080)|null|
+|**2023-05-24**|**Contrastive Learning of Sentence Embeddings from Scratch**|Junlei Zhang et.al.|[2305.15077](http://arxiv.org/abs/2305.15077)|null|
+|**2023-05-24**|**Contrastive Training of Complex-Valued Autoencoders for Object Discovery**|Aleksandar Stanić et.al.|[2305.15001](http://arxiv.org/abs/2305.15001)|null|
+|**2023-05-24**|**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**|Yau-Shian Wang et.al.|[2305.14963](http://arxiv.org/abs/2305.14963)|null|
+|**2023-05-24**|**Text encoders are performance bottlenecks in contrastive vision-language models**|Amita Kamath et.al.|[2305.14897](http://arxiv.org/abs/2305.14897)|null|
+|**2023-05-23**|**Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions**|Zhihan Zhang et.al.|[2305.14441](http://arxiv.org/abs/2305.14441)|null|
 |**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321](http://arxiv.org/abs/2305.14321)|**[link](https://github.com/wwbrannon/congrat)**|
 |**2023-05-23**|**Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding**|Yu Zhang et.al.|[2305.14232](http://arxiv.org/abs/2305.14232)|null|
 |**2023-05-24**|**Strong attentional modulation of V1/V2 activity implements a robust, contrast-invariant control mechanism for selective information processing**|Lukas-Paul Rausch et.al.|[2305.14153](http://arxiv.org/abs/2305.14153)|null|
@@ -277,6 +285,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270](http://arxiv.org/abs/2305.15270)|null|
+|**2023-05-24**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828](http://arxiv.org/abs/2305.14828)|null|
+|**2023-05-24**|**What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding**|Nicolas Keriven et.al.|[2305.14814](http://arxiv.org/abs/2305.14814)|null|
+|**2023-05-24**|**Multi-State RNA Design with Geometric Multi-Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2305.14749](http://arxiv.org/abs/2305.14749)|**[link](https://github.com/chaitjo/geometric-rna-design)**|
+|**2023-05-24**|**Newton-Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems**|Lingbing Guo et.al.|[2305.14642](http://arxiv.org/abs/2305.14642)|null|
+|**2023-05-23**|**Connecting the Dots: What Graph-Based Text Representations Work Best for Text Classification using Graph Neural Networks?**|Margarita Bugueño et.al.|[2305.14578](http://arxiv.org/abs/2305.14578)|null|
+|**2023-05-23**|**Uncertainty Quantification over Graph with Conformalized Graph Neural Networks**|Kexin Huang et.al.|[2305.14535](http://arxiv.org/abs/2305.14535)|null|
 |**2023-05-23**|**Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks**|Peng Xu et.al.|[2305.14065](http://arxiv.org/abs/2305.14065)|null|
 |**2023-05-23**|**The Evolution of Distributed Systems for Graph Neural Networks and their Origin in Graph Processing and Deep Learning: A Survey**|Jana Vatter et.al.|[2305.13854](http://arxiv.org/abs/2305.13854)|null|
 |**2023-05-23**|**Link Prediction without Graph Neural Networks**|Zexi Huang et.al.|[2305.13656](http://arxiv.org/abs/2305.13656)|**[link](https://github.com/facebookresearch/SEAL_OGB)**|
@@ -408,6 +423,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399](http://arxiv.org/abs/2305.15399)|null|
+|**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357](http://arxiv.org/abs/2305.15357)|null|
+|**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347](http://arxiv.org/abs/2305.15347)|null|
+|**2023-05-24**|**Existence analysis of a cross-diffusion system with nonlinear Robin boundary conditions for vesicle transport in neurites**|Markus Fellner et.al.|[2305.15281](http://arxiv.org/abs/2305.15281)|null|
+|**2023-05-24**|**Diffusion-Based Audio Inpainting**|Eloi Moliner et.al.|[2305.15266](http://arxiv.org/abs/2305.15266)|null|
+|**2023-05-24**|**Robust Classification via a Single Diffusion Model**|Huanran Chen et.al.|[2305.15241](http://arxiv.org/abs/2305.15241)|null|
+|**2023-05-24**|**DiffBlender: Scalable and Composable Multimodal Text-to-Image Diffusion Models**|Sungnyun Kim et.al.|[2305.15194](http://arxiv.org/abs/2305.15194)|null|
+|**2023-05-24**|**Deceptive-NeRF: Enhancing NeRF Reconstruction using Pseudo-Observations from Diffusion Models**|Xinhang Liu et.al.|[2305.15171](http://arxiv.org/abs/2305.15171)|null|
+|**2023-05-24**|**Dior-CVAE: Diffusion Priors in Variational Dialog Generation**|Tianyu Yang et.al.|[2305.15025](http://arxiv.org/abs/2305.15025)|null|
+|**2023-05-24**|**Weakly nonlinear analysis of a two-species non-local advection-diffusion system**|Valeria Giunta et.al.|[2305.14954](http://arxiv.org/abs/2305.14954)|null|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
 |**2023-05-23**|**SEEDS: Exponential SDE Solvers for Fast High-Quality Sampling from Diffusion Models**|Martin Gonzalez et.al.|[2305.14267](http://arxiv.org/abs/2305.14267)|null|
 |**2023-05-23**|**Improved Convergence of Score-Based Diffusion Models via Prediction-Correction**|Francesco Pedrotti et.al.|[2305.14164](http://arxiv.org/abs/2305.14164)|null|
