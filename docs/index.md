@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.24
+## Updated on 2023.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-23**|**ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings**|William Brannon et.al.|[2305.14321](http://arxiv.org/abs/2305.14321)|**[link](https://github.com/wwbrannon/congrat)**|
 |**2023-05-23**|**Pre-training Multi-task Contrastive Learning Models for Scientific Literature Understanding**|Yu Zhang et.al.|[2305.14232](http://arxiv.org/abs/2305.14232)|null|
-|**2023-05-23**|**Strong attentional modulation of V1/V2 activity implements a robust, contrast-invariant control mechanism for selective information processing**|Lukas-Paul Rausch et.al.|[2305.14153](http://arxiv.org/abs/2305.14153)|null|
+|**2023-05-24**|**Strong attentional modulation of V1/V2 activity implements a robust, contrast-invariant control mechanism for selective information processing**|Lukas-Paul Rausch et.al.|[2305.14153](http://arxiv.org/abs/2305.14153)|null|
 |**2023-05-23**|**Patch-Mix Contrastive Learning with Audio Spectrogram Transformer on Respiratory Sound Classification**|Sangmin Bae et.al.|[2305.14032](http://arxiv.org/abs/2305.14032)|**[link](https://github.com/raymin0223/patch-mix_contrastive_learning)**|
 |**2023-05-23**|**Target-Agnostic Gender-Aware Contrastive Learning for Mitigating Bias in Multilingual Machine Translation**|Minwoo Lee et.al.|[2305.14016](http://arxiv.org/abs/2305.14016)|null|
 |**2023-05-23**|**Temporal Contrastive Learning for Spiking Neural Networks**|Haonan Qiu et.al.|[2305.13909](http://arxiv.org/abs/2305.13909)|null|
