@@ -9,10 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|null|
+|**2023-05-25**|**Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning**|Daniel Saggau et.al.|[2305.16031](http://arxiv.org/abs/2305.16031)|null|
+|**2023-05-25**|**Sample and Predict Your Latent: Modality-free Sequential Disentanglement via Contrastive Estimation**|Ilan Naiman et.al.|[2305.15924](http://arxiv.org/abs/2305.15924)|null|
+|**2023-05-25**|**Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization**|Yunze Tong et.al.|[2305.15889](http://arxiv.org/abs/2305.15889)|null|
+|**2023-05-25**|**UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation**|Zhiming Mao et.al.|[2305.15756](http://arxiv.org/abs/2305.15756)|null|
+|**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|**[link](https://github.com/oxai/debias-gensynth)**|
 |**2023-05-24**|**Clinically Labeled Contrastive Learning for OCT Biomarker Classification**|Kiran Kokilepersaud et.al.|[2305.15154](http://arxiv.org/abs/2305.15154)|null|
-|**2023-05-24**|**Cream: Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models**|Geewook Kim et.al.|[2305.15080](http://arxiv.org/abs/2305.15080)|null|
-|**2023-05-24**|**Contrastive Learning of Sentence Embeddings from Scratch**|Junlei Zhang et.al.|[2305.15077](http://arxiv.org/abs/2305.15077)|null|
+|**2023-05-24**|**Cream: Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models**|Geewook Kim et.al.|[2305.15080](http://arxiv.org/abs/2305.15080)|**[link](https://github.com/naver-ai/cream)**|
+|**2023-05-24**|**Contrastive Learning of Sentence Embeddings from Scratch**|Junlei Zhang et.al.|[2305.15077](http://arxiv.org/abs/2305.15077)|**[link](https://github.com/sjtu-lit/syncse)**|
 |**2023-05-25**|**Contrastive Training of Complex-Valued Autoencoders for Object Discovery**|Aleksandar Stanić et.al.|[2305.15001](http://arxiv.org/abs/2305.15001)|null|
 |**2023-05-24**|**PESCO: Prompt-enhanced Self Contrastive Learning for Zero-shot Text Classification**|Yau-Shian Wang et.al.|[2305.14963](http://arxiv.org/abs/2305.14963)|null|
 |**2023-05-24**|**Text encoders are performance bottlenecks in contrastive vision-language models**|Amita Kamath et.al.|[2305.14897](http://arxiv.org/abs/2305.14897)|null|
@@ -285,6 +289,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Demystifying Oversmoothing in Attention-Based Graph Neural Networks**|Xinyi Wu et.al.|[2305.16102](http://arxiv.org/abs/2305.16102)|null|
+|**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987](http://arxiv.org/abs/2305.15987)|null|
+|**2023-05-25**|**Quantifying the Intrinsic Usefulness of Attributional Explanations for Graph Neural Networks with Artificial Simulatability Studies**|Jonas Teufel et.al.|[2305.15961](http://arxiv.org/abs/2305.15961)|null|
+|**2023-05-25**|**Towards Label Position Bias in Graph Neural Networks**|Haoyu Han et.al.|[2305.15822](http://arxiv.org/abs/2305.15822)|null|
+|**2023-05-25**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811](http://arxiv.org/abs/2305.15811)|**[link](https://github.com/anonymous2nips2023/grug)**|
+|**2023-05-25**|**GFairHint: Improving Individual Fairness for Graph Neural Networks via Fairness Hint**|Paiheng Xu et.al.|[2305.15622](http://arxiv.org/abs/2305.15622)|null|
+|**2023-05-24**|**Reversible and irreversible bracket-based dynamics for deep graph neural networks**|Anthony Gruber et.al.|[2305.15616](http://arxiv.org/abs/2305.15616)|null|
+|**2023-05-24**|**Size Generalizability of Graph Neural Networks on Biological Data: Insights and Practices from the Spectral Perspective**|Yujun Yan et.al.|[2305.15611](http://arxiv.org/abs/2305.15611)|null|
+|**2023-05-24**|**Learning Lagrangian Fluid Mechanics with E( $3$ )-Equivariant Graph Neural Networks**|Artur P. Toshev et.al.|[2305.15603](http://arxiv.org/abs/2305.15603)|null|
+|**2023-05-24**|**Editable Graph Neural Network for Node Classifications**|Zirui Liu et.al.|[2305.15529](http://arxiv.org/abs/2305.15529)|null|
 |**2023-05-25**|**Reversible Graph Neural Network-based Reaction Distribution Learning for Multiple Appropriate Facial Reactions Generation**|Tong Xu et.al.|[2305.15270](http://arxiv.org/abs/2305.15270)|null|
 |**2023-05-24**|**Towards Few-shot Entity Recognition in Document Images: A Graph Neural Network Approach Robust to Image Manipulation**|Prashant Krishnan et.al.|[2305.14828](http://arxiv.org/abs/2305.14828)|null|
 |**2023-05-24**|**What functions can Graph Neural Networks compute on random graphs? The role of Positional Encoding**|Nicolas Keriven et.al.|[2305.14814](http://arxiv.org/abs/2305.14814)|null|
@@ -423,6 +437,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322](http://arxiv.org/abs/2305.16322)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
+|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|null|
+|**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289](http://arxiv.org/abs/2305.16289)|**[link](https://github.com/lisadunlap/alia)**|
+|**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269](http://arxiv.org/abs/2305.16269)|null|
+|**2023-05-25**|**Trans-Dimensional Generative Modeling via Jump Diffusion Models**|Andrew Campbell et.al.|[2305.16261](http://arxiv.org/abs/2305.16261)|**[link](https://github.com/andrew-cr/jump-diffusion)**|
+|**2023-05-25**|**Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models**|Xingqian Xu et.al.|[2305.16223](http://arxiv.org/abs/2305.16223)|**[link](https://github.com/shi-labs/prompt-free-diffusion)**|
+|**2023-05-25**|**Unifying GANs and Score-Based Diffusion as Generative Particle Models**|Jean-Yves Franceschi et.al.|[2305.16150](http://arxiv.org/abs/2305.16150)|**[link](https://github.com/white-link/gpm)**|
+|**2023-05-25**|**Local Randomized Neural Networks with Discontinuous Galerkin Methods for Diffusive-Viscous Wave Equation**|Jingbo Sun et.al.|[2305.16060](http://arxiv.org/abs/2305.16060)|null|
+|**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
+|**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956](http://arxiv.org/abs/2305.15956)|null|
 |**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399](http://arxiv.org/abs/2305.15399)|null|
 |**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357](http://arxiv.org/abs/2305.15357)|null|
 |**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347](http://arxiv.org/abs/2305.15347)|null|
