@@ -12,7 +12,7 @@ layout: default
 |**2023-05-25**|**Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning**|Daniel Saggau et.al.|[2305.16031](http://arxiv.org/abs/2305.16031)|null|
 |**2023-05-25**|**Sample and Predict Your Latent: Modality-free Sequential Disentanglement via Contrastive Estimation**|Ilan Naiman et.al.|[2305.15924](http://arxiv.org/abs/2305.15924)|null|
 |**2023-05-25**|**Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization**|Yunze Tong et.al.|[2305.15889](http://arxiv.org/abs/2305.15889)|null|
-|**2023-05-25**|**UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation**|Zhiming Mao et.al.|[2305.15756](http://arxiv.org/abs/2305.15756)|null|
+|**2023-05-25**|**UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation**|Zhiming Mao et.al.|[2305.15756](http://arxiv.org/abs/2305.15756)|**[link](https://github.com/veason-silverbullet/unitrec)**|
 |**2023-05-24**|**Balancing the Picture: Debiasing Vision-Language Datasets with Synthetic Contrast Sets**|Brandon Smith et.al.|[2305.15407](http://arxiv.org/abs/2305.15407)|**[link](https://github.com/oxai/debias-gensynth)**|
 |**2023-05-24**|**Clinically Labeled Contrastive Learning for OCT Biomarker Classification**|Kiran Kokilepersaud et.al.|[2305.15154](http://arxiv.org/abs/2305.15154)|null|
 |**2023-05-24**|**Cream: Visually-Situated Natural Language Understanding with Contrastive Reading Model and Frozen Large Language Models**|Geewook Kim et.al.|[2305.15080](http://arxiv.org/abs/2305.15080)|**[link](https://github.com/naver-ai/cream)**|
@@ -438,7 +438,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322](http://arxiv.org/abs/2305.16322)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
-|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|null|
+|**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|**[link](https://github.com/AndyShih12/paradigms)**|
 |**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289](http://arxiv.org/abs/2305.16289)|**[link](https://github.com/lisadunlap/alia)**|
 |**2023-05-25**|**UDPM: Upsampling Diffusion Probabilistic Models**|Shady Abu-Hussein et.al.|[2305.16269](http://arxiv.org/abs/2305.16269)|null|
 |**2023-05-25**|**Trans-Dimensional Generative Modeling via Jump Diffusion Models**|Andrew Campbell et.al.|[2305.16261](http://arxiv.org/abs/2305.16261)|**[link](https://github.com/andrew-cr/jump-diffusion)**|
