@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.26
+## Updated on 2023.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -446,7 +446,7 @@ layout: default
 |**2023-05-25**|**Unifying GANs and Score-Based Diffusion as Generative Particle Models**|Jean-Yves Franceschi et.al.|[2305.16150](http://arxiv.org/abs/2305.16150)|**[link](https://github.com/white-link/gpm)**|
 |**2023-05-25**|**Local Randomized Neural Networks with Discontinuous Galerkin Methods for Diffusive-Viscous Wave Equation**|Jingbo Sun et.al.|[2305.16060](http://arxiv.org/abs/2305.16060)|null|
 |**2023-05-25**|**DiffCLIP: Leveraging Stable Diffusion for Language Grounded 3D Classification**|Sitian Shen et.al.|[2305.15957](http://arxiv.org/abs/2305.15957)|null|
-|**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956](http://arxiv.org/abs/2305.15956)|null|
+|**2023-05-25**|**Anomaly Detection with Conditioned Denoising Diffusion Models**|Arian Mousakhan et.al.|[2305.15956](http://arxiv.org/abs/2305.15956)|**[link](https://github.com/arimousa/DDAD)**|
 |**2023-05-24**|**Sin3DM: Learning a Diffusion Model from a Single 3D Textured Shape**|Rundi Wu et.al.|[2305.15399](http://arxiv.org/abs/2305.15399)|null|
 |**2023-05-24**|**Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution**|Yiyang Ma et.al.|[2305.15357](http://arxiv.org/abs/2305.15357)|null|
 |**2023-05-24**|**A Tale of Two Features: Stable Diffusion Complements DINO for Zero-Shot Semantic Correspondence**|Junyi Zhang et.al.|[2305.15347](http://arxiv.org/abs/2305.15347)|null|
