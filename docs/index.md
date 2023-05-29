@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.28
+## Updated on 2023.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -293,7 +293,7 @@ layout: default
 |**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987](http://arxiv.org/abs/2305.15987)|null|
 |**2023-05-25**|**Quantifying the Intrinsic Usefulness of Attributional Explanations for Graph Neural Networks with Artificial Simulatability Studies**|Jonas Teufel et.al.|[2305.15961](http://arxiv.org/abs/2305.15961)|null|
 |**2023-05-25**|**Towards Label Position Bias in Graph Neural Networks**|Haoyu Han et.al.|[2305.15822](http://arxiv.org/abs/2305.15822)|null|
-|**2023-05-25**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811](http://arxiv.org/abs/2305.15811)|**[link](https://github.com/anonymous2nips2023/grug)**|
+|**2023-05-26**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811](http://arxiv.org/abs/2305.15811)|**[link](https://github.com/yx-cloud/grug)**|
 |**2023-05-25**|**GFairHint: Improving Individual Fairness for Graph Neural Networks via Fairness Hint**|Paiheng Xu et.al.|[2305.15622](http://arxiv.org/abs/2305.15622)|null|
 |**2023-05-24**|**Reversible and irreversible bracket-based dynamics for deep graph neural networks**|Anthony Gruber et.al.|[2305.15616](http://arxiv.org/abs/2305.15616)|null|
 |**2023-05-24**|**Size Generalizability of Graph Neural Networks on Biological Data: Insights and Practices from the Spectral Perspective**|Yujun Yan et.al.|[2305.15611](http://arxiv.org/abs/2305.15611)|null|

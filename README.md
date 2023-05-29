@@ -1,4 +1,4 @@
-## Updated on 2023.05.28
+## Updated on 2023.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -290,7 +290,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
 
 ## GNN
 
@@ -300,7 +300,7 @@
 |**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987](http://arxiv.org/abs/2305.15987)|null|
 |**2023-05-25**|**Quantifying the Intrinsic Usefulness of Attributional Explanations for Graph Neural Networks with Artificial Simulatability Studies**|Jonas Teufel et.al.|[2305.15961](http://arxiv.org/abs/2305.15961)|null|
 |**2023-05-25**|**Towards Label Position Bias in Graph Neural Networks**|Haoyu Han et.al.|[2305.15822](http://arxiv.org/abs/2305.15822)|null|
-|**2023-05-25**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811](http://arxiv.org/abs/2305.15811)|**[link](https://github.com/anonymous2nips2023/grug)**|
+|**2023-05-26**|**Unifying gradient regularization for Heterogeneous Graph Neural Networks**|Xiao Yang et.al.|[2305.15811](http://arxiv.org/abs/2305.15811)|**[link](https://github.com/yx-cloud/grug)**|
 |**2023-05-25**|**GFairHint: Improving Individual Fairness for Graph Neural Networks via Fairness Hint**|Paiheng Xu et.al.|[2305.15622](http://arxiv.org/abs/2305.15622)|null|
 |**2023-05-24**|**Reversible and irreversible bracket-based dynamics for deep graph neural networks**|Anthony Gruber et.al.|[2305.15616](http://arxiv.org/abs/2305.15616)|null|
 |**2023-05-24**|**Size Generalizability of Graph Neural Networks on Biological Data: Insights and Practices from the Spectral Perspective**|Yujun Yan et.al.|[2305.15611](http://arxiv.org/abs/2305.15611)|null|
@@ -440,7 +440,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
 
 ## Diffusion
 
@@ -597,5 +597,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
 
