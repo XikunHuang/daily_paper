@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
+|**2023-05-26**|**Three Towers: Flexible Contrastive Learning with Pretrained Image Models**|Jannik Kossen et.al.|[2305.16999](http://arxiv.org/abs/2305.16999)|null|
+|**2023-05-26**|**ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection**|Jeeho Hyun et.al.|[2305.16713](http://arxiv.org/abs/2305.16713)|null|
+|**2023-05-26**|**Balanced Supervised Contrastive Learning for Few-Shot Class-Incremental Learning**|In-Ug Yoon et.al.|[2305.16687](http://arxiv.org/abs/2305.16687)|null|
+|**2023-05-25**|**Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression**|Yihao Xue et.al.|[2305.16536](http://arxiv.org/abs/2305.16536)|null|
 |**2023-05-25**|**Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning**|Daniel Saggau et.al.|[2305.16031](http://arxiv.org/abs/2305.16031)|null|
 |**2023-05-25**|**Sample and Predict Your Latent: Modality-free Sequential Disentanglement via Contrastive Estimation**|Ilan Naiman et.al.|[2305.15924](http://arxiv.org/abs/2305.15924)|null|
 |**2023-05-25**|**Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization**|Yunze Tong et.al.|[2305.15889](http://arxiv.org/abs/2305.15889)|null|
@@ -437,6 +442,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032](http://arxiv.org/abs/2305.17032)|null|
+|**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965](http://arxiv.org/abs/2305.16965)|**[link](https://github.com/gongyeliu/ssd)**|
+|**2023-05-26**|**DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models**|Sohyun An et.al.|[2305.16943](http://arxiv.org/abs/2305.16943)|null|
+|**2023-05-26**|**CRoSS: Diffusion Model Makes Controllable, Robust and Secure Image Steganography**|Jiwen Yu et.al.|[2305.16936](http://arxiv.org/abs/2305.16936)|**[link](https://github.com/vvictoryuki/cross)**|
+|**2023-05-26**|**Dust dynamics in current sheets within protoplanetary disks. I. Isothermal models including ambipolar diffusion and Ohmic resistivity**|U. Lebreuilly et.al.|[2305.16839](http://arxiv.org/abs/2305.16839)|null|
+|**2023-05-26**|**Negative-prompt Inversion: Fast Image Inversion for Editing with Text-guided Diffusion Models**|Daiki Miyake et.al.|[2305.16807](http://arxiv.org/abs/2305.16807)|null|
+|**2023-05-26**|**Graph Neural Convection-Diffusion with Heterophily**|Kai Zhao et.al.|[2305.16780](http://arxiv.org/abs/2305.16780)|**[link](https://github.com/zknus/graph-diffusion-cde)**|
+|**2023-05-26**|**Diverse and Expressive Speech Prosody Prediction with Denoising Diffusion Probabilistic Model**|Xiang Li et.al.|[2305.16749](http://arxiv.org/abs/2305.16749)|null|
+|**2023-05-26**|**Photon diffusion in space and time in a second-order nonlinear disordered medium**|Rabisankar Samanta et.al.|[2305.16720](http://arxiv.org/abs/2305.16720)|null|
+|**2023-05-26**|**Tree-Based Diffusion Schrödinger Bridge with Applications to Wasserstein Barycenters**|Maxence Noble et.al.|[2305.16557](http://arxiv.org/abs/2305.16557)|**[link](https://github.com/maxencenoble/tree-diffusion-schrodinger-bridge)**|
 |**2023-05-25**|**Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models**|Shihao Zhao et.al.|[2305.16322](http://arxiv.org/abs/2305.16322)|**[link](https://github.com/shihaozhaozsh/uni-controlnet)**|
 |**2023-05-25**|**Parallel Sampling of Diffusion Models**|Andy Shih et.al.|[2305.16317](http://arxiv.org/abs/2305.16317)|**[link](https://github.com/AndyShih12/paradigms)**|
 |**2023-05-25**|**Diversify Your Vision Datasets with Automatic Diffusion-Based Augmentation**|Lisa Dunlap et.al.|[2305.16289](http://arxiv.org/abs/2305.16289)|**[link](https://github.com/lisadunlap/alia)**|
