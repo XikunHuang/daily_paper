@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors**|Paul S. Scotti et.al.|[2305.18274](http://arxiv.org/abs/2305.18274)|null|
+|**2023-05-29**|**LM-CPPF: Paraphrasing-Guided Data Augmentation for Contrastive Prompt-Based Few-Shot Fine-Tuning**|Amirhossein Abaskohi et.al.|[2305.18169](http://arxiv.org/abs/2305.18169)|null|
+|**2023-05-29**|**Reason to explain: Interactive contrastive explanations (REASONX)**|Laura State et.al.|[2305.18143](http://arxiv.org/abs/2305.18143)|**[link](https://github.com/lstate/reasonx)**|
+|**2023-05-29**|**Contrastive Learning Based Recursive Dynamic Multi-Scale Network for Image Deraining**|Zhiying Jiang et.al.|[2305.18092](http://arxiv.org/abs/2305.18092)|null|
+|**2023-05-29**|**ContrastNER: Contrastive-based Prompt Tuning for Few-shot NER**|Amirhossein Layegh et.al.|[2305.17951](http://arxiv.org/abs/2305.17951)|null|
+|**2023-05-28**|**Whitening-based Contrastive Learning of Sentence Embeddings**|Wenjie Zhuo et.al.|[2305.17746](http://arxiv.org/abs/2305.17746)|null|
+|**2023-05-27**|**GIMM: InfoMin-Max for Automated Graph Contrastive Learning**|Xin Xiong et.al.|[2305.17437](http://arxiv.org/abs/2305.17437)|null|
+|**2023-05-26**|**CODET: A Benchmark for Contrastive Dialectal Evaluation of Machine Translation**|Md Mahfuz Ibn Alam et.al.|[2305.17267](http://arxiv.org/abs/2305.17267)|null|
+|**2023-05-26**|**Contrast, Attend and Diffuse to Decode High-Resolution Images from Brain Activities**|Jingyuan Sun et.al.|[2305.17214](http://arxiv.org/abs/2305.17214)|null|
 |**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
 |**2023-05-29**|**Three Towers: Flexible Contrastive Learning with Pretrained Image Models**|Jannik Kossen et.al.|[2305.16999](http://arxiv.org/abs/2305.16999)|null|
 |**2023-05-26**|**ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection**|Jeeho Hyun et.al.|[2305.16713](http://arxiv.org/abs/2305.16713)|null|
@@ -301,6 +310,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**GazeGNN: A Gaze-Guided Graph Neural Network for Disease Classification**|Bin Wang et.al.|[2305.18221](http://arxiv.org/abs/2305.18221)|null|
 |**2023-05-25**|**Demystifying Oversmoothing in Attention-Based Graph Neural Networks**|Xinyi Wu et.al.|[2305.16102](http://arxiv.org/abs/2305.16102)|null|
 |**2023-05-25**|**A graphon-signal analysis of graph neural networks**|Ron Levie et.al.|[2305.15987](http://arxiv.org/abs/2305.15987)|null|
 |**2023-05-25**|**Quantifying the Intrinsic Usefulness of Attributional Explanations for Graph Neural Networks with Artificial Simulatability Studies**|Jonas Teufel et.al.|[2305.15961](http://arxiv.org/abs/2305.15961)|null|
@@ -451,6 +461,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths**|Zeyue Xue et.al.|[2305.18295](http://arxiv.org/abs/2305.18295)|null|
+|**2023-05-29**|**Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models**|Yuchao Gu et.al.|[2305.18292](http://arxiv.org/abs/2305.18292)|null|
+|**2023-05-29**|**Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors**|Paul S. Scotti et.al.|[2305.18274](http://arxiv.org/abs/2305.18274)|null|
+|**2023-05-29**|**Accurate Estimation of Diffusion Coefficients and their Uncertainties from Computer Simulation**|Andrew R. McCluskey et.al.|[2305.18244](http://arxiv.org/abs/2305.18244)|null|
+|**2023-05-29**|**Diffusion enhancement and Taylor dispersion for rotationally symmetric flows in discs and pipes**|Michele Coti Zelati et.al.|[2305.18162](http://arxiv.org/abs/2305.18162)|null|
+|**2023-05-29**|**InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions**|Qian Wang et.al.|[2305.18047](http://arxiv.org/abs/2305.18047)|**[link](https://github.com/qianwangx/instructedit)**|
+|**2023-05-29**|**A reduced conjugate gradient basis method for fractional diffusion**|Yuwen Li et.al.|[2305.18038](http://arxiv.org/abs/2305.18038)|null|
+|**2023-05-29**|**CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models**|Zhongxi Chen et.al.|[2305.17932](http://arxiv.org/abs/2305.17932)|**[link](https://github.com/rapisurazurite/camodiffusion)**|
+|**2023-05-28**|**Diffusive limits of the steady state radiative heat transfer system: Curvature effects**|Mohamed Ghattassi et.al.|[2305.17661](http://arxiv.org/abs/2305.17661)|null|
+|**2023-05-27**|**A Diffusion Model for Event Skeleton Generation**|Fangqi Zhu et.al.|[2305.17458](http://arxiv.org/abs/2305.17458)|null|
 |**2023-05-26**|**The reaction-diffusion basis of animated patterns in eukaryotic flagella**|James F. Cass et.al.|[2305.17032](http://arxiv.org/abs/2305.17032)|null|
 |**2023-05-26**|**Accelerating Diffusion Models for Inverse Problems through Shortcut Sampling**|Gongye Liu et.al.|[2305.16965](http://arxiv.org/abs/2305.16965)|**[link](https://github.com/gongyeliu/ssd)**|
 |**2023-05-26**|**DiffusionNAG: Task-guided Neural Architecture Generation with Diffusion Models**|Sohyun An et.al.|[2305.16943](http://arxiv.org/abs/2305.16943)|null|
