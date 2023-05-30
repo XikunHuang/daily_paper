@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,10 +10,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
-|**2023-05-26**|**Three Towers: Flexible Contrastive Learning with Pretrained Image Models**|Jannik Kossen et.al.|[2305.16999](http://arxiv.org/abs/2305.16999)|null|
+|**2023-05-29**|**Three Towers: Flexible Contrastive Learning with Pretrained Image Models**|Jannik Kossen et.al.|[2305.16999](http://arxiv.org/abs/2305.16999)|null|
 |**2023-05-26**|**ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection**|Jeeho Hyun et.al.|[2305.16713](http://arxiv.org/abs/2305.16713)|null|
 |**2023-05-26**|**Balanced Supervised Contrastive Learning for Few-Shot Class-Incremental Learning**|In-Ug Yoon et.al.|[2305.16687](http://arxiv.org/abs/2305.16687)|null|
-|**2023-05-25**|**Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression**|Yihao Xue et.al.|[2305.16536](http://arxiv.org/abs/2305.16536)|null|
+|**2023-05-29**|**Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression**|Yihao Xue et.al.|[2305.16536](http://arxiv.org/abs/2305.16536)|null|
 |**2023-05-25**|**Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning**|Daniel Saggau et.al.|[2305.16031](http://arxiv.org/abs/2305.16031)|null|
 |**2023-05-25**|**Sample and Predict Your Latent: Modality-free Sequential Disentanglement via Contrastive Estimation**|Ilan Naiman et.al.|[2305.15924](http://arxiv.org/abs/2305.15924)|null|
 |**2023-05-25**|**Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization**|Yunze Tong et.al.|[2305.15889](http://arxiv.org/abs/2305.15889)|null|

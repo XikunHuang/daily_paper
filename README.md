@@ -1,4 +1,4 @@
-## Updated on 2023.05.29
+## Updated on 2023.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,10 +15,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-05-26**|**Commonsense Knowledge Graph Completion Via Contrastive Pretraining and Node Clustering**|Siwei Wu et.al.|[2305.17019](http://arxiv.org/abs/2305.17019)|null|
-|**2023-05-26**|**Three Towers: Flexible Contrastive Learning with Pretrained Image Models**|Jannik Kossen et.al.|[2305.16999](http://arxiv.org/abs/2305.16999)|null|
+|**2023-05-29**|**Three Towers: Flexible Contrastive Learning with Pretrained Image Models**|Jannik Kossen et.al.|[2305.16999](http://arxiv.org/abs/2305.16999)|null|
 |**2023-05-26**|**ReConPatch : Contrastive Patch Representation Learning for Industrial Anomaly Detection**|Jeeho Hyun et.al.|[2305.16713](http://arxiv.org/abs/2305.16713)|null|
 |**2023-05-26**|**Balanced Supervised Contrastive Learning for Few-Shot Class-Incremental Learning**|In-Ug Yoon et.al.|[2305.16687](http://arxiv.org/abs/2305.16687)|null|
-|**2023-05-25**|**Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression**|Yihao Xue et.al.|[2305.16536](http://arxiv.org/abs/2305.16536)|null|
+|**2023-05-29**|**Which Features are Learnt by Contrastive Learning? On the Role of Simplicity Bias in Class Collapse and Feature Suppression**|Yihao Xue et.al.|[2305.16536](http://arxiv.org/abs/2305.16536)|null|
 |**2023-05-25**|**Efficient Document Embeddings via Self-Contrastive Bregman Divergence Learning**|Daniel Saggau et.al.|[2305.16031](http://arxiv.org/abs/2305.16031)|null|
 |**2023-05-25**|**Sample and Predict Your Latent: Modality-free Sequential Disentanglement via Contrastive Estimation**|Ilan Naiman et.al.|[2305.15924](http://arxiv.org/abs/2305.15924)|null|
 |**2023-05-25**|**Quantitatively Measuring and Contrastively Exploring Heterogeneity for Domain Generalization**|Yunze Tong et.al.|[2305.15889](http://arxiv.org/abs/2305.15889)|null|
@@ -295,7 +295,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## GNN
 
@@ -445,7 +445,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
 ## Diffusion
 
@@ -612,5 +612,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230530>back to top</a>)</p>
 
