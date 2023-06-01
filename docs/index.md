@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**End-to-end Training of Deep Boltzmann Machines by Unbiased Contrastive Divergence with Local Mode Initialization**|Shohei Taniguchi et.al.|[2305.19684](http://arxiv.org/abs/2305.19684)|**[link](https://github.com/ishohei220/unbiased_dbm)**|
+|**2023-05-31**|**Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast**|Guofan Fan et.al.|[2305.19623](http://arxiv.org/abs/2305.19623)|**[link](https://github.com/asterisci/point-gcc)**|
+|**2023-05-31**|**Random Vibration Testing of Microelectromechanical Deformable Mirrors for Space-based High-Contrast Imaging**|Axel Potier et.al.|[2305.19495](http://arxiv.org/abs/2305.19495)|null|
+|**2023-05-30**|**Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation: Young gas giants in emission**|Rico Landman et.al.|[2305.19355](http://arxiv.org/abs/2305.19355)|null|
+|**2023-05-30**|**A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks**|Jintang Li et.al.|[2305.19306](http://arxiv.org/abs/2305.19306)|**[link](https://github.com/edisonleeeee/spikegcl)**|
 |**2023-05-30**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888](http://arxiv.org/abs/2305.18888)|**[link](https://github.com/real2fish/csl)**|
 |**2023-05-30**|**VVC Extension Scheme for Object Detection Using Contrast Reduction**|Takahiro Shindo et.al.|[2305.18782](http://arxiv.org/abs/2305.18782)|null|
 |**2023-05-29**|**W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition**|Mingchen Li et.al.|[2305.18624](http://arxiv.org/abs/2305.18624)|null|
@@ -306,6 +311,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-30**|**Predicting protein stability changes under multiple amino acid substitutions using equivariant graph neural networks**|Sebastien Boyer et.al.|[2305.19801](http://arxiv.org/abs/2305.19801)|null|
+|**2023-05-31**|**Is Rewiring Actually Helpful in Graph Neural Networks?**|Domenico Tortorella et.al.|[2305.19717](http://arxiv.org/abs/2305.19717)|null|
+|**2023-05-31**|**Improving Expressivity of Graph Neural Networks using Localization**|Anant Kumar et.al.|[2305.19659](http://arxiv.org/abs/2305.19659)|**[link](https://github.com/roy-shubhajit/insig-gnn)**|
+|**2023-05-31**|**SPGNN-API: A Transferable Graph Neural Network for Attack Paths Identification and Autonomous Mitigation**|Houssem Jmal et.al.|[2305.19487](http://arxiv.org/abs/2305.19487)|null|
 |**2023-05-30**|**On the Stability of Gated Graph Neural Networks**|Antonio Marino et.al.|[2305.19235](http://arxiv.org/abs/2305.19235)|null|
 |**2023-05-30**|**Node Embedding from Neural Hamiltonian Orbits in Graph Neural Networks**|Qiyu Kang et.al.|[2305.18965](http://arxiv.org/abs/2305.18965)|**[link](https://github.com/zknus/hamiltonian-gnn)**|
 |**2023-05-30**|**Graph Neural Networks for Contextual ASR with the Tree-Constrained Pointer Generator**|Guangzhi Sun et.al.|[2305.18824](http://arxiv.org/abs/2305.18824)|**[link](https://github.com/briansidp/espnet)**|
@@ -460,6 +469,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Understanding and Mitigating Copying in Diffusion Models**|Gowthami Somepalli et.al.|[2305.20086](http://arxiv.org/abs/2305.20086)|**[link](https://github.com/somepago/dcr)**|
+|**2023-05-31**|**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
+|**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081](http://arxiv.org/abs/2305.20081)|**[link](https://github.com/sail-sg/edp)**|
+|**2023-05-31**|**A Unified Conditional Framework for Diffusion-based Image Restoration**|Yi Zhang et.al.|[2305.20049](http://arxiv.org/abs/2305.20049)|null|
+|**2023-05-31**|**Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**|Yuxin Wen et.al.|[2305.20030](http://arxiv.org/abs/2305.20030)|**[link](https://github.com/YuxinWenRick/tree-ring-watermark)**|
+|**2023-05-31**|**Protein Design with Guided Discrete Diffusion**|Nate Gruver et.al.|[2305.20009](http://arxiv.org/abs/2305.20009)|null|
+|**2023-05-31**|**A Geometric Perspective on Diffusion Models**|Defang Chen et.al.|[2305.19947](http://arxiv.org/abs/2305.19947)|null|
+|**2023-05-31**|**MetaDiffuser: Diffusion Model as Conditional Planner for Offline Meta-RL**|Fei Ni et.al.|[2305.19923](http://arxiv.org/abs/2305.19923)|null|
+|**2023-05-31**|**Unsupervised Anomaly Detection in Medical Images Using Masked Diffusion Model**|Hasan Iqbal et.al.|[2305.19867](http://arxiv.org/abs/2305.19867)|**[link](https://github.com/hasan1292/mddpm)**|
+|**2023-05-31**|**Inverse-design of nonlinear mechanical metamaterials via video denoising diffusion models**|Jan-Hendrik Bastek et.al.|[2305.19836](http://arxiv.org/abs/2305.19836)|null|
 |**2023-05-30**|**Ambient Diffusion: Learning Clean Distributions from Corrupted Data**|Giannis Daras et.al.|[2305.19256](http://arxiv.org/abs/2305.19256)|**[link](https://github.com/giannisdaras/ambient-diffusion)**|
 |**2023-05-30**|**A boundary-oriented reduced Schwarz domain decomposition technique for parametric advection-diffusion problems**|Manuel Bernardino del Pino et.al.|[2305.19199](http://arxiv.org/abs/2305.19199)|null|
 |**2023-05-30**|**Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models**|Ernie Chu et.al.|[2305.19193](http://arxiv.org/abs/2305.19193)|null|
