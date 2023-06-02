@@ -14,8 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Enhancing the Unified Streaming and Non-streaming Model with Contrastive Learning**|Yuting Yang et.al.|[2306.00755](http://arxiv.org/abs/2306.00755)|null|
+|**2023-06-01**|**Contrastive Learning MRI Reconstruction**|Mevan Ekanayake et.al.|[2306.00530](http://arxiv.org/abs/2306.00530)|null|
+|**2023-06-01**|**CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception**|Jiachen Sun et.al.|[2306.00349](http://arxiv.org/abs/2306.00349)|null|
+|**2023-05-31**|**Contrastive Hierarchical Discourse Graph for Scientific Document Summarization**|Haopeng Zhang et.al.|[2306.00177](http://arxiv.org/abs/2306.00177)|null|
 |**2023-05-31**|**End-to-end Training of Deep Boltzmann Machines by Unbiased Contrastive Divergence with Local Mode Initialization**|Shohei Taniguchi et.al.|[2305.19684](http://arxiv.org/abs/2305.19684)|**[link](https://github.com/ishohei220/unbiased_dbm)**|
-|**2023-06-01**|**Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast**|Guofan Fan et.al.|[2305.19623](http://arxiv.org/abs/2305.19623)|null|
+|**2023-06-01**|**Point-GCC: Universal Self-supervised 3D Scene Pre-training via Geometry-Color Contrast**|Guofan Fan et.al.|[2305.19623](http://arxiv.org/abs/2305.19623)|**[link](https://github.com/asterisci/point-gcc)**|
 |**2023-05-31**|**Random Vibration Testing of Microelectromechanical Deformable Mirrors for Space-based High-Contrast Imaging**|Axel Potier et.al.|[2305.19495](http://arxiv.org/abs/2305.19495)|null|
 |**2023-05-30**|**Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation: Young gas giants in emission**|Rico Landman et.al.|[2305.19355](http://arxiv.org/abs/2305.19355)|null|
 |**2023-05-30**|**A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks**|Jintang Li et.al.|[2305.19306](http://arxiv.org/abs/2305.19306)|**[link](https://github.com/edisonleeeee/spikegcl)**|
@@ -318,6 +322,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**SpotTarget: Rethinking the Effect of Target Edges for Link Prediction in Graph Neural Networks**|Jing Zhu et.al.|[2306.00899](http://arxiv.org/abs/2306.00899)|null|
+|**2023-06-01**|**Renormalized Graph Neural Networks**|Francesco Caso et.al.|[2306.00707](http://arxiv.org/abs/2306.00707)|null|
+|**2023-06-01**|**Does Black-box Attribute Inference Attacks on Graph Neural Networks Constitute Privacy Risk?**|Iyiola E. Olatunji et.al.|[2306.00578](http://arxiv.org/abs/2306.00578)|null|
 |**2023-05-30**|**Predicting protein stability changes under multiple amino acid substitutions using equivariant graph neural networks**|Sebastien Boyer et.al.|[2305.19801](http://arxiv.org/abs/2305.19801)|null|
 |**2023-05-31**|**Is Rewiring Actually Helpful in Graph Neural Networks?**|Domenico Tortorella et.al.|[2305.19717](http://arxiv.org/abs/2305.19717)|null|
 |**2023-05-31**|**Improving Expressivity of Graph Neural Networks using Localization**|Anant Kumar et.al.|[2305.19659](http://arxiv.org/abs/2305.19659)|**[link](https://github.com/roy-shubhajit/insig-gnn)**|
@@ -478,6 +485,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
+|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|null|
+|**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
+|**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973](http://arxiv.org/abs/2306.00973)|**[link](https://github.com/haoningwu3639/StoryGen)**|
+|**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
+|**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|null|
+|**2023-06-01**|**Inserting Anybody in Diffusion Models via Celeb Basis**|Ge Yuan et.al.|[2306.00926](http://arxiv.org/abs/2306.00926)|**[link](https://github.com/ygtxr1997/celebbasis)**|
+|**2023-06-01**|**Conditioning Diffusion Models via Attributes and Semantic Masks for Face Generation**|Nico Giambi et.al.|[2306.00914](http://arxiv.org/abs/2306.00914)|null|
+|**2023-06-01**|**Spatio-Angular Convolutions for Super-resolution in Diffusion MRI**|Matthew Lyon et.al.|[2306.00854](http://arxiv.org/abs/2306.00854)|null|
+|**2023-06-01**|**Diffuse Sources, Clustering and the Excess Anisotropy of the Radio Synchrotron Background**|F. J. Cowie et.al.|[2306.00829](http://arxiv.org/abs/2306.00829)|null|
 |**2023-05-31**|**Understanding and Mitigating Copying in Diffusion Models**|Gowthami Somepalli et.al.|[2305.20086](http://arxiv.org/abs/2305.20086)|**[link](https://github.com/somepago/dcr)**|
 |**2023-05-31**|**Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor**|Ruizhi Shao et.al.|[2305.20082](http://arxiv.org/abs/2305.20082)|null|
 |**2023-05-31**|**Efficient Diffusion Policies for Offline Reinforcement Learning**|Bingyi Kang et.al.|[2305.20081](http://arxiv.org/abs/2305.20081)|**[link](https://github.com/sail-sg/edp)**|
