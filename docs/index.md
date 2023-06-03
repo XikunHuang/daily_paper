@@ -477,7 +477,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
-|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|null|
+|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|**[link](https://github.com/huggingface/diffusers)**|
 |**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
 |**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973](http://arxiv.org/abs/2306.00973)|**[link](https://github.com/haoningwu3639/StoryGen)**|
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
