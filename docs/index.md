@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.04
+## Updated on 2023.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -18,7 +18,7 @@ layout: default
 |**2023-05-31**|**Random Vibration Testing of Microelectromechanical Deformable Mirrors for Space-based High-Contrast Imaging**|Axel Potier et.al.|[2305.19495](http://arxiv.org/abs/2305.19495)|null|
 |**2023-05-30**|**Trade-offs in high-contrast integral field spectroscopy for exoplanet detection and characterisation: Young gas giants in emission**|Rico Landman et.al.|[2305.19355](http://arxiv.org/abs/2305.19355)|null|
 |**2023-05-30**|**A Graph is Worth 1-bit Spikes: When Graph Contrastive Learning Meets Spiking Neural Networks**|Jintang Li et.al.|[2305.19306](http://arxiv.org/abs/2305.19306)|**[link](https://github.com/edisonleeeee/spikegcl)**|
-|**2023-06-01**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888](http://arxiv.org/abs/2305.18888)|**[link](https://github.com/real2fish/csl)**|
+|**2023-06-02**|**Contrastive Shapelet Learning for Unsupervised Multivariate Time Series Representation Learning**|Zhiyu Liang et.al.|[2305.18888](http://arxiv.org/abs/2305.18888)|**[link](https://github.com/real2fish/csl)**|
 |**2023-05-30**|**VVC Extension Scheme for Object Detection Using Contrast Reduction**|Takahiro Shindo et.al.|[2305.18782](http://arxiv.org/abs/2305.18782)|null|
 |**2023-05-29**|**W-procer: Weighted Prototypical Contrastive Learning for Medical Few-Shot Named Entity Recognition**|Mingchen Li et.al.|[2305.18624](http://arxiv.org/abs/2305.18624)|null|
 |**2023-05-29**|**Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors**|Paul S. Scotti et.al.|[2305.18274](http://arxiv.org/abs/2305.18274)|**[link](https://github.com/medarc-ai/fmri-reconstruction-nsd)**|
@@ -476,7 +476,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-01**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
+|**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
 |**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|**[link](https://github.com/huggingface/diffusers)**|
 |**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
 |**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973](http://arxiv.org/abs/2306.00973)|**[link](https://github.com/haoningwu3639/StoryGen)**|
