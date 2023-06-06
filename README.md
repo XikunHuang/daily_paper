@@ -1,4 +1,4 @@
-## Updated on 2023.06.05
+## Updated on 2023.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -319,7 +319,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 ## GNN
 
@@ -484,7 +484,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
 ## Diffusion
 
@@ -498,8 +498,8 @@
 |**2023-06-02**|**Zero-Point Quantum Diffusion of Proton in Hydrogen-rich Superconductor $LaH_{10}$**|Xuejian Qin et.al.|[2306.01371](http://arxiv.org/abs/2306.01371)|null|
 |**2023-06-02**|**Privacy Distillation: Reducing Re-identification Risk of Multimodal Diffusion Models**|Virginia Fernandez et.al.|[2306.01322](http://arxiv.org/abs/2306.01322)|null|
 |**2023-06-02**|**Diffusion Self-Guidance for Controllable Image Generation**|Dave Epstein et.al.|[2306.00986](http://arxiv.org/abs/2306.00986)|null|
-|**2023-06-01**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|**[link](https://github.com/huggingface/diffusers)**|
-|**2023-06-01**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
+|**2023-06-03**|**SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds**|Yanyu Li et.al.|[2306.00980](http://arxiv.org/abs/2306.00980)|**[link](https://github.com/huggingface/diffusers)**|
+|**2023-06-04**|**Intriguing Properties of Text-guided Diffusion Models**|Qihao Liu et.al.|[2306.00974](http://arxiv.org/abs/2306.00974)|**[link](https://github.com/qihao067/sage)**|
 |**2023-06-01**|**Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models**|Chang Liu et.al.|[2306.00973](http://arxiv.org/abs/2306.00973)|**[link](https://github.com/haoningwu3639/StoryGen)**|
 |**2023-06-01**|**The Hidden Language of Diffusion Models**|Hila Chefer et.al.|[2306.00966](http://arxiv.org/abs/2306.00966)|**[link](https://github.com/hila-chefer/Conceptor)**|
 |**2023-06-01**|**Differential Diffusion: Giving Each Pixel Its Strength**|Eran Levin et.al.|[2306.00950](http://arxiv.org/abs/2306.00950)|null|
@@ -698,5 +698,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230605>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230606>back to top</a>)</p>
 
