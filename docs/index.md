@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022](http://arxiv.org/abs/2306.03022)|null|
+|**2023-06-05**|**Asymmetric Patch Sampling for Contrastive Learning**|Chengchao Shen et.al.|[2306.02854](http://arxiv.org/abs/2306.02854)|null|
+|**2023-06-05**|**ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction**|Jia Guo et.al.|[2306.02602](http://arxiv.org/abs/2306.02602)|**[link](https://github.com/guojiajeremy/recontrast)**|
+|**2023-06-05**|**SamToNe: Improving Contrastive Loss for Dual Encoder Retrieval Models with Same Tower Negatives**|Fedor Moiseev et.al.|[2306.02516](http://arxiv.org/abs/2306.02516)|null|
+|**2023-06-04**|**ContraBAR: Contrastive Bayes-Adaptive Deep RL**|Era Choshen et.al.|[2306.02418](http://arxiv.org/abs/2306.02418)|**[link](https://github.com/ec2604/contrabar)**|
+|**2023-06-04**|**Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes**|Alexandros Delitzas et.al.|[2306.02329](http://arxiv.org/abs/2306.02329)|null|
+|**2023-06-03**|**Scaling Up, Scaling Deep: Blockwise Graph Contrastive Learning**|Jintang Li et.al.|[2306.02117](http://arxiv.org/abs/2306.02117)|**[link](https://github.com/edisonleeeee/blockgcl)**|
+|**2023-06-03**|**MA2CL:Masked Attentive Contrastive Learning for Multi-Agent Reinforcement Learning**|Haolin Song et.al.|[2306.02006](http://arxiv.org/abs/2306.02006)|**[link](https://github.com/ustchlsong/ma2cl)**|
+|**2023-06-02**|**Discovering COVID-19 Coughing and Breathing Patterns from Unlabeled Data Using Contrastive Learning with Varying Pre-Training Domains**|Jinjin Cai et.al.|[2306.01864](http://arxiv.org/abs/2306.01864)|null|
+|**2023-06-02**|**Spatially Resolved Gene Expression Prediction from H&E Histology Images via Bi-modal Contrastive Learning**|Ronald Xie et.al.|[2306.01859](http://arxiv.org/abs/2306.01859)|null|
 |**2023-06-02**|**Towards Source-free Domain Adaptive Semantic Segmentation via Importance-aware and Prototype-contrast Learning**|Yihong Cao et.al.|[2306.01598](http://arxiv.org/abs/2306.01598)|**[link](https://github.com/yihong-97/source-free_iapc)**|
 |**2023-06-02**|**Supervised Adversarial Contrastive Learning for Emotion Recognition in Conversations**|Dou Hu et.al.|[2306.01505](http://arxiv.org/abs/2306.01505)|**[link](https://github.com/zerohd4869/sacl)**|
 |**2023-06-02**|**Self Contrastive Learning for Session-based Recommendation**|Zhengxiang Shi et.al.|[2306.01266](http://arxiv.org/abs/2306.01266)|null|
@@ -318,6 +328,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Barriers for the performance of graph neural networks (GNN) in discrete random structures. A comment on~\cite{schuetz2022combinatorial},\cite{angelini2023modern},\cite{schuetz2023reply}**|David Gamarnik et.al.|[2306.02555](http://arxiv.org/abs/2306.02555)|null|
+|**2023-06-04**|**Towards Deep Attention in Graph Neural Networks: Problems and Remedies**|Soo Yong Lee et.al.|[2306.02376](http://arxiv.org/abs/2306.02376)|**[link](https://github.com/syleeheal/aero-gnn)**|
+|**2023-06-03**|**Can Directed Graph Neural Networks be Adversarially Robust?**|Zhichao Hou et.al.|[2306.02002](http://arxiv.org/abs/2306.02002)|null|
+|**2023-06-02**|**A Survey on Explainability of Graph Neural Networks**|Jaykumar Kakkad et.al.|[2306.01958](http://arxiv.org/abs/2306.01958)|null|
 |**2023-06-02**|**Gode -- Integrating Biochemical Knowledge Graph into Pre-training Molecule Graph Neural Network**|Pengcheng Jiang et.al.|[2306.01631](http://arxiv.org/abs/2306.01631)|null|
 |**2023-06-02**|**Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?**|Haitao Mao et.al.|[2306.01323](http://arxiv.org/abs/2306.01323)|null|
 |**2023-06-01**|**SpotTarget: Rethinking the Effect of Target Edges for Link Prediction in Graph Neural Networks**|Jing Zhu et.al.|[2306.00899](http://arxiv.org/abs/2306.00899)|null|
@@ -481,6 +495,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
+|**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083](http://arxiv.org/abs/2306.03083)|null|
+|**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022](http://arxiv.org/abs/2306.03022)|null|
+|**2023-06-05**|**Brain tumor segmentation using synthetic MR images -- A comparison of GANs and diffusion models**|Muhammad Usman Akbar et.al.|[2306.02986](http://arxiv.org/abs/2306.02986)|null|
+|**2023-06-05**|**Complex Preferences for Different Convergent Priors in Discrete Graph Diffusion**|Alex M. Tseng et.al.|[2306.02957](http://arxiv.org/abs/2306.02957)|null|
+|**2023-06-05**|**INDigo: An INN-Guided Probabilistic Diffusion Algorithm for Inverse Problems**|Di You et.al.|[2306.02949](http://arxiv.org/abs/2306.02949)|null|
+|**2023-06-05**|**Microscopy image reconstruction with physics-informed denoising diffusion probabilistic model**|Rui Li et.al.|[2306.02929](http://arxiv.org/abs/2306.02929)|null|
+|**2023-06-05**|**Robust Fiber ODF Estimation Using Deep Constrained Spherical Deconvolution for Diffusion MRI**|Tianyuan Yao et.al.|[2306.02900](http://arxiv.org/abs/2306.02900)|null|
+|**2023-06-05**|**Diffusion dynamics for an infinite system of two-type spheres and the associated depletion effect**|Myriam Fradon et.al.|[2306.02672](http://arxiv.org/abs/2306.02672)|null|
+|**2023-06-05**|**Faster Training of Diffusion Models and Improved Density Estimation via Parallel Score Matching**|Etrit Haxholli et.al.|[2306.02658](http://arxiv.org/abs/2306.02658)|null|
 |**2023-06-02**|**Video Colorization with Pre-trained Text-to-Image Diffusion Models**|Hanyuan Liu et.al.|[2306.01732](http://arxiv.org/abs/2306.01732)|null|
 |**2023-06-02**|**Denoising Diffusion Semantic Segmentation with Mask Prior Modeling**|Zeqiang Lai et.al.|[2306.01721](http://arxiv.org/abs/2306.01721)|**[link](https://github.com/opengvlab/ddps)**|
 |**2023-06-02**|**DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**|Guanqun Bi et.al.|[2306.01657](http://arxiv.org/abs/2306.01657)|null|
