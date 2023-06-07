@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Experimenting with Additive Margins for Contrastive Self-Supervised Speaker Verification**|Theo Lepage et.al.|[2306.03664](http://arxiv.org/abs/2306.03664)|null|
+|**2023-06-06**|**Quantitative characterization of amyloid deposits in murine models of alzheimer disease by phase-contrast x-ray imaging**|A. Politano et.al.|[2306.03556](http://arxiv.org/abs/2306.03556)|null|
+|**2023-06-06**|**Semantic Segmentation on VSPW Dataset through Contrastive Loss and Multi-dataset Training Approach**|Min Yan et.al.|[2306.03508](http://arxiv.org/abs/2306.03508)|null|
+|**2023-06-06**|**Subgraph Networks Based Contrastive Learning**|Jinhuan Wang et.al.|[2306.03506](http://arxiv.org/abs/2306.03506)|null|
+|**2023-06-06**|**Characterization of stellar companion from high-contrast long-slit spectroscopy data: The EXtraction Of SPEctrum of COmpanion (EXOSPECO) algorithm**|Samuel Thé et.al.|[2306.03467](http://arxiv.org/abs/2306.03467)|null|
+|**2023-06-06**|**BatchSampler: Sampling Mini-Batches for Contrastive Learning in Vision, Language, and Graphs**|Zhen Yang et.al.|[2306.03355](http://arxiv.org/abs/2306.03355)|null|
+|**2023-06-06**|**Click: Controllable Text Generation with Sequence Likelihood Contrastive Learning**|Chujie Zheng et.al.|[2306.03350](http://arxiv.org/abs/2306.03350)|null|
+|**2023-06-06**|**Stabilizing Contrastive RL: Techniques for Offline Goal Reaching**|Chongyi Zheng et.al.|[2306.03346](http://arxiv.org/abs/2306.03346)|null|
+|**2023-06-06**|**Unraveling Projection Heads in Contrastive Learning: Insights from Expansion and Shrinkage**|Yu Gui et.al.|[2306.03335](http://arxiv.org/abs/2306.03335)|null|
+|**2023-06-05**|**CoSiNES: Contrastive Siamese Network for Entity Standardization**|Jiaqing Yuan et.al.|[2306.03316](http://arxiv.org/abs/2306.03316)|null|
 |**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022](http://arxiv.org/abs/2306.03022)|null|
 |**2023-06-05**|**Asymmetric Patch Sampling for Contrastive Learning**|Chengchao Shen et.al.|[2306.02854](http://arxiv.org/abs/2306.02854)|null|
 |**2023-06-05**|**ReContrast: Domain-Specific Anomaly Detection via Contrastive Reconstruction**|Jia Guo et.al.|[2306.02602](http://arxiv.org/abs/2306.02602)|**[link](https://github.com/guojiajeremy/recontrast)**|
@@ -335,6 +345,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698](http://arxiv.org/abs/2306.03698)|**[link](https://github.com/nhuang37/finegrain_expressivity_gnn)**|
 |**2023-06-05**|**Barriers for the performance of graph neural networks (GNN) in discrete random structures. A comment on~\cite{schuetz2022combinatorial},\cite{angelini2023modern},\cite{schuetz2023reply}**|David Gamarnik et.al.|[2306.02555](http://arxiv.org/abs/2306.02555)|null|
 |**2023-06-04**|**Towards Deep Attention in Graph Neural Networks: Problems and Remedies**|Soo Yong Lee et.al.|[2306.02376](http://arxiv.org/abs/2306.02376)|**[link](https://github.com/syleeheal/aero-gnn)**|
 |**2023-06-03**|**Can Directed Graph Neural Networks be Adversarially Robust?**|Zhichao Hou et.al.|[2306.02002](http://arxiv.org/abs/2306.02002)|null|
@@ -504,6 +515,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Emergent Correspondence from Image Diffusion**|Luming Tang et.al.|[2306.03881](http://arxiv.org/abs/2306.03881)|null|
+|**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878](http://arxiv.org/abs/2306.03878)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
+|**2023-06-06**|**A class of fractional parabolic reaction-diffusion systems with control of total mass: theory and numerics**|Maha Daoud et.al.|[2306.03836](http://arxiv.org/abs/2306.03836)|null|
+|**2023-06-06**|**Relativistic phase space diffusion of compact object binaries in stellar clusters and hierarchical triples**|Chris Hamilton et.al.|[2306.03703](http://arxiv.org/abs/2306.03703)|null|
+|**2023-06-06**|**Generative diffusion in very large dimensions**|Giulio Biroli et.al.|[2306.03518](http://arxiv.org/abs/2306.03518)|null|
+|**2023-06-06**|**Logic Diffusion for Knowledge Graph Reasoning**|Xiaoying Xie et.al.|[2306.03515](http://arxiv.org/abs/2306.03515)|null|
+|**2023-06-06**|**DFormer: Diffusion-guided Transformer for Universal Image Segmentation**|Hefeng Wang et.al.|[2306.03437](http://arxiv.org/abs/2306.03437)|null|
+|**2023-06-06**|**Protecting the Intellectual Property of Diffusion Models by the Watermark Diffusion Process**|Sen Peng et.al.|[2306.03436](http://arxiv.org/abs/2306.03436)|null|
+|**2023-06-06**|**Change Diffusion: Change Detection Map Generation Based on Difference-Feature Guided DDPM**|Yihan Wen et.al.|[2306.03424](http://arxiv.org/abs/2306.03424)|null|
+|**2023-06-06**|**DreamSparse: Escaping from Plato's Cave with 2D Diffusion Model Given Sparse Views**|Paul Yoo et.al.|[2306.03414](http://arxiv.org/abs/2306.03414)|null|
 |**2023-06-05**|**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**|Andrew F. Luo et.al.|[2306.03089](http://arxiv.org/abs/2306.03089)|null|
 |**2023-06-05**|**MotionDiffuser: Controllable Multi-Agent Motion Prediction using Diffusion**|Chiyu Max Jiang et.al.|[2306.03083](http://arxiv.org/abs/2306.03083)|null|
 |**2023-06-05**|**Interpretable Alzheimer's Disease Classification Via a Contrastive Diffusion Autoencoder**|Ayodeji Ijishakin et.al.|[2306.03022](http://arxiv.org/abs/2306.03022)|null|
