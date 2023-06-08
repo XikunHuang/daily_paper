@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion**|Yash Bhalgat et.al.|[2306.04633](http://arxiv.org/abs/2306.04633)|null|
+|**2023-06-07**|**Contrastive Bootstrapping for Label Refinement**|Shudi Hou et.al.|[2306.04544](http://arxiv.org/abs/2306.04544)|null|
+|**2023-06-07**|**Large-Scale Cell Representation Learning via Divide-and-Conquer Contrastive Learning**|Suyuan Zhao et.al.|[2306.04371](http://arxiv.org/abs/2306.04371)|null|
+|**2023-06-07**|**Unpaired Deep Learning for Pharmacokinetic Parameter Estimation from Dynamic Contrast-Enhanced MRI**|Gyutaek Oh et.al.|[2306.04339](http://arxiv.org/abs/2306.04339)|null|
+|**2023-06-07**|**Phrase Retrieval for Open-Domain Conversational Question Answering with Conversational Dependency Modeling via Contrastive Learning**|Soyeong Jeong et.al.|[2306.04293](http://arxiv.org/abs/2306.04293)|null|
+|**2023-06-07**|**On the Generalization of Multi-modal Contrastive Learning**|Qi Zhang et.al.|[2306.04272](http://arxiv.org/abs/2306.04272)|null|
+|**2023-06-07**|**ScoreCL: Augmentation-Adaptive Contrastive Learning via Score-Matching Function**|JinYoung Kim et.al.|[2306.04175](http://arxiv.org/abs/2306.04175)|null|
+|**2023-06-07**|**Rethinking Weak Supervision in Helping Contrastive Learning**|Jingyi Cui et.al.|[2306.04160](http://arxiv.org/abs/2306.04160)|null|
+|**2023-06-06**|**Randomized Schur Complement Views for Graph Contrastive Learning**|Vignesh Kothapalli et.al.|[2306.04004](http://arxiv.org/abs/2306.04004)|null|
+|**2023-06-06**|**Unsupervised Iterative U-Net with an Internal Guidance Layer for Vertebrae Contrast Enhancement in Chest X-Ray Images**|Ella Eidlin et.al.|[2306.03983](http://arxiv.org/abs/2306.03983)|null|
 |**2023-06-06**|**Experimenting with Additive Margins for Contrastive Self-Supervised Speaker Verification**|Theo Lepage et.al.|[2306.03664](http://arxiv.org/abs/2306.03664)|null|
 |**2023-06-06**|**Quantitative characterization of amyloid deposits in murine models of alzheimer disease by phase-contrast x-ray imaging**|A. Politano et.al.|[2306.03556](http://arxiv.org/abs/2306.03556)|null|
 |**2023-06-06**|**Semantic Segmentation on VSPW Dataset through Contrastive Loss and Multi-dataset Training Approach**|Min Yan et.al.|[2306.03508](http://arxiv.org/abs/2306.03508)|null|
@@ -345,6 +355,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415](http://arxiv.org/abs/2306.04415)|null|
+|**2023-06-07**|**Photon Reconstruction in the Belle II Calorimeter Using Graph Neural Networks**|F. Wemmer et.al.|[2306.04179](http://arxiv.org/abs/2306.04179)|null|
+|**2023-06-07**|**BeMap: Balanced Message Passing for Fair Graph Neural Network**|Xiao Lin et.al.|[2306.04107](http://arxiv.org/abs/2306.04107)|null|
+|**2023-06-07**|**PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation**|Ziyang Liu et.al.|[2306.04095](http://arxiv.org/abs/2306.04095)|null|
 |**2023-06-06**|**Fine-grained Expressivity of Graph Neural Networks**|Jan Böker et.al.|[2306.03698](http://arxiv.org/abs/2306.03698)|**[link](https://github.com/nhuang37/finegrain_expressivity_gnn)**|
 |**2023-06-05**|**Barriers for the performance of graph neural networks (GNN) in discrete random structures. A comment on~\cite{schuetz2022combinatorial},\cite{angelini2023modern},\cite{schuetz2023reply}**|David Gamarnik et.al.|[2306.02555](http://arxiv.org/abs/2306.02555)|null|
 |**2023-06-04**|**Towards Deep Attention in Graph Neural Networks: Problems and Remedies**|Soo Yong Lee et.al.|[2306.02376](http://arxiv.org/abs/2306.02376)|**[link](https://github.com/syleeheal/aero-gnn)**|
@@ -515,6 +529,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
+|**2023-06-07**|**On the Design Fundamentals of Diffusion Models: A Survey**|Ziyi Chang et.al.|[2306.04542](http://arxiv.org/abs/2306.04542)|null|
+|**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445](http://arxiv.org/abs/2306.04445)|null|
+|**2023-06-07**|**Synthesizing realistic sand assemblies with denoising diffusion in latent space**|Nikolaos N. Vlassis et.al.|[2306.04411](http://arxiv.org/abs/2306.04411)|null|
+|**2023-06-07**|**Improving Diffusion-based Image Translation using Asymmetric Gradient Guidance**|Gihyun Kwon et.al.|[2306.04396](http://arxiv.org/abs/2306.04396)|**[link](https://github.com/submissionanon18/agg)**|
+|**2023-06-07**|**Generative Semantic Communication: Diffusion Models Beyond Bit Recovery**|Eleonora Grassucci et.al.|[2306.04321](http://arxiv.org/abs/2306.04321)|**[link](https://github.com/ispamm/gesco)**|
+|**2023-06-07**|**Interpretable Style Transfer for Text-to-Speech with ControlVAE and Diffusion Bridge**|Wenhao Guan et.al.|[2306.04301](http://arxiv.org/abs/2306.04301)|null|
+|**2023-06-07**|**About the regularity of degenerate non-local Kolmogorov operators under diffusive perturbations**|Lorenzo Marino et.al.|[2306.04273](http://arxiv.org/abs/2306.04273)|null|
+|**2023-06-07**|**A Survey on Generative Diffusion Models for Structured Data**|Heejoon Koo et.al.|[2306.04139](http://arxiv.org/abs/2306.04139)|null|
+|**2023-06-07**|**Phoenix: A Federated Generative Diffusion Model**|Fiona Victoria Stanley Jothiraj et.al.|[2306.04098](http://arxiv.org/abs/2306.04098)|null|
 |**2023-06-06**|**Emergent Correspondence from Image Diffusion**|Luming Tang et.al.|[2306.03881](http://arxiv.org/abs/2306.03881)|null|
 |**2023-06-06**|**Conditional Diffusion Models for Weakly Supervised Medical Image Segmentation**|Xinrong Hu et.al.|[2306.03878](http://arxiv.org/abs/2306.03878)|**[link](https://github.com/xhu248/cond_ddpm_wsss)**|
 |**2023-06-06**|**A class of fractional parabolic reaction-diffusion systems with control of total mass: theory and numerics**|Maha Daoud et.al.|[2306.03836](http://arxiv.org/abs/2306.03836)|null|
