@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**Factorized Contrastive Learning: Going Beyond Multi-view Redundancy**|Paul Pu Liang et.al.|[2306.05268](http://arxiv.org/abs/2306.05268)|**[link](https://github.com/pliang279/factorcl)**|
+|**2023-06-08**|**Devil is in Channels: Contrastive Single Domain Generalization for Medical Image Segmentation**|Shishuai Hu et.al.|[2306.05254](http://arxiv.org/abs/2306.05254)|null|
+|**2023-06-08**|**Sy-CON: Symmetric Contrastive Loss for Continual Self-Supervised Representation Learning**|Sungmin Cha et.al.|[2306.05101](http://arxiv.org/abs/2306.05101)|null|
+|**2023-06-08**|**Attention Weighted Mixture of Experts with Contrastive Learning for Personalized Ranking in E-commerce**|Juan Gong et.al.|[2306.05011](http://arxiv.org/abs/2306.05011)|null|
+|**2023-06-08**|**COURIER: Contrastive User Intention Reconstruction for Large-Scale Pre-Train of Image Features**|Jia-Qi Yang et.al.|[2306.05001](http://arxiv.org/abs/2306.05001)|null|
+|**2023-06-08**|**CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification**|Nan Yin et.al.|[2306.04979](http://arxiv.org/abs/2306.04979)|null|
+|**2023-06-07**|**Spectral variability of photospheric radiation due to faculae II: Facular contrasts for cool main-sequence stars**|Charlotte M. Norris et.al.|[2306.04669](http://arxiv.org/abs/2306.04669)|null|
 |**2023-06-07**|**Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion**|Yash Bhalgat et.al.|[2306.04633](http://arxiv.org/abs/2306.04633)|null|
 |**2023-06-07**|**Contrastive Bootstrapping for Label Refinement**|Shudi Hou et.al.|[2306.04544](http://arxiv.org/abs/2306.04544)|null|
 |**2023-06-07**|**Large-Scale Cell Representation Learning via Divide-and-Conquer Contrastive Learning**|Suyuan Zhao et.al.|[2306.04371](http://arxiv.org/abs/2306.04371)|null|
@@ -355,6 +362,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905](http://arxiv.org/abs/2306.04905)|null|
+|**2023-06-07**|**Empowering Counterfactual Reasoning over Graph Neural Networks through Inductivity**|Samidha Verma et.al.|[2306.04835](http://arxiv.org/abs/2306.04835)|**[link](https://github.com/idea-iitd/induce)**|
 |**2023-06-07**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415](http://arxiv.org/abs/2306.04415)|null|
 |**2023-06-07**|**Photon Reconstruction in the Belle II Calorimeter Using Graph Neural Networks**|F. Wemmer et.al.|[2306.04179](http://arxiv.org/abs/2306.04179)|null|
 |**2023-06-07**|**BeMap: Balanced Message Passing for Fair Graph Neural Network**|Xiao Lin et.al.|[2306.04107](http://arxiv.org/abs/2306.04107)|null|
@@ -529,6 +538,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-08**|**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**|Changyao Tian et.al.|[2306.05423](http://arxiv.org/abs/2306.05423)|null|
+|**2023-06-08**|**Investigating the OH-H2 relation in diffuse Galactic clouds**|Katherine Rawlins et.al.|[2306.05213](http://arxiv.org/abs/2306.05213)|null|
+|**2023-06-08**|**PriSampler: Mitigating Property Inference of Diffusion Models**|Hailong Hu et.al.|[2306.05208](http://arxiv.org/abs/2306.05208)|null|
+|**2023-06-08**|**SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions**|Yuseung Lee et.al.|[2306.05178](http://arxiv.org/abs/2306.05178)|null|
+|**2023-06-08**|**Probabilistic derivation and analysis of the chemical diffusion master equation with mutual annihilation**|Alberto Lanconelli et.al.|[2306.05139](http://arxiv.org/abs/2306.05139)|null|
+|**2023-06-08**|**Non-autoregressive Conditional Diffusion Models for Time Series Prediction**|Lifeng Shen et.al.|[2306.05043](http://arxiv.org/abs/2306.05043)|null|
+|**2023-06-08**|**Quantum Tunneling in the Surface Diffusion of Single Hydrogen Atoms on Cu(001)**|Xiaofan Yu et.al.|[2306.05010](http://arxiv.org/abs/2306.05010)|null|
+|**2023-06-08**|**A high-order diffused-interface approach for two-phase compressible flow simulations using a Discontinuous Galerkin framework**|Niccolò Tonicello et.al.|[2306.05002](http://arxiv.org/abs/2306.05002)|null|
+|**2023-06-08**|**Multi-Architecture Multi-Expert Diffusion Models**|Yunsung Lee et.al.|[2306.04990](http://arxiv.org/abs/2306.04990)|null|
+|**2023-06-08**|**Temperature anomalies of oscillating diffusion in ac-driven periodic systems**|I. G. Marchenko et.al.|[2306.04977](http://arxiv.org/abs/2306.04977)|null|
 |**2023-06-08**|**Integrating Geometric Control into Text-to-Image Diffusion Models for High-Quality Detection Data Generation via Text Prompt**|Kai Chen et.al.|[2306.04607](http://arxiv.org/abs/2306.04607)|null|
 |**2023-06-07**|**On the Design Fundamentals of Diffusion Models: A Survey**|Ziyi Chang et.al.|[2306.04542](http://arxiv.org/abs/2306.04542)|null|
 |**2023-06-07**|**Multi-modal Latent Diffusion**|Mustapha Bounoua et.al.|[2306.04445](http://arxiv.org/abs/2306.04445)|null|
