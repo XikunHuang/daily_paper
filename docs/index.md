@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**|Hengyuan Zhang et.al.|[2306.06058](http://arxiv.org/abs/2306.06058)|null|
+|**2023-06-09**|**Agent market orders representation through a contrastive learning approach**|Ruihua Ruan et.al.|[2306.05987](http://arxiv.org/abs/2306.05987)|null|
+|**2023-06-08**|**A brief review of contrastive learning applied to astrophysics**|Marc Huertas-Company et.al.|[2306.05528](http://arxiv.org/abs/2306.05528)|null|
+|**2023-06-08**|**The speckle contrast extended to the polarimetric case: applications to radar and Laser images**|Elise Colin et.al.|[2306.05441](http://arxiv.org/abs/2306.05441)|null|
+|**2023-06-08**|**CLC: Cluster Assignment via Contrastive Representation Learning**|Fei Ding et.al.|[2306.05439](http://arxiv.org/abs/2306.05439)|null|
 |**2023-06-08**|**Factorized Contrastive Learning: Going Beyond Multi-view Redundancy**|Paul Pu Liang et.al.|[2306.05268](http://arxiv.org/abs/2306.05268)|**[link](https://github.com/pliang279/factorcl)**|
 |**2023-06-08**|**Devil is in Channels: Contrastive Single Domain Generalization for Medical Image Segmentation**|Shishuai Hu et.al.|[2306.05254](http://arxiv.org/abs/2306.05254)|null|
 |**2023-06-08**|**Sy-CON: Symmetric Contrastive Loss for Continual Self-Supervised Representation Learning**|Sungmin Cha et.al.|[2306.05101](http://arxiv.org/abs/2306.05101)|null|
@@ -355,6 +360,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955](http://arxiv.org/abs/2306.05955)|**[link](https://github.com/gasmichel/pathnns_expressive)**|
+|**2023-06-08**|**On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks**|Donald Loveland et.al.|[2306.05557](http://arxiv.org/abs/2306.05557)|null|
 |**2023-06-08**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905](http://arxiv.org/abs/2306.04905)|null|
 |**2023-06-07**|**Empowering Counterfactual Reasoning over Graph Neural Networks through Inductivity**|Samidha Verma et.al.|[2306.04835](http://arxiv.org/abs/2306.04835)|**[link](https://github.com/idea-iitd/induce)**|
 |**2023-06-07**|**Flavour tagging with graph neural networks with the ATLAS detector**|Arnaud Duperrin et.al.|[2306.04415](http://arxiv.org/abs/2306.04415)|null|
@@ -529,6 +536,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103](http://arxiv.org/abs/2306.06103)|null|
+|**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
+|**2023-06-09**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
+|**2023-06-09**|**RePaint-NeRF: NeRF Editting via Semantic Masks and Diffusion Models**|Xingchen Zhou et.al.|[2306.05668](http://arxiv.org/abs/2306.05668)|null|
+|**2023-06-08**|**BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping**|Jiatao Gu et.al.|[2306.05544](http://arxiv.org/abs/2306.05544)|null|
 |**2023-06-08**|**ADDP: Learning General Representations for Image Recognition and Generation with Alternating Denoising Diffusion Process**|Changyao Tian et.al.|[2306.05423](http://arxiv.org/abs/2306.05423)|null|
 |**2023-06-08**|**Investigating the OH-H2 relation in diffuse Galactic clouds**|Katherine Rawlins et.al.|[2306.05213](http://arxiv.org/abs/2306.05213)|null|
 |**2023-06-08**|**PriSampler: Mitigating Property Inference of Diffusion Models**|Hailong Hu et.al.|[2306.05208](http://arxiv.org/abs/2306.05208)|null|
