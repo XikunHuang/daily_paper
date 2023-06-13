@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196](http://arxiv.org/abs/2306.07196)|null|
+|**2023-06-10**|**TS-MoCo: Time-Series Momentum Contrast for Self-Supervised Physiological Representation Learning**|Philipp Hallgarten et.al.|[2306.06522](http://arxiv.org/abs/2306.06522)|**[link](https://github.com/philipph77/ts-moco)**|
+|**2023-06-10**|**Two-Stage Holistic and Contrastive Explanation of Image Classification**|Weiyan Xie et.al.|[2306.06339](http://arxiv.org/abs/2306.06339)|**[link](https://github.com/vaynexie/cwox)**|
+|**2023-06-09**|**Contrastive Learning for Predicting Cancer Prognosis Using Gene Expression Values**|Anchen Sun et.al.|[2306.06276](http://arxiv.org/abs/2306.06276)|null|
 |**2023-06-09**|**Assisting Language Learners: Automated Trans-Lingual Definition Generation via Contrastive Prompt Learning**|Hengyuan Zhang et.al.|[2306.06058](http://arxiv.org/abs/2306.06058)|null|
 |**2023-06-09**|**Agent market orders representation through a contrastive learning approach**|Ruihua Ruan et.al.|[2306.05987](http://arxiv.org/abs/2306.05987)|null|
 |**2023-06-08**|**A brief review of contrastive learning applied to astrophysics**|Marc Huertas-Company et.al.|[2306.05528](http://arxiv.org/abs/2306.05528)|null|
@@ -367,6 +371,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930](http://arxiv.org/abs/2306.06930)|null|
+|**2023-06-11**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547](http://arxiv.org/abs/2306.06547)|null|
+|**2023-06-10**|**Finding Hamiltonian cycles with graph neural networks**|Filip Bosnić et.al.|[2306.06523](http://arxiv.org/abs/2306.06523)|**[link](https://github.com/lbcb-sci/gnns-hamiltonian-cycles)**|
 |**2023-06-09**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955](http://arxiv.org/abs/2306.05955)|**[link](https://github.com/gasmichel/pathnns_expressive)**|
 |**2023-06-08**|**On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks**|Donald Loveland et.al.|[2306.05557](http://arxiv.org/abs/2306.05557)|null|
 |**2023-06-08**|**ViG-UNet: Vision Graph Neural Networks for Medical Image Segmentation**|Juntao Jiang et.al.|[2306.04905](http://arxiv.org/abs/2306.04905)|null|
@@ -545,6 +552,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280](http://arxiv.org/abs/2306.07280)|null|
+|**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180](http://arxiv.org/abs/2306.07180)|null|
+|**2023-06-12**|**Supercaloric functions for the porous medium equation in the fast diffusion case**|Kristian Moring et.al.|[2306.07155](http://arxiv.org/abs/2306.07155)|null|
+|**2023-06-12**|**Convergence of solutions for a reaction-diffusion problem with fractional Laplacian**|Jiaouhui Xu et.al.|[2306.07148](http://arxiv.org/abs/2306.07148)|null|
+|**2023-06-12**|**Latent Dynamical Implicit Diffusion Processes**|Mohammad R. Rezaei et.al.|[2306.07077](http://arxiv.org/abs/2306.07077)|null|
+|**2023-06-12**|**Fast Diffusion Model**|Zike Wu et.al.|[2306.06991](http://arxiv.org/abs/2306.06991)|null|
+|**2023-06-12**|**Dynamics of the $O(4)$ critical point in QCD: critical pions and diffusion in Model G**|Adrien Florio et.al.|[2306.06887](http://arxiv.org/abs/2306.06887)|null|
+|**2023-06-12**|**Arrhenius law for interacting diffusive systems**|Vishwajeet Kumar et.al.|[2306.06879](http://arxiv.org/abs/2306.06879)|null|
+|**2023-06-12**|**VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models**|Sheng-Yen Chou et.al.|[2306.06874](http://arxiv.org/abs/2306.06874)|null|
+|**2023-06-12**|**Continuity of a spatial gradient of a weak solution to a very singular parabolic equation involving anisotropic diffusivity**|Shuntaro Tsubouchi et.al.|[2306.06868](http://arxiv.org/abs/2306.06868)|null|
 |**2023-06-09**|**Beyond Diffusion: A Generalized Mean-Field Theory of Turbulent Dust Transport in Protoplanetary Disks**|Fabian Binkert et.al.|[2306.06103](http://arxiv.org/abs/2306.06103)|null|
 |**2023-06-09**|**Beyond Surface Statistics: Scene Representations in a Latent Diffusion Model**|Yida Chen et.al.|[2306.05720](http://arxiv.org/abs/2306.05720)|null|
 |**2023-06-12**|**Boosting Fast and High-Quality Speech Synthesis with Linear Diffusion**|Haogeng Liu et.al.|[2306.05708](http://arxiv.org/abs/2306.05708)|null|
