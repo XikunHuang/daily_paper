@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Supervised-Contrastive Loss Learns Orthogonal Frames and Batching Matters**|Ganesh Ramachandra Kini et.al.|[2306.07960](http://arxiv.org/abs/2306.07960)|**[link](https://github.com/valavakilian/scl_geometry_and_batching)**|
+|**2023-06-13**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848](http://arxiv.org/abs/2306.07848)|null|
+|**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744](http://arxiv.org/abs/2306.07744)|null|
+|**2023-06-13**|**Heterophily-aware Social Bot Detection with Supervised Contrastive Learning**|Qi Wu et.al.|[2306.07478](http://arxiv.org/abs/2306.07478)|null|
 |**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196](http://arxiv.org/abs/2306.07196)|null|
 |**2023-06-10**|**TS-MoCo: Time-Series Momentum Contrast for Self-Supervised Physiological Representation Learning**|Philipp Hallgarten et.al.|[2306.06522](http://arxiv.org/abs/2306.06522)|**[link](https://github.com/philipph77/ts-moco)**|
 |**2023-06-10**|**Two-Stage Holistic and Contrastive Explanation of Image Classification**|Weiyan Xie et.al.|[2306.06339](http://arxiv.org/abs/2306.06339)|**[link](https://github.com/vaynexie/cwox)**|
@@ -552,6 +556,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
+|**2023-06-13**|**Diffusive and convective dissolution of carbon dioxide in a vertical cylindrical cell**|Daniël P. Faasen et.al.|[2306.07721](http://arxiv.org/abs/2306.07721)|null|
+|**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
+|**2023-06-13**|**Analysis of hydrogen diffusion in the three stage electro-permeation test**|A. Raina et.al.|[2306.07666](http://arxiv.org/abs/2306.07666)|null|
+|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618](http://arxiv.org/abs/2306.07618)|null|
+|**2023-06-13**|**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**|Xin Zhang et.al.|[2306.07596](http://arxiv.org/abs/2306.07596)|null|
+|**2023-06-13**|**UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding**|Chenpeng Du et.al.|[2306.07547](http://arxiv.org/abs/2306.07547)|null|
+|**2023-06-13**|**User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems**|Marc Finzi et.al.|[2306.07526](http://arxiv.org/abs/2306.07526)|null|
+|**2023-06-13**|**Exact sharp-fronted solutions for nonlinear diffusion on evolving domains**|Stuart T. Johnston et.al.|[2306.07491](http://arxiv.org/abs/2306.07491)|null|
+|**2023-06-12**|**Deep Ultrasound Denoising Using Diffusion Probabilistic Models**|Hojat Asgariandehkordi et.al.|[2306.07440](http://arxiv.org/abs/2306.07440)|null|
 |**2023-06-12**|**Controlling Text-to-Image Diffusion by Orthogonal Finetuning**|Zeju Qiu et.al.|[2306.07280](http://arxiv.org/abs/2306.07280)|null|
 |**2023-06-12**|**Diffusion Models for Black-Box Optimization**|Siddarth Krishnamoorthy et.al.|[2306.07180](http://arxiv.org/abs/2306.07180)|null|
 |**2023-06-12**|**Supercaloric functions for the porous medium equation in the fast diffusion case**|Kristian Moring et.al.|[2306.07155](http://arxiv.org/abs/2306.07155)|null|
