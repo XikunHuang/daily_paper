@@ -1,4 +1,4 @@
-## Updated on 2023.06.15
+## Updated on 2023.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |**2023-06-13**|**Supervised-Contrastive Loss Learns Orthogonal Frames and Batching Matters**|Ganesh Ramachandra Kini et.al.|[2306.07960](http://arxiv.org/abs/2306.07960)|**[link](https://github.com/valavakilian/scl_geometry_and_batching)**|
 |**2023-06-13**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848](http://arxiv.org/abs/2306.07848)|null|
 |**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744](http://arxiv.org/abs/2306.07744)|null|
-|**2023-06-13**|**Heterophily-aware Social Bot Detection with Supervised Contrastive Learning**|Qi Wu et.al.|[2306.07478](http://arxiv.org/abs/2306.07478)|null|
+|**2023-06-15**|**Heterophily-aware Social Bot Detection with Supervised Contrastive Learning**|Qi Wu et.al.|[2306.07478](http://arxiv.org/abs/2306.07478)|null|
 |**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196](http://arxiv.org/abs/2306.07196)|null|
 |**2023-06-10**|**TS-MoCo: Time-Series Momentum Contrast for Self-Supervised Physiological Representation Learning**|Philipp Hallgarten et.al.|[2306.06522](http://arxiv.org/abs/2306.06522)|**[link](https://github.com/philipph77/ts-moco)**|
 |**2023-06-10**|**Two-Stage Holistic and Contrastive Explanation of Image Classification**|Weiyan Xie et.al.|[2306.06339](http://arxiv.org/abs/2306.06339)|**[link](https://github.com/vaynexie/cwox)**|
@@ -369,13 +369,13 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-12**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930](http://arxiv.org/abs/2306.06930)|null|
+|**2023-06-15**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930](http://arxiv.org/abs/2306.06930)|null|
 |**2023-06-11**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547](http://arxiv.org/abs/2306.06547)|**[link](https://github.com/chen-cai-osu/mpnn-gt-connection)**|
 |**2023-06-10**|**Finding Hamiltonian cycles with graph neural networks**|Filip Bosnić et.al.|[2306.06523](http://arxiv.org/abs/2306.06523)|**[link](https://github.com/lbcb-sci/gnns-hamiltonian-cycles)**|
 |**2023-06-09**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955](http://arxiv.org/abs/2306.05955)|**[link](https://github.com/gasmichel/pathnns_expressive)**|
@@ -550,7 +550,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
 
 ## Diffusion
 
@@ -560,7 +560,7 @@
 |**2023-06-13**|**Diffusive and convective dissolution of carbon dioxide in a vertical cylindrical cell**|Daniël P. Faasen et.al.|[2306.07721](http://arxiv.org/abs/2306.07721)|null|
 |**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
 |**2023-06-13**|**Analysis of hydrogen diffusion in the three stage electro-permeation test**|A. Raina et.al.|[2306.07666](http://arxiv.org/abs/2306.07666)|null|
-|**2023-06-13**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618](http://arxiv.org/abs/2306.07618)|null|
+|**2023-06-15**|**Hyperbolic Graph Diffusion Model for Molecule Generation**|Lingfeng Wen et.al.|[2306.07618](http://arxiv.org/abs/2306.07618)|null|
 |**2023-06-13**|**Paste, Inpaint and Harmonize via Denoising: Subject-Driven Image Editing with Pre-Trained Diffusion Model**|Xin Zhang et.al.|[2306.07596](http://arxiv.org/abs/2306.07596)|null|
 |**2023-06-13**|**UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding**|Chenpeng Du et.al.|[2306.07547](http://arxiv.org/abs/2306.07547)|null|
 |**2023-06-13**|**User-defined Event Sampling and Uncertainty Quantification in Diffusion Models for Physical Dynamical Systems**|Marc Finzi et.al.|[2306.07526](http://arxiv.org/abs/2306.07526)|null|
@@ -829,5 +829,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230616>back to top</a>)</p>
 
