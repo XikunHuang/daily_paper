@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Contrast, Stylize and Adapt: Unsupervised Contrastive Learning Framework for Domain Adaptive Semantic Segmentation**|Tianyu Li et.al.|[2306.09098](http://arxiv.org/abs/2306.09098)|**[link](https://github.com/cxa9264/confeti)**|
+|**2023-06-15**|**Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding**|Le Zhang et.al.|[2306.08832](http://arxiv.org/abs/2306.08832)|null|
+|**2023-06-15**|**Pragmatic Inference with a CLIP Listener for Contrastive Captioning**|Jiefu Ou et.al.|[2306.08818](http://arxiv.org/abs/2306.08818)|**[link](https://github.com/jefferyo/prag_clip_contra_caption)**|
+|**2023-06-15**|**Description-Enhanced Label Embedding Contrastive Learning for Text Classification**|Kun Zhang et.al.|[2306.08817](http://arxiv.org/abs/2306.08817)|null|
+|**2023-06-15**|**Efficient Token-Guided Image-Text Retrieval with Consistent Multimodal Contrastive Training**|Chong Liu et.al.|[2306.08789](http://arxiv.org/abs/2306.08789)|null|
+|**2023-06-14**|**On central focusing for contrast optimization in direct electron ptychography of thick samples**|C. Gao et.al.|[2306.08587](http://arxiv.org/abs/2306.08587)|null|
+|**2023-06-14**|**Contrastive Loss is All You Need to Recover Analogies as Parallel Lines**|Narutatsu Ri et.al.|[2306.08221](http://arxiv.org/abs/2306.08221)|null|
 |**2023-06-13**|**Supervised-Contrastive Loss Learns Orthogonal Frames and Batching Matters**|Ganesh Ramachandra Kini et.al.|[2306.07960](http://arxiv.org/abs/2306.07960)|**[link](https://github.com/valavakilian/scl_geometry_and_batching)**|
 |**2023-06-13**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848](http://arxiv.org/abs/2306.07848)|null|
 |**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744](http://arxiv.org/abs/2306.07744)|null|
@@ -368,6 +375,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938](http://arxiv.org/abs/2306.08938)|**[link](https://github.com/UNIC-Lab/LOGNN)**|
 |**2023-06-15**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930](http://arxiv.org/abs/2306.06930)|null|
 |**2023-06-11**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547](http://arxiv.org/abs/2306.06547)|**[link](https://github.com/chen-cai-osu/mpnn-gt-connection)**|
 |**2023-06-10**|**Finding Hamiltonian cycles with graph neural networks**|Filip Bosnić et.al.|[2306.06523](http://arxiv.org/abs/2306.06523)|**[link](https://github.com/lbcb-sci/gnns-hamiltonian-cycles)**|
@@ -547,6 +555,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
+|**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
+|**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305](http://arxiv.org/abs/2306.09305)|**[link](https://github.com/anima-lab/maskdit)**|
+|**2023-06-15**|**Two sided ergodic singular control and mean field game for diffusions**|Sören Christensen et.al.|[2306.09263](http://arxiv.org/abs/2306.09263)|null|
+|**2023-06-15**|**Towards Faster Non-Asymptotic Convergence for Diffusion-Based Generative Models**|Gen Li et.al.|[2306.09251](http://arxiv.org/abs/2306.09251)|null|
+|**2023-06-15**|**Training Diffusion Classifiers with Denoising Assistance**|Chandramouli Sastry et.al.|[2306.09192](http://arxiv.org/abs/2306.09192)|null|
+|**2023-06-15**|**DIFFender: Diffusion-Based Adversarial Defense against Patch Attacks in the Physical World**|Caixin Kang et.al.|[2306.09124](http://arxiv.org/abs/2306.09124)|null|
+|**2023-06-15**|**Unbalanced Diffusion Schrödinger Bridge**|Matteo Pariset et.al.|[2306.09099](http://arxiv.org/abs/2306.09099)|**[link](https://github.com/matteopariset/unbalanced_sb)**|
+|**2023-06-15**|**Relation-Aware Diffusion Model for Controllable Poster Layout Generation**|Fengheng Li et.al.|[2306.09086](http://arxiv.org/abs/2306.09086)|**[link](https://github.com/liuan0803/radm)**|
+|**2023-06-15**|**Experimental study of turbulent thermal diffusion of particles in an inhomogeneous forced convective turbulence**|E. Elmakies et.al.|[2306.09053](http://arxiv.org/abs/2306.09053)|null|
 |**2023-06-13**|**Viewset Diffusion: (0-)Image-Conditioned 3D Generative Models from 2D Data**|Stanislaw Szymanowicz et.al.|[2306.07881](http://arxiv.org/abs/2306.07881)|null|
 |**2023-06-13**|**Diffusive and convective dissolution of carbon dioxide in a vertical cylindrical cell**|Daniël P. Faasen et.al.|[2306.07721](http://arxiv.org/abs/2306.07721)|null|
 |**2023-06-13**|**StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models**|Yinghao Aaron Li et.al.|[2306.07691](http://arxiv.org/abs/2306.07691)|null|
