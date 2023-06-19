@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.18
+## Updated on 2023.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,15 +10,15 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-15**|**Contrast, Stylize and Adapt: Unsupervised Contrastive Learning Framework for Domain Adaptive Semantic Segmentation**|Tianyu Li et.al.|[2306.09098](http://arxiv.org/abs/2306.09098)|**[link](https://github.com/cxa9264/confeti)**|
-|**2023-06-15**|**Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding**|Le Zhang et.al.|[2306.08832](http://arxiv.org/abs/2306.08832)|null|
+|**2023-06-15**|**Contrasting Intra-Modal and Ranking Cross-Modal Hard Negatives to Enhance Visio-Linguistic Fine-grained Understanding**|Le Zhang et.al.|[2306.08832](http://arxiv.org/abs/2306.08832)|**[link](https://github.com/magiccircuit/enhance-finegrained)**|
 |**2023-06-15**|**Pragmatic Inference with a CLIP Listener for Contrastive Captioning**|Jiefu Ou et.al.|[2306.08818](http://arxiv.org/abs/2306.08818)|**[link](https://github.com/jefferyo/prag_clip_contra_caption)**|
-|**2023-06-15**|**Description-Enhanced Label Embedding Contrastive Learning for Text Classification**|Kun Zhang et.al.|[2306.08817](http://arxiv.org/abs/2306.08817)|null|
+|**2023-06-15**|**Description-Enhanced Label Embedding Contrastive Learning for Text Classification**|Kun Zhang et.al.|[2306.08817](http://arxiv.org/abs/2306.08817)|**[link](https://github.com/little1tow/DELE_pytorch)**|
 |**2023-06-15**|**Efficient Token-Guided Image-Text Retrieval with Consistent Multimodal Contrastive Training**|Chong Liu et.al.|[2306.08789](http://arxiv.org/abs/2306.08789)|null|
 |**2023-06-14**|**On central focusing for contrast optimization in direct electron ptychography of thick samples**|C. Gao et.al.|[2306.08587](http://arxiv.org/abs/2306.08587)|null|
-|**2023-06-14**|**Contrastive Loss is All You Need to Recover Analogies as Parallel Lines**|Narutatsu Ri et.al.|[2306.08221](http://arxiv.org/abs/2306.08221)|null|
+|**2023-06-14**|**Contrastive Loss is All You Need to Recover Analogies as Parallel Lines**|Narutatsu Ri et.al.|[2306.08221](http://arxiv.org/abs/2306.08221)|**[link](https://github.com/narutatsuri/cwm)**|
 |**2023-06-13**|**Supervised-Contrastive Loss Learns Orthogonal Frames and Batching Matters**|Ganesh Ramachandra Kini et.al.|[2306.07960](http://arxiv.org/abs/2306.07960)|**[link](https://github.com/valavakilian/scl_geometry_and_batching)**|
-|**2023-06-13**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848](http://arxiv.org/abs/2306.07848)|null|
-|**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744](http://arxiv.org/abs/2306.07744)|null|
+|**2023-06-16**|**GEmo-CLAP: Gender-Attribute-Enhanced Contrastive Language-Audio Pretraining for Speech Emotion Recognition**|Yu Pan et.al.|[2306.07848](http://arxiv.org/abs/2306.07848)|null|
+|**2023-06-13**|**Contrastive Learning-Based Audio to Lyrics Alignment for Multiple Languages**|Simon Durand et.al.|[2306.07744](http://arxiv.org/abs/2306.07744)|**[link](https://github.com/f90/jamendolyrics)**|
 |**2023-06-15**|**Heterophily-aware Social Bot Detection with Supervised Contrastive Learning**|Qi Wu et.al.|[2306.07478](http://arxiv.org/abs/2306.07478)|null|
 |**2023-06-12**|**Retrieval-Enhanced Contrastive Vision-Text Models**|Ahmet Iscen et.al.|[2306.07196](http://arxiv.org/abs/2306.07196)|null|
 |**2023-06-10**|**TS-MoCo: Time-Series Momentum Contrast for Self-Supervised Physiological Representation Learning**|Philipp Hallgarten et.al.|[2306.06522](http://arxiv.org/abs/2306.06522)|**[link](https://github.com/philipph77/ts-moco)**|
