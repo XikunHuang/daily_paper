@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Understanding Contrastive Learning Through the Lens of Margins**|Daniel Rho et.al.|[2306.11526](http://arxiv.org/abs/2306.11526)|null|
+|**2023-06-20**|**Contrastive Disentangled Learning on Graph for Node Classification**|Xiaojuan Zhang et.al.|[2306.11344](http://arxiv.org/abs/2306.11344)|null|
+|**2023-06-19**|**Robust Defect Detection with Contrastive Localization**|Jiang Lin et.al.|[2306.10720](http://arxiv.org/abs/2306.10720)|null|
+|**2023-06-19**|**Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation**|Qianru Zhang et.al.|[2306.10683](http://arxiv.org/abs/2306.10683)|**[link](https://github.com/hkuds/graphst)**|
+|**2023-06-17**|**DCdetector: Dual Attention Contrastive Representation Learning for Time Series Anomaly Detection**|Yiyuan Yang et.al.|[2306.10347](http://arxiv.org/abs/2306.10347)|**[link](https://github.com/DAMO-DI-ML/KDD2023-DCdetector)**|
 |**2023-06-16**|**Homogenization of eigenvalues for problems with high-contrast inclusions**|Xin Fu et.al.|[2306.09660](http://arxiv.org/abs/2306.09660)|null|
 |**2023-06-16**|**HomoGCL: Rethinking Homophily in Graph Contrastive Learning**|Wen-Zhi Li et.al.|[2306.09614](http://arxiv.org/abs/2306.09614)|**[link](https://github.com/wenzhilics/homogcl)**|
 |**2023-06-16**|**CMLM-CSE: Based on Conditional MLM Contrastive Learning for Sentence Embeddings**|Wei Zhang et.al.|[2306.09594](http://arxiv.org/abs/2306.09594)|null|
@@ -385,6 +390,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668](http://arxiv.org/abs/2306.11668)|null|
+|**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586](http://arxiv.org/abs/2306.11586)|null|
+|**2023-06-20**|**GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks**|Wentao Zhao et.al.|[2306.11264](http://arxiv.org/abs/2306.11264)|**[link](https://github.com/wtaozhao/graphglow)**|
+|**2023-06-19**|**Fairness-aware Message Passing for Graph Neural Networks**|Huaisheng Zhu et.al.|[2306.11132](http://arxiv.org/abs/2306.11132)|null|
+|**2023-06-19**|**Substitutional Alloying Using Crystal Graph Neural Networks**|Dario Massa et.al.|[2306.10766](http://arxiv.org/abs/2306.10766)|**[link](https://github.com/danielcieslinski/suballoy)**|
+|**2023-06-18**|**Meta-Learning for Airflow Simulations with Graph Neural Networks**|Wenzhuo Liu et.al.|[2306.10624](http://arxiv.org/abs/2306.10624)|null|
+|**2023-06-18**|**Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking**|Juanhui Li et.al.|[2306.10453](http://arxiv.org/abs/2306.10453)|**[link](https://github.com/juanhui28/heart)**|
+|**2023-06-17**|**Bkd-FedGNN: A Benchmark for Classification Backdoor Attacks on Federated Graph Neural Network**|Fan Liu et.al.|[2306.10351](http://arxiv.org/abs/2306.10351)|**[link](https://github.com/usail-hkust/bkdfedgcn)**|
+|**2023-06-17**|**Multi-Task Offloading via Graph Neural Networks in Heterogeneous Multi-access Edge Computing**|Mulei Ma et.al.|[2306.10232](http://arxiv.org/abs/2306.10232)|null|
 |**2023-06-16**|**Learning CO $_2$ plume migration in faulted reservoirs with Graph Neural Networks**|Xin Ju et.al.|[2306.09648](http://arxiv.org/abs/2306.09648)|null|
 |**2023-06-19**|**Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation**|Yu Wang et.al.|[2306.09381](http://arxiv.org/abs/2306.09381)|null|
 |**2023-06-20**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938](http://arxiv.org/abs/2306.08938)|**[link](https://github.com/UNIC-Lab/LOGNN)**|
@@ -569,6 +583,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731](http://arxiv.org/abs/2306.11731)|null|
+|**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719](http://arxiv.org/abs/2306.11719)|null|
+|**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536](http://arxiv.org/abs/2306.11536)|null|
+|**2023-06-20**|**EMoG: Synthesizing Emotive Co-speech 3D Gesture with Diffusion Model**|Lianying Yin et.al.|[2306.11496](http://arxiv.org/abs/2306.11496)|null|
+|**2023-06-20**|**Criteria for NUPBR, NFLVR and the existence of EMMs in integrated diffusion markets**|David Criens et.al.|[2306.11470](http://arxiv.org/abs/2306.11470)|null|
+|**2023-06-20**|**Tracer diffusion coefficients in a moderately dense granular suspension. Stability analysis and thermal diffusion segregation**|Rubén Gómez González et.al.|[2306.11384](http://arxiv.org/abs/2306.11384)|null|
+|**2023-06-20**|**Masked Diffusion Models are Fast Learners**|Jiachen Lei et.al.|[2306.11363](http://arxiv.org/abs/2306.11363)|**[link](https://github.com/jiachenlei/maskdm)**|
+|**2023-06-20**|**Eliminating Lipschitz Singularities in Diffusion Models**|Zhantao Yang et.al.|[2306.11251](http://arxiv.org/abs/2306.11251)|null|
+|**2023-06-20**|**Effective diffusivities in periodic KPZ**|Yu Gu et.al.|[2306.11219](http://arxiv.org/abs/2306.11219)|null|
+|**2023-06-19**|**Macroscopic limit for stochastic chemical reactions involving diffusion and spatial heterogeneity**|Malcolm Egan et.al.|[2306.11184](http://arxiv.org/abs/2306.11184)|null|
 |**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
 |**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942](http://arxiv.org/abs/2306.09942)|**[link](https://github.com/rafaelnh/camcan-dmri-study)**|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
