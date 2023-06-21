@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -379,10 +379,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-16**|**Learning CO $_2$ plume migration in faulted reservoirs with Graph Neural Networks**|Xin Ju et.al.|[2306.09648](http://arxiv.org/abs/2306.09648)|null|
-|**2023-06-15**|**Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation**|Yu Wang et.al.|[2306.09381](http://arxiv.org/abs/2306.09381)|null|
-|**2023-06-15**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938](http://arxiv.org/abs/2306.08938)|**[link](https://github.com/UNIC-Lab/LOGNN)**|
+|**2023-06-19**|**Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation**|Yu Wang et.al.|[2306.09381](http://arxiv.org/abs/2306.09381)|null|
+|**2023-06-20**|**Scalable Resource Management for Dynamic MEC: An Unsupervised Link-Output Graph Neural Network Approach**|Xiucheng Wang et.al.|[2306.08938](http://arxiv.org/abs/2306.08938)|**[link](https://github.com/UNIC-Lab/LOGNN)**|
 |**2023-06-15**|**Localised Adaptive Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2306.06930](http://arxiv.org/abs/2306.06930)|null|
-|**2023-06-11**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547](http://arxiv.org/abs/2306.06547)|**[link](https://github.com/chen-cai-osu/mpnn-gt-connection)**|
+|**2023-06-18**|**Local-to-global Perspectives on Graph Neural Networks**|Chen Cai et.al.|[2306.06547](http://arxiv.org/abs/2306.06547)|**[link](https://github.com/chen-cai-osu/mpnn-gt-connection)**|
 |**2023-06-10**|**Finding Hamiltonian cycles with graph neural networks**|Filip Bosnić et.al.|[2306.06523](http://arxiv.org/abs/2306.06523)|**[link](https://github.com/lbcb-sci/gnns-hamiltonian-cycles)**|
 |**2023-06-09**|**Path Neural Networks: Expressive and Accurate Graph Neural Networks**|Gaspard Michel et.al.|[2306.05955](http://arxiv.org/abs/2306.05955)|**[link](https://github.com/gasmichel/pathnns_expressive)**|
 |**2023-06-08**|**On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks**|Donald Loveland et.al.|[2306.05557](http://arxiv.org/abs/2306.05557)|null|
@@ -561,14 +561,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-16**|**Towards Better Certified Segmentation via Diffusion Models**|Othmane Laousy et.al.|[2306.09949](http://arxiv.org/abs/2306.09949)|null|
-|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942](http://arxiv.org/abs/2306.09942)|null|
+|**2023-06-16**|**Unique information from common diffusion MRI models about white-matter differences across the human adult lifespan**|Rafael Neto Henriques1 et.al.|[2306.09942](http://arxiv.org/abs/2306.09942)|**[link](https://github.com/rafaelnh/camcan-dmri-study)**|
 |**2023-06-16**|**Drag-guided diffusion models for vehicle image generation**|Nikos Arechiga et.al.|[2306.09935](http://arxiv.org/abs/2306.09935)|null|
 |**2023-06-16**|**Energy-Based Cross Attention for Bayesian Context Update in Text-to-Image Diffusion Models**|Geon Yeong Park et.al.|[2306.09869](http://arxiv.org/abs/2306.09869)|null|
 |**2023-06-16**|**Semi-analytical estimates for the chaotic diffusion in the Second Fundamental Model of Resonance. Application to Earth's navigation satellites**|Edoardo Legnaro et.al.|[2306.09847](http://arxiv.org/abs/2306.09847)|null|
 |**2023-06-16**|**The Big Data Myth: Using Diffusion Models for Dataset Generation to Train Deep Detection Models**|Roy Voetman et.al.|[2306.09762](http://arxiv.org/abs/2306.09762)|null|
 |**2023-06-15**|**Edit-DiffNeRF: Editing 3D Neural Radiance Fields using 2D Diffusion Model**|Lu Yu et.al.|[2306.09551](http://arxiv.org/abs/2306.09551)|null|
 |**2023-06-15**|**R2-Diff: Denoising by diffusion as a refinement of retrieved motion for image-based motion prediction**|Takeru Oba et.al.|[2306.09483](http://arxiv.org/abs/2306.09483)|null|
-|**2023-06-15**|**ArtFusion: Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
+|**2023-06-19**|**ArtFusion: Controllable Arbitrary Style Transfer using Dual Conditional Latent Diffusion Models**|Dar-Yen Chen et.al.|[2306.09330](http://arxiv.org/abs/2306.09330)|**[link](https://github.com/chendaryen/artfusion)**|
 |**2023-06-15**|**Diffusion Models for Zero-Shot Open-Vocabulary Segmentation**|Laurynas Karazija et.al.|[2306.09316](http://arxiv.org/abs/2306.09316)|null|
 |**2023-06-15**|**Fast Training of Diffusion Models with Masked Transformers**|Hongkai Zheng et.al.|[2306.09305](http://arxiv.org/abs/2306.09305)|**[link](https://github.com/anima-lab/maskdit)**|
 |**2023-06-15**|**Two sided ergodic singular control and mean field game for diffusions**|Sören Christensen et.al.|[2306.09263](http://arxiv.org/abs/2306.09263)|null|
