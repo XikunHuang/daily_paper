@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Combining multi-spectral data with statistical and deep-learning models for improved exoplanet detection in direct imaging at high contrast**|Olivier Flasseur et.al.|[2306.12266](http://arxiv.org/abs/2306.12266)|null|
+|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243](http://arxiv.org/abs/2306.12243)|null|
+|**2023-06-21**|**What Constitutes Good Contrastive Learning in Time-Series Forecasting?**|Chiyu Zhang et.al.|[2306.12086](http://arxiv.org/abs/2306.12086)|null|
+|**2023-06-21**|**Online Unsupervised Video Object Segmentation via Contrastive Motion Clustering**|Lin Xi et.al.|[2306.12048](http://arxiv.org/abs/2306.12048)|null|
 |**2023-06-20**|**Understanding Contrastive Learning Through the Lens of Margins**|Daniel Rho et.al.|[2306.11526](http://arxiv.org/abs/2306.11526)|null|
 |**2023-06-20**|**Contrastive Disentangled Learning on Graph for Node Classification**|Xiaojuan Zhang et.al.|[2306.11344](http://arxiv.org/abs/2306.11344)|null|
 |**2023-06-19**|**Robust Defect Detection with Contrastive Localization**|Jiang Lin et.al.|[2306.10720](http://arxiv.org/abs/2306.10720)|null|
@@ -383,6 +387,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|null|
+|**2023-06-21**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231](http://arxiv.org/abs/2306.12231)|null|
+|**2023-06-21**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139](http://arxiv.org/abs/2306.12139)|**[link](https://github.com/paddlepaddle/paddlespatial)**|
 |**2023-06-20**|**Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668](http://arxiv.org/abs/2306.11668)|null|
 |**2023-06-20**|**Provably Powerful Graph Neural Networks for Directed Multigraphs**|Béni Egressy et.al.|[2306.11586](http://arxiv.org/abs/2306.11586)|null|
 |**2023-06-20**|**GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks**|Wentao Zhao et.al.|[2306.11264](http://arxiv.org/abs/2306.11264)|**[link](https://github.com/wtaozhao/graphglow)**|
@@ -574,6 +581,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-21**|**Spatio-temporal dynamics in a diffusive Bazykin model: effects of group defense and prey-taxis**|Subrata Dey et.al.|[2306.12393](http://arxiv.org/abs/2306.12393)|null|
+|**2023-06-21**|**Non-linear and negative effective diffusivity of optical excitations in moiré-free heterobilayers**|Edith Wietek et.al.|[2306.12339](http://arxiv.org/abs/2306.12339)|null|
+|**2023-06-21**|**Diffusion Posterior Sampling for Informed Single-Channel Dereverberation**|Jean-Marie Lemercier et.al.|[2306.12286](http://arxiv.org/abs/2306.12286)|null|
+|**2023-06-21**|**HumanDiffusion: diffusion model using perceptual gradients**|Yota Ueda et.al.|[2306.12169](http://arxiv.org/abs/2306.12169)|null|
+|**2023-06-21**|**DiffuseIR:Diffusion Models For Isotropic Reconstruction of 3D Microscopic Images**|Mingjie Pan et.al.|[2306.12109](http://arxiv.org/abs/2306.12109)|null|
+|**2023-06-21**|**HSR-Diff:Hyperspectral Image Super-Resolution via Conditional Diffusion Models**|Chanyue Wu et.al.|[2306.12085](http://arxiv.org/abs/2306.12085)|null|
+|**2023-06-21**|**Ambigram Generation by A Diffusion Model**|Takahiro Shirakawa et.al.|[2306.12049](http://arxiv.org/abs/2306.12049)|**[link](https://github.com/univ-esuty/ambifusion)**|
+|**2023-06-21**|**TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models**|Se-In Jang et.al.|[2306.11984](http://arxiv.org/abs/2306.11984)|null|
+|**2023-06-20**|**Reward Shaping via Diffusion Process in Reinforcement Learning**|Peeyush Kumar et.al.|[2306.11885](http://arxiv.org/abs/2306.11885)|null|
+|**2023-06-20**|**On the constructivity of the variational approach to Arnold's Diffusion**|Alessandro Fortunati et.al.|[2306.11834](http://arxiv.org/abs/2306.11834)|null|
 |**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731](http://arxiv.org/abs/2306.11731)|null|
 |**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719](http://arxiv.org/abs/2306.11719)|null|
 |**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536](http://arxiv.org/abs/2306.11536)|null|
