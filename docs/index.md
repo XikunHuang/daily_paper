@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -590,7 +590,7 @@ layout: default
 |**2023-06-21**|**Ambigram Generation by A Diffusion Model**|Takahiro Shirakawa et.al.|[2306.12049](http://arxiv.org/abs/2306.12049)|**[link](https://github.com/univ-esuty/ambifusion)**|
 |**2023-06-21**|**TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models**|Se-In Jang et.al.|[2306.11984](http://arxiv.org/abs/2306.11984)|null|
 |**2023-06-20**|**Reward Shaping via Diffusion Process in Reinforcement Learning**|Peeyush Kumar et.al.|[2306.11885](http://arxiv.org/abs/2306.11885)|null|
-|**2023-06-20**|**On the constructivity of the variational approach to Arnold's Diffusion**|Alessandro Fortunati et.al.|[2306.11834](http://arxiv.org/abs/2306.11834)|null|
+|**2023-06-22**|**On the constructivity of the variational approach to Arnold's Diffusion**|Alessandro Fortunati et.al.|[2306.11834](http://arxiv.org/abs/2306.11834)|null|
 |**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731](http://arxiv.org/abs/2306.11731)|null|
 |**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719](http://arxiv.org/abs/2306.11719)|null|
 |**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536](http://arxiv.org/abs/2306.11536)|null|

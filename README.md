@@ -1,4 +1,4 @@
-## Updated on 2023.06.22
+## Updated on 2023.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -388,7 +388,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230623>back to top</a>)</p>
 
 ## GNN
 
@@ -584,7 +584,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230623>back to top</a>)</p>
 
 ## Diffusion
 
@@ -599,7 +599,7 @@
 |**2023-06-21**|**Ambigram Generation by A Diffusion Model**|Takahiro Shirakawa et.al.|[2306.12049](http://arxiv.org/abs/2306.12049)|**[link](https://github.com/univ-esuty/ambifusion)**|
 |**2023-06-21**|**TauPETGen: Text-Conditional Tau PET Image Synthesis Based on Latent Diffusion Models**|Se-In Jang et.al.|[2306.11984](http://arxiv.org/abs/2306.11984)|null|
 |**2023-06-20**|**Reward Shaping via Diffusion Process in Reinforcement Learning**|Peeyush Kumar et.al.|[2306.11885](http://arxiv.org/abs/2306.11885)|null|
-|**2023-06-20**|**On the constructivity of the variational approach to Arnold's Diffusion**|Alessandro Fortunati et.al.|[2306.11834](http://arxiv.org/abs/2306.11834)|null|
+|**2023-06-22**|**On the constructivity of the variational approach to Arnold's Diffusion**|Alessandro Fortunati et.al.|[2306.11834](http://arxiv.org/abs/2306.11834)|null|
 |**2023-06-20**|**Learning Profitable NFT Image Diffusions via Multiple Visual-Policy Guided Reinforcement Learning**|Huiguo He et.al.|[2306.11731](http://arxiv.org/abs/2306.11731)|null|
 |**2023-06-20**|**Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision**|Ayush Tewari et.al.|[2306.11719](http://arxiv.org/abs/2306.11719)|null|
 |**2023-06-20**|**Improving visual image reconstruction from human brain activity using latent diffusion models via multiple decoded inputs**|Yu Takagi et.al.|[2306.11536](http://arxiv.org/abs/2306.11536)|null|
@@ -901,5 +901,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230623>back to top</a>)</p>
 
