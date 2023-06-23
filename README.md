@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Time Domain Superoscillation Enables Super-contrast Spectroscopy**|Peisong Peng et.al.|[2306.12665](http://arxiv.org/abs/2306.12665)|null|
+|**2023-06-21**|**NoRefER: a Referenceless Quality Metric for Automatic Speech Recognition via Semi-Supervised Language Model Fine-Tuning with Contrastive Learning**|Kamer Ali Yuksel et.al.|[2306.12577](http://arxiv.org/abs/2306.12577)|null|
 |**2023-06-21**|**Combining multi-spectral data with statistical and deep-learning models for improved exoplanet detection in direct imaging at high contrast**|Olivier Flasseur et.al.|[2306.12266](http://arxiv.org/abs/2306.12266)|null|
 |**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243](http://arxiv.org/abs/2306.12243)|null|
 |**2023-06-21**|**What Constitutes Good Contrastive Learning in Time-Series Forecasting?**|Chiyu Zhang et.al.|[2306.12086](http://arxiv.org/abs/2306.12086)|null|
@@ -394,7 +396,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|null|
+|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|null|
+|**2023-06-22**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640](http://arxiv.org/abs/2306.12640)|null|
+|**2023-06-21**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D Matching**|Shuzhe Wang et.al.|[2306.12547](http://arxiv.org/abs/2306.12547)|null|
+|**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|**[link](https://github.com/jwuphysics/halo-gnns)**|
 |**2023-06-21**|**Predicting protein variants with equivariant graph neural networks**|Antonia Boca et.al.|[2306.12231](http://arxiv.org/abs/2306.12231)|null|
 |**2023-06-21**|**Spatial Heterophily Aware Graph Neural Networks**|Congxi Xiao et.al.|[2306.12139](http://arxiv.org/abs/2306.12139)|**[link](https://github.com/paddlepaddle/paddlespatial)**|
 |**2023-06-20**|**Principles for Initialization and Architecture Selection in Graph Neural Networks with ReLU Activations**|Gage DeZoort et.al.|[2306.11668](http://arxiv.org/abs/2306.11668)|null|
@@ -590,6 +595,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-22**|**Continuous Layout Editing of Single Images with Diffusion Models**|Zhiyuan Zhang et.al.|[2306.13078](http://arxiv.org/abs/2306.13078)|null|
+|**2023-06-22**|**Spatially Resolved Kinematics of Extraplanar Diffuse Ionized Gas in NGC $\,$3511 and NGC$\,$ 3513**|Hanjue Zhu et.al.|[2306.13012](http://arxiv.org/abs/2306.13012)|null|
+|**2023-06-22**|**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**|Jan Dubiński et.al.|[2306.12983](http://arxiv.org/abs/2306.12983)|null|
+|**2023-06-22**|**Wind Noise Reduction with a Diffusion-based Stochastic Regeneration Model**|Jean-Marie Lemercier et.al.|[2306.12867](http://arxiv.org/abs/2306.12867)|null|
+|**2023-06-22**|**Stress-induced Artificial neuron spiking in Diffusive memristors**|Debi Pattnaik et.al.|[2306.12853](http://arxiv.org/abs/2306.12853)|null|
+|**2023-06-22**|**NoisyILRMA: Diffuse-Noise-Aware Independent Low-Rank Matrix Analysis for Fast Blind Source Extraction**|Koki Nishida et.al.|[2306.12820](http://arxiv.org/abs/2306.12820)|null|
+|**2023-06-22**|**DiffWA: Diffusion Models for Watermark Attack**|Xinyu Li et.al.|[2306.12790](http://arxiv.org/abs/2306.12790)|null|
+|**2023-06-22**|**A prior regularized full waveform inversion using generative diffusion models**|Fu Wang et.al.|[2306.12776](http://arxiv.org/abs/2306.12776)|null|
+|**2023-06-22**|**Physical informed neural networks with soft and hard boundary constraints for solving advection-diffusion equations using Fourier expansions**|Jiaxin Deng et.al.|[2306.12749](http://arxiv.org/abs/2306.12749)|null|
+|**2023-06-22**|**One at A Time: Multi-step Volumetric Probability Distribution Diffusion for Depth Estimation**|Bohan Li et.al.|[2306.12681](http://arxiv.org/abs/2306.12681)|null|
 |**2023-06-21**|**Spatio-temporal dynamics in a diffusive Bazykin model: effects of group defense and prey-taxis**|Subrata Dey et.al.|[2306.12393](http://arxiv.org/abs/2306.12393)|null|
 |**2023-06-21**|**Non-linear and negative effective diffusivity of optical excitations in moiré-free heterobilayers**|Edith Wietek et.al.|[2306.12339](http://arxiv.org/abs/2306.12339)|null|
 |**2023-06-21**|**Diffusion Posterior Sampling for Informed Single-Channel Dereverberation**|Jean-Marie Lemercier et.al.|[2306.12286](http://arxiv.org/abs/2306.12286)|null|
