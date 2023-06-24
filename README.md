@@ -396,7 +396,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|null|
+|**2023-06-22**|**StrainNet: Predicting crystal structure elastic properties using SE(3)-equivariant graph neural networks**|Teerachote Pakornchote et.al.|[2306.12818](http://arxiv.org/abs/2306.12818)|**[link](https://github.com/trachote/predict_elastic_tensor)**|
 |**2023-06-22**|**On Addressing the Limitations of Graph Neural Networks**|Sitao Luan et.al.|[2306.12640](http://arxiv.org/abs/2306.12640)|null|
 |**2023-06-21**|**DGC-GNN: Descriptor-free Geometric-Color Graph Neural Network for 2D-3D Matching**|Shuzhe Wang et.al.|[2306.12547](http://arxiv.org/abs/2306.12547)|null|
 |**2023-06-21**|**Learning the galaxy-environment connection with graph neural networks**|John F. Wu et.al.|[2306.12327](http://arxiv.org/abs/2306.12327)|**[link](https://github.com/jwuphysics/halo-gnns)**|
