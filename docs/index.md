@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.24
+## Updated on 2023.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
