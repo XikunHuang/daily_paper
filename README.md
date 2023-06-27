@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Hard Sample Mining Enabled Contrastive Feature Learning for Wind Turbine Pitch System Fault Diagnosis**|Zixuan Wang et.al.|[2306.14701](http://arxiv.org/abs/2306.14701)|null|
+|**2023-06-26**|**Faithful Synthesis of Low-dose Contrast-enhanced Brain MRI Scans using Noise-preserving Conditional GANs**|Thomas Pinetz et.al.|[2306.14678](http://arxiv.org/abs/2306.14678)|**[link](https://github.com/tpinetz/low-dose-gadolinium-mri-synthesis)**|
+|**2023-06-26**|**Histopathology Image Classification using Deep Manifold Contrastive Learning**|Jing Wei Tan et.al.|[2306.14459](http://arxiv.org/abs/2306.14459)|null|
+|**2023-06-26**|**A Self-supervised Contrastive Learning Method for Grasp Outcomes Prediction**|Chengliang Liu et.al.|[2306.14437](http://arxiv.org/abs/2306.14437)|null|
+|**2023-06-26**|**Contrastive Multi-view Framework for Customer Lifetime Value Prediction**|Chuhan Wu et.al.|[2306.14400](http://arxiv.org/abs/2306.14400)|null|
+|**2023-06-25**|**Real-time Seismic Intensity Prediction using Self-supervised Contrastive GNN for Earthquake Early Warning**|Rafid Umayer Murshed et.al.|[2306.14336](http://arxiv.org/abs/2306.14336)|null|
+|**2023-06-25**|**Multi-Scale Cross Contrastive Learning for Semi-Supervised Medical Image Segmentation**|Qianying Liu et.al.|[2306.14293](http://arxiv.org/abs/2306.14293)|null|
+|**2023-06-25**|**Improving Reference-based Distinctive Image Captioning with Contrastive Rewards**|Yangjun Mao et.al.|[2306.14259](http://arxiv.org/abs/2306.14259)|null|
+|**2023-06-25**|**Scribble-supervised Cell Segmentation Using Multiscale Contrastive Regularization**|Hyun-Jic Oh et.al.|[2306.14136](http://arxiv.org/abs/2306.14136)|null|
+|**2023-06-24**|**Structuring Representation Geometry with Rotationally Equivariant Contrastive Learning**|Sharut Gupta et.al.|[2306.13924](http://arxiv.org/abs/2306.13924)|null|
 |**2023-06-23**|**Manifold Contrastive Learning with Variational Lie Group Operators**|Kion Fallah et.al.|[2306.13544](http://arxiv.org/abs/2306.13544)|null|
 |**2023-06-23**|**Patch-Level Contrasting without Patch Correspondence for Accurate and Dense Contrastive Representation Learning**|Shaofeng Zhang et.al.|[2306.13337](http://arxiv.org/abs/2306.13337)|null|
 |**2023-06-22**|**TACO: Temporal Latent Action-Driven Contrastive Loss for Visual Reinforcement Learning**|Ruijie Zheng et.al.|[2306.13229](http://arxiv.org/abs/2306.13229)|null|
@@ -400,6 +410,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
+|**2023-06-26**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818](http://arxiv.org/abs/2306.14818)|null|
+|**2023-06-26**|**Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks**|Gaotang Li et.al.|[2306.14375](http://arxiv.org/abs/2306.14375)|**[link](https://github.com/motivationss/igs)**|
+|**2023-06-25**|**GPT-assisted learning of structure-property relationships by graph neural networks: Application to rare-earth doped phosphors**|Xiang Zhang et.al.|[2306.14238](http://arxiv.org/abs/2306.14238)|null|
+|**2023-06-24**|**Modeling Graphs Beyond Hyperbolic: Graph Neural Networks in Symmetric Positive Definite Matrices**|Wei Zhao et.al.|[2306.14064](http://arxiv.org/abs/2306.14064)|**[link](https://github.com/andyweizhao/spd4gnns)**|
+|**2023-06-24**|**A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware**|Shichang Zhang et.al.|[2306.14052](http://arxiv.org/abs/2306.14052)|null|
+|**2023-06-24**|**Graph Neural Networks Provably Benefit from Structural Information: A Feature Learning Perspective**|Wei Huang et.al.|[2306.13926](http://arxiv.org/abs/2306.13926)|null|
+|**2023-06-24**|**Generalised $f$ -Mean Aggregation for Graph Neural Networks**|Ryan Kortvelesy et.al.|[2306.13826](http://arxiv.org/abs/2306.13826)|null|
 |**2023-06-23**|**Torsion Graph Neural Networks**|Cong Shen et.al.|[2306.13541](http://arxiv.org/abs/2306.13541)|**[link](https://github.com/cs-bio/torgnn)**|
 |**2023-06-23**|**A Graph Neural Network Approach for Temporal Mesh Blending and Correspondence**|Aalok Gangopadhyay et.al.|[2306.13452](http://arxiv.org/abs/2306.13452)|null|
 |**2023-06-20**|**EEG Decoding for Datasets with Heterogenous Electrode Configurations using Transfer Learning Graph Neural Networks**|Jinpei Han et.al.|[2306.13109](http://arxiv.org/abs/2306.13109)|null|
@@ -602,6 +620,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-26**|**Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**|Majed El Helou et.al.|[2306.14891](http://arxiv.org/abs/2306.14891)|**[link](https://github.com/majedelhelou/fc-diffusion)**|
+|**2023-06-26**|**Cuplength estimates for time-periodic measures of Hamiltonian systems with diffusion**|Oliver Fabert et.al.|[2306.14819](http://arxiv.org/abs/2306.14819)|null|
+|**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|null|
+|**2023-06-26**|**Impact of strain and surface reconstruction on long-range diffusion of Ge atoms on Ge(111) surface**|R. A. Zhachuk et.al.|[2306.14763](http://arxiv.org/abs/2306.14763)|null|
+|**2023-06-26**|**An Evolution Kernel Method for Graph Classification through Heat Diffusion Dynamics**|Xue Liu et.al.|[2306.14688](http://arxiv.org/abs/2306.14688)|null|
+|**2023-06-26**|**DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models**|Ximing Xing et.al.|[2306.14685](http://arxiv.org/abs/2306.14685)|null|
+|**2023-06-26**|**Splitting Approach for Solving Multi-Component Transport Models with Maxwell-Stefan-Diffusion**|Juergen Geiser et.al.|[2306.14488](http://arxiv.org/abs/2306.14488)|null|
+|**2023-06-26**|**DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing**|Yujun Shi et.al.|[2306.14435](http://arxiv.org/abs/2306.14435)|null|
+|**2023-06-26**|**Decompose and Realign: Tackling Condition Misalignment in Text-to-Image Diffusion Models**|Luozhou Wang et.al.|[2306.14408](http://arxiv.org/abs/2306.14408)|null|
+|**2023-06-25**|**Homogenization of diffusion processes with singular drifts and potentials via unfolding method**|Adisak Seesanea et.al.|[2306.14307](http://arxiv.org/abs/2306.14307)|null|
 |**2023-06-23**|**DiffInfinite: Large Mask-Image Synthesis via Parallel Random Patch Diffusion in Histopathology**|Marco Aversa et.al.|[2306.13384](http://arxiv.org/abs/2306.13384)|null|
 |**2023-06-22**|**Directional diffusion models for graph representation learning**|Run Yang et.al.|[2306.13210](http://arxiv.org/abs/2306.13210)|null|
 |**2023-06-22**|**DiMSam: Diffusion Models as Samplers for Task and Motion Planning under Partial Observability**|Xiaolin Fang et.al.|[2306.13196](http://arxiv.org/abs/2306.13196)|null|
