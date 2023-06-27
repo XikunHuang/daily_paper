@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.26
+## Updated on 2023.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -16,7 +16,7 @@ layout: default
 |**2023-06-22**|**Time Domain Superoscillation Enables Super-contrast Spectroscopy**|Peisong Peng et.al.|[2306.12665](http://arxiv.org/abs/2306.12665)|null|
 |**2023-06-21**|**NoRefER: a Referenceless Quality Metric for Automatic Speech Recognition via Semi-Supervised Language Model Fine-Tuning with Contrastive Learning**|Kamer Ali Yuksel et.al.|[2306.12577](http://arxiv.org/abs/2306.12577)|**[link](https://github.com/aixplain/NoRefER)**|
 |**2023-06-21**|**Combining multi-spectral data with statistical and deep-learning models for improved exoplanet detection in direct imaging at high contrast**|Olivier Flasseur et.al.|[2306.12266](http://arxiv.org/abs/2306.12266)|null|
-|**2023-06-21**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243](http://arxiv.org/abs/2306.12243)|**[link](https://github.com/visresearch/patchmix)**|
+|**2023-06-24**|**Inter-Instance Similarity Modeling for Contrastive Learning**|Chengchao Shen et.al.|[2306.12243](http://arxiv.org/abs/2306.12243)|**[link](https://github.com/visresearch/patchmix)**|
 |**2023-06-21**|**What Constitutes Good Contrastive Learning in Time-Series Forecasting?**|Chiyu Zhang et.al.|[2306.12086](http://arxiv.org/abs/2306.12086)|null|
 |**2023-06-21**|**Online Unsupervised Video Object Segmentation via Contrastive Motion Clustering**|Lin Xi et.al.|[2306.12048](http://arxiv.org/abs/2306.12048)|null|
 |**2023-06-20**|**Understanding Contrastive Learning Through the Lens of Margins**|Daniel Rho et.al.|[2306.11526](http://arxiv.org/abs/2306.11526)|null|
