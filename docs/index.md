@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
+|**2023-06-27**|**Robust domain decomposition methods for high-contrast multiscale problems on irregular domains with virtual element discretizations**|Juan G. Calvo et.al.|[2306.15424](http://arxiv.org/abs/2306.15424)|null|
+|**2023-06-27**|**Internal Contrastive Learning for Generalized Out-of-distribution Fault Diagnosis (GOOFD) Framework**|Xingyue Wang et.al.|[2306.15266](http://arxiv.org/abs/2306.15266)|null|
+|**2023-06-27**|**FBA-Net: Foreground and Background Aware Contrastive Learning for Semi-Supervised Atrium Segmentation**|Yunsung Chung et.al.|[2306.15189](http://arxiv.org/abs/2306.15189)|null|
+|**2023-06-27**|**Contrastive Meta-Learning for Few-shot Node Classification**|Song Wang et.al.|[2306.15154](http://arxiv.org/abs/2306.15154)|null|
 |**2023-06-26**|**Hard Sample Mining Enabled Contrastive Feature Learning for Wind Turbine Pitch System Fault Diagnosis**|Zixuan Wang et.al.|[2306.14701](http://arxiv.org/abs/2306.14701)|null|
 |**2023-06-26**|**Faithful Synthesis of Low-dose Contrast-enhanced Brain MRI Scans using Noise-preserving Conditional GANs**|Thomas Pinetz et.al.|[2306.14678](http://arxiv.org/abs/2306.14678)|**[link](https://github.com/tpinetz/low-dose-gadolinium-mri-synthesis)**|
 |**2023-06-26**|**Histopathology Image Classification using Deep Manifold Contrastive Learning**|Jing Wei Tan et.al.|[2306.14459](http://arxiv.org/abs/2306.14459)|null|
@@ -403,6 +408,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427](http://arxiv.org/abs/2306.15427)|null|
 |**2023-06-27**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
 |**2023-06-26**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818](http://arxiv.org/abs/2306.14818)|null|
 |**2023-06-26**|**Interpretable Sparsification of Brain Graphs: Better Practices and Effective Designs for Graph Neural Networks**|Gaotang Li et.al.|[2306.14375](http://arxiv.org/abs/2306.14375)|**[link](https://github.com/motivationss/igs)**|
@@ -611,6 +617,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
+|**2023-06-27**|**Weak and parabolic solutions of advection-diffusion equations with rough velocity field**|Paolo Bonicatto et.al.|[2306.15529](http://arxiv.org/abs/2306.15529)|null|
+|**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|null|
+|**2023-06-27**|**Qubit dephasing by spectrally diffusing quantum two-level systems**|Shlomi Matityahu et.al.|[2306.15264](http://arxiv.org/abs/2306.15264)|null|
+|**2023-06-26**|**Anisotropic molecular diffusion in confinement II: A model for structurally complex particles applied to transport in thin ionic liquid films**|Kevin Höllring et.al.|[2306.15094](http://arxiv.org/abs/2306.15094)|null|
 |**2023-06-26**|**Fuzzy-Conditioned Diffusion and Diffusion Projection Attention Applied to Facial Image Correction**|Majed El Helou et.al.|[2306.14891](http://arxiv.org/abs/2306.14891)|**[link](https://github.com/majedelhelou/fc-diffusion)**|
 |**2023-06-26**|**Cuplength estimates for time-periodic measures of Hamiltonian systems with diffusion**|Oliver Fabert et.al.|[2306.14819](http://arxiv.org/abs/2306.14819)|null|
 |**2023-06-26**|**ProtoDiff: Learning to Learn Prototypical Networks by Task-Guided Diffusion**|Yingjun Du et.al.|[2306.14770](http://arxiv.org/abs/2306.14770)|null|
