@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Semantic Positive Pairs for Enhancing Contrastive Instance Discrimination**|Mohammad Alkhalefi et.al.|[2306.16122](http://arxiv.org/abs/2306.16122)|null|
+|**2023-06-28**|**Multi-network Contrastive Learning Based on Global and Local Representations**|Weiquan Li et.al.|[2306.15930](http://arxiv.org/abs/2306.15930)|null|
+|**2023-06-28**|**Subclass-balancing Contrastive Learning for Long-tailed Recognition**|Chengkai Hou et.al.|[2306.15925](http://arxiv.org/abs/2306.15925)|null|
+|**2023-06-28**|**Protein-DNA binding sites prediction based on pre-trained protein language model and contrastive learning**|Yufan Liu et.al.|[2306.15912](http://arxiv.org/abs/2306.15912)|null|
+|**2023-06-28**|**Hybrid Distillation: Connecting Masked Autoencoders with Contrastive Learners**|Bowen Shi et.al.|[2306.15876](http://arxiv.org/abs/2306.15876)|null|
+|**2023-06-28**|**GraSS: Contrastive Learning with Gradient Guided Sampling Strategy for Remote Sensing Image Semantic Segmentation**|Zhaoyang Zhang et.al.|[2306.15868](http://arxiv.org/abs/2306.15868)|null|
+|**2023-06-27**|**ConKI: Contrastive Knowledge Injection for Multimodal Sentiment Analysis**|Yakun Yu et.al.|[2306.15796](http://arxiv.org/abs/2306.15796)|null|
 |**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
 |**2023-06-27**|**Robust domain decomposition methods for high-contrast multiscale problems on irregular domains with virtual element discretizations**|Juan G. Calvo et.al.|[2306.15424](http://arxiv.org/abs/2306.15424)|null|
 |**2023-06-27**|**Internal Contrastive Learning for Generalized Out-of-distribution Fault Diagnosis (GOOFD) Framework**|Xingyue Wang et.al.|[2306.15266](http://arxiv.org/abs/2306.15266)|null|
@@ -408,6 +415,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Mass Spectra Prediction with Structural Motif-based Graph Neural Networks**|Jiwon Park et.al.|[2306.16085](http://arxiv.org/abs/2306.16085)|null|
+|**2023-06-28**|**Graph neural networks for sound source localization on distributed microphone networks**|Eric Grinstein et.al.|[2306.16081](http://arxiv.org/abs/2306.16081)|null|
+|**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858](http://arxiv.org/abs/2306.15858)|null|
 |**2023-06-27**|**Adversarial Training for Graph Neural Networks**|Lukas Gosch et.al.|[2306.15427](http://arxiv.org/abs/2306.15427)|null|
 |**2023-06-27**|**Metapopulation Graph Neural Networks: Deep Metapopulation Epidemic Modeling with Human Mobility**|Qi Cao et.al.|[2306.14857](http://arxiv.org/abs/2306.14857)|null|
 |**2023-06-26**|**Accelerating Molecular Graph Neural Networks via Knowledge Distillation**|Filip Ekström Kelvinius et.al.|[2306.14818](http://arxiv.org/abs/2306.14818)|null|
@@ -617,6 +627,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-28**|**Simulated surface diffusion in nanoporous gold and its dependence on surface curvature**|Conner Marie Winkeljohn et.al.|[2306.16381](http://arxiv.org/abs/2306.16381)|null|
+|**2023-06-28**|**DiffComplete: Diffusion-based Generative 3D Shape Completion**|Ruihang Chu et.al.|[2306.16329](http://arxiv.org/abs/2306.16329)|null|
+|**2023-06-28**|**DoseDiff: Distance-aware Diffusion Model for Dose Prediction in Radiotherapy**|Yiwen Zhang et.al.|[2306.16324](http://arxiv.org/abs/2306.16324)|null|
+|**2023-06-28**|**Diffuse neutrino background from past core-collapse supernovae**|Shin'ichiro Ando et.al.|[2306.16076](http://arxiv.org/abs/2306.16076)|null|
+|**2023-06-28**|**SVNR: Spatially-variant Noise Removal with Denoising Diffusion**|Naama Pearl et.al.|[2306.16052](http://arxiv.org/abs/2306.16052)|null|
+|**2023-06-28**|**Asymptotic-Preserving Convolutional DeepONets Capture the Diffusive Behavior of the Multiscale Linear Transport Equations**|Keke Wu et.al.|[2306.15891](http://arxiv.org/abs/2306.15891)|null|
+|**2023-06-28**|**Imaging of isotope diffusion using atomic-scale vibrational spectroscopy**|Ryosuke Senga et.al.|[2306.15861](http://arxiv.org/abs/2306.15861)|null|
+|**2023-06-28**|**Galerkin approximation of a nonlocal diffusion equation on Euclidean and fractal domains**|Georgi S. Medvedev et.al.|[2306.15844](http://arxiv.org/abs/2306.15844)|null|
+|**2023-06-27**|**Easing Color Shifts in Score-Based Diffusion Models**|Katherine Deck et.al.|[2306.15832](http://arxiv.org/abs/2306.15832)|**[link](https://github.com/bischtob/easing-color-shifts)**|
+|**2023-06-27**|**Face Morphing Attack Detection with Denoising Diffusion Probabilistic Models**|Marija Ivanovska et.al.|[2306.15733](http://arxiv.org/abs/2306.15733)|**[link](https://github.com/MIvanovska/MAD-DDPM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-27**|**Weak and parabolic solutions of advection-diffusion equations with rough velocity field**|Paolo Bonicatto et.al.|[2306.15529](http://arxiv.org/abs/2306.15529)|null|
 |**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|null|
