@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.28
+## Updated on 2023.06.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -617,7 +617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-27**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
+|**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-27**|**Weak and parabolic solutions of advection-diffusion equations with rough velocity field**|Paolo Bonicatto et.al.|[2306.15529](http://arxiv.org/abs/2306.15529)|null|
 |**2023-06-27**|**Trajectory Generation, Control, and Safety with Denoising Diffusion Probabilistic Models**|Nicolò Botteghi et.al.|[2306.15512](http://arxiv.org/abs/2306.15512)|null|
 |**2023-06-27**|**Qubit dephasing by spectrally diffusing quantum two-level systems**|Shlomi Matityahu et.al.|[2306.15264](http://arxiv.org/abs/2306.15264)|null|
