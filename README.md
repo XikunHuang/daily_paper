@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Effective behaviour of critical-contrast PDEs: micro-resonances, frequency conversion, and time dispersive properties. II**|Kirill Cherednichenko et.al.|[2307.01125](http://arxiv.org/abs/2307.01125)|null|
+|**2023-07-03**|**Autism Spectrum Disorder Classification in Children based on Structural MRI Features Extracted using Contrastive Variational Autoencoder**|Ruimin Ma et.al.|[2307.00976](http://arxiv.org/abs/2307.00976)|null|
+|**2023-07-03**|**Synthesis of Contrast-Enhanced Breast MRI Using Multi-b-Value DWI-based Hierarchical Fusion Network with Attention Mechanism**|Tianyu Zhang et.al.|[2307.00895](http://arxiv.org/abs/2307.00895)|null|
+|**2023-07-02**|**CLIMAX: An exploration of Classifier-Based Contrastive Explanations**|Praharsh Nanavati et.al.|[2307.00680](http://arxiv.org/abs/2307.00680)|null|
+|**2023-07-02**|**BioCPT: Contrastive Pre-trained Transformers with Large-scale PubMed Search Logs for Zero-shot Biomedical Information Retrieval**|Qiao Jin et.al.|[2307.00589](http://arxiv.org/abs/2307.00589)|null|
 |**2023-06-29**|**Pupil-driven quantitative differential phase contrast imaging**|Shuhe Zhang et.al.|[2306.17088](http://arxiv.org/abs/2306.17088)|null|
 |**2023-06-29**|**A Residual Fully Convolutional Network (Res-FCN) for Electromagnetic Inversion of High Contrast Scatterers at an Arbitrary Frequency Within a Wide Frequency Band**|Hao-Jie Hu et.al.|[2306.16651](http://arxiv.org/abs/2306.16651)|null|
 |**2023-06-28**|**Semantic Positive Pairs for Enhancing Contrastive Instance Discrimination**|Mohammad Alkhalefi et.al.|[2306.16122](http://arxiv.org/abs/2306.16122)|null|
@@ -424,6 +429,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**GA-DRL: Graph Neural Network-Augmented Deep Reinforcement Learning for DAG Task Scheduling over Dynamic Vehicular Clouds**|Zhang Liu et.al.|[2307.00777](http://arxiv.org/abs/2307.00777)|null|
+|**2023-07-02**|**Shared Growth of Graph Neural Networks via Free-direction Knowledge Distillation**|Kaituo Feng et.al.|[2307.00534](http://arxiv.org/abs/2307.00534)|null|
+|**2023-07-02**|**Graph Neural Network based Log Anomaly Detection and Explanation**|Zhong Li et.al.|[2307.00527](http://arxiv.org/abs/2307.00527)|null|
+|**2023-07-02**|**STG4Traffic: A Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction**|Xunlian Luo et.al.|[2307.00495](http://arxiv.org/abs/2307.00495)|null|
+|**2023-07-01**|**InferTurbo: A Scalable System for Boosting Full-graph Inference of Graph Neural Network over Huge Graphs**|Dalong Zhang et.al.|[2307.00228](http://arxiv.org/abs/2307.00228)|null|
+|**2023-07-01**|**Re-Think and Re-Design Graph Neural Networks in Spaces of Continuous Graph Diffusion Functionals**|Tingting Dan et.al.|[2307.00222](http://arxiv.org/abs/2307.00222)|null|
+|**2023-06-30**|**Generalization Limits of Graph Neural Networks in Identity Effects Learning**|Giuseppe Alessio D'Inverno et.al.|[2307.00134](http://arxiv.org/abs/2307.00134)|null|
 |**2023-06-28**|**Mass Spectra Prediction with Structural Motif-based Graph Neural Networks**|Jiwon Park et.al.|[2306.16085](http://arxiv.org/abs/2306.16085)|null|
 |**2023-06-28**|**Graph neural networks for sound source localization on distributed microphone networks**|Eric Grinstein et.al.|[2306.16081](http://arxiv.org/abs/2306.16081)|**[link](https://github.com/egrinstein/gnn_ssl)**|
 |**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858](http://arxiv.org/abs/2306.15858)|null|
@@ -638,6 +650,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Improved sampling via learned diffusions**|Lorenz Richter et.al.|[2307.01198](http://arxiv.org/abs/2307.01198)|null|
+|**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193](http://arxiv.org/abs/2307.01193)|null|
+|**2023-07-03**|**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**|Salman Ul Hassan Dar et.al.|[2307.01148](http://arxiv.org/abs/2307.01148)|null|
+|**2023-07-03**|**MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion**|Shitao Tang et.al.|[2307.01097](http://arxiv.org/abs/2307.01097)|null|
+|**2023-07-03**|**TomatoDIFF: On-plant Tomato Segmentation with Denoising Diffusion Models**|Marija Ivanovska et.al.|[2307.01064](http://arxiv.org/abs/2307.01064)|null|
+|**2023-07-03**|**Transport, Variational Inference and Diffusions: with Applications to Annealed Flows and Schrödinger Bridges**|Francisco Vargas et.al.|[2307.01050](http://arxiv.org/abs/2307.01050)|null|
+|**2023-07-03**|**Estimating Galactic Diffuse Emission with LHAASO and IceCube Observation**|Chengyu Shao et.al.|[2307.01038](http://arxiv.org/abs/2307.01038)|null|
+|**2023-07-03**|**On a chemotaxis-hapotaxis model with nonlinear diffusion modelling multiple sclerosis**|S. Fagioli et.al.|[2307.01011](http://arxiv.org/abs/2307.01011)|null|
+|**2023-07-03**|**Space-time finite element analysis of the advection-diffusion equation using Galerkin/least-square stabilization**|Biswajit Khara et.al.|[2307.00822](http://arxiv.org/abs/2307.00822)|null|
+|**2023-07-03**|**ACDMSR: Accelerated Conditional Diffusion Models for Single Image Super-Resolution**|Axi Niu et.al.|[2307.00781](http://arxiv.org/abs/2307.00781)|null|
 |**2023-06-30**|**Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors**|Guocheng Qian et.al.|[2306.17843](http://arxiv.org/abs/2306.17843)|null|
 |**2023-06-30**|**Practical and Asymptotically Exact Conditional Sampling in Diffusion Models**|Luhuan Wu et.al.|[2306.17775](http://arxiv.org/abs/2306.17775)|null|
 |**2023-06-30**|**Content-Preserving Diffusion Model for Unsupervised AS-OCT image Despeckling**|Li Sanqian et.al.|[2306.17717](http://arxiv.org/abs/2306.17717)|null|
