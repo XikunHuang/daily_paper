@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334](http://arxiv.org/abs/2307.02334)|null|
+|**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148](http://arxiv.org/abs/2307.02148)|null|
+|**2023-07-05**|**Graph Contrastive Topic Model**|Zheheng Luo et.al.|[2307.02078](http://arxiv.org/abs/2307.02078)|**[link](https://github.com/zhehengluok/gctm)**|
+|**2023-07-04**|**Edge-aware Multi-task Network for Integrating Quantification Segmentation and Uncertainty Prediction of Liver Tumor on Multi-modality Non-contrast MRI**|Xiaojiao Xiao et.al.|[2307.01798](http://arxiv.org/abs/2307.01798)|null|
+|**2023-07-04**|**Synchronous Image-Label Diffusion Probability Model with Application to Stroke Lesion Segmentation on Non-contrast CT**|Jianhai Zhang et.al.|[2307.01740](http://arxiv.org/abs/2307.01740)|null|
+|**2023-07-04**|**Training Energy-Based Models with Diffusion Contrastive Divergences**|Weijian Luo et.al.|[2307.01668](http://arxiv.org/abs/2307.01668)|null|
+|**2023-07-04**|**Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases**|Yingji Li et.al.|[2307.01595](http://arxiv.org/abs/2307.01595)|null|
+|**2023-07-04**|**Mitigating the Learning Bias towards Repetition by Self-Contrastive Training for Open-Ended Generation**|Jian Guan et.al.|[2307.01542](http://arxiv.org/abs/2307.01542)|null|
+|**2023-07-04**|**Relation-aware subgraph embedding with co-contrastive learning for drug-drug interaction prediction**|Mengying Jiang et.al.|[2307.01507](http://arxiv.org/abs/2307.01507)|null|
+|**2023-07-04**|**SCAT: Robust Self-supervised Contrastive Learning via Adversarial Training for Text Classification**|Junjie Wu et.al.|[2307.01488](http://arxiv.org/abs/2307.01488)|null|
 |**2023-07-03**|**Effective behaviour of critical-contrast PDEs: micro-resonances, frequency conversion, and time dispersive properties. II**|Kirill Cherednichenko et.al.|[2307.01125](http://arxiv.org/abs/2307.01125)|null|
 |**2023-07-03**|**Autism Spectrum Disorder Classification in Children based on Structural MRI Features Extracted using Contrastive Variational Autoencoder**|Ruimin Ma et.al.|[2307.00976](http://arxiv.org/abs/2307.00976)|null|
 |**2023-07-03**|**Synthesis of Contrast-Enhanced Breast MRI Using Multi-b-Value DWI-based Hierarchical Fusion Network with Attention Mechanism**|Tianyu Zhang et.al.|[2307.00895](http://arxiv.org/abs/2307.00895)|null|
@@ -422,6 +432,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
+|**2023-07-05**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
+|**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049](http://arxiv.org/abs/2307.02049)|null|
+|**2023-07-05**|**Muti-scale Graph Neural Network with Signed-attention for Social Bot Detection: A Frequency Perspective**|Shuhao Shi et.al.|[2307.01968](http://arxiv.org/abs/2307.01968)|null|
+|**2023-07-04**|**A Neural Collapse Perspective on Feature Evolution in Graph Neural Networks**|Vignesh Kothapalli et.al.|[2307.01951](http://arxiv.org/abs/2307.01951)|**[link](https://github.com/kvignesh1420/gnn_collapse)**|
+|**2023-07-04**|**GHOST: A Graph Neural Network Accelerator using Silicon Photonics**|Salma Afifi et.al.|[2307.01782](http://arxiv.org/abs/2307.01782)|null|
+|**2023-07-04**|**Serving Graph Neural Networks With Distributed Fog Servers For Smart IoT Services**|Liekang Zeng et.al.|[2307.01684](http://arxiv.org/abs/2307.01684)|null|
+|**2023-07-04**|**HAGNN: Hybrid Aggregation for Heterogeneous Graph Neural Networks**|Guanghui Zhu et.al.|[2307.01636](http://arxiv.org/abs/2307.01636)|null|
+|**2023-07-04**|**All in One: Multi-task Prompting for Graph Neural Networks**|Xiangguo Sun et.al.|[2307.01504](http://arxiv.org/abs/2307.01504)|null|
+|**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447](http://arxiv.org/abs/2307.01447)|null|
 |**2023-07-03**|**GA-DRL: Graph Neural Network-Augmented Deep Reinforcement Learning for DAG Task Scheduling over Dynamic Vehicular Clouds**|Zhang Liu et.al.|[2307.00777](http://arxiv.org/abs/2307.00777)|null|
 |**2023-07-02**|**Shared Growth of Graph Neural Networks via Free-direction Knowledge Distillation**|Kaituo Feng et.al.|[2307.00534](http://arxiv.org/abs/2307.00534)|null|
 |**2023-07-02**|**Graph Neural Network based Log Anomaly Detection and Explanation**|Zhong Li et.al.|[2307.00527](http://arxiv.org/abs/2307.00527)|null|
@@ -641,6 +661,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-05**|**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**|Long Bai et.al.|[2307.02452](http://arxiv.org/abs/2307.02452)|**[link](https://github.com/longbai1006/llcaps)**|
+|**2023-07-05**|**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models**|Chong Mou et.al.|[2307.02421](http://arxiv.org/abs/2307.02421)|**[link](https://github.com/mc-e/dragondiffusion)**|
+|**2023-07-05**|**RADiff: Controllable Diffusion Models for Radio Astronomical Maps Generation**|Renato Sortino et.al.|[2307.02392](http://arxiv.org/abs/2307.02392)|null|
+|**2023-07-05**|**Detecting Images Generated by Deep Diffusion Models using their Local Intrinsic Dimensionality**|Peter Lorenz et.al.|[2307.02347](http://arxiv.org/abs/2307.02347)|**[link](https://github.com/deepfake-study/deepfake_multilid)**|
+|**2023-07-05**|**SVDM: Single-View Diffusion Model for Pseudo-Stereo 3D Object Detection**|Yuguang Shi et.al.|[2307.02270](http://arxiv.org/abs/2307.02270)|null|
+|**2023-07-05**|**Self-supervised learning with diffusion-based multichannel speech enhancement for speaker verification under noisy conditions**|Sandipana Dowerah et.al.|[2307.02244](http://arxiv.org/abs/2307.02244)|null|
+|**2023-07-05**|**Direct segmentation of brain white matter tracts in diffusion MRI**|Hamza Kebiri et.al.|[2307.02223](http://arxiv.org/abs/2307.02223)|null|
+|**2023-07-05**|**DiffFlow: A Unified SDE Framework for Score-Based Diffusion Models and Generative Adversarial Networks**|Jingwei Zhang et.al.|[2307.02159](http://arxiv.org/abs/2307.02159)|null|
+|**2023-07-05**|**Prompting Diffusion Representations for Cross-Domain Semantic Segmentation**|Rui Gong et.al.|[2307.02138](http://arxiv.org/abs/2307.02138)|null|
+|**2023-07-05**|**Monte Carlo Sampling without Isoperimetry: A Reverse Diffusion Approach**|Xunpeng Huang et.al.|[2307.02037](http://arxiv.org/abs/2307.02037)|null|
 |**2023-07-03**|**Improved sampling via learned diffusions**|Lorenz Richter et.al.|[2307.01198](http://arxiv.org/abs/2307.01198)|null|
 |**2023-07-03**|**Squeezing Large-Scale Diffusion Models for Mobile**|Jiwoong Choi et.al.|[2307.01193](http://arxiv.org/abs/2307.01193)|null|
 |**2023-07-03**|**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**|Salman Ul Hassan Dar et.al.|[2307.01148](http://arxiv.org/abs/2307.01148)|null|
