@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Focused Transformer: Contrastive Training for Context Scaling**|Szymon Tworkowski et.al.|[2307.03170](http://arxiv.org/abs/2307.03170)|**[link](https://github.com/cstankonrad/long_llama)**|
+|**2023-07-06**|**Contrast Is All You Need**|Burak Kilic et.al.|[2307.02882](http://arxiv.org/abs/2307.02882)|null|
+|**2023-07-06**|**Contrastive Label Disambiguation for Self-Supervised Terrain Traversability Learning in Off-Road Environments**|Hanzhang Xue et.al.|[2307.02871](http://arxiv.org/abs/2307.02871)|null|
+|**2023-07-06**|**Policy Contrastive Imitation Learning**|Jialei Huang et.al.|[2307.02829](http://arxiv.org/abs/2307.02829)|null|
+|**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
+|**2023-07-06**|**Semi-supervised Domain Adaptive Medical Image Segmentation through Consistency Regularized Disentangled Contrastive Learning**|Hritam Basak et.al.|[2307.02798](http://arxiv.org/abs/2307.02798)|**[link](https://github.com/hritam-98/gfda-disentangled)**|
+|**2023-07-06**|**Active Learning with Contrastive Pre-training for Facial Expression Recognition**|Shuvendu Roy et.al.|[2307.02744](http://arxiv.org/abs/2307.02744)|null|
+|**2023-07-06**|**Multi-Similarity Contrastive Learning**|Emily Mu et.al.|[2307.02712](http://arxiv.org/abs/2307.02712)|null|
+|**2023-07-05**|**Retinex-based Image Denoising / Contrast Enhancement using Gradient Graph Laplacian Regularizer**|Yeganeh Gharedaghi et.al.|[2307.02625](http://arxiv.org/abs/2307.02625)|null|
 |**2023-07-06**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334](http://arxiv.org/abs/2307.02334)|null|
 |**2023-07-05**|**Compound Attention and Neighbor Matching Network for Multi-contrast MRI Super-resolution**|Wenxuan Chen et.al.|[2307.02148](http://arxiv.org/abs/2307.02148)|null|
 |**2023-07-05**|**Graph Contrastive Topic Model**|Zheheng Luo et.al.|[2307.02078](http://arxiv.org/abs/2307.02078)|**[link](https://github.com/zhehengluok/gctm)**|
@@ -439,6 +448,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
 |**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
 |**2023-07-05**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
 |**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049](http://arxiv.org/abs/2307.02049)|null|
@@ -670,6 +680,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**IPO-LDM: Depth-aided 360-degree Indoor RGB Panorama Outpainting via Latent Diffusion Model**|Tianhao Wu et.al.|[2307.03177](http://arxiv.org/abs/2307.03177)|null|
+|**2023-07-06**|**Trend to equilibrium for flows with random diffusion**|Shrey Aryan et.al.|[2307.03147](http://arxiv.org/abs/2307.03147)|null|
+|**2023-07-06**|**How to Detect Unauthorized Data Usages in Text-to-image Diffusion Models**|Zhenting Wang et.al.|[2307.03108](http://arxiv.org/abs/2307.03108)|null|
+|**2023-07-06**|**Single Image LDR to HDR Conversion using Conditional Diffusion**|Dwip Dalal et.al.|[2307.02814](http://arxiv.org/abs/2307.02814)|null|
+|**2023-07-06**|**Lipschitz potential estimates for diffusion with jumps**|Nirjan Biswas et.al.|[2307.02803](http://arxiv.org/abs/2307.02803)|null|
+|**2023-07-06**|**Censored Sampling of Diffusion Models Using 3 Minutes of Human Feedback**|TaeHo Yoon et.al.|[2307.02770](http://arxiv.org/abs/2307.02770)|**[link](https://github.com/tetrzim/diffusion-human-feedback)**|
+|**2023-07-06**|**Applying a Color Palette with Local Control using Diffusion Models**|Vaibhav Vavilala et.al.|[2307.02698](http://arxiv.org/abs/2307.02698)|null|
 |**2023-07-05**|**LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion**|Long Bai et.al.|[2307.02452](http://arxiv.org/abs/2307.02452)|**[link](https://github.com/longbai1006/llcaps)**|
 |**2023-07-05**|**DragonDiffusion: Enabling Drag-style Manipulation on Diffusion Models**|Chong Mou et.al.|[2307.02421](http://arxiv.org/abs/2307.02421)|**[link](https://github.com/mc-e/dragondiffusion)**|
 |**2023-07-05**|**RADiff: Controllable Diffusion Models for Radio Astronomical Maps Generation**|Renato Sortino et.al.|[2307.02392](http://arxiv.org/abs/2307.02392)|null|
