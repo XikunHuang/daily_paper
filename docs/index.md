@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.08
+## Updated on 2023.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -15,7 +15,7 @@ layout: default
 |**2023-07-06**|**Policy Contrastive Imitation Learning**|Jialei Huang et.al.|[2307.02829](http://arxiv.org/abs/2307.02829)|null|
 |**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
 |**2023-07-06**|**Semi-supervised Domain Adaptive Medical Image Segmentation through Consistency Regularized Disentangled Contrastive Learning**|Hritam Basak et.al.|[2307.02798](http://arxiv.org/abs/2307.02798)|**[link](https://github.com/hritam-98/gfda-disentangled)**|
-|**2023-07-06**|**Active Learning with Contrastive Pre-training for Facial Expression Recognition**|Shuvendu Roy et.al.|[2307.02744](http://arxiv.org/abs/2307.02744)|null|
+|**2023-07-06**|**Active Learning with Contrastive Pre-training for Facial Expression Recognition**|Shuvendu Roy et.al.|[2307.02744](http://arxiv.org/abs/2307.02744)|**[link](https://github.com/shuvenduroy/activefer)**|
 |**2023-07-06**|**Multi-Similarity Contrastive Learning**|Emily Mu et.al.|[2307.02712](http://arxiv.org/abs/2307.02712)|null|
 |**2023-07-05**|**Retinex-based Image Denoising / Contrast Enhancement using Gradient Graph Laplacian Regularizer**|Yeganeh Gharedaghi et.al.|[2307.02625](http://arxiv.org/abs/2307.02625)|null|
 |**2023-07-06**|**Dual Arbitrary Scale Super-Resolution for Multi-Contrast MRI**|Jiamiao Zhang et.al.|[2307.02334](http://arxiv.org/abs/2307.02334)|null|
