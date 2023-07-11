@@ -1,4 +1,4 @@
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -444,7 +444,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
 
 ## GNN
 
@@ -453,7 +453,7 @@
 |**2023-07-07**|**Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features**|Emmanouil Karystinaios et.al.|[2307.03544](http://arxiv.org/abs/2307.03544)|null|
 |**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
 |**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
-|**2023-07-05**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
+|**2023-07-10**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
 |**2023-07-05**|**Graph Neural Network-based Power Flow Model**|Mingjian Tuo et.al.|[2307.02049](http://arxiv.org/abs/2307.02049)|null|
 |**2023-07-05**|**Muti-scale Graph Neural Network with Signed-attention for Social Bot Detection: A Frequency Perspective**|Shuhao Shi et.al.|[2307.01968](http://arxiv.org/abs/2307.01968)|null|
 |**2023-07-04**|**A Neural Collapse Perspective on Feature Evolution in Graph Neural Networks**|Vignesh Kothapalli et.al.|[2307.01951](http://arxiv.org/abs/2307.01951)|**[link](https://github.com/kvignesh1420/gnn_collapse)**|
@@ -677,7 +677,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1084,5 +1084,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230711>back to top</a>)</p>
 
