@@ -9,8 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Weakly-supervised positional contrastive learning: application to cirrhosis classification**|Emma Sarfati et.al.|[2307.04617](http://arxiv.org/abs/2307.04617)|null|
+|**2023-07-10**|**Cluster-Induced Mask Transformers for Effective Opportunistic Gastric Cancer Screening on Non-contrast CT Scans**|Mingze Yuan et.al.|[2307.04525](http://arxiv.org/abs/2307.04525)|null|
+|**2023-07-10**|**Improving Factuality of Abstractive Summarization via Contrastive Reward Learning**|I-Chun Chern et.al.|[2307.04507](http://arxiv.org/abs/2307.04507)|null|
+|**2023-07-10**|**Graph Contrastive Learning with Multi-Objective for Personalized Product Retrieval in Taobao Search**|Longbin Li et.al.|[2307.04322](http://arxiv.org/abs/2307.04322)|null|
+|**2023-07-09**|**ECL: Class-Enhancement Contrastive Learning for Long-tailed Skin Lesion Classification**|Yilan Zhang et.al.|[2307.04136](http://arxiv.org/abs/2307.04136)|**[link](https://github.com/zylbuaa/ecl)**|
+|**2023-07-08**|**End-to-End Supervised Multilabel Contrastive Learning**|Ahmad Sajedi et.al.|[2307.03967](http://arxiv.org/abs/2307.03967)|**[link](https://github.com/mahdihosseini/kmcl)**|
+|**2023-07-07**|**CLIPMasterPrints: Fooling Contrastive Language-Image Pre-training Using Latent Variable Evolution**|Matthias Freiberger et.al.|[2307.03798](http://arxiv.org/abs/2307.03798)|**[link](https://github.com/matfrei/clipmasterprints)**|
 |**2023-07-07**|**Discovering Hierarchical Achievements in Reinforcement Learning via Contrastive Learning**|Seungyong Moon et.al.|[2307.03486](http://arxiv.org/abs/2307.03486)|null|
-|**2023-07-07**|**Weakly-supervised Contrastive Learning for Unsupervised Object Discovery**|Yunqiu Lv et.al.|[2307.03376](http://arxiv.org/abs/2307.03376)|null|
+|**2023-07-07**|**Weakly-supervised Contrastive Learning for Unsupervised Object Discovery**|Yunqiu Lv et.al.|[2307.03376](http://arxiv.org/abs/2307.03376)|**[link](https://github.com/npucvr/wscuod)**|
 |**2023-07-06**|**Focused Transformer: Contrastive Training for Context Scaling**|Szymon Tworkowski et.al.|[2307.03170](http://arxiv.org/abs/2307.03170)|**[link](https://github.com/cstankonrad/long_llama)**|
 |**2023-07-06**|**Contrast Is All You Need**|Burak Kilic et.al.|[2307.02882](http://arxiv.org/abs/2307.02882)|null|
 |**2023-07-06**|**Contrastive Label Disambiguation for Self-Supervised Terrain Traversability Learning in Off-Road Environments**|Hanzhang Xue et.al.|[2307.02871](http://arxiv.org/abs/2307.02871)|null|
@@ -443,6 +450,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**On the power of graph neural networks and the role of the activation function**|Sammy Khalife et.al.|[2307.04661](http://arxiv.org/abs/2307.04661)|null|
+|**2023-07-08**|**Fairness-Aware Graph Neural Networks: A Survey**|April Chen et.al.|[2307.03929](http://arxiv.org/abs/2307.03929)|null|
+|**2023-07-08**|**The relationship between activated H2 bond length and adsorption distance on MXenes identified with graph neural network and resonating valence bond theory**|Jiewei Cheng et.al.|[2307.03907](http://arxiv.org/abs/2307.03907)|null|
+|**2023-07-07**|**A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**|Ming Jin et.al.|[2307.03759](http://arxiv.org/abs/2307.03759)|**[link](https://github.com/kimmeen/awesome-gnn4ts)**|
 |**2023-07-07**|**Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features**|Emmanouil Karystinaios et.al.|[2307.03544](http://arxiv.org/abs/2307.03544)|null|
 |**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
 |**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
@@ -674,6 +685,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751](http://arxiv.org/abs/2307.04751)|null|
+|**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726](http://arxiv.org/abs/2307.04726)|null|
+|**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725](http://arxiv.org/abs/2307.04725)|null|
+|**2023-07-10**|**Global solutions versus finite time blow-up for the fast diffusion equation with spatially inhomogeneous source**|Razvan Gabriel Iagar et.al.|[2307.04714](http://arxiv.org/abs/2307.04714)|null|
+|**2023-07-10**|**Timbre transfer using image-to-image denoising diffusion models**|Luca Comanducci et.al.|[2307.04586](http://arxiv.org/abs/2307.04586)|null|
+|**2023-07-10**|**Homogenization of a reaction-diffusion problem with large nonlinear drift and Robin boundary data**|Vishnu Raveendran et.al.|[2307.04567](http://arxiv.org/abs/2307.04567)|null|
+|**2023-07-10**|**CIP-stabilized Virtual Elements for diffusion-convection-reaction problems**|L. Beirao da Veiga et.al.|[2307.04555](http://arxiv.org/abs/2307.04555)|null|
+|**2023-07-10**|**Geometric Constraints in Probabilistic Manifolds: A Bridge from Molecular Dynamics to Structured Diffusion Processes**|Justin Diamond et.al.|[2307.04493](http://arxiv.org/abs/2307.04493)|null|
+|**2023-07-10**|**Diffusion and fluctuations of open charmed hadrons in an interacting hadronic medium**|Kangkan Goswami et.al.|[2307.04396](http://arxiv.org/abs/2307.04396)|null|
+|**2023-07-10**|**Diffusion dynamics of star-shaped macromolecules in dilute solutions**|Prabeen Kumar Pattnayak et.al.|[2307.04363](http://arxiv.org/abs/2307.04363)|null|
 |**2023-07-07**|**Bilateral boundary control of an input delayed 2-D reaction-diffusion equation**|Dandan Guan et.al.|[2307.03727](http://arxiv.org/abs/2307.03727)|null|
 |**2023-07-07**|**Spreading, flattening and logarithmic lag for reaction-diffusion equations in R^N: old and new results**|François Hamel et.al.|[2307.03555](http://arxiv.org/abs/2307.03555)|null|
 |**2023-07-07**|**Simulation and experiment of gas diffusion in a granular bed**|Carsten Güttler et.al.|[2307.03514](http://arxiv.org/abs/2307.03514)|null|
