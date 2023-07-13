@@ -2,14 +2,21 @@
 layout: default
 ---
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-10**|**Weakly-supervised positional contrastive learning: application to cirrhosis classification**|Emma Sarfati et.al.|[2307.04617](http://arxiv.org/abs/2307.04617)|null|
+|**2023-07-11**|**Bio-Inspired Night Image Enhancement Based on Contrast Enhancement and Denoising**|Xinyi Bai et.al.|[2307.05447](http://arxiv.org/abs/2307.05447)|null|
+|**2023-07-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Li et.al.|[2307.05314](http://arxiv.org/abs/2307.05314)|null|
+|**2023-07-11**|**Mao-Zedong At SemEval-2023 Task 4: Label Represention Multi-Head Attention Model With Contrastive Learning-Enhanced Nearest Neighbor Mechanism For Multi-Label Text Classification**|Che Zhang et.al.|[2307.05174](http://arxiv.org/abs/2307.05174)|**[link](https://github.com/peterlau0626/semeval2023-task4-humanvalue)**|
+|**2023-07-11**|**Generative Contrastive Graph Learning for Recommendation**|Yonghui Yang et.al.|[2307.05100](http://arxiv.org/abs/2307.05100)|**[link](https://github.com/yimutianyang/sigir23-vgcl)**|
+|**2023-07-11**|**Towards Understanding In-Context Learning with Contrastive Demonstrations and Saliency Maps**|Zongxia Li et.al.|[2307.05052](http://arxiv.org/abs/2307.05052)|**[link](https://github.com/paihengxu/xicl)**|
+|**2023-07-11**|**Disentangled Contrastive Image Translation for Nighttime Surveillance**|Guanzhou Lan et.al.|[2307.05038](http://arxiv.org/abs/2307.05038)|null|
+|**2023-07-10**|**Fed-CPrompt: Contrastive Prompt for Rehearsal-Free Federated Continual Learning**|Gaurav Bagwe et.al.|[2307.04869](http://arxiv.org/abs/2307.04869)|null|
+|**2023-07-12**|**Weakly-supervised positional contrastive learning: application to cirrhosis classification**|Emma Sarfati et.al.|[2307.04617](http://arxiv.org/abs/2307.04617)|**[link](https://github.com/guerbet-ai/wsp-contrastive)**|
 |**2023-07-10**|**Cluster-Induced Mask Transformers for Effective Opportunistic Gastric Cancer Screening on Non-contrast CT Scans**|Mingze Yuan et.al.|[2307.04525](http://arxiv.org/abs/2307.04525)|null|
 |**2023-07-10**|**Improving Factuality of Abstractive Summarization via Contrastive Reward Learning**|I-Chun Chern et.al.|[2307.04507](http://arxiv.org/abs/2307.04507)|null|
 |**2023-07-10**|**Graph Contrastive Learning with Multi-Objective for Personalized Product Retrieval in Taobao Search**|Longbin Li et.al.|[2307.04322](http://arxiv.org/abs/2307.04322)|null|
@@ -450,11 +457,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**Discovering Symbolic Laws Directly from Trajectories with Hamiltonian Graph Neural Networks**|Suresh Bishnoi et.al.|[2307.05299](http://arxiv.org/abs/2307.05299)|null|
+|**2023-07-11**|**Supervised Attention Using Homophily in Graph Neural Networks**|Michail Chatzianastasis et.al.|[2307.05217](http://arxiv.org/abs/2307.05217)|null|
+|**2023-07-11**|**A Modal Logic for Explaining some Graph Neural Networks**|Pierre Nunn et.al.|[2307.05150](http://arxiv.org/abs/2307.05150)|null|
+|**2023-07-10**|**Improving Fairness of Graph Neural Networks: A Graph Counterfactual Perspective**|Zhimeng Guo et.al.|[2307.04937](http://arxiv.org/abs/2307.04937)|null|
 |**2023-07-10**|**On the power of graph neural networks and the role of the activation function**|Sammy Khalife et.al.|[2307.04661](http://arxiv.org/abs/2307.04661)|null|
 |**2023-07-08**|**Fairness-Aware Graph Neural Networks: A Survey**|April Chen et.al.|[2307.03929](http://arxiv.org/abs/2307.03929)|null|
 |**2023-07-08**|**The relationship between activated H2 bond length and adsorption distance on MXenes identified with graph neural network and resonating valence bond theory**|Jiewei Cheng et.al.|[2307.03907](http://arxiv.org/abs/2307.03907)|null|
 |**2023-07-07**|**A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection**|Ming Jin et.al.|[2307.03759](http://arxiv.org/abs/2307.03759)|**[link](https://github.com/kimmeen/awesome-gnn4ts)**|
-|**2023-07-07**|**Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features**|Emmanouil Karystinaios et.al.|[2307.03544](http://arxiv.org/abs/2307.03544)|null|
+|**2023-07-12**|**Roman Numeral Analysis with Graph Neural Networks: Onset-wise Predictions from Note-wise Features**|Emmanouil Karystinaios et.al.|[2307.03544](http://arxiv.org/abs/2307.03544)|null|
 |**2023-07-06**|**CPDG: A Contrastive Pre-Training Method for Dynamic Graph Neural Networks**|Yuanchen Bei et.al.|[2307.02813](http://arxiv.org/abs/2307.02813)|null|
 |**2023-07-05**|**Equivariant graph neural network interatomic potential for Green-Kubo thermal conductivity in phase change materials**|Sung-Ho Lee et.al.|[2307.02327](http://arxiv.org/abs/2307.02327)|null|
 |**2023-07-10**|**ChiENN: Embracing Molecular Chirality with Graph Neural Networks**|Piotr Gaiński et.al.|[2307.02198](http://arxiv.org/abs/2307.02198)|null|
@@ -685,6 +696,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-11**|**Metropolis Sampling for Constrained Diffusion Models**|Nic Fishman et.al.|[2307.05439](http://arxiv.org/abs/2307.05439)|null|
+|**2023-07-11**|**Geometric Neural Diffusion Processes**|Emile Mathieu et.al.|[2307.05431](http://arxiv.org/abs/2307.05431)|**[link](https://github.com/cambridge-mlg/neural_diffusion_processes)**|
+|**2023-07-11**|**Enhanced diffusion of tracer particles in non-reciprocal mixtures**|Anthony Benois et.al.|[2307.05408](http://arxiv.org/abs/2307.05408)|null|
+|**2023-07-11**|**On the Vulnerability of DeepFake Detectors to Attacks Generated by Denoising Diffusion Models**|Marija Ivanovska et.al.|[2307.05397](http://arxiv.org/abs/2307.05397)|null|
+|**2023-07-11**|**Stability analysis of a second-order difference scheme for the time-fractional mixed sub-diffusion and diffusion-wave equation**|Anatoly A. Alikhanov et.al.|[2307.05349](http://arxiv.org/abs/2307.05349)|null|
+|**2023-07-11**|**The thermoelectric effect on diffusion in the two-dimensional Hubbard model**|Martin Ulaga et.al.|[2307.05320](http://arxiv.org/abs/2307.05320)|null|
+|**2023-07-11**|**Turing patterns in a 3D morpho-chemical bulk-surface reaction-diffusion system for battery modeling**|Massimo Frittelli et.al.|[2307.05285](http://arxiv.org/abs/2307.05285)|null|
+|**2023-07-11**|**Diffusion idea exploration for art generation**|Nikhil Verma et.al.|[2307.04978](http://arxiv.org/abs/2307.04978)|null|
+|**2023-07-11**|**DDGM: Solving inverse problems by Diffusive Denoising of Gradient-based Minimization**|Kyle Luther et.al.|[2307.04946](http://arxiv.org/abs/2307.04946)|null|
+|**2023-07-10**|**Articulated 3D Head Avatar Generation using Text-to-Image Diffusion Models**|Alexander W. Bergman et.al.|[2307.04859](http://arxiv.org/abs/2307.04859)|null|
 |**2023-07-10**|**Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement**|Anthony Simeonov et.al.|[2307.04751](http://arxiv.org/abs/2307.04751)|null|
 |**2023-07-10**|**Diffusion Policies for Out-of-Distribution Generalization in Offline Reinforcement Learning**|Suzan Ece Ada et.al.|[2307.04726](http://arxiv.org/abs/2307.04726)|null|
 |**2023-07-10**|**AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning**|Yuwei Guo et.al.|[2307.04725](http://arxiv.org/abs/2307.04725)|null|
