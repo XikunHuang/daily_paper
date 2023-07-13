@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Improved Real-time Image Smoothing with Weak Structures Preserved and High-contrast Details Removed**|Shengchun Wang et.al.|[2307.06298](http://arxiv.org/abs/2307.06298)|null|
+|**2023-07-12**|**SepVAE: a contrastive VAE to separate pathological patterns from healthy ones**|Robin Louiset et.al.|[2307.06206](http://arxiv.org/abs/2307.06206)|null|
+|**2023-07-12**|**Contrastive Learning for Conversion Rate Prediction**|Wentao Ouyang et.al.|[2307.05974](http://arxiv.org/abs/2307.05974)|**[link](https://github.com/dongruihust/cl4cvr)**|
+|**2023-07-12**|**Prototypical Contrastive Transfer Learning for Multimodal Language Understanding**|Seitaro Otsuki et.al.|[2307.05942](http://arxiv.org/abs/2307.05942)|null|
+|**2023-07-12**|**Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt**|Yuhao Wang et.al.|[2307.05920](http://arxiv.org/abs/2307.05920)|null|
+|**2023-07-12**|**Mini-Batch Optimization of Contrastive Loss**|Jaewoong Cho et.al.|[2307.05906](http://arxiv.org/abs/2307.05906)|**[link](https://github.com/krafton-ai/mini-batch-cl)**|
 |**2023-07-11**|**Bio-Inspired Night Image Enhancement Based on Contrast Enhancement and Denoising**|Xinyi Bai et.al.|[2307.05447](http://arxiv.org/abs/2307.05447)|null|
 |**2023-07-11**|**Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering**|Pengfei Li et.al.|[2307.05314](http://arxiv.org/abs/2307.05314)|null|
 |**2023-07-11**|**Mao-Zedong At SemEval-2023 Task 4: Label Represention Multi-Head Attention Model With Contrastive Learning-Enhanced Nearest Neighbor Mechanism For Multi-Label Text Classification**|Che Zhang et.al.|[2307.05174](http://arxiv.org/abs/2307.05174)|**[link](https://github.com/peterlau0626/semeval2023-task4-humanvalue)**|
@@ -457,6 +463,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with Graph Neural Networks**|Jin Guo et.al.|[2307.06097](http://arxiv.org/abs/2307.06097)|null|
+|**2023-07-12**|**Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled Graph Neural Network Approach**|Hao Yang et.al.|[2307.05882](http://arxiv.org/abs/2307.05882)|null|
+|**2023-07-11**|**Transaction Fraud Detection via an Adaptive Graph Neural Network**|Yue Tian et.al.|[2307.05633](http://arxiv.org/abs/2307.05633)|null|
+|**2023-07-09**|**Graph Neural Network-enabled Terahertz-based Flow-guided Nanoscale Localization**|Gerard Calvo Bartra et.al.|[2307.05551](http://arxiv.org/abs/2307.05551)|null|
 |**2023-07-11**|**Discovering Symbolic Laws Directly from Trajectories with Hamiltonian Graph Neural Networks**|Suresh Bishnoi et.al.|[2307.05299](http://arxiv.org/abs/2307.05299)|null|
 |**2023-07-11**|**Supervised Attention Using Homophily in Graph Neural Networks**|Michail Chatzianastasis et.al.|[2307.05217](http://arxiv.org/abs/2307.05217)|null|
 |**2023-07-11**|**A Modal Logic for Explaining some Graph Neural Networks**|Pierre Nunn et.al.|[2307.05150](http://arxiv.org/abs/2307.05150)|null|
@@ -696,6 +706,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-12**|**Exposing the Fake: Effective Diffusion-Generated Images Detection**|Ruipeng Ma et.al.|[2307.06272](http://arxiv.org/abs/2307.06272)|null|
+|**2023-07-12**|**Large deviations of the stochastic area for linear diffusions**|Johan du Buisson et.al.|[2307.06245](http://arxiv.org/abs/2307.06245)|null|
+|**2023-07-12**|**Diffusion Based Multi-Agent Adversarial Tracking**|Sean Ye et.al.|[2307.06244](http://arxiv.org/abs/2307.06244)|null|
+|**2023-07-12**|**Functional light diffusers based on hybrid CsPbBr $_3$/SiO$_2$ aero-framework structures for laser light illumination and conversion**|Lena M. Saure et.al.|[2307.06197](http://arxiv.org/abs/2307.06197)|null|
+|**2023-07-12**|**Stationary solutions and large time asymptotics to a cross-diffusion-Cahn-Hilliard system**|Jean Cauvin-Vila et.al.|[2307.05985](http://arxiv.org/abs/2307.05985)|null|
+|**2023-07-12**|**Reduced basis method for non-symmetric eigenvalue problems: application to the multigroup neutron diffusion equations**|Yonah Conjungo Taumhas et.al.|[2307.05978](http://arxiv.org/abs/2307.05978)|null|
+|**2023-07-12**|**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**|Sanghyun Kim et.al.|[2307.05977](http://arxiv.org/abs/2307.05977)|**[link](https://github.com/nannullna/safe-diffusion)**|
+|**2023-07-11**|**The role of temperature on defect diffusion and nanoscale patterning in graphene**|Ondrej Dyck et.al.|[2307.05764](http://arxiv.org/abs/2307.05764)|null|
+|**2023-07-11**|**Data-driven Discovery of Diffuse Interstellar Bands with APOGEE Spectra**|Kevin A. McKinnon et.al.|[2307.05706](http://arxiv.org/abs/2307.05706)|null|
+|**2023-07-11**|**Quantum-Classical Correspondence for the Relaxation Dynamics of Many-Body Spin Systems: Linear Chaos and Diffusion in the Energy Shell**|Fausto Borgonovi et.al.|[2307.05681](http://arxiv.org/abs/2307.05681)|null|
 |**2023-07-11**|**Metropolis Sampling for Constrained Diffusion Models**|Nic Fishman et.al.|[2307.05439](http://arxiv.org/abs/2307.05439)|null|
 |**2023-07-11**|**Geometric Neural Diffusion Processes**|Emile Mathieu et.al.|[2307.05431](http://arxiv.org/abs/2307.05431)|**[link](https://github.com/cambridge-mlg/neural_diffusion_processes)**|
 |**2023-07-11**|**Enhanced diffusion of tracer particles in non-reciprocal mixtures**|Anthony Benois et.al.|[2307.05408](http://arxiv.org/abs/2307.05408)|null|
