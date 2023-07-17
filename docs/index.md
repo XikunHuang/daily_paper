@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.16
+## Updated on 2023.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -708,7 +708,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-13**|**Quartet currents in a biased three-terminal diffusive Josephson junction**|T. Jonckheere et.al.|[2307.06839](http://arxiv.org/abs/2307.06839)|null|
-|**2023-07-13**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
+|**2023-07-14**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
 |**2023-07-13**|**Boundary stabilization of one-dimensional cross-diffusion systems in a moving domain: linearized system**|Jean Cauvin-Vila et.al.|[2307.06830](http://arxiv.org/abs/2307.06830)|null|
 |**2023-07-13**|**Aharonov-Bohm effect as a diffusion phenomenon**|Charalampos Antonakos et.al.|[2307.06683](http://arxiv.org/abs/2307.06683)|null|
 |**2023-07-13**|**Stochastic Reaction-Diffusion Systems in Biophysics: Towards a Toolbox for Quantitative Model Evaluation**|Gregor Pasemann et.al.|[2307.06655](http://arxiv.org/abs/2307.06655)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.07.16
+## Updated on 2023.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -465,7 +465,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
 
 ## GNN
 
@@ -710,14 +710,14 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-07-13**|**Quartet currents in a biased three-terminal diffusive Josephson junction**|T. Jonckheere et.al.|[2307.06839](http://arxiv.org/abs/2307.06839)|null|
-|**2023-07-13**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
+|**2023-07-14**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
 |**2023-07-13**|**Boundary stabilization of one-dimensional cross-diffusion systems in a moving domain: linearized system**|Jean Cauvin-Vila et.al.|[2307.06830](http://arxiv.org/abs/2307.06830)|null|
 |**2023-07-13**|**Aharonov-Bohm effect as a diffusion phenomenon**|Charalampos Antonakos et.al.|[2307.06683](http://arxiv.org/abs/2307.06683)|null|
 |**2023-07-13**|**Stochastic Reaction-Diffusion Systems in Biophysics: Towards a Toolbox for Quantitative Model Evaluation**|Gregor Pasemann et.al.|[2307.06655](http://arxiv.org/abs/2307.06655)|null|
@@ -1155,5 +1155,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230717>back to top</a>)</p>
 
