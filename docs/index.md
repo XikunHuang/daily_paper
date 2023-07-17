@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Composition-contrastive Learning for Sentence Embeddings**|Sachin J. Chanchani et.al.|[2307.07380](http://arxiv.org/abs/2307.07380)|null|
+|**2023-07-14**|**cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations**|Silvia D. Almeida et.al.|[2307.07254](http://arxiv.org/abs/2307.07254)|null|
+|**2023-07-14**|**Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training**|Xiaofei Chen et.al.|[2307.07246](http://arxiv.org/abs/2307.07246)|null|
 |**2023-07-13**|**Generalizing Supervised Deep Learning MRI Reconstruction to Multiple and Unseen Contrasts using Meta-Learning Hypernetworks**|Sriprabha Ramanarayanan et.al.|[2307.06771](http://arxiv.org/abs/2307.06771)|**[link](https://github.com/sriprabhar/km-maml)**|
 |**2023-07-12**|**Improved Real-time Image Smoothing with Weak Structures Preserved and High-contrast Details Removed**|Shengchun Wang et.al.|[2307.06298](http://arxiv.org/abs/2307.06298)|null|
 |**2023-07-12**|**SepVAE: a contrastive VAE to separate pathological patterns from healthy ones**|Robin Louiset et.al.|[2307.06206](http://arxiv.org/abs/2307.06206)|null|
@@ -464,6 +467,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-13**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093](http://arxiv.org/abs/2307.07093)|null|
 |**2023-07-12**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with Graph Neural Networks**|Jin Guo et.al.|[2307.06097](http://arxiv.org/abs/2307.06097)|null|
 |**2023-07-12**|**Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled Graph Neural Network Approach**|Hao Yang et.al.|[2307.05882](http://arxiv.org/abs/2307.05882)|null|
 |**2023-07-11**|**Transaction Fraud Detection via an Adaptive Graph Neural Network**|Yue Tian et.al.|[2307.05633](http://arxiv.org/abs/2307.05633)|null|
@@ -707,6 +711,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205](http://arxiv.org/abs/2307.07205)|null|
+|**2023-07-14**|**Ultra-Diffuse Galaxies (UDGs) with Hyper Suprime-Cam I: Revised Catalog of Coma Cluster UDGs**|Jose Miguel Bautista et.al.|[2307.07141](http://arxiv.org/abs/2307.07141)|null|
+|**2023-07-14**|**Phase-field simulations for dripping-to-jetting transitions: Effects of low interfacial tension and bulk diffusion**|Fukeng Huang et.al.|[2307.07139](http://arxiv.org/abs/2307.07139)|null|
+|**2023-07-14**|**Improved Flood Insights: Diffusion-Based SAR to EO Image Translation**|Minseok Seo et.al.|[2307.07123](http://arxiv.org/abs/2307.07123)|null|
+|**2023-07-14**|**Wright-Fisher diffusion with a continuum of seed-banks**|Likai Jiao et.al.|[2307.07110](http://arxiv.org/abs/2307.07110)|null|
+|**2023-07-13**|**Reward-Directed Conditional Diffusion: Provable Distribution Estimation and Reward Improvement**|Hui Yuan et.al.|[2307.07055](http://arxiv.org/abs/2307.07055)|null|
+|**2023-07-13**|**Neuro-symbolic Empowered Denoising Diffusion Probabilistic Models for Real-time Anomaly Detection in Industry 4.0**|Luigi Capogrosso et.al.|[2307.06975](http://arxiv.org/abs/2307.06975)|null|
 |**2023-07-13**|**Quartet currents in a biased three-terminal diffusive Josephson junction**|T. Jonckheere et.al.|[2307.06839](http://arxiv.org/abs/2307.06839)|null|
 |**2023-07-14**|**PC-Droid: Faster diffusion and improved quality for particle cloud generation**|Matthew Leigh et.al.|[2307.06836](http://arxiv.org/abs/2307.06836)|null|
 |**2023-07-13**|**Boundary stabilization of one-dimensional cross-diffusion systems in a moving domain: linearized system**|Jean Cauvin-Vila et.al.|[2307.06830](http://arxiv.org/abs/2307.06830)|null|
