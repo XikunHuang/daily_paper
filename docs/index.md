@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Astronomical high-contrast imaging of circumstellar disks: MUSTARD inverse-problem versus PCA-based methods**|S. Juillard et.al.|[2307.08588](http://arxiv.org/abs/2307.08588)|null|
+|**2023-07-17**|**Enhancing Supervised Learning with Contrastive Markings in Neural Machine Translation Training**|Nathaniel Berger et.al.|[2307.08416](http://arxiv.org/abs/2307.08416)|null|
+|**2023-07-16**|**Contrastive Multi-Task Dense Prediction**|Siwei Yang et.al.|[2307.07934](http://arxiv.org/abs/2307.07934)|null|
+|**2023-07-15**|**Contrasting the efficiency of stock price prediction models using various types of LSTM models aided with sentiment analysis**|Varun Sangwan et.al.|[2307.07868](http://arxiv.org/abs/2307.07868)|null|
+|**2023-07-15**|**AspectCSE: Sentence Embeddings for Aspect-based Semantic Textual Similarity using Contrastive Learning and Structured Knowledge**|Tim Schopf et.al.|[2307.07851](http://arxiv.org/abs/2307.07851)|null|
+|**2023-07-15**|**Semantic Contrastive Bootstrapping for Single-positive Multi-label Recognition**|Cheng Chen et.al.|[2307.07680](http://arxiv.org/abs/2307.07680)|**[link](https://github.com/iCVTEAM/Scob)**|
+|**2023-07-14**|**Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning**|Dibya Nath et.al.|[2307.07603](http://arxiv.org/abs/2307.07603)|**[link](https://github.com/dibya404/gastrointestinal-disease-classification-through-explainable-and-cost-sensitive-dnn-with-scl)**|
+|**2023-07-14**|**QontSum: On Contrasting Salient Content for Query-focused Summarization**|Sajad Sotudeh et.al.|[2307.07586](http://arxiv.org/abs/2307.07586)|null|
 |**2023-07-14**|**Composition-contrastive Learning for Sentence Embeddings**|Sachin J. Chanchani et.al.|[2307.07380](http://arxiv.org/abs/2307.07380)|null|
 |**2023-07-14**|**cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations**|Silvia D. Almeida et.al.|[2307.07254](http://arxiv.org/abs/2307.07254)|null|
 |**2023-07-17**|**Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training**|Xiaofei Chen et.al.|[2307.07246](http://arxiv.org/abs/2307.07246)|null|
@@ -467,6 +475,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636](http://arxiv.org/abs/2307.08636)|null|
+|**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549](http://arxiv.org/abs/2307.08549)|null|
+|**2023-07-16**|**INFLECT-DGNN: Influencer Prediction with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2307.08131](http://arxiv.org/abs/2307.08131)|**[link](https://github.com/banking-analytics-lab/inflect)**|
+|**2023-07-16**|**Automated Polynomial Filter Learning for Graph Neural Networks**|Wendi Yu et.al.|[2307.07956](http://arxiv.org/abs/2307.07956)|null|
+|**2023-07-15**|**RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task**|Jiaxing Zhang et.al.|[2307.07840](http://arxiv.org/abs/2307.07840)|null|
+|**2023-07-15**|**MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation**|Jiaxing Zhang et.al.|[2307.07832](http://arxiv.org/abs/2307.07832)|null|
+|**2023-07-14**|**DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training**|Hongkuan Zhou et.al.|[2307.07649](http://arxiv.org/abs/2307.07649)|null|
 |**2023-07-13**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093](http://arxiv.org/abs/2307.07093)|null|
 |**2023-07-12**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with Graph Neural Networks**|Jin Guo et.al.|[2307.06097](http://arxiv.org/abs/2307.06097)|null|
 |**2023-07-12**|**Knowledge-Driven Resource Allocation for D2D Networks: A WMMSE Unrolled Graph Neural Network Approach**|Hao Yang et.al.|[2307.05882](http://arxiv.org/abs/2307.05882)|null|
@@ -711,6 +726,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
+|**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
+|**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
+|**2023-07-17**|**Identity-Preserving Aging of Face Images via Latent Diffusion Models**|Sudipta Banerjee et.al.|[2307.08585](http://arxiv.org/abs/2307.08585)|null|
+|**2023-07-17**|**Synthetic Lagrangian Turbulence by Generative Diffusion Models**|Tianyi Li et.al.|[2307.08529](http://arxiv.org/abs/2307.08529)|null|
+|**2023-07-17**|**Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation**|Luozhou Wang et.al.|[2307.08448](http://arxiv.org/abs/2307.08448)|**[link](https://github.com/andysonys/selective-diffusion-distillation)**|
+|**2023-07-17**|**An Indefensible Attack: Label-Only Model Inversion via Conditional Diffusion Model**|Rongke Liu et.al.|[2307.08424](http://arxiv.org/abs/2307.08424)|null|
+|**2023-07-17**|**Regularization effect of noise on fully discrete approximation for stochastic reaction-diffusion equation near sharp interface limit**|Jianbo Cui et.al.|[2307.08246](http://arxiv.org/abs/2307.08246)|null|
+|**2023-07-17**|**Weak approximation for stochastic Reaction-diffusion equation near sharp interface limit**|Jianbo Cui et.al.|[2307.08241](http://arxiv.org/abs/2307.08241)|null|
+|**2023-07-17**|**Manifold-Guided Sampling in Diffusion Models for Unbiased Image Generation**|Xingzhe Su et.al.|[2307.08199](http://arxiv.org/abs/2307.08199)|null|
 |**2023-07-14**|**Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection**|Alessandro Flaborea et.al.|[2307.07205](http://arxiv.org/abs/2307.07205)|null|
 |**2023-07-14**|**Ultra-Diffuse Galaxies (UDGs) with Hyper Suprime-Cam I: Revised Catalog of Coma Cluster UDGs**|Jose Miguel Bautista et.al.|[2307.07141](http://arxiv.org/abs/2307.07141)|null|
 |**2023-07-14**|**Phase-field simulations for dripping-to-jetting transitions: Effects of low interfacial tension and bulk diffusion**|Fukeng Huang et.al.|[2307.07139](http://arxiv.org/abs/2307.07139)|null|
