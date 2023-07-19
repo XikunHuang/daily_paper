@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-15**|**Intuitive Access to Smartphone Settings Using Relevance Model Trained by Contrastive Learning**|Joonyoung Kim et.al.|[2307.09177](http://arxiv.org/abs/2307.09177)|null|
+|**2023-07-18**|**GraphCL-DTA: a graph contrastive learning with molecular semantics for drug-target binding affinity prediction**|Xinxing Yang et.al.|[2307.08989](http://arxiv.org/abs/2307.08989)|null|
 |**2023-07-17**|**Astronomical high-contrast imaging of circumstellar disks: MUSTARD inverse-problem versus PCA-based methods**|S. Juillard et.al.|[2307.08588](http://arxiv.org/abs/2307.08588)|null|
 |**2023-07-17**|**Enhancing Supervised Learning with Contrastive Markings in Neural Machine Translation Training**|Nathaniel Berger et.al.|[2307.08416](http://arxiv.org/abs/2307.08416)|null|
 |**2023-07-16**|**Contrastive Multi-Task Dense Prediction**|Siwei Yang et.al.|[2307.07934](http://arxiv.org/abs/2307.07934)|null|
@@ -475,6 +477,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065](http://arxiv.org/abs/2307.09065)|null|
+|**2023-07-17**|**Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach**|Nidhi Vakil et.al.|[2307.08859](http://arxiv.org/abs/2307.08859)|null|
 |**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636](http://arxiv.org/abs/2307.08636)|null|
 |**2023-07-17**|**G-Scan: Graph Neural Networks for Line-Level Vulnerability Identification in Smart Contracts**|Christoph Sendner et.al.|[2307.08549](http://arxiv.org/abs/2307.08549)|null|
 |**2023-07-16**|**INFLECT-DGNN: Influencer Prediction with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2307.08131](http://arxiv.org/abs/2307.08131)|**[link](https://github.com/banking-analytics-lab/inflect)**|
@@ -726,6 +730,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Abnormal CO2 and H2O Diffusion in CALF-20(Zn) Metal-Organic Framework Angstropores**|Magnin Yann et.al.|[2307.09200](http://arxiv.org/abs/2307.09200)|null|
+|**2023-07-18**|**An approximate maximum likelihood estimator of drift parameters in a multidimensional diffusion model**|Miljenko Huzak et.al.|[2307.09199](http://arxiv.org/abs/2307.09199)|null|
+|**2023-07-18**|**Hunting for bumps in the diffuse high-energy neutrino flux**|Damiano F. G. Fiorillo et.al.|[2307.09170](http://arxiv.org/abs/2307.09170)|null|
+|**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072](http://arxiv.org/abs/2307.09072)|null|
+|**2023-07-18**|**Quantitative Modelling of Diffusion-driven Pattern Formation in microRNA-regulated Gene Expression**|Priya Chakraborty et.al.|[2307.09029](http://arxiv.org/abs/2307.09029)|null|
+|**2023-07-18**|**Towards Authentic Face Restoration with Iterative Diffusion Models and Beyond**|Yang Zhao et.al.|[2307.08996](http://arxiv.org/abs/2307.08996)|null|
+|**2023-07-17**|**Autoregressive Diffusion Model for Graph Generation**|Lingkai Kong et.al.|[2307.08849](http://arxiv.org/abs/2307.08849)|null|
+|**2023-07-17**|**First Results From Nanoindentation of Vapor Diffused Nb3Sn Films on Nb**|U. Pudasaini et.al.|[2307.08757](http://arxiv.org/abs/2307.08757)|null|
 |**2023-07-17**|**Diffusion Models Beat GANs on Image Classification**|Soumik Mukhopadhyay et.al.|[2307.08702](http://arxiv.org/abs/2307.08702)|null|
 |**2023-07-17**|**SEMI-DiffusionInst: A Diffusion Model Based Approach for Semiconductor Defect Classification and Segmentation**|Vic De Ridder et.al.|[2307.08693](http://arxiv.org/abs/2307.08693)|null|
 |**2023-07-17**|**Multimodal Diffusion Segmentation Model for Object Segmentation from Manipulation Instructions**|Yui Iioka et.al.|[2307.08597](http://arxiv.org/abs/2307.08597)|null|
