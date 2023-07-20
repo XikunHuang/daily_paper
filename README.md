@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Contrasting pre-vaccine COVID-19 waves in Italy through Functional Data Analysis**|Tobia Boschi et.al.|[2307.09820](http://arxiv.org/abs/2307.09820)|null|
+|**2023-07-19**|**Source-Free Domain Adaptation for Medical Image Segmentation via Prototype-Anchored Feature Alignment and Contrastive Learning**|Qinji Yu et.al.|[2307.09769](http://arxiv.org/abs/2307.09769)|**[link](https://github.com/cscyqj/miccai23-protocontra-sfda)**|
+|**2023-07-19**|**Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation**|Changqi Wang et.al.|[2307.09755](http://arxiv.org/abs/2307.09755)|null|
+|**2023-07-19**|**Semantic-Aware Dual Contrastive Learning for Multi-label Image Classification**|Leilei Ma et.al.|[2307.09715](http://arxiv.org/abs/2307.09715)|**[link](https://github.com/yu-gi-oh-leilei/sadcl)**|
 |**2023-07-15**|**Intuitive Access to Smartphone Settings Using Relevance Model Trained by Contrastive Learning**|Joonyoung Kim et.al.|[2307.09177](http://arxiv.org/abs/2307.09177)|null|
 |**2023-07-18**|**GraphCL-DTA: a graph contrastive learning with molecular semantics for drug-target binding affinity prediction**|Xinxing Yang et.al.|[2307.08989](http://arxiv.org/abs/2307.08989)|null|
 |**2023-07-17**|**Astronomical high-contrast imaging of circumstellar disks: MUSTARD inverse-problem versus PCA-based methods**|S. Juillard et.al.|[2307.08588](http://arxiv.org/abs/2307.08588)|null|
@@ -484,6 +488,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660](http://arxiv.org/abs/2307.09660)|null|
 |**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065](http://arxiv.org/abs/2307.09065)|null|
 |**2023-07-17**|**Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach**|Nidhi Vakil et.al.|[2307.08859](http://arxiv.org/abs/2307.08859)|null|
 |**2023-07-17**|**PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds**|Zhaiyu Chen et.al.|[2307.08636](http://arxiv.org/abs/2307.08636)|null|
@@ -739,6 +744,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
+|**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
+|**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
+|**2023-07-19**|**BSDM: Background Suppression Diffusion Model for Hyperspectral Anomaly Detection**|Jitao Ma et.al.|[2307.09861](http://arxiv.org/abs/2307.09861)|**[link](https://github.com/majitao-xd/bsdm-had)**|
+|**2023-07-19**|**DiffDP: Radiotherapy Dose Prediction via a Diffusion Model**|Zhenghao Feng et.al.|[2307.09794](http://arxiv.org/abs/2307.09794)|null|
+|**2023-07-19**|**Text2Layer: Layered Image Generation using Latent Diffusion Model**|Xinyang Zhang et.al.|[2307.09781](http://arxiv.org/abs/2307.09781)|null|
+|**2023-07-19**|**Reinforcing POD based model reduction techniques in reaction-diffusion complex networks using stochastic filtering and pattern recognition**|Abhishek Ajayakumar et.al.|[2307.09762](http://arxiv.org/abs/2307.09762)|null|
+|**2023-07-18**|**Heavy quark diffusion coefficients in magnetized quark-gluon plasma**|Aritra Bandyopadhyay et.al.|[2307.09655](http://arxiv.org/abs/2307.09655)|null|
+|**2023-07-18**|**The Memory Function of the Generalized Diffusion Equation of Active Motion**|Francisco J Sevilla et.al.|[2307.09567](http://arxiv.org/abs/2307.09567)|null|
+|**2023-07-18**|**DreaMR: Diffusion-driven Counterfactual Explanation for Functional MRI**|Hasan Atakan Bedel et.al.|[2307.09547](http://arxiv.org/abs/2307.09547)|null|
 |**2023-07-18**|**Abnormal CO2 and H2O Diffusion in CALF-20(Zn) Metal-Organic Framework Angstropores**|Magnin Yann et.al.|[2307.09200](http://arxiv.org/abs/2307.09200)|null|
 |**2023-07-18**|**An approximate maximum likelihood estimator of drift parameters in a multidimensional diffusion model**|Miljenko Huzak et.al.|[2307.09199](http://arxiv.org/abs/2307.09199)|null|
 |**2023-07-18**|**Hunting for bumps in the diffuse high-energy neutrino flux**|Damiano F. G. Fiorillo et.al.|[2307.09170](http://arxiv.org/abs/2307.09170)|null|
