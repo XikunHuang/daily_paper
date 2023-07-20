@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -484,7 +484,7 @@ layout: default
 |**2023-07-16**|**INFLECT-DGNN: Influencer Prediction with Dynamic Graph Neural Networks**|Elena Tiukhova et.al.|[2307.08131](http://arxiv.org/abs/2307.08131)|**[link](https://github.com/banking-analytics-lab/inflect)**|
 |**2023-07-16**|**Automated Polynomial Filter Learning for Graph Neural Networks**|Wendi Yu et.al.|[2307.07956](http://arxiv.org/abs/2307.07956)|null|
 |**2023-07-15**|**RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task**|Jiaxing Zhang et.al.|[2307.07840](http://arxiv.org/abs/2307.07840)|null|
-|**2023-07-15**|**MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation**|Jiaxing Zhang et.al.|[2307.07832](http://arxiv.org/abs/2307.07832)|null|
+|**2023-07-15**|**MixupExplainer: Generalizing Explanations for Graph Neural Networks with Data Augmentation**|Jiaxing Zhang et.al.|[2307.07832](http://arxiv.org/abs/2307.07832)|**[link](https://github.com/jz48/mixupexplainer)**|
 |**2023-07-14**|**DistTGL: Distributed Memory-Based Temporal Graph Neural Network Training**|Hongkuan Zhou et.al.|[2307.07649](http://arxiv.org/abs/2307.07649)|null|
 |**2023-07-13**|**MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction**|Niharika S. D'Souza et.al.|[2307.07093](http://arxiv.org/abs/2307.07093)|null|
 |**2023-07-12**|**Learning Stochastic Dynamical Systems as an Implicit Regularization with Graph Neural Networks**|Jin Guo et.al.|[2307.06097](http://arxiv.org/abs/2307.06097)|null|
