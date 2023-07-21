@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-19**|**Contrasting pre-vaccine COVID-19 waves in Italy through Functional Data Analysis**|Tobia Boschi et.al.|[2307.09820](http://arxiv.org/abs/2307.09820)|null|
+|**2023-07-19**|**Contrasting pre-vaccine COVID-19 waves in Italy through Functional Data Analysis**|Tobia Boschi et.al.|[2307.09820](http://arxiv.org/abs/2307.09820)|**[link](https://github.com/tobiaboschi/fdacovid2)**|
 |**2023-07-19**|**Source-Free Domain Adaptation for Medical Image Segmentation via Prototype-Anchored Feature Alignment and Contrastive Learning**|Qinji Yu et.al.|[2307.09769](http://arxiv.org/abs/2307.09769)|**[link](https://github.com/cscyqj/miccai23-protocontra-sfda)**|
 |**2023-07-19**|**Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation**|Changqi Wang et.al.|[2307.09755](http://arxiv.org/abs/2307.09755)|null|
 |**2023-07-19**|**Semantic-Aware Dual Contrastive Learning for Multi-label Image Classification**|Leilei Ma et.al.|[2307.09715](http://arxiv.org/abs/2307.09715)|**[link](https://github.com/yu-gi-oh-leilei/sadcl)**|
