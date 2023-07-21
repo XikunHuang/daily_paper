@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Identical and Fraternal Twins: Fine-Grained Semantic Contrastive Learning of Sentence Representations**|Qingfa Xiao et.al.|[2307.10932](http://arxiv.org/abs/2307.10932)|null|
+|**2023-07-20**|**Modifications of the Miller definition of contrastive (counterfactual) explanations**|Kevin McAreavey et.al.|[2307.10832](http://arxiv.org/abs/2307.10832)|null|
+|**2023-07-20**|**Language-Enhanced Session-Based Recommendation with Decoupled Contrastive Learning**|Zhipeng Zhang et.al.|[2307.10650](http://arxiv.org/abs/2307.10650)|null|
+|**2023-07-19**|**Electrochemically-controlled metasurfaces with high-contrast switching at visible frequencies**|R. Kaissner et.al.|[2307.10333](http://arxiv.org/abs/2307.10333)|null|
 |**2023-07-19**|**Contrasting pre-vaccine COVID-19 waves in Italy through Functional Data Analysis**|Tobia Boschi et.al.|[2307.09820](http://arxiv.org/abs/2307.09820)|**[link](https://github.com/tobiaboschi/fdacovid2)**|
 |**2023-07-19**|**Source-Free Domain Adaptation for Medical Image Segmentation via Prototype-Anchored Feature Alignment and Contrastive Learning**|Qinji Yu et.al.|[2307.09769](http://arxiv.org/abs/2307.09769)|**[link](https://github.com/cscyqj/miccai23-protocontra-sfda)**|
 |**2023-07-19**|**Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation**|Changqi Wang et.al.|[2307.09755](http://arxiv.org/abs/2307.09755)|null|
@@ -735,6 +739,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Discovery Forecasts of the Diffuse Ultra-High-Energy Neutrino Flux with IceCube-Gen2**|Victor B. Valera et.al.|[2307.11055](http://arxiv.org/abs/2307.11055)|null|
+|**2023-07-20**|**Hypergraph Diffusions and Resolvents for Norm-Based Hypergraph Laplacians**|Konstantinos Ameranis et.al.|[2307.11042](http://arxiv.org/abs/2307.11042)|null|
+|**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
+|**2023-07-20**|**Structure-preserving schemes for drift-diffusion systems on general meshes: DDFV vs HFV**|Stella Krell et.al.|[2307.10911](http://arxiv.org/abs/2307.10911)|null|
+|**2023-07-20**|**Non-asymptotic statistical test of the diffusion coefficient of stochastic differential equations**|Anna Melnykova et.al.|[2307.10888](http://arxiv.org/abs/2307.10888)|null|
+|**2023-07-20**|**BoxDiff: Text-to-Image Synthesis with Training-Free Box-Constrained Diffusion**|Jinheng Xie et.al.|[2307.10816](http://arxiv.org/abs/2307.10816)|**[link](https://github.com/sierkinhane/boxdiff)**|
+|**2023-07-20**|**AdjointDPM: Adjoint Sensitivity Method for Gradient Backpropagation of Diffusion Probabilistic Models**|Jiachun Pan et.al.|[2307.10711](http://arxiv.org/abs/2307.10711)|null|
+|**2023-07-20**|**A second order directional split exponential integrator for systems of advection--diffusion--reaction equations**|Marco Caliari et.al.|[2307.10684](http://arxiv.org/abs/2307.10684)|null|
+|**2023-07-20**|**A nonlocal Gray-Scott model: well-posedness and diffusive limit**|Philippe Laurençot et.al.|[2307.10627](http://arxiv.org/abs/2307.10627)|null|
+|**2023-07-20**|**Reference-based Painterly Inpainting via Diffusion: Crossing the Wild Reference Domain Gap**|Dejia Xu et.al.|[2307.10584](http://arxiv.org/abs/2307.10584)|null|
 |**2023-07-19**|**FABRIC: Personalizing Diffusion Models with Iterative Feedback**|Dimitri von Rütte et.al.|[2307.10159](http://arxiv.org/abs/2307.10159)|**[link](https://github.com/sd-fabric/fabric)**|
 |**2023-07-19**|**Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis**|Lingting Zhu et.al.|[2307.10094](http://arxiv.org/abs/2307.10094)|null|
 |**2023-07-19**|**Modelling the Spatial Spread of COVID-19 in aGerman District using a Diffusion Model**|Moritz Schäfer et.al.|[2307.09956](http://arxiv.org/abs/2307.09956)|null|
