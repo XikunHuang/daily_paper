@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Constraining turbulence in protoplanetary discs using the gap contrast: an application to the DSHARP sample**|E. Pizzati et.al.|[2307.11150](http://arxiv.org/abs/2307.11150)|null|
 |**2023-07-20**|**Identical and Fraternal Twins: Fine-Grained Semantic Contrastive Learning of Sentence Representations**|Qingfa Xiao et.al.|[2307.10932](http://arxiv.org/abs/2307.10932)|null|
 |**2023-07-20**|**Modifications of the Miller definition of contrastive (counterfactual) explanations**|Kevin McAreavey et.al.|[2307.10832](http://arxiv.org/abs/2307.10832)|null|
 |**2023-07-20**|**Language-Enhanced Session-Based Recommendation with Decoupled Contrastive Learning**|Zhipeng Zhang et.al.|[2307.10650](http://arxiv.org/abs/2307.10650)|null|
@@ -748,6 +749,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654](http://arxiv.org/abs/2307.11654)|null|
+|**2023-07-21**|**Stability of multi-component Israel-Stewart-Maxwell theory for charge diffusion**|Lorenzo Gavassino et.al.|[2307.11615](http://arxiv.org/abs/2307.11615)|null|
+|**2023-07-21**|**Wilson-Itô diffusions**|Ismael Bailleul et.al.|[2307.11580](http://arxiv.org/abs/2307.11580)|null|
+|**2023-07-21**|**Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting**|Marcel Kollovieh et.al.|[2307.11494](http://arxiv.org/abs/2307.11494)|null|
+|**2023-07-21**|**On the convergence order of the Euler scheme for scalar SDEs with Hölder-type diffusion coefficients**|Annalena Mickel et.al.|[2307.11448](http://arxiv.org/abs/2307.11448)|null|
+|**2023-07-21**|**DPM-OT: A New Diffusion Probabilistic Model Based on Optimal Transport**|Zezeng Li et.al.|[2307.11308](http://arxiv.org/abs/2307.11308)|null|
+|**2023-07-20**|**QDC: Quantum Diffusion Convolution Kernels on Graphs**|Thomas Markovich et.al.|[2307.11234](http://arxiv.org/abs/2307.11234)|null|
+|**2023-07-20**|**Dehazing Ultrasound using Diffusion Models**|Tristan S. W. Stevens et.al.|[2307.11204](http://arxiv.org/abs/2307.11204)|null|
 |**2023-07-20**|**Discovery Forecasts of the Diffuse Ultra-High-Energy Neutrino Flux with IceCube-Gen2**|Victor B. Valera et.al.|[2307.11055](http://arxiv.org/abs/2307.11055)|null|
 |**2023-07-20**|**Hypergraph Diffusions and Resolvents for Norm-Based Hypergraph Laplacians**|Konstantinos Ameranis et.al.|[2307.11042](http://arxiv.org/abs/2307.11042)|null|
 |**2023-07-20**|**Progressive distillation diffusion for raw music generation**|Svetlana Pavlova et.al.|[2307.10994](http://arxiv.org/abs/2307.10994)|null|
