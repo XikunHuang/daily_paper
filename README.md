@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**|Kevin Yang et.al.|[2307.12950](http://arxiv.org/abs/2307.12950)|null|
+|**2023-07-24**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
+|**2023-07-24**|**Homophily-Driven Sanitation View for Robust Graph Contrastive Learning**|Yulin Zhu et.al.|[2307.12555](http://arxiv.org/abs/2307.12555)|null|
+|**2023-07-24**|**Cross Contrastive Feature Perturbation for Domain Generalization**|Chenming Li et.al.|[2307.12502](http://arxiv.org/abs/2307.12502)|null|
+|**2023-07-23**|**SCRAPS: Speech Contrastive Representations of Acoustic and Phonetic Spaces**|Ivan Vallés-Pérez et.al.|[2307.12445](http://arxiv.org/abs/2307.12445)|null|
+|**2023-07-23**|**ASCON: Anatomy-aware Supervised Contrastive Learning Framework for Low-dose CT Denoising**|Zhihao Chen et.al.|[2307.12225](http://arxiv.org/abs/2307.12225)|null|
+|**2023-07-22**|**Edge Guided GANs with Multi-Scale Contrastive Learning for Semantic Image Synthesis**|Hao Tang et.al.|[2307.12084](http://arxiv.org/abs/2307.12084)|**[link](https://github.com/ha0tang/ecgan)**|
+|**2023-07-22**|**SCOL: Supervised Contrastive Ordinal Loss for Abdominal Aortic Calcification Scoring on Vertebral Fracture Assessment Scans**|Afsah Saleem et.al.|[2307.12006](http://arxiv.org/abs/2307.12006)|**[link](https://github.com/afsahs/supervised-contrastive-ordinal-loss)**|
+|**2023-07-22**|**Simulation of Arbitrary Level Contrast Dose in MRI Using an Iterative Global Transformer Model**|Dayang Wang et.al.|[2307.11980](http://arxiv.org/abs/2307.11980)|null|
 |**2023-07-20**|**Constraining turbulence in protoplanetary discs using the gap contrast: an application to the DSHARP sample**|E. Pizzati et.al.|[2307.11150](http://arxiv.org/abs/2307.11150)|null|
 |**2023-07-20**|**Identical and Fraternal Twins: Fine-Grained Semantic Contrastive Learning of Sentence Representations**|Qingfa Xiao et.al.|[2307.10932](http://arxiv.org/abs/2307.10932)|null|
 |**2023-07-20**|**Modifications of the Miller definition of contrastive (counterfactual) explanations**|Kevin McAreavey et.al.|[2307.10832](http://arxiv.org/abs/2307.10832)|null|
@@ -493,6 +502,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Comprehending Semantic Types in JSON Data with Graph Neural Networks**|Shuang Wei et.al.|[2307.12807](http://arxiv.org/abs/2307.12807)|null|
+|**2023-07-24**|**Compact & Capable: Harnessing Graph Neural Networks and Edge Convolution for Medical Image Classification**|Aryan Singh et.al.|[2307.12790](http://arxiv.org/abs/2307.12790)|**[link](https://github.com/anonrepo-keeper/gcnn-ec)**|
+|**2023-07-24**|**Addressing the Impact of Localized Training Data in Graph Neural Networks**|Singh Akansha et.al.|[2307.12689](http://arxiv.org/abs/2307.12689)|**[link](https://github.com/akanshaaga/reg_appnp)**|
+|**2023-07-23**|**EchoGLAD: Hierarchical Graph Neural Networks for Left Ventricle Landmark Detection on Echocardiograms**|Masoud Mokhtari et.al.|[2307.12229](http://arxiv.org/abs/2307.12229)|**[link](https://github.com/masoudmo/echoglad)**|
+|**2023-07-22**|**Collaborative Graph Neural Networks for Attributed Network Embedding**|Qiaoyu Tan et.al.|[2307.11981](http://arxiv.org/abs/2307.11981)|**[link](https://github.com/qiaoyut/conn)**|
 |**2023-07-18**|**Neural Priority Queues for Graph Neural Networks**|Rishabh Jain et.al.|[2307.09660](http://arxiv.org/abs/2307.09660)|null|
 |**2023-07-18**|**Learning Adaptive Neighborhoods for Graph Neural Networks**|Avishkar Saha et.al.|[2307.09065](http://arxiv.org/abs/2307.09065)|null|
 |**2023-07-17**|**Curriculum Learning for Graph Neural Networks: A Multiview Competence-based Approach**|Nidhi Vakil et.al.|[2307.08859](http://arxiv.org/abs/2307.08859)|null|
@@ -749,6 +763,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Modelling intermittent anomalous diffusion with switching fractional Brownian motion**|Michał Balcerek et.al.|[2307.12919](http://arxiv.org/abs/2307.12919)|null|
+|**2023-07-24**|**Data-free Black-box Attack based on Diffusion Model**|Mingwen Shao et.al.|[2307.12872](http://arxiv.org/abs/2307.12872)|null|
+|**2023-07-24**|**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry**|Yong-Hyun Park et.al.|[2307.12868](http://arxiv.org/abs/2307.12868)|null|
+|**2023-07-24**|**First-passage functionals of Brownian motion in logarithmic potentials and heterogeneous diffusion**|Mattia Radice et.al.|[2307.12699](http://arxiv.org/abs/2307.12699)|null|
+|**2023-07-24**|**TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers**|Md Fahim Sikder et.al.|[2307.12667](http://arxiv.org/abs/2307.12667)|null|
+|**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560](http://arxiv.org/abs/2307.12560)|null|
+|**2023-07-24**|**AdvDiff: Generating Unrestricted Adversarial Examples using Diffusion Models**|Xuelong Dai et.al.|[2307.12499](http://arxiv.org/abs/2307.12499)|null|
+|**2023-07-24**|**TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition**|Shilin Lu et.al.|[2307.12493](http://arxiv.org/abs/2307.12493)|**[link](https://github.com/Shilin-LU/TF-ICON)**|
+|**2023-07-23**|**DiAMoNDBack: Diffusion-denoising Autoregressive Model for Non-Deterministic Backmapping of Cα Protein Traces**|Michael S. Jones et.al.|[2307.12451](http://arxiv.org/abs/2307.12451)|**[link](https://github.com/ferg-lab/diamondback)**|
+|**2023-07-23**|**On the Origin of Galactic Diffuse TeV-PeV Emission: Insight from LHAASO and IceCube**|Kai Yan et.al.|[2307.12363](http://arxiv.org/abs/2307.12363)|null|
 |**2023-07-21**|**FEDD -- Fair, Efficient, and Diverse Diffusion-based Lesion Segmentation and Malignancy Classification**|Héctor Carrión et.al.|[2307.11654](http://arxiv.org/abs/2307.11654)|null|
 |**2023-07-21**|**Stability of multi-component Israel-Stewart-Maxwell theory for charge diffusion**|Lorenzo Gavassino et.al.|[2307.11615](http://arxiv.org/abs/2307.11615)|null|
 |**2023-07-21**|**Wilson-Itô diffusions**|Ismael Bailleul et.al.|[2307.11580](http://arxiv.org/abs/2307.11580)|null|
