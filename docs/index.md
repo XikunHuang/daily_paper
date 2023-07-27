@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation**|Sen Zhao et.al.|[2307.14024](http://arxiv.org/abs/2307.14024)|null|
+|**2023-07-26**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944](http://arxiv.org/abs/2307.13944)|null|
 |**2023-07-25**|**The multiplicity of massive stars in the Scorpius OB1 association through high-contrast imaging**|Tinne Pauwels et.al.|[2307.13500](http://arxiv.org/abs/2307.13500)|null|
 |**2023-07-25**|**Gaussian Graph with Prototypical Contrastive Learning in E-Commerce Bundle Recommendation**|Zhao-Yang Liu et.al.|[2307.13468](http://arxiv.org/abs/2307.13468)|null|
 |**2023-07-24**|**Contrastive Example-Based Control**|Kyle Hatch et.al.|[2307.13101](http://arxiv.org/abs/2307.13101)|**[link](https://github.com/khatch31/laeo)**|
@@ -499,6 +501,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength**|Tongya Zheng et.al.|[2307.13909](http://arxiv.org/abs/2307.13909)|**[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)**|
+|**2023-07-25**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816](http://arxiv.org/abs/2307.13816)|null|
 |**2023-07-25**|**Finding Money Launderers Using Heterogeneous Graph Neural Networks**|Fredrik Johannessen et.al.|[2307.13499](http://arxiv.org/abs/2307.13499)|**[link](https://github.com/fredjo89/heterogeneous-mpnn)**|
 |**2023-07-25**|**Combinatorial Auctions and Graph Neural Networks for Local Energy Flexibility Markets**|Awadelrahman M. A. Ahmed et.al.|[2307.13470](http://arxiv.org/abs/2307.13470)|null|
 |**2023-07-25**|**Transferability of Graph Neural Networks using Graphon and Sampling Theories**|A. Martina Neuman et.al.|[2307.13206](http://arxiv.org/abs/2307.13206)|null|
@@ -763,6 +767,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects**|I. Lazzizzera et.al.|[2307.14291](http://arxiv.org/abs/2307.14291)|null|
+|**2023-07-26**|**Artifact Restoration in Histology Images with Diffusion Probabilistic Models**|Zhenqi He et.al.|[2307.14262](http://arxiv.org/abs/2307.14262)|**[link](https://github.com/zhenqi-he/artifusion)**|
+|**2023-07-26**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System for the Full Range of Cutoff Potentials**|Weijun Wu et.al.|[2307.14088](http://arxiv.org/abs/2307.14088)|null|
+|**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
+|**2023-07-26**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066](http://arxiv.org/abs/2307.14066)|null|
+|**2023-07-26**|**MCMC-Correction of Score-Based Diffusion Models for Model Composition**|Anders Sjöberg et.al.|[2307.14012](http://arxiv.org/abs/2307.14012)|null|
+|**2023-07-26**|**Time multiscale modeling of sorption kinetics I: uniformly accurate schemes for highly oscillatory advection-diffusion equation**|Clarissa Astuto et.al.|[2307.14001](http://arxiv.org/abs/2307.14001)|null|
+|**2023-07-26**|**Minimal model of diffusion with time changing Hurst exponent**|Jakub Slezak et.al.|[2307.13980](http://arxiv.org/abs/2307.13980)|null|
+|**2023-07-26**|**How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?**|Huazheng Wang et.al.|[2307.13949](http://arxiv.org/abs/2307.13949)|**[link](https://github.com/maybelizzy/diffusion_ood_robustness)**|
+|**2023-07-25**|**Composite Diffusion | whole >= Σparts**|Vikram Jamwal et.al.|[2307.13720](http://arxiv.org/abs/2307.13720)|null|
 |**2023-07-25**|**Score-based Diffusion Models for Generating Liquid Argon Time Projection Chamber Images**|Zeviel Imani et.al.|[2307.13687](http://arxiv.org/abs/2307.13687)|null|
 |**2023-07-25**|**XDLM: Cross-lingual Diffusion Language Model for Machine Translation**|Linyao Chen et.al.|[2307.13560](http://arxiv.org/abs/2307.13560)|null|
 |**2023-07-25**|**Not with my name! Inferring artists' names of input strings employed by Diffusion Models**|Roberto Leotta et.al.|[2307.13527](http://arxiv.org/abs/2307.13527)|null|
