@@ -1,4 +1,4 @@
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |**2023-07-24**|**Contrastive Example-Based Control**|Kyle Hatch et.al.|[2307.13101](http://arxiv.org/abs/2307.13101)|**[link](https://github.com/khatch31/laeo)**|
 |**2023-07-24**|**MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning**|Yun Zhu et.al.|[2307.13055](http://arxiv.org/abs/2307.13055)|null|
 |**2023-07-24**|**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**|Kevin Yang et.al.|[2307.12950](http://arxiv.org/abs/2307.12950)|null|
-|**2023-07-24**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
+|**2023-07-26**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
 |**2023-07-24**|**Homophily-Driven Sanitation View for Robust Graph Contrastive Learning**|Yulin Zhu et.al.|[2307.12555](http://arxiv.org/abs/2307.12555)|null|
 |**2023-07-24**|**Cross Contrastive Feature Perturbation for Domain Generalization**|Chenming Li et.al.|[2307.12502](http://arxiv.org/abs/2307.12502)|null|
 |**2023-07-23**|**SCRAPS: Speech Contrastive Representations of Acoustic and Phonetic Spaces**|Ivan Vallés-Pérez et.al.|[2307.12445](http://arxiv.org/abs/2307.12445)|null|
@@ -500,7 +500,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
 
 ## GNN
 
@@ -766,7 +766,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1278,5 +1278,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230726>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
 

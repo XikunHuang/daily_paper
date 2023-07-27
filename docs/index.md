@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.26
+## Updated on 2023.07.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -14,7 +14,7 @@ layout: default
 |**2023-07-24**|**Contrastive Example-Based Control**|Kyle Hatch et.al.|[2307.13101](http://arxiv.org/abs/2307.13101)|**[link](https://github.com/khatch31/laeo)**|
 |**2023-07-24**|**MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning**|Yun Zhu et.al.|[2307.13055](http://arxiv.org/abs/2307.13055)|null|
 |**2023-07-24**|**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**|Kevin Yang et.al.|[2307.12950](http://arxiv.org/abs/2307.12950)|null|
-|**2023-07-24**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
+|**2023-07-26**|**Hierarchical Skeleton Meta-Prototype Contrastive Learning with Hard Skeleton Mining for Unsupervised Person Re-Identification**|Haocong Rao et.al.|[2307.12917](http://arxiv.org/abs/2307.12917)|**[link](https://github.com/kali-hac/hi-mpc)**|
 |**2023-07-24**|**Homophily-Driven Sanitation View for Robust Graph Contrastive Learning**|Yulin Zhu et.al.|[2307.12555](http://arxiv.org/abs/2307.12555)|null|
 |**2023-07-24**|**Cross Contrastive Feature Perturbation for Domain Generalization**|Chenming Li et.al.|[2307.12502](http://arxiv.org/abs/2307.12502)|null|
 |**2023-07-23**|**SCRAPS: Speech Contrastive Representations of Acoustic and Phonetic Spaces**|Ivan Vallés-Pérez et.al.|[2307.12445](http://arxiv.org/abs/2307.12445)|null|
