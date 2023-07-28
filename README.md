@@ -1,4 +1,4 @@
-## Updated on 2023.07.27
+## Updated on 2023.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -502,7 +502,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230728>back to top</a>)</p>
 
 ## GNN
 
@@ -770,7 +770,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230728>back to top</a>)</p>
 
 ## Diffusion
 
@@ -780,7 +780,7 @@
 |**2023-07-26**|**Artifact Restoration in Histology Images with Diffusion Probabilistic Models**|Zhenqi He et.al.|[2307.14262](http://arxiv.org/abs/2307.14262)|**[link](https://github.com/zhenqi-he/artifusion)**|
 |**2023-07-26**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System for the Full Range of Cutoff Potentials**|Weijun Wu et.al.|[2307.14088](http://arxiv.org/abs/2307.14088)|null|
 |**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
-|**2023-07-26**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066](http://arxiv.org/abs/2307.14066)|null|
+|**2023-07-27**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066](http://arxiv.org/abs/2307.14066)|null|
 |**2023-07-26**|**MCMC-Correction of Score-Based Diffusion Models for Model Composition**|Anders Sjöberg et.al.|[2307.14012](http://arxiv.org/abs/2307.14012)|null|
 |**2023-07-26**|**Time multiscale modeling of sorption kinetics I: uniformly accurate schemes for highly oscillatory advection-diffusion equation**|Clarissa Astuto et.al.|[2307.14001](http://arxiv.org/abs/2307.14001)|null|
 |**2023-07-26**|**Minimal model of diffusion with time changing Hurst exponent**|Jakub Slezak et.al.|[2307.13980](http://arxiv.org/abs/2307.13980)|null|
@@ -1292,5 +1292,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230727>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230728>back to top</a>)</p>
 

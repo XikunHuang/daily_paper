@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.27
+## Updated on 2023.07.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -771,7 +771,7 @@ layout: default
 |**2023-07-26**|**Artifact Restoration in Histology Images with Diffusion Probabilistic Models**|Zhenqi He et.al.|[2307.14262](http://arxiv.org/abs/2307.14262)|**[link](https://github.com/zhenqi-he/artifusion)**|
 |**2023-07-26**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System for the Full Range of Cutoff Potentials**|Weijun Wu et.al.|[2307.14088](http://arxiv.org/abs/2307.14088)|null|
 |**2023-07-26**|**VideoControlNet: A Motion-Guided Video-to-Video Translation Framework by Using Diffusion Model with ControlNet**|Zhihao Hu et.al.|[2307.14073](http://arxiv.org/abs/2307.14073)|null|
-|**2023-07-26**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066](http://arxiv.org/abs/2307.14066)|null|
+|**2023-07-27**|**Pre-Training with Diffusion models for Dental Radiography segmentation**|Jérémy Rousseau et.al.|[2307.14066](http://arxiv.org/abs/2307.14066)|null|
 |**2023-07-26**|**MCMC-Correction of Score-Based Diffusion Models for Model Composition**|Anders Sjöberg et.al.|[2307.14012](http://arxiv.org/abs/2307.14012)|null|
 |**2023-07-26**|**Time multiscale modeling of sorption kinetics I: uniformly accurate schemes for highly oscillatory advection-diffusion equation**|Clarissa Astuto et.al.|[2307.14001](http://arxiv.org/abs/2307.14001)|null|
 |**2023-07-26**|**Minimal model of diffusion with time changing Hurst exponent**|Jakub Slezak et.al.|[2307.13980](http://arxiv.org/abs/2307.13980)|null|
