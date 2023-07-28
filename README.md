@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**Contrastive Knowledge Amalgamation for Unsupervised Image Classification**|Shangde Gao et.al.|[2307.14781](http://arxiv.org/abs/2307.14781)|null|
+|**2023-07-27**|**vox2vec: A Framework for Self-supervised Contrastive Learning of Voxel-level Representations in Medical Images**|Mikhail Goncharov et.al.|[2307.14725](http://arxiv.org/abs/2307.14725)|**[link](https://github.com/mishgon/vox2vec)**|
+|**2023-07-27**|**Self-Contrastive Graph Diffusion Network**|Yixian Ma et.al.|[2307.14613](http://arxiv.org/abs/2307.14613)|null|
+|**2023-07-27**|**GenCo: An Auxiliary Generator from Contrastive Learning for Enhanced Few-Shot Learning in Remote Sensing**|Jing Wu et.al.|[2307.14612](http://arxiv.org/abs/2307.14612)|null|
+|**2023-07-26**|**Towards multi-modal anatomical landmark detection for ultrasound-guided brain tumor resection with contrastive learning**|Soorena Salari et.al.|[2307.14523](http://arxiv.org/abs/2307.14523)|null|
 |**2023-07-26**|**Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation**|Sen Zhao et.al.|[2307.14024](http://arxiv.org/abs/2307.14024)|null|
 |**2023-07-26**|**Entropy Neural Estimation for Graph Contrastive Learning**|Yixuan Ma et.al.|[2307.13944](http://arxiv.org/abs/2307.13944)|null|
 |**2023-07-25**|**The multiplicity of massive stars in the Scorpius OB1 association through high-contrast imaging**|Tinne Pauwels et.al.|[2307.13500](http://arxiv.org/abs/2307.13500)|null|
@@ -776,6 +781,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
+|**2023-07-27**|**Large-scale universality in Quantum Reaction-Diffusion from Keldysh field theory**|Federico Gerbino et.al.|[2307.14945](http://arxiv.org/abs/2307.14945)|null|
+|**2023-07-27**|**Diffuse emission in microlensed quasars and its implications for accretion-disk physics**|C. Fian et.al.|[2307.14824](http://arxiv.org/abs/2307.14824)|null|
+|**2023-07-27**|**Competing effects in fourth-order aggregation-diffusion equations**|José Antonio Carrillo et.al.|[2307.14706](http://arxiv.org/abs/2307.14706)|null|
+|**2023-07-27**|**LLDiffusion: Learning Degradation Representations in Diffusion Models for Low-Light Image Enhancement**|Tao Wang et.al.|[2307.14659](http://arxiv.org/abs/2307.14659)|**[link](https://github.com/taowangzj/lldiffusion)**|
+|**2023-07-27**|**Spatial-Frequency U-Net for Denoising Diffusion Probabilistic Models**|Xin Yuan et.al.|[2307.14648](http://arxiv.org/abs/2307.14648)|null|
+|**2023-07-27**|**Self-Contrastive Graph Diffusion Network**|Yixian Ma et.al.|[2307.14613](http://arxiv.org/abs/2307.14613)|null|
+|**2023-07-27**|**Large deviation principle for stochastic reaction-diffusion equations with super-linear drift on $\mathbb{R}$ driven by space-time white noise**|Yue Li et.al.|[2307.14554](http://arxiv.org/abs/2307.14554)|null|
 |**2023-07-26**|**Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects**|I. Lazzizzera et.al.|[2307.14291](http://arxiv.org/abs/2307.14291)|null|
 |**2023-07-26**|**Artifact Restoration in Histology Images with Diffusion Probabilistic Models**|Zhenqi He et.al.|[2307.14262](http://arxiv.org/abs/2307.14262)|**[link](https://github.com/zhenqi-he/artifusion)**|
 |**2023-07-26**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System for the Full Range of Cutoff Potentials**|Weijun Wu et.al.|[2307.14088](http://arxiv.org/abs/2307.14088)|null|
