@@ -513,6 +513,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**A universal equivariant graph neural network for the elasticity tensors of any crystal system**|Mingjian Wen et.al.|[2307.15242](http://arxiv.org/abs/2307.15242)|null|
 |**2023-07-26**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength**|Tongya Zheng et.al.|[2307.13909](http://arxiv.org/abs/2307.13909)|**[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)**|
 |**2023-07-25**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816](http://arxiv.org/abs/2307.13816)|null|
 |**2023-07-25**|**Finding Money Launderers Using Heterogeneous Graph Neural Networks**|Fredrik Johannessen et.al.|[2307.13499](http://arxiv.org/abs/2307.13499)|**[link](https://github.com/fredjo89/heterogeneous-mpnn)**|
@@ -781,6 +782,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**Collision term dependence of the hadronic shear viscosity and diffusion coefficients**|Jan Hammelmann et.al.|[2307.15606](http://arxiv.org/abs/2307.15606)|null|
+|**2023-07-28**|**Understanding the Anomalous Diffusion of Water in Aqueous Electrolytes Using Machine Learned Potentials**|Nikhil V. S. Avula et.al.|[2307.15576](http://arxiv.org/abs/2307.15576)|null|
+|**2023-07-28**|**Machine Learning Potential for Modelling H $_2$ Adsorption/Diffusion in MOF with Open Metal Sites**|Shanping Liu et.al.|[2307.15528](http://arxiv.org/abs/2307.15528)|null|
+|**2023-07-28**|**Minimally-Supervised Speech Synthesis with Conditional Diffusion Model and Language Model: A Comparative Study of Semantic Coding**|Chunyu Qiang et.al.|[2307.15484](http://arxiv.org/abs/2307.15484)|null|
+|**2023-07-28**|**Recovering high-quality FODs from a reduced number of diffusion-weighted images using a model-driven deep learning architecture**|J Bartlett et.al.|[2307.15273](http://arxiv.org/abs/2307.15273)|**[link](https://github.com/jbartlett6/sdnet)**|
+|**2023-07-27**|**Aggregation-diffusion energies on Cartan-Hadamard manifolds of unbounded curvature**|Razvan C. Fetecau et.al.|[2307.15215](http://arxiv.org/abs/2307.15215)|null|
+|**2023-07-27**|**Multiplicity of endemic equilibria for a diffusive SIS epidemic model with mass-action transmission mechanism**|Keoni Castellano et.al.|[2307.15155](http://arxiv.org/abs/2307.15155)|null|
 |**2023-07-27**|**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**|Zihan Zhang et.al.|[2307.15042](http://arxiv.org/abs/2307.15042)|null|
 |**2023-07-27**|**Large-scale universality in Quantum Reaction-Diffusion from Keldysh field theory**|Federico Gerbino et.al.|[2307.14945](http://arxiv.org/abs/2307.14945)|null|
 |**2023-07-27**|**Diffuse emission in microlensed quasars and its implications for accretion-disk physics**|C. Fian et.al.|[2307.14824](http://arxiv.org/abs/2307.14824)|null|
