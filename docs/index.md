@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Contrastive Learning for API Aspect Analysis**|G. M. Shahariar et.al.|[2307.16878](http://arxiv.org/abs/2307.16878)|**[link](https://github.com/shahariar-shibli/contrastive-learning-for-api-aspect-analysis)**|
+|**2023-07-31**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
+|**2023-07-31**|**JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery**|Jiahao Li et.al.|[2307.16377](http://arxiv.org/abs/2307.16377)|**[link](https://github.com/xljh0520/jotr)**|
+|**2023-07-29**|**MUSE: Multi-View Contrastive Learning for Heterophilic Graphs**|Mengyi Yuan et.al.|[2307.16026](http://arxiv.org/abs/2307.16026)|null|
 |**2023-07-27**|**Contrastive Knowledge Amalgamation for Unsupervised Image Classification**|Shangde Gao et.al.|[2307.14781](http://arxiv.org/abs/2307.14781)|null|
 |**2023-07-27**|**vox2vec: A Framework for Self-supervised Contrastive Learning of Voxel-level Representations in Medical Images**|Mikhail Goncharov et.al.|[2307.14725](http://arxiv.org/abs/2307.14725)|**[link](https://github.com/mishgon/vox2vec)**|
 |**2023-07-27**|**Self-Contrastive Graph Diffusion Network**|Yixian Ma et.al.|[2307.14613](http://arxiv.org/abs/2307.14613)|null|
@@ -506,6 +510,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification**|Haozhen Zhang et.al.|[2307.16713](http://arxiv.org/abs/2307.16713)|null|
+|**2023-07-31**|**MRA-GNN: Minutiae Relation-Aware Model over Graph Neural Network for Fingerprint Embedding**|Yapeng Su et.al.|[2307.16416](http://arxiv.org/abs/2307.16416)|null|
+|**2023-07-31**|**Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans**|Yanteng Zhanga et.al.|[2307.16366](http://arxiv.org/abs/2307.16366)|null|
+|**2023-07-29**|**ADR-GNN: Advection-Diffusion-Reaction Graph Neural Networks**|Moshe Eliasof et.al.|[2307.16092](http://arxiv.org/abs/2307.16092)|null|
+|**2023-07-29**|**Opportunistic Air Quality Monitoring and Forecasting with Expandable Graph Neural Networks**|Jingwei Zuo et.al.|[2307.15916](http://arxiv.org/abs/2307.15916)|null|
 |**2023-07-28**|**A universal equivariant graph neural network for the elasticity tensors of any crystal system**|Mingjian Wen et.al.|[2307.15242](http://arxiv.org/abs/2307.15242)|null|
 |**2023-07-26**|**Graph Neural Networks-based Hybrid Framework For Predicting Particle Crushing Strength**|Tongya Zheng et.al.|[2307.13909](http://arxiv.org/abs/2307.13909)|**[link](https://github.com/doujiang-zheng/gnn-for-particle-crushing)**|
 |**2023-07-25**|**Uncertainty Quantification in the Road-level Traffic Risk Prediction by Spatial-Temporal Zero-Inflated Negative Binomial Graph Neural Network(STZINB-GNN)**|Xiaowei Gao et.al.|[2307.13816](http://arxiv.org/abs/2307.13816)|null|
@@ -773,6 +782,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**A sharp càdlàg property for jump diffusions and dynamic programming principle**|Alessandro Bondi et.al.|[2307.16871](http://arxiv.org/abs/2307.16871)|null|
+|**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865](http://arxiv.org/abs/2307.16865)|null|
+|**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
+|**2023-07-31**|**Comparing normalizing flows and diffusion models for prosody and acoustic modelling in text-to-speech**|Guangyan Zhang et.al.|[2307.16679](http://arxiv.org/abs/2307.16679)|null|
+|**2023-07-31**|**Simultaneous determination of initial value and source term for time-fractional wave-diffusion equations**|Paola Loreti et.al.|[2307.16665](http://arxiv.org/abs/2307.16665)|null|
+|**2023-07-31**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
+|**2023-07-31**|**DiffProsody: Diffusion-based Latent Prosody Generation for Expressive Speech Synthesis with Prosody Conditional Adversarial Training**|Hyung-Seok Oh et.al.|[2307.16549](http://arxiv.org/abs/2307.16549)|**[link](https://github.com/hsoh0306/diffprosody)**|
+|**2023-07-31**|**Random walks in correlated diffusivity landscapes**|Adrian Pacheco-Pozo et.al.|[2307.16504](http://arxiv.org/abs/2307.16504)|null|
+|**2023-07-31**|**Parameter Inference for Degenerate Diffusion Processes**|Yuga Iguchi et.al.|[2307.16485](http://arxiv.org/abs/2307.16485)|null|
+|**2023-07-31**|**MetaDiff: Meta-Learning with Conditional Diffusion for Few-Shot Learning**|Baoquan Zhang et.al.|[2307.16424](http://arxiv.org/abs/2307.16424)|null|
 |**2023-07-28**|**Collision term dependence of the hadronic shear viscosity and diffusion coefficients**|Jan Hammelmann et.al.|[2307.15606](http://arxiv.org/abs/2307.15606)|null|
 |**2023-07-28**|**Understanding the Anomalous Diffusion of Water in Aqueous Electrolytes Using Machine Learned Potentials**|Nikhil V. S. Avula et.al.|[2307.15576](http://arxiv.org/abs/2307.15576)|null|
 |**2023-07-28**|**Machine Learning Potential for Modelling H $_2$ Adsorption/Diffusion in MOF with Open Metal Sites**|Shanping Liu et.al.|[2307.15528](http://arxiv.org/abs/2307.15528)|null|
