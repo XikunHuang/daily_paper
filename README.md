@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Graph Embedding Dynamic Feature-based Supervised Contrastive Learning of Transient Stability for Changing Power Grid Topologies**|Zijian Lv et.al.|[2308.00537](http://arxiv.org/abs/2308.00537)|null|
+|**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535](http://arxiv.org/abs/2308.00535)|null|
+|**2023-08-01**|**Relational Contrastive Learning for Scene Text Recognition**|Jinglei Zhang et.al.|[2308.00508](http://arxiv.org/abs/2308.00508)|**[link](https://github.com/thundervvv/rclstr)**|
+|**2023-08-01**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
+|**2023-08-01**|**Center Contrastive Loss for Metric Learning**|Bolun Cai et.al.|[2308.00458](http://arxiv.org/abs/2308.00458)|null|
+|**2023-07-31**|**C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation**|Boah Kim et.al.|[2308.00193](http://arxiv.org/abs/2308.00193)|null|
 |**2023-07-31**|**Contrastive Learning for API Aspect Analysis**|G. M. Shahariar et.al.|[2307.16878](http://arxiv.org/abs/2307.16878)|**[link](https://github.com/shahariar-shibli/contrastive-learning-for-api-aspect-analysis)**|
 |**2023-07-31**|**Contrastive Conditional Latent Diffusion for Audio-visual Segmentation**|Yuxin Mao et.al.|[2307.16579](http://arxiv.org/abs/2307.16579)|null|
 |**2023-07-31**|**JOTR: 3D Joint Contrastive Learning with Transformers for Occluded Human Mesh Recovery**|Jiahao Li et.al.|[2307.16377](http://arxiv.org/abs/2307.16377)|**[link](https://github.com/xljh0520/jotr)**|
@@ -791,6 +797,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Radial Evolution in a Reaction-Diffusion Model**|Sofia M. Silveira et.al.|[2308.00671](http://arxiv.org/abs/2308.00671)|null|
+|**2023-08-01**|**Diffusion laws select boundary conditions**|Jaywan Chung et.al.|[2308.00416](http://arxiv.org/abs/2308.00416)|null|
+|**2023-08-01**|**Diffusion Model for Camouflaged Object Detection**|Zhennan Chen et.al.|[2308.00303](http://arxiv.org/abs/2308.00303)|null|
+|**2023-08-01**|**EC-Conf: A Ultra-fast Diffusion Model for Molecular Conformation Generation with Equivariant Consistency**|Zhiguang Fan et.al.|[2308.00237](http://arxiv.org/abs/2308.00237)|null|
+|**2023-07-31**|**C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation**|Boah Kim et.al.|[2308.00193](http://arxiv.org/abs/2308.00193)|null|
+|**2023-07-31**|**Measurement of the astrophysical diffuse neutrino flux in a combined fit of IceCube's high energy neutrino data**|Richard Naab et.al.|[2308.00191](http://arxiv.org/abs/2308.00191)|null|
+|**2023-07-31**|**DiffusAL: Coupling Active Learning with Graph Diffusion for Label-Efficient Node Classification**|Sandra Gilhuber et.al.|[2308.00146](http://arxiv.org/abs/2308.00146)|**[link](https://github.com/lmu-dbs/diffusal)**|
+|**2023-07-31**|**DAVIS: High-Quality Audio-Visual Separation with Generative Diffusion Models**|Chao Huang et.al.|[2308.00122](http://arxiv.org/abs/2308.00122)|null|
 |**2023-07-31**|**A sharp càdlàg property for jump diffusions and dynamic programming principle**|Alessandro Bondi et.al.|[2307.16871](http://arxiv.org/abs/2307.16871)|null|
 |**2023-07-31**|**Universal Adversarial Defense in Remote Sensing Based on Pre-trained Denoising Diffusion Models**|Weikang Yu et.al.|[2307.16865](http://arxiv.org/abs/2307.16865)|null|
 |**2023-07-31**|**DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation**|Runyang Feng et.al.|[2307.16687](http://arxiv.org/abs/2307.16687)|null|
