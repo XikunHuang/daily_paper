@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**A Hyper-pixel-wise Contrastive Learning Augmented Segmentation Network for Old Landslide Detection Using High-Resolution Remote Sensing Images and Digital Elevation Model Data**|Yiming Zhou et.al.|[2308.01251](http://arxiv.org/abs/2308.01251)|null|
+|**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
+|**2023-08-02**|**DySTreSS: Dynamically Scaled Temperature in Self-Supervised Contrastive Learning**|Siladittya Manna et.al.|[2308.01140](http://arxiv.org/abs/2308.01140)|null|
+|**2023-08-02**|**Orientation-Guided Contrastive Learning for UAV-View Geo-Localisation**|Fabian Deuser et.al.|[2308.00982](http://arxiv.org/abs/2308.00982)|null|
+|**2023-08-01**|**Self-Supervised Contrastive BERT Fine-tuning for Fusion-based Reviewed-Item Retrieval**|Mohammad Mahdi Abdollah Pour et.al.|[2308.00762](http://arxiv.org/abs/2308.00762)|**[link](https://github.com/d3mlab/rir_data)**|
 |**2023-08-01**|**Graph Embedding Dynamic Feature-based Supervised Contrastive Learning of Transient Stability for Changing Power Grid Topologies**|Zijian Lv et.al.|[2308.00537](http://arxiv.org/abs/2308.00537)|null|
 |**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535](http://arxiv.org/abs/2308.00535)|null|
 |**2023-08-01**|**Relational Contrastive Learning for Scene Text Recognition**|Jinglei Zhang et.al.|[2308.00508](http://arxiv.org/abs/2308.00508)|**[link](https://github.com/thundervvv/rclstr)**|
@@ -523,6 +528,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
+|**2023-08-02**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890](http://arxiv.org/abs/2308.00890)|null|
+|**2023-08-02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887](http://arxiv.org/abs/2308.00887)|null|
 |**2023-07-31**|**TFE-GNN: A Temporal Fusion Encoder Using Graph Neural Networks for Fine-grained Encrypted Traffic Classification**|Haozhen Zhang et.al.|[2307.16713](http://arxiv.org/abs/2307.16713)|null|
 |**2023-07-31**|**MRA-GNN: Minutiae Relation-Aware Model over Graph Neural Network for Fingerprint Embedding**|Yapeng Su et.al.|[2307.16416](http://arxiv.org/abs/2307.16416)|null|
 |**2023-07-31**|**Multi-modal Graph Neural Network for Early Diagnosis of Alzheimer's Disease from sMRI and PET Scans**|Yanteng Zhanga et.al.|[2307.16366](http://arxiv.org/abs/2307.16366)|null|
@@ -797,6 +805,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|null|
+|**2023-08-02**|**First Passage Time for Many Particle Diffusion in Space-Time Random Environments**|Jacob B. Hass et.al.|[2308.01267](http://arxiv.org/abs/2308.01267)|null|
+|**2023-08-02**|**Well-posedness and Long-time Behavior of a Bulk-surface Coupled Cahn-Hilliard-diffusion System with Singular Potential for Lipid Raft Formation**|Hao Wu et.al.|[2308.01228](http://arxiv.org/abs/2308.01228)|null|
+|**2023-08-02**|**High-efficient deep learning-based DTI reconstruction with flexible diffusion gradient encoding scheme**|Zejun Wu et.al.|[2308.01173](http://arxiv.org/abs/2308.01173)|null|
+|**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
+|**2023-08-02**|**DiffusePast: Diffusion-based Generative Replay for Class Incremental Semantic Segmentation**|Jingfan Chen et.al.|[2308.01127](http://arxiv.org/abs/2308.01127)|null|
+|**2023-08-02**|**Hidden Markov modeling of single particle diffusion with stochastic tethering**|Amit Federbush et.al.|[2308.01100](http://arxiv.org/abs/2308.01100)|null|
+|**2023-08-02**|**Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction**|Muhammad U. Mirza et.al.|[2308.01096](http://arxiv.org/abs/2308.01096)|null|
+|**2023-08-02**|**New Lipschitz estimates and long-time asymptotic behavior for porous medium and fast diffusion equations**|Noemi David et.al.|[2308.01041](http://arxiv.org/abs/2308.01041)|null|
+|**2023-08-02**|**Selectable diffusion direction with topologically protected edge modes**|Keita Funayama et.al.|[2308.00902](http://arxiv.org/abs/2308.00902)|null|
 |**2023-08-01**|**Radial Evolution in a Reaction-Diffusion Model**|Sofia M. Silveira et.al.|[2308.00671](http://arxiv.org/abs/2308.00671)|null|
 |**2023-08-01**|**Diffusion laws select boundary conditions**|Jaywan Chung et.al.|[2308.00416](http://arxiv.org/abs/2308.00416)|null|
 |**2023-08-01**|**Diffusion Model for Camouflaged Object Detection**|Zhennan Chen et.al.|[2308.00303](http://arxiv.org/abs/2308.00303)|null|
