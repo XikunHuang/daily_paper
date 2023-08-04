@@ -1,4 +1,4 @@
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2023-08-01**|**Graph Embedding Dynamic Feature-based Supervised Contrastive Learning of Transient Stability for Changing Power Grid Topologies**|Zijian Lv et.al.|[2308.00537](http://arxiv.org/abs/2308.00537)|null|
 |**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535](http://arxiv.org/abs/2308.00535)|null|
 |**2023-08-01**|**Relational Contrastive Learning for Scene Text Recognition**|Jinglei Zhang et.al.|[2308.00508](http://arxiv.org/abs/2308.00508)|**[link](https://github.com/thundervvv/rclstr)**|
-|**2023-08-01**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
+|**2023-08-03**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
 |**2023-08-01**|**Center Contrastive Loss for Metric Learning**|Bolun Cai et.al.|[2308.00458](http://arxiv.org/abs/2308.00458)|null|
 |**2023-07-31**|**C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation**|Boah Kim et.al.|[2308.00193](http://arxiv.org/abs/2308.00193)|null|
 |**2023-07-31**|**Contrastive Learning for API Aspect Analysis**|G. M. Shahariar et.al.|[2307.16878](http://arxiv.org/abs/2307.16878)|**[link](https://github.com/shahariar-shibli/contrastive-learning-for-api-aspect-analysis)**|
@@ -522,7 +522,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
 
 ## GNN
 
@@ -799,7 +799,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1364,5 +1364,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230803>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230804>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.03
+## Updated on 2023.08.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -17,7 +17,7 @@ layout: default
 |**2023-08-01**|**Graph Embedding Dynamic Feature-based Supervised Contrastive Learning of Transient Stability for Changing Power Grid Topologies**|Zijian Lv et.al.|[2308.00537](http://arxiv.org/abs/2308.00537)|null|
 |**2023-08-01**|**Graph Contrastive Learning with Generative Adversarial Network**|Cheng Wu et.al.|[2308.00535](http://arxiv.org/abs/2308.00535)|null|
 |**2023-08-01**|**Relational Contrastive Learning for Scene Text Recognition**|Jinglei Zhang et.al.|[2308.00508](http://arxiv.org/abs/2308.00508)|**[link](https://github.com/thundervvv/rclstr)**|
-|**2023-08-01**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
+|**2023-08-03**|**A Deep Learning Approach for Virtual Contrast Enhancement in Contrast Enhanced Spectral Mammography**|Aurora Rofena et.al.|[2308.00471](http://arxiv.org/abs/2308.00471)|null|
 |**2023-08-01**|**Center Contrastive Loss for Metric Learning**|Bolun Cai et.al.|[2308.00458](http://arxiv.org/abs/2308.00458)|null|
 |**2023-07-31**|**C-DARL: Contrastive diffusion adversarial representation learning for label-free blood vessel segmentation**|Boah Kim et.al.|[2308.00193](http://arxiv.org/abs/2308.00193)|null|
 |**2023-07-31**|**Contrastive Learning for API Aspect Analysis**|G. M. Shahariar et.al.|[2307.16878](http://arxiv.org/abs/2307.16878)|**[link](https://github.com/shahariar-shibli/contrastive-learning-for-api-aspect-analysis)**|
