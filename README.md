@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection**|Cong Zhang et.al.|[2308.01520](http://arxiv.org/abs/2308.01520)|null|
+|**2023-08-02**|**An Introduction to High Contrast Differential Imaging of Exoplanets and Disks**|Katherine B Follette et.al.|[2308.01354](http://arxiv.org/abs/2308.01354)|null|
+|**2023-08-02**|**Impacts of high-contrast image processing on atmospheric retrievals**|Evert Nasedkin et.al.|[2308.01343](http://arxiv.org/abs/2308.01343)|null|
 |**2023-08-02**|**A Hyper-pixel-wise Contrastive Learning Augmented Segmentation Network for Old Landslide Detection Using High-Resolution Remote Sensing Images and Digital Elevation Model Data**|Yiming Zhou et.al.|[2308.01251](http://arxiv.org/abs/2308.01251)|null|
 |**2023-08-02**|**Contrast-augmented Diffusion Model with Fine-grained Sequence Alignment for Markup-to-Image Generation**|Guojin Zhong et.al.|[2308.01147](http://arxiv.org/abs/2308.01147)|**[link](https://github.com/zgj77/fsacdm)**|
 |**2023-08-02**|**DySTreSS: Dynamically Scaled Temperature in Self-Supervised Contrastive Learning**|Siladittya Manna et.al.|[2308.01140](http://arxiv.org/abs/2308.01140)|null|
@@ -528,6 +531,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682](http://arxiv.org/abs/2308.01682)|null|
+|**2023-08-03**|**Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602](http://arxiv.org/abs/2308.01602)|null|
+|**2023-08-02**|**VertexSerum: Poisoning Graph Neural Networks for Link Inference**|Ruyi Ding et.al.|[2308.01469](http://arxiv.org/abs/2308.01469)|null|
+|**2023-08-01**|**Graph Neural Networks for Forecasting Multivariate Realized Volatility with Spillover Effects**|Chao Zhang et.al.|[2308.01419](http://arxiv.org/abs/2308.01419)|null|
 |**2023-08-02**|**Stereo Visual Odometry with Deep Learning-Based Point and Line Feature Matching using an Attention Graph Neural Network**|Shenbagaraj Kannapiran et.al.|[2308.01125](http://arxiv.org/abs/2308.01125)|null|
 |**2023-08-02**|**Tango: rethinking quantization for graph neural network training on GPUs**|Shiyang Chen et.al.|[2308.00890](http://arxiv.org/abs/2308.00890)|null|
 |**2023-08-02**|**Factor Graph Neural Networks**|Zhen Zhang et.al.|[2308.00887](http://arxiv.org/abs/2308.00887)|null|
@@ -805,6 +812,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-03**|**Synthesizing Long-Term Human Motions with Diffusion Models via Coherent Sampling**|Zhao Yang et.al.|[2308.01850](http://arxiv.org/abs/2308.01850)|**[link](https://github.com/yangzhao1230/pcmdm)**|
+|**2023-08-03**|**Super-Resolution Estimation of UWB Channels including the Diffuse Component -- An SBL-Inspired Approach**|Stefan Grebien et.al.|[2308.01702](http://arxiv.org/abs/2308.01702)|null|
+|**2023-08-03**|**DiffColor: Toward High Fidelity Text-Guided Image Colorization with Diffusion Models**|Jianxin Lin et.al.|[2308.01655](http://arxiv.org/abs/2308.01655)|null|
+|**2023-08-03**|**Beyond small-scale transients: a closer look at the diffuse quiet solar corona**|J. Gorman et.al.|[2308.01640](http://arxiv.org/abs/2308.01640)|null|
+|**2023-08-03**|**Reference-Free Isotropic 3D EM Reconstruction using Diffusion Models**|Kyungryun Lee et.al.|[2308.01594](http://arxiv.org/abs/2308.01594)|null|
+|**2023-08-03**|**Adversarial Training of Denoising Diffusion Model Using Dual Discriminators for High-Fidelity Multi-Speaker TTS**|Myeongjin Ko et.al.|[2308.01573](http://arxiv.org/abs/2308.01573)|**[link](https://github.com/komyeongjin/specdiff-gan)**|
+|**2023-08-03**|**Motion Planning Diffusion: Learning and Planning of Robot Motions with Diffusion Models**|Joao Carvalho et.al.|[2308.01557](http://arxiv.org/abs/2308.01557)|null|
+|**2023-08-02**|**Reverse Stable Diffusion: What prompt was used to generate this image?**|Florinel-Alin Croitoru et.al.|[2308.01472](http://arxiv.org/abs/2308.01472)|null|
+|**2023-08-02**|**Can Schrodingerist Wavefunction Physics Explain Brownian Motion? II. The Diffusion Coefficient**|W. David Wick et.al.|[2308.01437](http://arxiv.org/abs/2308.01437)|null|
 |**2023-08-02**|**Patched Denoising Diffusion Models For High-Resolution Image Synthesis**|Zheng Ding et.al.|[2308.01316](http://arxiv.org/abs/2308.01316)|null|
 |**2023-08-02**|**First Passage Time for Many Particle Diffusion in Space-Time Random Environments**|Jacob B. Hass et.al.|[2308.01267](http://arxiv.org/abs/2308.01267)|null|
 |**2023-08-02**|**Well-posedness and Long-time Behavior of a Bulk-surface Coupled Cahn-Hilliard-diffusion System with Singular Potential for Lipid Raft Formation**|Hao Wu et.al.|[2308.01228](http://arxiv.org/abs/2308.01228)|null|
