@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Half-valley Ohmic Contact and Contact-Limited Valley-Contrasting Current Injection**|Xukun Feng et.al.|[2308.03700](http://arxiv.org/abs/2308.03700)|null|
+|**2023-08-07**|**The mass density contrast in perturbed Friedman-Lemaitre-Robertson-Walker cosmologies**|Edward Malec et.al.|[2308.03468](http://arxiv.org/abs/2308.03468)|null|
+|**2023-08-07**|**Hierarchical Contrastive Learning with Multiple Augmentation for Sequential Recommendation**|Dongjun Lee et.al.|[2308.03400](http://arxiv.org/abs/2308.03400)|null|
+|**2023-08-07**|**A Hybrid CNN-Transformer Architecture with Frequency Domain Contrastive Learning for Image Deraining**|Cheng Wang et.al.|[2308.03340](http://arxiv.org/abs/2308.03340)|null|
+|**2023-08-07**|**Towards General Text Embeddings with Multi-stage Contrastive Learning**|Zehan Li et.al.|[2308.03281](http://arxiv.org/abs/2308.03281)|null|
+|**2023-08-07**|**Feature-Suppressed Contrast for Self-Supervised Food Pre-training**|Xinda Liu et.al.|[2308.03272](http://arxiv.org/abs/2308.03272)|null|
+|**2023-08-07**|**Local Structure-aware Graph Contrastive Representation Learning**|Kai Yang et.al.|[2308.03271](http://arxiv.org/abs/2308.03271)|null|
+|**2023-08-05**|**Creating high-contrast patterns in multiple-scattering media via wavefront shaping**|Liam Shaughnessy et.al.|[2308.02891](http://arxiv.org/abs/2308.02891)|null|
+|**2023-08-05**|**Bootstrapping Contrastive Learning Enhanced Music Cold-Start Matching**|Xinping Zhao et.al.|[2308.02844](http://arxiv.org/abs/2308.02844)|null|
+|**2023-08-05**|**Semi-supervised Contrastive Regression for Estimation of Eye Gaze**|Somsukla Maiti et.al.|[2308.02784](http://arxiv.org/abs/2308.02784)|null|
 |**2023-08-04**|**Efficient Labelling of Affective Video Datasets via Few-Shot & Multi-Task Contrastive Learning**|Ravikiran Parameshwara et.al.|[2308.02173](http://arxiv.org/abs/2308.02173)|**[link](https://github.com/ravikiranrao/mtclar-fsl)**|
 |**2023-08-03**|**Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection**|Cong Zhang et.al.|[2308.01520](http://arxiv.org/abs/2308.01520)|null|
 |**2023-08-02**|**An Introduction to High Contrast Differential Imaging of Exoplanets and Disks**|Katherine B Follette et.al.|[2308.01354](http://arxiv.org/abs/2308.01354)|**[link](https://github.com/kfollette/pasp_hcitutorial)**|
@@ -525,6 +535,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378](http://arxiv.org/abs/2308.03378)|null|
+|**2023-08-07**|**Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion**|Jiawei Li et.al.|[2308.03256](http://arxiv.org/abs/2308.03256)|**[link](https://github.com/lok-18/ignet)**|
+|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914](http://arxiv.org/abs/2308.02914)|null|
 |**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465](http://arxiv.org/abs/2308.02465)|null|
 |**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682](http://arxiv.org/abs/2308.01682)|**[link](https://github.com/cborile/eval_lp_xai)**|
 |**2023-08-03**|**Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602](http://arxiv.org/abs/2308.01602)|null|
@@ -805,6 +818,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Superconvergence analysis of interior penalty discontinuous Galerkin method for a class of time-fractional diffusion problems**|Sandip Maji et.al.|[2308.03715](http://arxiv.org/abs/2308.03715)|null|
+|**2023-08-07**|**Linear Convergence Bounds for Diffusion Models via Stochastic Localization**|Joe Benton et.al.|[2308.03686](http://arxiv.org/abs/2308.03686)|null|
+|**2023-08-07**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669](http://arxiv.org/abs/2308.03669)|**[link](https://github.com/tatsu432/BDCM)**|
+|**2023-08-07**|**Time correlations in KPZ models with diffusive initial conditions**|Riddhipratim Basu et.al.|[2308.03473](http://arxiv.org/abs/2308.03473)|null|
+|**2023-08-07**|**Diffusion dynamics of overdamped active ellipsoidal particle in two dimensions**|Sudipta Mandal et.al.|[2308.03451](http://arxiv.org/abs/2308.03451)|null|
+|**2023-08-07**|**Numerical Reconstruction of Diffusion and Potential Coefficients from Two Observations: Decoupled Recovery and Error Estimates**|Siyu Cen et.al.|[2308.03433](http://arxiv.org/abs/2308.03433)|null|
+|**2023-08-07**|**Energy-Guided Diffusion Model for CBCT-to-CT Synthesis**|Linjie Fu et.al.|[2308.03354](http://arxiv.org/abs/2308.03354)|null|
+|**2023-08-07**|**Implicit Graph Neural Diffusion Based on Constrained Dirichlet Energy Minimization**|Guoji Fu et.al.|[2308.03306](http://arxiv.org/abs/2308.03306)|null|
+|**2023-08-06**|**Photorealistic and Identity-Preserving Image-Based Emotion Manipulation with Latent Diffusion Models**|Ioannis Pikoulis et.al.|[2308.03183](http://arxiv.org/abs/2308.03183)|null|
+|**2023-08-06**|**Achievable Information Rate Analysis in Diffusive Channels with Memory and Markov Source**|Fardad Vakilipoor et.al.|[2308.03042](http://arxiv.org/abs/2308.03042)|null|
 |**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283](http://arxiv.org/abs/2308.02283)|null|
 |**2023-08-04**|**Maximum-norm a posteriori error bounds for an extrapolated upwind scheme applied to a singularly perturbed convection-diffusion problem**|Torsten Linß et.al.|[2308.02264](http://arxiv.org/abs/2308.02264)|null|
 |**2023-08-04**|**Painterly Image Harmonization using Diffusion Model**|Lingxiao Lu et.al.|[2308.02228](http://arxiv.org/abs/2308.02228)|**[link](https://github.com/bcmi/phdiffusion-painterly-image-harmonization)**|
