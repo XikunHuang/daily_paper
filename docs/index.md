@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423](http://arxiv.org/abs/2308.04423)|null|
+|**2023-08-08**|**Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning**|Xiaoyu Chen et.al.|[2308.04244](http://arxiv.org/abs/2308.04244)|null|
+|**2023-08-08**|**Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning**|Jiahang Zhang et.al.|[2308.03975](http://arxiv.org/abs/2308.03975)|null|
 |**2023-08-07**|**Half-valley Ohmic Contact and Contact-Limited Valley-Contrasting Current Injection**|Xukun Feng et.al.|[2308.03700](http://arxiv.org/abs/2308.03700)|null|
 |**2023-08-07**|**The mass density contrast in perturbed Friedman-Lemaitre-Robertson-Walker cosmologies**|Edward Malec et.al.|[2308.03468](http://arxiv.org/abs/2308.03468)|null|
 |**2023-08-07**|**Hierarchical Contrastive Learning with Multiple Augmentation for Sequential Recommendation**|Dongjun Lee et.al.|[2308.03400](http://arxiv.org/abs/2308.03400)|null|
@@ -818,6 +821,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
+|**2023-08-08**|**MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction**|Xiaowen Wang et.al.|[2308.04266](http://arxiv.org/abs/2308.04266)|null|
+|**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249](http://arxiv.org/abs/2308.04249)|**[link](https://github.com/reedonepeck/minddiffuser)**|
+|**2023-08-08**|**Target Speech Extraction with Conditional Diffusion Model**|Naoyuki Kamo et.al.|[2308.03987](http://arxiv.org/abs/2308.03987)|null|
+|**2023-08-08**|**Diffusive limit of Boltzmann Equation in exterior Domain**|Junhwa Jung et.al.|[2308.03984](http://arxiv.org/abs/2308.03984)|null|
+|**2023-08-07**|**CaloScore v2: Single-shot Calorimeter Shower Simulation with Diffusion Models**|Vinicius Mikuni et.al.|[2308.03847](http://arxiv.org/abs/2308.03847)|null|
 |**2023-08-07**|**Superconvergence analysis of interior penalty discontinuous Galerkin method for a class of time-fractional diffusion problems**|Sandip Maji et.al.|[2308.03715](http://arxiv.org/abs/2308.03715)|null|
 |**2023-08-07**|**Linear Convergence Bounds for Diffusion Models via Stochastic Localization**|Joe Benton et.al.|[2308.03686](http://arxiv.org/abs/2308.03686)|null|
 |**2023-08-07**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669](http://arxiv.org/abs/2308.03669)|**[link](https://github.com/tatsu432/BDCM)**|
