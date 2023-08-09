@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -821,8 +821,8 @@ layout: default
 |**2023-08-07**|**Superconvergence analysis of interior penalty discontinuous Galerkin method for a class of time-fractional diffusion problems**|Sandip Maji et.al.|[2308.03715](http://arxiv.org/abs/2308.03715)|null|
 |**2023-08-07**|**Linear Convergence Bounds for Diffusion Models via Stochastic Localization**|Joe Benton et.al.|[2308.03686](http://arxiv.org/abs/2308.03686)|null|
 |**2023-08-07**|**Diffusion Model in Causal Inference with Unmeasured Confounders**|Tatsuhiro Shimizu et.al.|[2308.03669](http://arxiv.org/abs/2308.03669)|**[link](https://github.com/tatsu432/BDCM)**|
-|**2023-08-07**|**Time correlations in KPZ models with diffusive initial conditions**|Riddhipratim Basu et.al.|[2308.03473](http://arxiv.org/abs/2308.03473)|null|
-|**2023-08-07**|**Diffusion dynamics of overdamped active ellipsoidal particle in two dimensions**|Sudipta Mandal et.al.|[2308.03451](http://arxiv.org/abs/2308.03451)|null|
+|**2023-08-08**|**Time correlations in KPZ models with diffusive initial conditions**|Riddhipratim Basu et.al.|[2308.03473](http://arxiv.org/abs/2308.03473)|null|
+|**2023-08-08**|**Diffusion dynamics of overdamped active ellipsoidal particle in two dimensions**|Sudipta Mandal et.al.|[2308.03451](http://arxiv.org/abs/2308.03451)|null|
 |**2023-08-07**|**Numerical Reconstruction of Diffusion and Potential Coefficients from Two Observations: Decoupled Recovery and Error Estimates**|Siyu Cen et.al.|[2308.03433](http://arxiv.org/abs/2308.03433)|null|
 |**2023-08-07**|**Energy-Guided Diffusion Model for CBCT-to-CT Synthesis**|Linjie Fu et.al.|[2308.03354](http://arxiv.org/abs/2308.03354)|null|
 |**2023-08-07**|**Implicit Graph Neural Diffusion Based on Constrained Dirichlet Energy Minimization**|Guoji Fu et.al.|[2308.03306](http://arxiv.org/abs/2308.03306)|null|
