@@ -1,4 +1,4 @@
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423](http://arxiv.org/abs/2308.04423)|null|
 |**2023-08-08**|**Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning**|Xiaoyu Chen et.al.|[2308.04244](http://arxiv.org/abs/2308.04244)|null|
 |**2023-08-08**|**Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning**|Jiahang Zhang et.al.|[2308.03975](http://arxiv.org/abs/2308.03975)|null|
-|**2023-08-07**|**Half-valley Ohmic Contact and Contact-Limited Valley-Contrasting Current Injection**|Xukun Feng et.al.|[2308.03700](http://arxiv.org/abs/2308.03700)|null|
+|**2023-08-09**|**Half-Valley Ohmic Contact and Contact-Limited Valley-Contrasting Current Injection**|Xukun Feng et.al.|[2308.03700](http://arxiv.org/abs/2308.03700)|null|
 |**2023-08-07**|**The mass density contrast in perturbed Friedman-Lemaitre-Robertson-Walker cosmologies**|Edward Malec et.al.|[2308.03468](http://arxiv.org/abs/2308.03468)|null|
 |**2023-08-07**|**Hierarchical Contrastive Learning with Multiple Augmentation for Sequential Recommendation**|Dongjun Lee et.al.|[2308.03400](http://arxiv.org/abs/2308.03400)|null|
 |**2023-08-07**|**A Hybrid CNN-Transformer Architecture with Frequency Domain Contrastive Learning for Image Deraining**|Cheng Wang et.al.|[2308.03340](http://arxiv.org/abs/2308.03340)|null|
@@ -539,7 +539,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
 
 ## GNN
 
@@ -547,7 +547,7 @@
 |---|---|---|---|---|
 |**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378](http://arxiv.org/abs/2308.03378)|null|
 |**2023-08-07**|**Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion**|Jiawei Li et.al.|[2308.03256](http://arxiv.org/abs/2308.03256)|**[link](https://github.com/lok-18/ignet)**|
-|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914](http://arxiv.org/abs/2308.02914)|null|
+|**2023-08-09**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914](http://arxiv.org/abs/2308.02914)|null|
 |**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465](http://arxiv.org/abs/2308.02465)|null|
 |**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682](http://arxiv.org/abs/2308.01682)|**[link](https://github.com/cborile/eval_lp_xai)**|
 |**2023-08-03**|**Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602](http://arxiv.org/abs/2308.01602)|null|
@@ -824,7 +824,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1423,5 +1423,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
 

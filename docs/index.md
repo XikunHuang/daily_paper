@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.09
+## Updated on 2023.08.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -12,7 +12,7 @@ layout: default
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423](http://arxiv.org/abs/2308.04423)|null|
 |**2023-08-08**|**Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning**|Xiaoyu Chen et.al.|[2308.04244](http://arxiv.org/abs/2308.04244)|null|
 |**2023-08-08**|**Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning**|Jiahang Zhang et.al.|[2308.03975](http://arxiv.org/abs/2308.03975)|null|
-|**2023-08-07**|**Half-valley Ohmic Contact and Contact-Limited Valley-Contrasting Current Injection**|Xukun Feng et.al.|[2308.03700](http://arxiv.org/abs/2308.03700)|null|
+|**2023-08-09**|**Half-Valley Ohmic Contact and Contact-Limited Valley-Contrasting Current Injection**|Xukun Feng et.al.|[2308.03700](http://arxiv.org/abs/2308.03700)|null|
 |**2023-08-07**|**The mass density contrast in perturbed Friedman-Lemaitre-Robertson-Walker cosmologies**|Edward Malec et.al.|[2308.03468](http://arxiv.org/abs/2308.03468)|null|
 |**2023-08-07**|**Hierarchical Contrastive Learning with Multiple Augmentation for Sequential Recommendation**|Dongjun Lee et.al.|[2308.03400](http://arxiv.org/abs/2308.03400)|null|
 |**2023-08-07**|**A Hybrid CNN-Transformer Architecture with Frequency Domain Contrastive Learning for Image Deraining**|Cheng Wang et.al.|[2308.03340](http://arxiv.org/abs/2308.03340)|null|
@@ -540,7 +540,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378](http://arxiv.org/abs/2308.03378)|null|
 |**2023-08-07**|**Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion**|Jiawei Li et.al.|[2308.03256](http://arxiv.org/abs/2308.03256)|**[link](https://github.com/lok-18/ignet)**|
-|**2023-08-05**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914](http://arxiv.org/abs/2308.02914)|null|
+|**2023-08-09**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914](http://arxiv.org/abs/2308.02914)|null|
 |**2023-08-04**|**BlindSage: Label Inference Attacks against Node-level Vertical Federated Graph Neural Networks**|Marco Arazzi et.al.|[2308.02465](http://arxiv.org/abs/2308.02465)|null|
 |**2023-08-03**|**Evaluating Link Prediction Explanations for Graph Neural Networks**|Claudio Borile et.al.|[2308.01682](http://arxiv.org/abs/2308.01682)|**[link](https://github.com/cborile/eval_lp_xai)**|
 |**2023-08-03**|**Deep Learning-based surrogate models for parametrized PDEs: handling geometric variability through graph neural networks**|Nicola Rares Franco et.al.|[2308.01602](http://arxiv.org/abs/2308.01602)|null|
