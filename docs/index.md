@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Slot Induction via Pre-trained Language Model Probing and Multi-level Contrastive Learning**|Hoang H. Nguyen et.al.|[2308.04712](http://arxiv.org/abs/2308.04712)|null|
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423](http://arxiv.org/abs/2308.04423)|null|
 |**2023-08-08**|**Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning**|Xiaoyu Chen et.al.|[2308.04244](http://arxiv.org/abs/2308.04244)|null|
 |**2023-08-08**|**Prompted Contrast with Masked Motion Modeling: Towards Versatile 3D Action Representation Learning**|Jiahang Zhang et.al.|[2308.03975](http://arxiv.org/abs/2308.03975)|null|
@@ -538,6 +539,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Differentially Private Graph Neural Network with Importance-Grained Noise Adaption**|Yuxin Qi et.al.|[2308.04943](http://arxiv.org/abs/2308.04943)|null|
 |**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378](http://arxiv.org/abs/2308.03378)|null|
 |**2023-08-07**|**Learning a Graph Neural Network with Cross Modality Interaction for Image Fusion**|Jiawei Li et.al.|[2308.03256](http://arxiv.org/abs/2308.03256)|**[link](https://github.com/lok-18/ignet)**|
 |**2023-08-09**|**Anomaly Detection in Global Financial Markets with Graph Neural Networks and Nonextensive Entropy**|Kleyton da Costa et.al.|[2308.02914](http://arxiv.org/abs/2308.02914)|null|
@@ -821,6 +823,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Improved Multi-Shot Diffusion-Weighted MRI with Zero-Shot Self-Supervised Learning Reconstruction**|Jaejin Cho et.al.|[2308.05103](http://arxiv.org/abs/2308.05103)|null|
+|**2023-08-09**|**Do Diffusion Models Suffer Error Propagation? Theoretical Analysis and Consistency Regularization**|Yangming Li et.al.|[2308.05021](http://arxiv.org/abs/2308.05021)|null|
+|**2023-08-09**|**IDiff-Face: Synthetic-based Face Recognition through Fizzy Identity-Conditioned Diffusion Models**|Fadi Boutros et.al.|[2308.04995](http://arxiv.org/abs/2308.04995)|null|
+|**2023-08-09**|**On a diffusion equation with rupture**|Yoshikazu Giga et.al.|[2308.04754](http://arxiv.org/abs/2308.04754)|null|
+|**2023-08-09**|**Going Deeper with Five-point Stencil Convolutions for Reaction-Diffusion Equations**|Yongho Kim et.al.|[2308.04735](http://arxiv.org/abs/2308.04735)|null|
+|**2023-08-09**|**JEN-1: Text-Guided Universal Music Generation with Omnidirectional Diffusion Models**|Peike Li et.al.|[2308.04729](http://arxiv.org/abs/2308.04729)|null|
+|**2023-08-09**|**Controlled Ion Transport in the Subsurface: A Coupled Advection-Diffusion-Electromigration System**|Kunning Tang et.al.|[2308.04668](http://arxiv.org/abs/2308.04668)|null|
+|**2023-08-08**|**Instabilities of explicit finite difference schemes with ghost points on the diffusion equation**|Fabien Le Floc'h et.al.|[2308.04629](http://arxiv.org/abs/2308.04629)|null|
+|**2023-08-08**|**Semi-Supervised Semantic Segmentation of Cell Nuclei via Diffusion-based Large-Scale Pre-Training and Collaborative Learning**|Zhuchen Shao et.al.|[2308.04578](http://arxiv.org/abs/2308.04578)|null|
+|**2023-08-08**|**Coupling the Navier-Stokes-Fourier equations with the Johnson-Segalman stress-diffusive viscoelastic model: Global-in-time and large-data analysis**|Michal Bathory et.al.|[2308.04570](http://arxiv.org/abs/2308.04570)|null|
 |**2023-08-08**|**DiffCR: A Fast Conditional Diffusion Framework for Cloud Removal from Optical Satellite Images**|Xuechao Zou et.al.|[2308.04417](http://arxiv.org/abs/2308.04417)|null|
 |**2023-08-08**|**MCDAN: a Multi-scale Context-enhanced Dynamic Attention Network for Diffusion Prediction**|Xiaowen Wang et.al.|[2308.04266](http://arxiv.org/abs/2308.04266)|null|
 |**2023-08-08**|**MindDiffuser: Controlled Image Reconstruction from Human Brain Activity with Semantic and Structural Diffusion**|Yizhuo Lu et.al.|[2308.04249](http://arxiv.org/abs/2308.04249)|**[link](https://github.com/reedonepeck/minddiffuser)**|
