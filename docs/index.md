@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Contrastive Explanations of Multi-agent Optimization Solutions**|Parisa Zehtabi et.al.|[2308.05984](http://arxiv.org/abs/2308.05984)|null|
 |**2023-08-09**|**Slot Induction via Pre-trained Language Model Probing and Multi-level Contrastive Learning**|Hoang H. Nguyen et.al.|[2308.04712](http://arxiv.org/abs/2308.04712)|null|
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423](http://arxiv.org/abs/2308.04423)|null|
 |**2023-08-08**|**Auditory Attention Decoding with Task-Related Multi-View Contrastive Learning**|Xiaoyu Chen et.al.|[2308.04244](http://arxiv.org/abs/2308.04244)|null|
@@ -824,6 +825,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
+|**2023-08-11**|**Non-equilibrium phase transitions in active rank diffusions**|Léo Touzo et.al.|[2308.06118](http://arxiv.org/abs/2308.06118)|null|
+|**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|null|
+|**2023-08-11**|**Diffusion-based Visual Counterfactual Explanations -- Towards Systematic Quantitative Evaluation**|Philipp Vaeth et.al.|[2308.06100](http://arxiv.org/abs/2308.06100)|**[link](https://github.com/cairo-thws/dbvce_eval)**|
+|**2023-08-11**|**Head Rotation in Denoising Diffusion Models**|Andrea Asperti et.al.|[2308.06057](http://arxiv.org/abs/2308.06057)|**[link](https://github.com/asperti/head-rotation)**|
+|**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038](http://arxiv.org/abs/2308.06038)|null|
+|**2023-08-11**|**Masked-Attention Diffusion Guidance for Spatially Controlling Text-to-Image Generation**|Yuki Endo et.al.|[2308.06027](http://arxiv.org/abs/2308.06027)|null|
 |**2023-08-10**|**Masked Diffusion as Self-supervised Representation Learner**|Zixuan Pan et.al.|[2308.05695](http://arxiv.org/abs/2308.05695)|null|
 |**2023-08-10**|**Escape by jumps and diffusion by α-stable noise across the barrier in a double well potential**|Ignacio del Amo et.al.|[2308.05684](http://arxiv.org/abs/2308.05684)|null|
 |**2023-08-10**|**Generative Diffusion Models for Radio Wireless Channel Modelling and Sampling**|Ushnish Sengupta et.al.|[2308.05583](http://arxiv.org/abs/2308.05583)|null|
