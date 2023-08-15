@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation**|Hongguang Zhu et.al.|[2308.07146](http://arxiv.org/abs/2308.07146)|**[link](https://github.com/kevinlight831/ctp)**|
+|**2023-08-14**|**ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation**|Chaohui Yu et.al.|[2308.07078](http://arxiv.org/abs/2308.07078)|null|
+|**2023-08-14**|**AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning**|Ziqi Zhou et.al.|[2308.07026](http://arxiv.org/abs/2308.07026)|**[link](https://github.com/cgcl-codes/advclip)**|
+|**2023-08-14**|**Contrastive Bi-Projector for Unsupervised Domain Adaption**|Lin-Chieh Huang et.al.|[2308.07017](http://arxiv.org/abs/2308.07017)|**[link](https://github.com/tom99763/Contrastive-Bi-Projector-for-Unsupervised-Domain-Adaption)**|
+|**2023-08-14**|**pNNCLR: Stochastic Pseudo Neighborhoods for Contrastive Learning based Unsupervised Representation Learning Problems**|Momojit Biswas et.al.|[2308.06983](http://arxiv.org/abs/2308.06983)|null|
+|**2023-08-14**|**Channel-Wise Contrastive Learning for Learning with Noisy Labels**|Hui Kang et.al.|[2308.06952](http://arxiv.org/abs/2308.06952)|null|
+|**2023-08-13**|**Manifold DivideMix: A Semi-Supervised Contrastive Learning Framework for Severe Label Noise**|Fahimeh Fooladgar et.al.|[2308.06861](http://arxiv.org/abs/2308.06861)|**[link](https://github.com/fahim-f/manifolddividemix)**|
+|**2023-08-13**|**MACO: A Modality Adversarial and Contrastive Framework for Modality-missing Multi-modal Knowledge Graph Completion**|Yichi Zhang et.al.|[2308.06696](http://arxiv.org/abs/2308.06696)|null|
+|**2023-08-12**|**Contrastive Learning for Cross-modal Artist Retrieval**|Andres Ferraro et.al.|[2308.06556](http://arxiv.org/abs/2308.06556)|null|
+|**2023-08-12**|**Dealing with Small Annotated Datasets for Deep Learning in Medical Imaging: An Evaluation of Self-Supervised Pre-Training on CT Scans Comparing Contrastive and Masked Autoencoder Methods for Convolutional Models**|Daniel Wolf et.al.|[2308.06534](http://arxiv.org/abs/2308.06534)|**[link](https://github.com/wolfda95/ssl-medicalimagining-cl-mae)**|
 |**2023-08-11**|**Contrastive Explanations of Multi-agent Optimization Solutions**|Parisa Zehtabi et.al.|[2308.05984](http://arxiv.org/abs/2308.05984)|null|
 |**2023-08-09**|**Slot Induction via Pre-trained Language Model Probing and Multi-level Contrastive Learning**|Hoang H. Nguyen et.al.|[2308.04712](http://arxiv.org/abs/2308.04712)|null|
 |**2023-08-08**|**Density-contrast induced inertial forces on particles in oscillatory flows**|Siddhansh Agarwal et.al.|[2308.04423](http://arxiv.org/abs/2308.04423)|null|
@@ -547,6 +557,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks**|Zhili Wang et.al.|[2308.06960](http://arxiv.org/abs/2308.06960)|null|
+|**2023-08-13**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838](http://arxiv.org/abs/2308.06838)|null|
 |**2023-08-10**|**DegUIL: Degree-aware Graph Neural Networks for Long-tailed User Identity Linkage**|Meixiu Long et.al.|[2308.05322](http://arxiv.org/abs/2308.05322)|**[link](https://github.com/longmeix/deguil)**|
 |**2023-08-09**|**Differentially Private Graph Neural Network with Importance-Grained Noise Adaption**|Yuxin Qi et.al.|[2308.04943](http://arxiv.org/abs/2308.04943)|null|
 |**2023-08-07**|**Friedrichs' systems discretized with the Discontinuous Galerkin method: domain decomposable model order reduction and Graph Neural Networks approximating vanishing viscosity solutions**|Francesco Romor et.al.|[2308.03378](http://arxiv.org/abs/2308.03378)|null|
@@ -834,6 +846,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293](http://arxiv.org/abs/2308.07293)|null|
+|**2023-08-14**|**Heavy quark diffusion coefficient during hydrodynamization -- non-equilibrium vs. equilibrium**|Kirill Boguslavski et.al.|[2308.07169](http://arxiv.org/abs/2308.07169)|null|
+|**2023-08-14**|**Lightcurve and spectral modelling of the Type IIb SN 2020acat. Evidence for a strong Ni bubble effect on the diffusion time**|Mattias Ergon et.al.|[2308.07158](http://arxiv.org/abs/2308.07158)|null|
+|**2023-08-14**|**Diffusion Based Augmentation for Captioning and Retrieval in Cultural Heritage**|Dario Cioni et.al.|[2308.07151](http://arxiv.org/abs/2308.07151)|null|
+|**2023-08-14**|**Temporal clustering of social interactions trades-off disease spreading and knowledge diffusion**|Giulia Cencetti et.al.|[2308.07058](http://arxiv.org/abs/2308.07058)|null|
+|**2023-08-14**|**Discrete Conditional Diffusion for Reranking in Recommendation**|Xiao Lin et.al.|[2308.06982](http://arxiv.org/abs/2308.06982)|null|
+|**2023-08-13**|**Well-posedness of a reaction-diffusion model with stochastic dynamical boundary conditions**|Mario Maurelli et.al.|[2308.06847](http://arxiv.org/abs/2308.06847)|null|
+|**2023-08-13**|**Shape-guided Conditional Latent Diffusion Models for Synthesising Brain Vasculature**|Yash Deo et.al.|[2308.06781](http://arxiv.org/abs/2308.06781)|null|
+|**2023-08-13**|**Existence and uniqueness of obliquely reflecting Brownian motion in nonpolyhedral, piecewise smooth cones, with an example of application to diffusion approximation of bandwidth sharing queues**|Cristina Costantini et.al.|[2308.06745](http://arxiv.org/abs/2308.06745)|null|
+|**2023-08-13**|**TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution**|Baolin Liu et.al.|[2308.06743](http://arxiv.org/abs/2308.06743)|**[link](https://github.com/lenubolim/textdiff)**|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160](http://arxiv.org/abs/2308.06160)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-11**|**Non-equilibrium phase transitions in active rank diffusions**|Léo Touzo et.al.|[2308.06118](http://arxiv.org/abs/2308.06118)|null|
 |**2023-08-11**|**Taming the Power of Diffusion Models for High-Quality Virtual Try-On with Appearance Flow**|Junhong Gou et.al.|[2308.06101](http://arxiv.org/abs/2308.06101)|**[link](https://github.com/bcmi/DCI-VTON-Virtual-Try-On)**|
