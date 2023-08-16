@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Steering Language Generation: Harnessing Contrastive Expert Guidance and Negative Prompting for Coherent and Diverse Synthetic Data Generation**|Charles O'Neill et.al.|[2308.07645](http://arxiv.org/abs/2308.07645)|null|
+|**2023-08-15**|**AutoLTS: Automating Cycling Stress Assessment via Contrastive Learning and Spatial Post-processing**|Bo Lin et.al.|[2308.07580](http://arxiv.org/abs/2308.07580)|null|
 |**2023-08-14**|**CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation**|Hongguang Zhu et.al.|[2308.07146](http://arxiv.org/abs/2308.07146)|**[link](https://github.com/kevinlight831/ctp)**|
 |**2023-08-14**|**ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation**|Chaohui Yu et.al.|[2308.07078](http://arxiv.org/abs/2308.07078)|null|
 |**2023-08-14**|**AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning**|Ziqi Zhou et.al.|[2308.07026](http://arxiv.org/abs/2308.07026)|**[link](https://github.com/cgcl-codes/advclip)**|
@@ -550,6 +552,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439](http://arxiv.org/abs/2308.07439)|null|
+|**2023-08-14**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural Networks**|Amin Heyrani Nobari et.al.|[2308.07358](http://arxiv.org/abs/2308.07358)|**[link](https://github.com/ahnobari/autosurf)**|
 |**2023-08-14**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks**|Zhili Wang et.al.|[2308.06960](http://arxiv.org/abs/2308.06960)|null|
 |**2023-08-13**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838](http://arxiv.org/abs/2308.06838)|null|
 |**2023-08-10**|**DegUIL: Degree-aware Graph Neural Networks for Long-tailed User Identity Linkage**|Meixiu Long et.al.|[2308.05322](http://arxiv.org/abs/2308.05322)|**[link](https://github.com/longmeix/deguil)**|
@@ -837,6 +841,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863](http://arxiv.org/abs/2308.07863)|null|
+|**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
+|**2023-08-15**|**Explainable Machine Learning for Hydrogen Diffusion in Metals and Random Binary Alloys**|Grace M. Lu et.al.|[2308.07823](http://arxiv.org/abs/2308.07823)|null|
+|**2023-08-15**|**DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding**|Jeongsoo Choi et.al.|[2308.07787](http://arxiv.org/abs/2308.07787)|**[link](https://github.com/joannahong/diffv2s)**|
+|**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
+|**2023-08-15**|**Low Mach number limit for non-isentropic magnetohydrodynamic equations with ill-prepared data and zero magnetic diffusivity in bounded domains**|Yaobin Ou et.al.|[2308.07745](http://arxiv.org/abs/2308.07745)|null|
+|**2023-08-15**|**DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models**|Ruiyuan Gao et.al.|[2308.07687](http://arxiv.org/abs/2308.07687)|**[link](https://github.com/cure-lab/diffguard)**|
+|**2023-08-15**|**Exponentially-fitted finite elements for $H({\rm curl})$ and $H({\rm div})$ convection-diffusion problems**|Jindong Wang et.al.|[2308.07680](http://arxiv.org/abs/2308.07680)|null|
+|**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676](http://arxiv.org/abs/2308.07676)|null|
 |**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293](http://arxiv.org/abs/2308.07293)|null|
 |**2023-08-14**|**Heavy quark diffusion coefficient during hydrodynamization -- non-equilibrium vs. equilibrium**|Kirill Boguslavski et.al.|[2308.07169](http://arxiv.org/abs/2308.07169)|null|
 |**2023-08-14**|**Lightcurve and spectral modelling of the Type IIb SN 2020acat. Evidence for a strong Ni bubble effect on the diffusion time**|Mattias Ergon et.al.|[2308.07158](http://arxiv.org/abs/2308.07158)|null|
