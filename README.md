@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**DeepContrast: Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions**|Nuno Pimpão Martins et.al.|[2308.08365](http://arxiv.org/abs/2308.08365)|null|
+|**2023-08-16**|**RMST-based multiple contrast tests in general factorial designs**|Merle Munko et.al.|[2308.08346](http://arxiv.org/abs/2308.08346)|null|
+|**2023-08-16**|**Boosting Commit Classification with Contrastive Learning**|Jiajun Tong et.al.|[2308.08263](http://arxiv.org/abs/2308.08263)|null|
+|**2023-08-16**|**Contrastive Learning for Lane Detection via cross-similarity**|Ali Zoljodi et.al.|[2308.08242](http://arxiv.org/abs/2308.08242)|null|
+|**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
 |**2023-08-15**|**Steering Language Generation: Harnessing Contrastive Expert Guidance and Negative Prompting for Coherent and Diverse Synthetic Data Generation**|Charles O'Neill et.al.|[2308.07645](http://arxiv.org/abs/2308.07645)|null|
 |**2023-08-15**|**AutoLTS: Automating Cycling Stress Assessment via Contrastive Learning and Spatial Post-processing**|Bo Lin et.al.|[2308.07580](http://arxiv.org/abs/2308.07580)|null|
 |**2023-08-14**|**CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation**|Hongguang Zhu et.al.|[2308.07146](http://arxiv.org/abs/2308.07146)|**[link](https://github.com/kevinlight831/ctp)**|
@@ -559,6 +564,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**The Expressive Power of Graph Neural Networks: A Survey**|Bingxu Zhang et.al.|[2308.08235](http://arxiv.org/abs/2308.08235)|null|
+|**2023-08-16**|**Accelerating Generic Graph Neural Networks via Architecture, Compiler, Partition Method Co-Design**|Shuwen Lu et.al.|[2308.08174](http://arxiv.org/abs/2308.08174)|null|
+|**2023-08-16**|**Expressivity of Graph Neural Networks Through the Lens of Adversarial Robustness**|Francesco Campi et.al.|[2308.08173](http://arxiv.org/abs/2308.08173)|**[link](https://github.com/francesco-campi/rob-subgraphs)**|
+|**2023-08-16**|**S-Mixup: Structural Mixup for Graph Neural Networks**|Junghurn Kim et.al.|[2308.08097](http://arxiv.org/abs/2308.08097)|**[link](https://github.com/sukwonyun/s-mixup)**|
+|**2023-08-15**|**Decentralized Graph Neural Network for Privacy-Preserving Recommendation**|Xiaolin Zheng et.al.|[2308.08072](http://arxiv.org/abs/2308.08072)|null|
+|**2023-08-15**|**Freshness or Accuracy, Why Not Both? Addressing Delayed Feedback via Dynamic Graph Neural Networks**|Xiaolin Zheng et.al.|[2308.08071](http://arxiv.org/abs/2308.08071)|null|
 |**2023-08-16**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439](http://arxiv.org/abs/2308.07439)|null|
 |**2023-08-14**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural Networks**|Amin Heyrani Nobari et.al.|[2308.07358](http://arxiv.org/abs/2308.07358)|**[link](https://github.com/ahnobari/autosurf)**|
 |**2023-08-14**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks**|Zhili Wang et.al.|[2308.06960](http://arxiv.org/abs/2308.06960)|null|
@@ -850,6 +861,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-16**|**The Cauchy-Dirichlet Problem for the Fast Diffusion Equation on Bounded Domains**|Matteo Bonforte et.al.|[2308.08394](http://arxiv.org/abs/2308.08394)|null|
+|**2023-08-16**|**Availability, storage capacity, and diffusion: Stationary states of an asymmetric exclusion process connected to two reservoirs**|Sourav Pal et.al.|[2308.08384](http://arxiv.org/abs/2308.08384)|null|
+|**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
+|**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
+|**2023-08-16**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
+|**2023-08-16**|**Graph Gradient Diffusion**|Davide Sclosa et.al.|[2308.08311](http://arxiv.org/abs/2308.08311)|null|
+|**2023-08-16**|**Global solution and optimal control of an epidemic propagation with a heterogeneous diffusion**|Pierluigi Colli et.al.|[2308.08251](http://arxiv.org/abs/2308.08251)|null|
+|**2023-08-16**|**A Hybrid Wireless Image Transmission Scheme with Diffusion**|Xueyan Niu et.al.|[2308.08244](http://arxiv.org/abs/2308.08244)|null|
+|**2023-08-16**|**Neural Spherical Harmonics for structurally coherent continuous representation of diffusion MRI signal**|Tom Hendriks et.al.|[2308.08210](http://arxiv.org/abs/2308.08210)|null|
+|**2023-08-16**|**Slow diffusion around pulsar $γ$ -ray halos and its impact on cosmic rays propagation**|Xiao-Jun Bi et.al.|[2308.08099](http://arxiv.org/abs/2308.08099)|null|
 |**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863](http://arxiv.org/abs/2308.07863)|null|
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
