@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -552,7 +552,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-14**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439](http://arxiv.org/abs/2308.07439)|null|
+|**2023-08-16**|**Interaction-Aware Personalized Vehicle Trajectory Prediction Using Temporal Graph Neural Networks**|Amr Abdelraouf et.al.|[2308.07439](http://arxiv.org/abs/2308.07439)|null|
 |**2023-08-14**|**Conformal Predictions Enhanced Expert-guided Meshing with Graph Neural Networks**|Amin Heyrani Nobari et.al.|[2308.07358](http://arxiv.org/abs/2308.07358)|**[link](https://github.com/ahnobari/autosurf)**|
 |**2023-08-14**|**Search to Fine-tune Pre-trained Graph Neural Networks for Graph-level Tasks**|Zhili Wang et.al.|[2308.06960](http://arxiv.org/abs/2308.06960)|null|
 |**2023-08-13**|**Generalizing Topological Graph Neural Networks with Paths**|Quang Truong et.al.|[2308.06838](http://arxiv.org/abs/2308.06838)|null|
@@ -841,14 +841,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-15**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
+|**2023-08-16**|**SciRE-Solver: Efficient Sampling of Diffusion Probabilistic Models by Score-integrand Solver with Recursive Derivative Estimation**|Shigui Li et.al.|[2308.07896](http://arxiv.org/abs/2308.07896)|null|
 |**2023-08-15**|**StyleDiffusion: Controllable Disentangled Style Transfer via Diffusion Models**|Zhizhong Wang et.al.|[2308.07863](http://arxiv.org/abs/2308.07863)|null|
 |**2023-08-15**|**CCD-3DR: Consistent Conditioning in Diffusion for Single-Image 3D Reconstruction**|Yan Di et.al.|[2308.07837](http://arxiv.org/abs/2308.07837)|null|
 |**2023-08-15**|**Explainable Machine Learning for Hydrogen Diffusion in Metals and Random Binary Alloys**|Grace M. Lu et.al.|[2308.07823](http://arxiv.org/abs/2308.07823)|null|
 |**2023-08-15**|**DiffV2S: Diffusion-based Video-to-Speech Synthesis with Vision-guided Speaker Embedding**|Jeongsoo Choi et.al.|[2308.07787](http://arxiv.org/abs/2308.07787)|**[link](https://github.com/joannahong/diffv2s)**|
 |**2023-08-15**|**Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model**|Bosheng Qin et.al.|[2308.07749](http://arxiv.org/abs/2308.07749)|null|
 |**2023-08-15**|**Low Mach number limit for non-isentropic magnetohydrodynamic equations with ill-prepared data and zero magnetic diffusivity in bounded domains**|Yaobin Ou et.al.|[2308.07745](http://arxiv.org/abs/2308.07745)|null|
-|**2023-08-15**|**DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models**|Ruiyuan Gao et.al.|[2308.07687](http://arxiv.org/abs/2308.07687)|**[link](https://github.com/cure-lab/diffguard)**|
+|**2023-08-16**|**DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models**|Ruiyuan Gao et.al.|[2308.07687](http://arxiv.org/abs/2308.07687)|**[link](https://github.com/cure-lab/diffguard)**|
 |**2023-08-15**|**Exponentially-fitted finite elements for $H({\rm curl})$ and $H({\rm div})$ convection-diffusion problems**|Jindong Wang et.al.|[2308.07680](http://arxiv.org/abs/2308.07680)|null|
 |**2023-08-15**|**Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion**|Cheryl Lee et.al.|[2308.07676](http://arxiv.org/abs/2308.07676)|null|
 |**2023-08-14**|**DiffSED: Sound Event Detection with Denoising Diffusion**|Swapnil Bhosale et.al.|[2308.07293](http://arxiv.org/abs/2308.07293)|null|
