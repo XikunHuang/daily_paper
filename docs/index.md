@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -14,7 +14,7 @@ layout: default
 |**2023-08-16**|**Boosting Commit Classification with Contrastive Learning**|Jiajun Tong et.al.|[2308.08263](http://arxiv.org/abs/2308.08263)|null|
 |**2023-08-16**|**Contrastive Learning for Lane Detection via cross-similarity**|Ali Zoljodi et.al.|[2308.08242](http://arxiv.org/abs/2308.08242)|null|
 |**2023-08-16**|**MoCoSA: Momentum Contrast for Knowledge Graph Completion with Structure-Augmented Pre-trained Language Models**|Jiabang He et.al.|[2308.08204](http://arxiv.org/abs/2308.08204)|null|
-|**2023-08-15**|**Steering Language Generation: Harnessing Contrastive Expert Guidance and Negative Prompting for Coherent and Diverse Synthetic Data Generation**|Charles O'Neill et.al.|[2308.07645](http://arxiv.org/abs/2308.07645)|null|
+|**2023-08-17**|**Steering Language Generation: Harnessing Contrastive Expert Guidance and Negative Prompting for Coherent and Diverse Synthetic Data Generation**|Charles O'Neill et.al.|[2308.07645](http://arxiv.org/abs/2308.07645)|null|
 |**2023-08-15**|**AutoLTS: Automating Cycling Stress Assessment via Contrastive Learning and Spatial Post-processing**|Bo Lin et.al.|[2308.07580](http://arxiv.org/abs/2308.07580)|null|
 |**2023-08-14**|**CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation**|Hongguang Zhu et.al.|[2308.07146](http://arxiv.org/abs/2308.07146)|**[link](https://github.com/kevinlight831/ctp)**|
 |**2023-08-14**|**ICPC: Instance-Conditioned Prompting with Contrastive Learning for Semantic Segmentation**|Chaohui Yu et.al.|[2308.07078](http://arxiv.org/abs/2308.07078)|null|
@@ -856,7 +856,7 @@ layout: default
 |**2023-08-16**|**Availability, storage capacity, and diffusion: Stationary states of an asymmetric exclusion process connected to two reservoirs**|Sourav Pal et.al.|[2308.08384](http://arxiv.org/abs/2308.08384)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
 |**2023-08-16**|**Denoising Diffusion Probabilistic Model for Retinal Image Generation and Segmentation**|Alnur Alimanov et.al.|[2308.08339](http://arxiv.org/abs/2308.08339)|**[link](https://github.com/aaleka/retree)**|
-|**2023-08-16**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
+|**2023-08-18**|**Dual-Stream Diffusion Net for Text-to-Video Generation**|Binhui Liu et.al.|[2308.08316](http://arxiv.org/abs/2308.08316)|null|
 |**2023-08-16**|**Graph Gradient Diffusion**|Davide Sclosa et.al.|[2308.08311](http://arxiv.org/abs/2308.08311)|null|
 |**2023-08-16**|**Global solution and optimal control of an epidemic propagation with a heterogeneous diffusion**|Pierluigi Colli et.al.|[2308.08251](http://arxiv.org/abs/2308.08251)|null|
 |**2023-08-16**|**A Hybrid Wireless Image Transmission Scheme with Diffusion**|Xueyan Niu et.al.|[2308.08244](http://arxiv.org/abs/2308.08244)|null|
