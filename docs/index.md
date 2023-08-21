@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Decoupled conditional contrastive learning with variable metadata for prostate lesion detection**|Camille Ruppli et.al.|[2308.09542](http://arxiv.org/abs/2308.09542)|**[link](https://github.com/camilleruppli/decoupled_ccl)**|
+|**2023-08-18**|**Learnt Contrastive Concept Embeddings for Sign Recognition**|Ryan Wong et.al.|[2308.09515](http://arxiv.org/abs/2308.09515)|null|
+|**2023-08-18**|**Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering**|Haiwei Wu et.al.|[2308.09307](http://arxiv.org/abs/2308.09307)|**[link](https://github.com/highwaywu/focal)**|
+|**2023-08-18**|**CARLA: A Self-supervised Contrastive Representation Learning Approach for Time Series Anomaly Detection**|Zahra Zamanzadeh Darban et.al.|[2308.09296](http://arxiv.org/abs/2308.09296)|null|
+|**2023-08-18**|**Point Contrastive Prediction with Semantic Clustering for Self-Supervised Learning on Point Cloud Videos**|Xiaoxiao Sheng et.al.|[2308.09247](http://arxiv.org/abs/2308.09247)|null|
+|**2023-08-17**|**mCL-NER: Cross-Lingual Named Entity Recognition via Multi-view Contrastive Learning**|Ying Mo et.al.|[2308.09073](http://arxiv.org/abs/2308.09073)|null|
+|**2023-08-17**|**Contrasting Linguistic Patterns in Human and LLM-Generated Text**|Alberto Muñoz-Ortiz et.al.|[2308.09067](http://arxiv.org/abs/2308.09067)|null|
+|**2023-08-17**|**DealMVC: Dual Contrastive Calibration for Multi-view Clustering**|Xihong Yang et.al.|[2308.09000](http://arxiv.org/abs/2308.09000)|**[link](https://github.com/xihongyang1999/dealmvc)**|
+|**2023-08-17**|**CONVERT:Contrastive Graph Clustering with Reliable Augmentation**|Xihong Yang et.al.|[2308.08963](http://arxiv.org/abs/2308.08963)|**[link](https://github.com/xihongyang1999/convert)**|
+|**2023-08-17**|**A White-Box False Positive Adversarial Attack Method on Contrastive Loss-Based Offline Handwritten Signature Verification Models**|Zhongliang Guo et.al.|[2308.08925](http://arxiv.org/abs/2308.08925)|null|
 |**2023-08-16**|**DeepContrast: Deep Tissue Contrast Enhancement using Synthetic Data Degradations and OOD Model Predictions**|Nuno Pimpão Martins et.al.|[2308.08365](http://arxiv.org/abs/2308.08365)|null|
 |**2023-08-16**|**RMST-based multiple contrast tests in general factorial designs**|Merle Munko et.al.|[2308.08346](http://arxiv.org/abs/2308.08346)|null|
 |**2023-08-16**|**Boosting Commit Classification with Contrastive Learning**|Jiajun Tong et.al.|[2308.08263](http://arxiv.org/abs/2308.08263)|null|
@@ -557,6 +567,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**A Potts model approach to unsupervised graph clustering with Graph Neural Networks**|Co Tran et.al.|[2308.09644](http://arxiv.org/abs/2308.09644)|null|
+|**2023-08-18**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification**|Arpit Merchant et.al.|[2308.09596](http://arxiv.org/abs/2308.09596)|null|
+|**2023-08-17**|**Interpretable Graph Neural Networks for Tabular Data**|Amr Alkhatib et.al.|[2308.08945](http://arxiv.org/abs/2308.08945)|null|
+|**2023-08-17**|**Graph Neural Network Backend for Speaker Recognition**|Liang He et.al.|[2308.08767](http://arxiv.org/abs/2308.08767)|null|
 |**2023-08-16**|**The Expressive Power of Graph Neural Networks: A Survey**|Bingxu Zhang et.al.|[2308.08235](http://arxiv.org/abs/2308.08235)|null|
 |**2023-08-16**|**Accelerating Generic Graph Neural Networks via Architecture, Compiler, Partition Method Co-Design**|Shuwen Lu et.al.|[2308.08174](http://arxiv.org/abs/2308.08174)|null|
 |**2023-08-16**|**Expressivity of Graph Neural Networks Through the Lens of Adversarial Robustness**|Francesco Campi et.al.|[2308.08173](http://arxiv.org/abs/2308.08173)|**[link](https://github.com/francesco-campi/rob-subgraphs)**|
@@ -852,6 +866,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716](http://arxiv.org/abs/2308.09716)|**[link](https://github.com/soumik-kanad/diff2lip)**|
+|**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
+|**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
+|**2023-08-18**|**Language-Guided Diffusion Model for Visual Grounding**|Sijia Chen et.al.|[2308.09599](http://arxiv.org/abs/2308.09599)|null|
+|**2023-08-18**|**StableVideo: Text-driven Consistency-aware Diffusion Video Editing**|Wenhao Chai et.al.|[2308.09592](http://arxiv.org/abs/2308.09592)|**[link](https://github.com/rese1f/stablevideo)**|
+|**2023-08-18**|**O^2-Recon: Completing 3D Reconstruction of Occluded Objects in the Scene with a Pre-trained 2D Diffusion Model**|Yubin Hu et.al.|[2308.09591](http://arxiv.org/abs/2308.09591)|null|
+|**2023-08-18**|**Denoising Diffusion for 3D Hand Pose Estimation from Images**|Maksym Ivashechkin et.al.|[2308.09523](http://arxiv.org/abs/2308.09523)|null|
+|**2023-08-18**|**A low Diffusion HLL-CPS Scheme for all Mach number flows**|A. Gogoi et.al.|[2308.09439](http://arxiv.org/abs/2308.09439)|null|
+|**2023-08-18**|**Machine-Learning Solutions for the Analysis of Single-Particle Diffusion Trajectories**|Henrik Seckler et.al.|[2308.09414](http://arxiv.org/abs/2308.09414)|null|
+|**2023-08-18**|**Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey**|Xin Li et.al.|[2308.09388](http://arxiv.org/abs/2308.09388)|null|
 |**2023-08-16**|**The Cauchy-Dirichlet Problem for the Fast Diffusion Equation on Bounded Domains**|Matteo Bonforte et.al.|[2308.08394](http://arxiv.org/abs/2308.08394)|null|
 |**2023-08-16**|**Availability, storage capacity, and diffusion: Stationary states of an asymmetric exclusion process connected to two reservoirs**|Sourav Pal et.al.|[2308.08384](http://arxiv.org/abs/2308.08384)|null|
 |**2023-08-16**|**Diff-CAPTCHA: An Image-based CAPTCHA with Security Enhanced by Denoising Diffusion Model**|Ran Jiang et.al.|[2308.08367](http://arxiv.org/abs/2308.08367)|null|
