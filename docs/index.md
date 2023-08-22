@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**CoNe: Contrast Your Neighbours for Supervised Image Classification**|Mingkai Zheng et.al.|[2308.10761](http://arxiv.org/abs/2308.10761)|**[link](https://github.com/mingkai-zheng/cone)**|
+|**2023-08-21**|**Contrastive Graph Prompt-tuning for Cross-domain Recommendation**|Zixuan Yi et.al.|[2308.10685](http://arxiv.org/abs/2308.10685)|null|
+|**2023-08-21**|**Dual Purpose Lyot Coronagraph Masks for Simultaneous High-Contrast Imaging and High-Resolution Wavefront Sensing**|Garreth Ruane et.al.|[2308.10395](http://arxiv.org/abs/2308.10395)|null|
+|**2023-08-20**|**Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction**|Zeyu Han et.al.|[2308.10157](http://arxiv.org/abs/2308.10157)|**[link](https://github.com/show-han/pet-reconstruction)**|
+|**2023-08-20**|**Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection**|Guodong Wang et.al.|[2308.10155](http://arxiv.org/abs/2308.10155)|null|
+|**2023-08-19**|**Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views**|Asif Khan et.al.|[2308.10077](http://arxiv.org/abs/2308.10077)|null|
+|**2023-08-19**|**Robust Fraud Detection via Supervised Contrastive Learning**|Vinay M. S. et.al.|[2308.10055](http://arxiv.org/abs/2308.10055)|null|
+|**2023-08-19**|**Contrastive Learning-based Imputation-Prediction Networks for In-hospital Mortality Risk Modeling using EHRs**|Yuxi Liu et.al.|[2308.09896](http://arxiv.org/abs/2308.09896)|null|
+|**2023-08-19**|**Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method**|Yu-An Liu et.al.|[2308.09861](http://arxiv.org/abs/2308.09861)|null|
+|**2023-08-18**|**Taken by Surprise: Contrast effect for Similarity Scores**|homas C. Bachlechner et.al.|[2308.09765](http://arxiv.org/abs/2308.09765)|**[link](https://github.com/meetelise/surprise-similarity)**|
 |**2023-08-18**|**Decoupled conditional contrastive learning with variable metadata for prostate lesion detection**|Camille Ruppli et.al.|[2308.09542](http://arxiv.org/abs/2308.09542)|**[link](https://github.com/camilleruppli/decoupled_ccl)**|
 |**2023-08-18**|**Learnt Contrastive Concept Embeddings for Sign Recognition**|Ryan Wong et.al.|[2308.09515](http://arxiv.org/abs/2308.09515)|null|
 |**2023-08-18**|**Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering**|Haiwei Wu et.al.|[2308.09307](http://arxiv.org/abs/2308.09307)|**[link](https://github.com/highwaywu/focal)**|
@@ -567,6 +577,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-19**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099](http://arxiv.org/abs/2308.10099)|**[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)**|
+|**2023-08-19**|**Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**|Zhihao Wen et.al.|[2308.10028](http://arxiv.org/abs/2308.10028)|null|
+|**2023-08-19**|**Imputing Brain Measurements Across Data Sets via Graph Neural Networks**|Yixin Wang et.al.|[2308.09907](http://arxiv.org/abs/2308.09907)|null|
 |**2023-08-18**|**A Potts model approach to unsupervised graph clustering with Graph Neural Networks**|Co Tran et.al.|[2308.09644](http://arxiv.org/abs/2308.09644)|null|
 |**2023-08-18**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification**|Arpit Merchant et.al.|[2308.09596](http://arxiv.org/abs/2308.09596)|**[link](https://github.com/arpitdm/gnn_accuracy_fairness_tradeoff)**|
 |**2023-08-17**|**Interpretable Graph Neural Networks for Tabular Data**|Amr Alkhatib et.al.|[2308.08945](http://arxiv.org/abs/2308.08945)|null|
@@ -866,6 +879,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-21**|**Frequency Compensated Diffusion Model for Real-scene Dehazing**|Jing Wang et.al.|[2308.10510](http://arxiv.org/abs/2308.10510)|null|
+|**2023-08-21**|**Deep Learning of Delay-Compensated Backstepping for Reaction-Diffusion PDEs**|Shanshan Wang et.al.|[2308.10501](http://arxiv.org/abs/2308.10501)|null|
+|**2023-08-21**|**Texture Generation on 3D Meshes with Point-UV Diffusion**|Xin Yu et.al.|[2308.10490](http://arxiv.org/abs/2308.10490)|null|
+|**2023-08-21**|**Chaotic behavior in diffusively coupled systems**|Eddie Nijholt et.al.|[2308.10472](http://arxiv.org/abs/2308.10472)|null|
+|**2023-08-21**|**Degenerate Mean Field Games with Hörmander diffusion**|Yiming Jiang et.al.|[2308.10434](http://arxiv.org/abs/2308.10434)|null|
+|**2023-08-21**|**Multi-GradSpeech: Towards Diffusion-based Multi-Speaker Text-to-speech Using Consistent Diffusion Models**|Heyang Xue et.al.|[2308.10428](http://arxiv.org/abs/2308.10428)|null|
+|**2023-08-20**|**Existence and uniqueness of the singular self-similar solutions of the fast diffusion equation and logarithmic diffusion equation**|Kin Ming Hui et.al.|[2308.10221](http://arxiv.org/abs/2308.10221)|null|
+|**2023-08-20**|**Spiking-Diffusion: Vector Quantized Discrete Diffusion Model with Spiking Neural Networks**|Mingxuan Liu et.al.|[2308.10187](http://arxiv.org/abs/2308.10187)|**[link](https://github.com/Arktis2022/Spiking-Diffusion)**|
+|**2023-08-20**|**Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction**|Zeyu Han et.al.|[2308.10157](http://arxiv.org/abs/2308.10157)|**[link](https://github.com/show-han/pet-reconstruction)**|
+|**2023-08-20**|**SSMG: Spatial-Semantic Map Guided Diffusion Model for Free-form Layout-to-Image Generation**|Chengyou Jia et.al.|[2308.10156](http://arxiv.org/abs/2308.10156)|null|
 |**2023-08-18**|**Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**|Soumik Mukhopadhyay et.al.|[2308.09716](http://arxiv.org/abs/2308.09716)|**[link](https://github.com/soumik-kanad/diff2lip)**|
 |**2023-08-18**|**HumanLiff: Layer-wise 3D Human Generation with Diffusion Model**|Shoukang Hu et.al.|[2308.09712](http://arxiv.org/abs/2308.09712)|null|
 |**2023-08-18**|**SimDA: Simple Diffusion Adapter for Efficient Video Generation**|Zhen Xing et.al.|[2308.09710](http://arxiv.org/abs/2308.09710)|null|
