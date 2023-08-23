@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
+|**2023-08-22**|**Towards Discriminative Representations with Contrastive Instances for Real-Time UAV Tracking**|Dan Zeng et.al.|[2308.11450](http://arxiv.org/abs/2308.11450)|null|
+|**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448](http://arxiv.org/abs/2308.11448)|null|
+|**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331](http://arxiv.org/abs/2308.11331)|null|
+|**2023-08-22**|**Decoupled Contrastive Multi-view Clustering with High-order Random Walks**|Yiding Lu et.al.|[2308.11164](http://arxiv.org/abs/2308.11164)|null|
+|**2023-08-22**|**CAME: Contrastive Automated Model Evaluation**|Ru Peng et.al.|[2308.11111](http://arxiv.org/abs/2308.11111)|**[link](https://github.com/pengr/contrastive_autoeval)**|
+|**2023-08-21**|**SupEuclid: Extremely Simple, High Quality OoD Detection with Supervised Contrastive Learning and Euclidean Distance**|Jarrod Haas et.al.|[2308.10973](http://arxiv.org/abs/2308.10973)|null|
+|**2023-08-21**|**Polarization-dependent beam shifts upon metallic reflection in high-contrast imagers and telescopes**|R. G. van Holstein et.al.|[2308.10940](http://arxiv.org/abs/2308.10940)|null|
 |**2023-08-21**|**CoNe: Contrast Your Neighbours for Supervised Image Classification**|Mingkai Zheng et.al.|[2308.10761](http://arxiv.org/abs/2308.10761)|**[link](https://github.com/mingkai-zheng/cone)**|
 |**2023-08-21**|**Contrastive Graph Prompt-tuning for Cross-domain Recommendation**|Zixuan Yi et.al.|[2308.10685](http://arxiv.org/abs/2308.10685)|null|
 |**2023-08-21**|**Dual Purpose Lyot Coronagraph Masks for Simultaneous High-Contrast Imaging and High-Resolution Wavefront Sensing**|Garreth Ruane et.al.|[2308.10395](http://arxiv.org/abs/2308.10395)|null|
@@ -577,6 +585,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335](http://arxiv.org/abs/2308.11335)|null|
+|**2023-08-22**|**Predicting Transition Temperature of Superconductors with Graph Neural Networks**|Liang Gu et.al.|[2308.11160](http://arxiv.org/abs/2308.11160)|null|
+|**2023-08-22**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127](http://arxiv.org/abs/2308.11127)|**[link](https://github.com/hkuds/gte)**|
 |**2023-08-19**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099](http://arxiv.org/abs/2308.10099)|**[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)**|
 |**2023-08-19**|**Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**|Zhihao Wen et.al.|[2308.10028](http://arxiv.org/abs/2308.10028)|null|
 |**2023-08-19**|**Imputing Brain Measurements Across Data Sets via Graph Neural Networks**|Yixin Wang et.al.|[2308.09907](http://arxiv.org/abs/2308.09907)|null|
@@ -879,6 +890,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**The grapheme-valued Wright-Fisher diffusion with mutation**|Andreas Greven et.al.|[2308.11598](http://arxiv.org/abs/2308.11598)|null|
+|**2023-08-22**|**Ultra diffuse galaxies in the Hydra I cluster from the LEWIS Project: Phase-Space distribution and globular cluster richness**|Duncan Forbes et.al.|[2308.11496](http://arxiv.org/abs/2308.11496)|null|
+|**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493](http://arxiv.org/abs/2308.11493)|null|
+|**2023-08-22**|**MatFuse: Controllable Material Generation with Diffusion Models**|Giuseppe Vecchio et.al.|[2308.11408](http://arxiv.org/abs/2308.11408)|null|
+|**2023-08-22**|**DiffCloth: Diffusion Based Garment Synthesis and Manipulation via Structural Cross-modal Semantic Alignment**|Xujie Zhang et.al.|[2308.11206](http://arxiv.org/abs/2308.11206)|null|
+|**2023-08-22**|**Hey That's Mine Imperceptible Watermarks are Preserved in Diffusion Generated Outputs**|Luke Ditria et.al.|[2308.11123](http://arxiv.org/abs/2308.11123)|null|
 |**2023-08-21**|**Frequency Compensated Diffusion Model for Real-scene Dehazing**|Jing Wang et.al.|[2308.10510](http://arxiv.org/abs/2308.10510)|null|
 |**2023-08-21**|**Deep Learning of Delay-Compensated Backstepping for Reaction-Diffusion PDEs**|Shanshan Wang et.al.|[2308.10501](http://arxiv.org/abs/2308.10501)|null|
 |**2023-08-21**|**Texture Generation on 3D Meshes with Point-UV Diffusion**|Xin Yu et.al.|[2308.10490](http://arxiv.org/abs/2308.10490)|null|
