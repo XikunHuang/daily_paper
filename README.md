@@ -1,4 +1,4 @@
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,9 +21,9 @@
 |**2023-08-20**|**Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection**|Guodong Wang et.al.|[2308.10155](http://arxiv.org/abs/2308.10155)|null|
 |**2023-08-19**|**Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views**|Asif Khan et.al.|[2308.10077](http://arxiv.org/abs/2308.10077)|null|
 |**2023-08-19**|**Robust Fraud Detection via Supervised Contrastive Learning**|Vinay M. S. et.al.|[2308.10055](http://arxiv.org/abs/2308.10055)|null|
-|**2023-08-19**|**Contrastive Learning-based Imputation-Prediction Networks for In-hospital Mortality Risk Modeling using EHRs**|Yuxi Liu et.al.|[2308.09896](http://arxiv.org/abs/2308.09896)|null|
+|**2023-08-19**|**Contrastive Learning-based Imputation-Prediction Networks for In-hospital Mortality Risk Modeling using EHRs**|Yuxi Liu et.al.|[2308.09896](http://arxiv.org/abs/2308.09896)|**[link](https://github.com/liulab1356/CL-ImpPreNet)**|
 |**2023-08-19**|**Black-box Adversarial Attacks against Dense Retrieval Models: A Multi-view Contrastive Learning Method**|Yu-An Liu et.al.|[2308.09861](http://arxiv.org/abs/2308.09861)|null|
-|**2023-08-18**|**Taken by Surprise: Contrast effect for Similarity Scores**|homas C. Bachlechner et.al.|[2308.09765](http://arxiv.org/abs/2308.09765)|**[link](https://github.com/meetelise/surprise-similarity)**|
+|**2023-08-22**|**Taken by Surprise: Contrast effect for Similarity Scores**|Thomas C. Bachlechner et.al.|[2308.09765](http://arxiv.org/abs/2308.09765)|**[link](https://github.com/meetelise/surprise-similarity)**|
 |**2023-08-18**|**Decoupled conditional contrastive learning with variable metadata for prostate lesion detection**|Camille Ruppli et.al.|[2308.09542](http://arxiv.org/abs/2308.09542)|**[link](https://github.com/camilleruppli/decoupled_ccl)**|
 |**2023-08-18**|**Learnt Contrastive Concept Embeddings for Sign Recognition**|Ryan Wong et.al.|[2308.09515](http://arxiv.org/abs/2308.09515)|null|
 |**2023-08-18**|**Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering**|Haiwei Wu et.al.|[2308.09307](http://arxiv.org/abs/2308.09307)|**[link](https://github.com/highwaywu/focal)**|
@@ -578,7 +578,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 ## GNN
 
@@ -882,7 +882,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1554,5 +1554,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
