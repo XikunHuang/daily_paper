@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Age Prediction From Face Images Via Contrastive Learning**|Yeongnam Chae et.al.|[2308.11896](http://arxiv.org/abs/2308.11896)|null|
+|**2023-08-22**|**MagAO-X and HST high-contrast imaging of the AS209 disk at H $α$**|Gabriele Cugno et.al.|[2308.11714](http://arxiv.org/abs/2308.11714)|null|
 |**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
 |**2023-08-22**|**Towards Discriminative Representations with Contrastive Instances for Real-Time UAV Tracking**|Dan Zeng et.al.|[2308.11450](http://arxiv.org/abs/2308.11450)|null|
 |**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448](http://arxiv.org/abs/2308.11448)|null|
@@ -585,6 +587,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978](http://arxiv.org/abs/2308.11978)|null|
 |**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335](http://arxiv.org/abs/2308.11335)|null|
 |**2023-08-23**|**Predicting Transition Temperature of Superconductors with Graph Neural Networks**|Liang Gu et.al.|[2308.11160](http://arxiv.org/abs/2308.11160)|null|
 |**2023-08-22**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127](http://arxiv.org/abs/2308.11127)|**[link](https://github.com/hkuds/gte)**|
@@ -890,6 +893,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240](http://arxiv.org/abs/2308.12240)|null|
+|**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219](http://arxiv.org/abs/2308.12219)|**[link](https://github.com/yegcjs/diffusionllm)**|
+|**2023-08-23**|**Turing patterns on a two-component isotropic growing system. Part 1: Homogeneous state and stability of perturbations in absence of diffusion**|Aldo Ledesma-Durán et.al.|[2308.12196](http://arxiv.org/abs/2308.12196)|null|
+|**2023-08-23**|**Space-time hybridizable discontinuous Galerkin method for advection-diffusion on deforming domains: The advection-dominated regime**|Yuan Wang et.al.|[2308.12130](http://arxiv.org/abs/2308.12130)|null|
+|**2023-08-23**|**Progress Towards a Diffuse Neutrino Search in the Full Livetime of the Askaryan Radio Array**|Paramita Dasgupta et.al.|[2308.12125](http://arxiv.org/abs/2308.12125)|null|
+|**2023-08-23**|**Manipulating Embeddings of Stable Diffusion Prompts**|Niklas Deckers et.al.|[2308.12059](http://arxiv.org/abs/2308.12059)|null|
+|**2023-08-23**|**Quantum-Noise-driven Generative Diffusion Models**|Marco Parigi et.al.|[2308.12013](http://arxiv.org/abs/2308.12013)|null|
+|**2023-08-23**|**High-quality Image Dehazing with Diffusion Model**|Hu Yu et.al.|[2308.11949](http://arxiv.org/abs/2308.11949)|null|
+|**2023-08-23**|**Efficient Transfer Learning in Diffusion Models via Adversarial Noise**|Xiyu Wang et.al.|[2308.11948](http://arxiv.org/abs/2308.11948)|null|
+|**2023-08-23**|**LongDanceDiff: Long-term Dance Generation with Conditional Diffusion Model**|Siqi Yang et.al.|[2308.11945](http://arxiv.org/abs/2308.11945)|null|
 |**2023-08-22**|**The grapheme-valued Wright-Fisher diffusion with mutation**|Andreas Greven et.al.|[2308.11598](http://arxiv.org/abs/2308.11598)|null|
 |**2023-08-22**|**Ultra diffuse galaxies in the Hydra I cluster from the LEWIS Project: Phase-Space distribution and globular cluster richness**|Duncan Forbes et.al.|[2308.11496](http://arxiv.org/abs/2308.11496)|null|
 |**2023-08-22**|**Looking into the faintEst WIth MUSE (LEWIS): on the nature of ultra-diffuse galaxies in the Hydra-I cluster.I. Project description and preliminary results**|Enrichetta Iodice et.al.|[2308.11493](http://arxiv.org/abs/2308.11493)|null|
