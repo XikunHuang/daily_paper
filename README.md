@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**FaceTouch: Detecting hand-to-face touch with supervised contrastive learning to assist in tracing infectious disease**|Mohamed R. Ibrahim et.al.|[2308.12840](http://arxiv.org/abs/2308.12840)|null|
+|**2023-08-24**|**Exploring Transferability of Multimodal Adversarial Samples for Vision-Language Pre-training Models with Contrastive Learning**|Youze Wang et.al.|[2308.12636](http://arxiv.org/abs/2308.12636)|null|
+|**2023-08-24**|**Emotion-Aligned Contrastive Learning Between Images and Music**|Shanti Stewart et.al.|[2308.12610](http://arxiv.org/abs/2308.12610)|null|
+|**2023-08-23**|**Understanding Dark Scenes by Contrasting Multi-Modal Observations**|Xiaoyu Dong et.al.|[2308.12320](http://arxiv.org/abs/2308.12320)|**[link](https://github.com/palmdong/smmcl)**|
 |**2023-08-23**|**Age Prediction From Face Images Via Contrastive Learning**|Yeongnam Chae et.al.|[2308.11896](http://arxiv.org/abs/2308.11896)|null|
 |**2023-08-22**|**MagAO-X and HST high-contrast imaging of the AS209 disk at H $α$**|Gabriele Cugno et.al.|[2308.11714](http://arxiv.org/abs/2308.11714)|null|
 |**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
@@ -594,6 +598,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
 |**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978](http://arxiv.org/abs/2308.11978)|null|
 |**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335](http://arxiv.org/abs/2308.11335)|null|
 |**2023-08-24**|**Predicting Transition Temperature of Superconductors with Graph Neural Networks**|Liang Gu et.al.|[2308.11160](http://arxiv.org/abs/2308.11160)|null|
@@ -902,6 +907,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
+|**2023-08-24**|**DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition**|Chang Li et.al.|[2308.12501](http://arxiv.org/abs/2308.12501)|**[link](https://github.com/shiyin-lc/dd-gcn)**|
+|**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469](http://arxiv.org/abs/2308.12469)|null|
+|**2023-08-23**|**InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model**|Jueqi Wang et.al.|[2308.12465](http://arxiv.org/abs/2308.12465)|**[link](https://github.com/biomedai-ucsc/inversesr)**|
+|**2023-08-23**|**Augmenting medical image classifiers with synthetic data from latent diffusion models**|Luke W. Sagers et.al.|[2308.12453](http://arxiv.org/abs/2308.12453)|null|
+|**2023-08-23**|**Renormalizing Diffusion Models**|Jordan Cotler et.al.|[2308.12355](http://arxiv.org/abs/2308.12355)|null|
+|**2023-08-23**|**Diffusion-based Image Translation with Label Guidance for Domain Adaptive Semantic Segmentation**|Duo Peng et.al.|[2308.12350](http://arxiv.org/abs/2308.12350)|null|
 |**2023-08-23**|**Score diffusion models without early stopping: finite Fisher information is all you need**|Giovanni Conforti et.al.|[2308.12240](http://arxiv.org/abs/2308.12240)|null|
 |**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219](http://arxiv.org/abs/2308.12219)|**[link](https://github.com/yegcjs/diffusionllm)**|
 |**2023-08-23**|**Turing patterns on a two-component isotropic growing system. Part 1: Homogeneous state and stability of perturbations in absence of diffusion**|Aldo Ledesma-Durán et.al.|[2308.12196](http://arxiv.org/abs/2308.12196)|null|
