@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Temporal Uncertainty Localization to Enable Human-in-the-loop Analysis of Dynamic Contrast-enhanced Cardiac MRI Datasets**|Dilek M. Yalcinkaya et.al.|[2308.13488](http://arxiv.org/abs/2308.13488)|null|
+|**2023-08-24**|**Contrastive Learning of Temporal Distinctiveness for Survival Analysis in Electronic Health Records**|Mohsen Nayebi Kerdabadi et.al.|[2308.13104](http://arxiv.org/abs/2308.13104)|null|
+|**2023-08-24**|**Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models**|Qing Lyu et.al.|[2308.13002](http://arxiv.org/abs/2308.13002)|null|
 |**2023-08-24**|**FaceTouch: Detecting hand-to-face touch with supervised contrastive learning to assist in tracing infectious disease**|Mohamed R. Ibrahim et.al.|[2308.12840](http://arxiv.org/abs/2308.12840)|null|
 |**2023-08-24**|**Exploring Transferability of Multimodal Adversarial Samples for Vision-Language Pre-training Models with Contrastive Learning**|Youze Wang et.al.|[2308.12636](http://arxiv.org/abs/2308.12636)|null|
 |**2023-08-24**|**Emotion-Aligned Contrastive Learning Between Images and Music**|Shanti Stewart et.al.|[2308.12610](http://arxiv.org/abs/2308.12610)|null|
@@ -598,6 +601,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-24**|**SurGNN: Explainable visual scene understanding and assessment of surgical skill using graph neural networks**|Shuja Khalid et.al.|[2308.13073](http://arxiv.org/abs/2308.13073)|null|
 |**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
 |**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978](http://arxiv.org/abs/2308.11978)|null|
 |**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335](http://arxiv.org/abs/2308.11335)|null|
@@ -907,6 +911,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Cover times of many diffusive or subdiffusive searchers**|Hyunjoong Kim et.al.|[2308.13417](http://arxiv.org/abs/2308.13417)|null|
+|**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369](http://arxiv.org/abs/2308.13369)|null|
+|**2023-08-25**|**Age of Information Diffusion on Social Networks: Optimizing Multi-Stage Seeding Strategies**|Songhua Li et.al.|[2308.13303](http://arxiv.org/abs/2308.13303)|null|
+|**2023-08-25**|**EfficientDreamer: High-Fidelity and Robust 3D Creation via Orthogonal-view Diffusion Prior**|Minda Zhao et.al.|[2308.13223](http://arxiv.org/abs/2308.13223)|null|
+|**2023-08-25**|**Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model**|Xunpeng Yi et.al.|[2308.13164](http://arxiv.org/abs/2308.13164)|null|
+|**2023-08-25**|**A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions**|Tianyi Zhang et.al.|[2308.13142](http://arxiv.org/abs/2308.13142)|null|
+|**2023-08-24**|**Full-dose PET Synthesis from Low-dose PET Using High-efficiency Diffusion Denoising Probabilistic Model**|Shaoyan Pan et.al.|[2308.13072](http://arxiv.org/abs/2308.13072)|null|
+|**2023-08-24**|**Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models**|Qing Lyu et.al.|[2308.13002](http://arxiv.org/abs/2308.13002)|null|
 |**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
 |**2023-08-24**|**DD-GCN: Directed Diffusion Graph Convolutional Network for Skeleton-based Human Action Recognition**|Chang Li et.al.|[2308.12501](http://arxiv.org/abs/2308.12501)|**[link](https://github.com/shiyin-lc/dd-gcn)**|
 |**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469](http://arxiv.org/abs/2308.12469)|null|
