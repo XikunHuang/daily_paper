@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -597,7 +597,7 @@ layout: default
 |**2023-08-24**|**SurGNN: Explainable visual scene understanding and assessment of surgical skill using graph neural networks**|Shuja Khalid et.al.|[2308.13073](http://arxiv.org/abs/2308.13073)|null|
 |**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
 |**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978](http://arxiv.org/abs/2308.11978)|null|
-|**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335](http://arxiv.org/abs/2308.11335)|null|
+|**2023-08-22**|**Graph Neural Network-Enhanced Expectation Propagation Algorithm for MIMO Turbo Receivers**|Xingyu Zhou et.al.|[2308.11335](http://arxiv.org/abs/2308.11335)|**[link](https://github.com/STARainZ/GNN-enhanced-EP-for-Turbo-MIMO)**|
 |**2023-08-24**|**Predicting Transition Temperature of Superconductors with Graph Neural Networks**|Liang Gu et.al.|[2308.11160](http://arxiv.org/abs/2308.11160)|**[link](https://github.com/glinustb/bsgnn)**|
 |**2023-08-22**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127](http://arxiv.org/abs/2308.11127)|**[link](https://github.com/hkuds/gte)**|
 |**2023-08-19**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099](http://arxiv.org/abs/2308.10099)|**[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)**|
