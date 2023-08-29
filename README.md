@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Joint Multiple Intent Detection and Slot Filling with Supervised Contrastive Learning and Self-Distillation**|Nguyen Anh Tu et.al.|[2308.14654](http://arxiv.org/abs/2308.14654)|**[link](https://github.com/anhtunguyen98/bislu)**|
+|**2023-08-28**|**Multi-Scale and Multi-Layer Contrastive Learning for Domain Generalization**|Aristotelis Ballas et.al.|[2308.14418](http://arxiv.org/abs/2308.14418)|null|
+|**2023-08-27**|**Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation**|Siddharth Katageri et.al.|[2308.14126](http://arxiv.org/abs/2308.14126)|null|
+|**2023-08-27**|**Hierarchical Contrastive Learning for Pattern-Generalizable Image Corruption Detection**|Xin Feng et.al.|[2308.14061](http://arxiv.org/abs/2308.14061)|**[link](https://github.com/xyfjason/hcl)**|
+|**2023-08-27**|**PECon: Contrastive Pretraining to Enhance Feature Alignment between CT and EHR Data for Improved Pulmonary Embolism Diagnosis**|Santosh Sanjeev et.al.|[2308.14050](http://arxiv.org/abs/2308.14050)|**[link](https://github.com/biomedia-mbzuai/pecon)**|
+|**2023-08-27**|**Forensic Histopathological Recognition via a Context-Aware MIL Network Powered by Self-Supervised Contrastive Learning**|Chen Shen et.al.|[2308.14030](http://arxiv.org/abs/2308.14030)|null|
 |**2023-08-25**|**Temporal Uncertainty Localization to Enable Human-in-the-loop Analysis of Dynamic Contrast-enhanced Cardiac MRI Datasets**|Dilek M. Yalcinkaya et.al.|[2308.13488](http://arxiv.org/abs/2308.13488)|null|
 |**2023-08-24**|**Contrastive Learning of Temporal Distinctiveness for Survival Analysis in Electronic Health Records**|Mohsen Nayebi Kerdabadi et.al.|[2308.13104](http://arxiv.org/abs/2308.13104)|null|
 |**2023-08-24**|**Head-Neck Dual-energy CT Contrast Media Reduction Using Diffusion Models**|Qing Lyu et.al.|[2308.13002](http://arxiv.org/abs/2308.13002)|null|
@@ -601,6 +607,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**HRGCN: Heterogeneous Graph-level Anomaly Detection with Hierarchical Relation-augmented Graph Neural Networks**|Jiaxi Li et.al.|[2308.14340](http://arxiv.org/abs/2308.14340)|**[link](https://github.com/jiaxililearn/hrgcn)**|
 |**2023-08-24**|**SurGNN: Explainable visual scene understanding and assessment of surgical skill using graph neural networks**|Shuja Khalid et.al.|[2308.13073](http://arxiv.org/abs/2308.13073)|null|
 |**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
 |**2023-08-23**|**Will More Expressive Graph Neural Networks do Better on Generative Tasks?**|Xiandong Zou et.al.|[2308.11978](http://arxiv.org/abs/2308.11978)|null|
@@ -911,6 +918,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Effect of gas diffusion layer fiber shape on cathode two-phase dynamics in proton exchange membrane fuel cells**|Danan Yang et.al.|[2308.14539](http://arxiv.org/abs/2308.14539)|null|
+|**2023-08-28**|**Heavy quark diffusion and radiation at intermediate momentum**|Juhee Hong et.al.|[2308.14530](http://arxiv.org/abs/2308.14530)|null|
+|**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469](http://arxiv.org/abs/2308.14469)|null|
+|**2023-08-28**|**Steerable Conditional Diffusion for Out-of-Distribution Adaptation in Imaging Inverse Problems**|Riccardo Barbano et.al.|[2308.14409](http://arxiv.org/abs/2308.14409)|null|
+|**2023-08-28**|**InstructME: An Instruction Guided Music Edit And Remix Framework with Latent Diffusion Models**|Bing Han et.al.|[2308.14360](http://arxiv.org/abs/2308.14360)|null|
+|**2023-08-28**|**Persistent effects of inertia on diffusion-influenced reactions: Theoretical methods and applications**|Sangyoub Lee et.al.|[2308.14344](http://arxiv.org/abs/2308.14344)|null|
+|**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
+|**2023-08-28**|**Voice Conversion with Denoising Diffusion Probabilistic GAN Models**|Xulong Zhang et.al.|[2308.14319](http://arxiv.org/abs/2308.14319)|null|
+|**2023-08-27**|**Unaligned 2D to 3D Translation with Conditional Vector-Quantized Code Diffusion using Transformers**|Abril Corona-Figueroa et.al.|[2308.14152](http://arxiv.org/abs/2308.14152)|null|
+|**2023-08-27**|**Diffusion Schrödinger Bridges for Bayesian Computation**|Jeremy Heng et.al.|[2308.14106](http://arxiv.org/abs/2308.14106)|null|
 |**2023-08-25**|**Cover times of many diffusive or subdiffusive searchers**|Hyunjoong Kim et.al.|[2308.13417](http://arxiv.org/abs/2308.13417)|null|
 |**2023-08-25**|**Distribution-Aligned Diffusion for Human Mesh Recovery**|Lin Geng Foo et.al.|[2308.13369](http://arxiv.org/abs/2308.13369)|null|
 |**2023-08-25**|**Age of Information Diffusion on Social Networks: Optimizing Multi-Stage Seeding Strategies**|Songhua Li et.al.|[2308.13303](http://arxiv.org/abs/2308.13303)|null|
