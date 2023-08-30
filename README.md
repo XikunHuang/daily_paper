@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Multimodal Contrastive Learning and Tabular Attention for Automated Alzheimer's Disease Prediction**|Weichen Huang et.al.|[2308.15469](http://arxiv.org/abs/2308.15469)|null|
+|**2023-08-29**|**Computational analysis for competition flows in arteriovenous fistulas based on non-contrast magnetic resonance imaging**|Surabhi Rathore et.al.|[2308.15217](http://arxiv.org/abs/2308.15217)|null|
+|**2023-08-28**|**When hard negative sampling meets supervised contrastive learning**|Zijun Long et.al.|[2308.14893](http://arxiv.org/abs/2308.14893)|null|
 |**2023-08-28**|**Joint Multiple Intent Detection and Slot Filling with Supervised Contrastive Learning and Self-Distillation**|Nguyen Anh Tu et.al.|[2308.14654](http://arxiv.org/abs/2308.14654)|**[link](https://github.com/anhtunguyen98/bislu)**|
 |**2023-08-28**|**Multi-Scale and Multi-Layer Contrastive Learning for Domain Generalization**|Aristotelis Ballas et.al.|[2308.14418](http://arxiv.org/abs/2308.14418)|null|
 |**2023-08-27**|**Synergizing Contrastive Learning and Optimal Transport for 3D Point Cloud Domain Adaptation**|Siddharth Katageri et.al.|[2308.14126](http://arxiv.org/abs/2308.14126)|null|
@@ -607,6 +610,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Low-bit Quantization for Deep Graph Neural Networks with Smoothness-aware Message Propagation**|Shuang Wang et.al.|[2308.14949](http://arxiv.org/abs/2308.14949)|null|
 |**2023-08-28**|**HRGCN: Heterogeneous Graph-level Anomaly Detection with Hierarchical Relation-augmented Graph Neural Networks**|Jiaxi Li et.al.|[2308.14340](http://arxiv.org/abs/2308.14340)|**[link](https://github.com/jiaxililearn/hrgcn)**|
 |**2023-08-24**|**SurGNN: Explainable visual scene understanding and assessment of surgical skill using graph neural networks**|Shuja Khalid et.al.|[2308.13073](http://arxiv.org/abs/2308.13073)|null|
 |**2023-08-24**|**Hydrogen jet diffusion modeling by using physics-informed graph neural network and sparsely-distributed sensor data**|Xinqi Zhang et.al.|[2308.12621](http://arxiv.org/abs/2308.12621)|null|
@@ -918,6 +922,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459](http://arxiv.org/abs/2308.15459)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
+|**2023-08-29**|**Rayleigh-Bénard instability in a horizontal porous layer with anomalous diffusion**|Antonio Barletta et.al.|[2308.15359](http://arxiv.org/abs/2308.15359)|null|
+|**2023-08-29**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321](http://arxiv.org/abs/2308.15321)|null|
+|**2023-08-29**|**Diffusion-based kernel density estimation improves the assessment of carbon isotope modelling**|Maria-Theresia Pelz et.al.|[2308.15282](http://arxiv.org/abs/2308.15282)|null|
+|**2023-08-29**|**Summary of IceCube Tau Neutrino Searches and Flavor Composition Measurements of the Diffuse Astrophysical Neutrino Flux**|Neha Lad et.al.|[2308.15213](http://arxiv.org/abs/2308.15213)|null|
+|**2023-08-29**|**Evidence for a large off-centered galactic outflow and its connection to the extraplanar diffuse ionized gas in IC 1553**|Lukas Dirks et.al.|[2308.15134](http://arxiv.org/abs/2308.15134)|null|
+|**2023-08-29**|**Diffusion rate in non-generic directions in the wind-tree model**|Sylvain Crovisier et.al.|[2308.15121](http://arxiv.org/abs/2308.15121)|null|
+|**2023-08-29**|**DiffusionVMR: Diffusion Model for Video Moment Retrieval**|Henghao Zhao et.al.|[2308.15109](http://arxiv.org/abs/2308.15109)|null|
+|**2023-08-29**|**DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior**|Xinqi Lin et.al.|[2308.15070](http://arxiv.org/abs/2308.15070)|null|
+|**2023-08-29**|**Finite-dimensional leading order dynamics for the fast diffusion equation near extinction**|Beomjun Choi et.al.|[2308.15032](http://arxiv.org/abs/2308.15032)|null|
 |**2023-08-28**|**Effect of gas diffusion layer fiber shape on cathode two-phase dynamics in proton exchange membrane fuel cells**|Danan Yang et.al.|[2308.14539](http://arxiv.org/abs/2308.14539)|null|
 |**2023-08-28**|**Heavy quark diffusion and radiation at intermediate momentum**|Juhee Hong et.al.|[2308.14530](http://arxiv.org/abs/2308.14530)|null|
 |**2023-08-28**|**Pixel-Aware Stable Diffusion for Realistic Image Super-resolution and Personalized Stylization**|Tao Yang et.al.|[2308.14469](http://arxiv.org/abs/2308.14469)|null|
