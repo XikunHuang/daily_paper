@@ -1,4 +1,4 @@
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -604,7 +604,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## GNN
 
@@ -619,7 +619,7 @@
 |**2023-08-24**|**Predicting Transition Temperature of Superconductors with Graph Neural Networks**|Liang Gu et.al.|[2308.11160](http://arxiv.org/abs/2308.11160)|**[link](https://github.com/glinustb/bsgnn)**|
 |**2023-08-22**|**How Expressive are Graph Neural Networks in Recommendation?**|Xuheng Cai et.al.|[2308.11127](http://arxiv.org/abs/2308.11127)|**[link](https://github.com/hkuds/gte)**|
 |**2023-08-19**|**Geometric instability of graph neural networks on large graphs**|Emily Morris et.al.|[2308.10099](http://arxiv.org/abs/2308.10099)|**[link](https://github.com/brs96/geometric-instability-gnn-large-graphs)**|
-|**2023-08-19**|**Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**|Zhihao Wen et.al.|[2308.10028](http://arxiv.org/abs/2308.10028)|null|
+|**2023-08-30**|**Voucher Abuse Detection with Prompt-based Fine-tuning on Graph Neural Networks**|Zhihao Wen et.al.|[2308.10028](http://arxiv.org/abs/2308.10028)|null|
 |**2023-08-19**|**Imputing Brain Measurements Across Data Sets via Graph Neural Networks**|Yixin Wang et.al.|[2308.09907](http://arxiv.org/abs/2308.09907)|null|
 |**2023-08-18**|**A Potts model approach to unsupervised graph clustering with Graph Neural Networks**|Co Tran et.al.|[2308.09644](http://arxiv.org/abs/2308.09644)|null|
 |**2023-08-18**|**Disparity, Inequality, and Accuracy Tradeoffs in Graph Neural Networks for Node Classification**|Arpit Merchant et.al.|[2308.09596](http://arxiv.org/abs/2308.09596)|**[link](https://github.com/arpitdm/gnn_accuracy_fairness_tradeoff)**|
@@ -916,7 +916,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Diffusion
 
@@ -924,7 +924,7 @@
 |---|---|---|---|---|
 |**2023-08-29**|**ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer**|Zachary Horvitz et.al.|[2308.15459](http://arxiv.org/abs/2308.15459)|**[link](https://github.com/zacharyhorvitz/ParaGuide)**|
 |**2023-08-29**|**Rayleigh-Bénard instability in a horizontal porous layer with anomalous diffusion**|Antonio Barletta et.al.|[2308.15359](http://arxiv.org/abs/2308.15359)|null|
-|**2023-08-29**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321](http://arxiv.org/abs/2308.15321)|null|
+|**2023-08-30**|**Elucidating the Exposure Bias in Diffusion Models**|Mang Ning et.al.|[2308.15321](http://arxiv.org/abs/2308.15321)|null|
 |**2023-08-29**|**Diffusion-based kernel density estimation improves the assessment of carbon isotope modelling**|Maria-Theresia Pelz et.al.|[2308.15282](http://arxiv.org/abs/2308.15282)|null|
 |**2023-08-29**|**Summary of IceCube Tau Neutrino Searches and Flavor Composition Measurements of the Diffuse Astrophysical Neutrino Flux**|Neha Lad et.al.|[2308.15213](http://arxiv.org/abs/2308.15213)|null|
 |**2023-08-29**|**Evidence for a large off-centered galactic outflow and its connection to the extraplanar diffuse ionized gas in IC 1553**|Lukas Dirks et.al.|[2308.15134](http://arxiv.org/abs/2308.15134)|null|
@@ -1639,5 +1639,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
