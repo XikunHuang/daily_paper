@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Karhunen-Loève Data Imputation in High Contrast Imaging**|Bin B. Ren et.al.|[2308.16912](http://arxiv.org/abs/2308.16912)|null|
+|**2023-08-31**|**Facing Unknown: Open-World Encrypted Traffic Classification Based on Contrastive Pre-Training**|Xiang Li et.al.|[2308.16861](http://arxiv.org/abs/2308.16861)|null|
+|**2023-08-31**|**MoMA: Momentum Contrastive Learning with Multi-head Attention-based Knowledge Distillation for Histopathology Image Analysis**|Trinh Thi Le Vuong et.al.|[2308.16561](http://arxiv.org/abs/2308.16561)|**[link](https://github.com/trinhvg/moma)**|
+|**2023-08-31**|**Supervised Contrastive Learning with Nearest Neighbor Search for Speech Emotion Recognition**|Xuechen Wang et.al.|[2308.16485](http://arxiv.org/abs/2308.16485)|null|
+|**2023-08-31**|**Listen to Minority: Encrypted Traffic Classification for Class Imbalance with Contrastive Pre-Training**|Xiang Li et.al.|[2308.16453](http://arxiv.org/abs/2308.16453)|null|
+|**2023-08-31**|**Contrastive Representation Learning Based on Multiple Node-centered Subgraphs**|Dong Li et.al.|[2308.16441](http://arxiv.org/abs/2308.16441)|null|
 |**2023-08-30**|**CALM: Contrastive Cross-modal Speaking Style Modeling for Expressive Text-to-Speech Synthesis**|Yi Meng et.al.|[2308.16021](http://arxiv.org/abs/2308.16021)|null|
 |**2023-08-30**|**Absolute value measurement of ion-scale turbulence by two-dimensional phase contrast imaging in Large Helical Device**|T. Kinoshita et.al.|[2308.15713](http://arxiv.org/abs/2308.15713)|null|
 |**2023-08-30**|**Towards a Rigorous Analysis of Mutual Information in Contrastive Learning**|Kyungeun Lee et.al.|[2308.15704](http://arxiv.org/abs/2308.15704)|null|
@@ -606,6 +612,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863](http://arxiv.org/abs/2308.16863)|**[link](https://github.com/chinmay5/ms_ida)**|
+|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800](http://arxiv.org/abs/2308.16800)|null|
+|**2023-08-31**|**Curvature-based Pooling within Graph Neural Networks**|Cedric Sanders et.al.|[2308.16516](http://arxiv.org/abs/2308.16516)|**[link](https://gitlab.com/cedric_sanders/masterarbeit)**|
+|**2023-08-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470](http://arxiv.org/abs/2308.16470)|**[link](https://github.com/shenxiaocam/dm_gnn)**|
+|**2023-08-31**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406](http://arxiv.org/abs/2308.16406)|**[link](https://github.com/zehao-dong/CktGNN)**|
+|**2023-08-31**|**BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks**|Qiang Huang et.al.|[2308.16385](http://arxiv.org/abs/2308.16385)|**[link](https://github.com/qianghuangwhu/benchtemp)**|
+|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375](http://arxiv.org/abs/2308.16375)|null|
 |**2023-08-30**|**MSGNN: Multi-scale Spatio-temporal Graph Neural Network for Epidemic Forecasting**|Mingjie Qiu et.al.|[2308.15840](http://arxiv.org/abs/2308.15840)|null|
 |**2023-08-29**|**An Experimental Comparison of Partitioning Strategies for Distributed Graph Neural Network Training**|Nikolai Merkel et.al.|[2308.15602](http://arxiv.org/abs/2308.15602)|null|
 |**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568](http://arxiv.org/abs/2308.15568)|null|
@@ -919,6 +932,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-31**|**InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion**|Sirui Xu et.al.|[2308.16905](http://arxiv.org/abs/2308.16905)|null|
+|**2023-08-31**|**Diffusion Models for Interferometric Satellite Aperture Radar**|Alexandre Tuel et.al.|[2308.16847](http://arxiv.org/abs/2308.16847)|null|
+|**2023-08-31**|**Unsupervised CT Metal Artifact Reduction by Plugging Diffusion Priors in Dual Domains**|Xuan Liu et.al.|[2308.16742](http://arxiv.org/abs/2308.16742)|**[link](https://github.com/deepxuan/dudodp-mar)**|
+|**2023-08-31**|**Terrain Diffusion Network: Climatic-Aware Terrain Generation with Geological Sketch Guidance**|Zexin Hu et.al.|[2308.16725](http://arxiv.org/abs/2308.16725)|null|
+|**2023-08-31**|**Carrier diffusion in semiconductor nanoscale resonators**|Marco Saldutti et.al.|[2308.16715](http://arxiv.org/abs/2308.16715)|null|
+|**2023-08-31**|**Dynamics at the edge for independent diffusing particles**|Pierre Le Doussal et.al.|[2308.16709](http://arxiv.org/abs/2308.16709)|null|
+|**2023-08-31**|**Spatio-temporal boundary dissipation measurement in Taylor-Couette flow using Diffusing-Wave Spectroscopy**|Enzo Francisco et.al.|[2308.16693](http://arxiv.org/abs/2308.16693)|null|
+|**2023-08-31**|**Diffusion Inertial Poser: Human Motion Reconstruction from Arbitrary Sparse IMU Configurations**|Tom Van Wouwe et.al.|[2308.16682](http://arxiv.org/abs/2308.16682)|null|
+|**2023-08-31**|**MFR-Net: Multi-faceted Responsive Listening Head Generation via Denoising Diffusion Model**|Jin Liu et.al.|[2308.16635](http://arxiv.org/abs/2308.16635)|null|
+|**2023-08-31**|**LightGrad: Lightweight Diffusion Probabilistic Model for Text-to-Speech**|Jie Chen et.al.|[2308.16569](http://arxiv.org/abs/2308.16569)|null|
 |**2023-08-30**|**Modality Cycles with Masked Conditional Diffusion for Unsupervised Anomaly Segmentation in MRI**|Ziyun Liang et.al.|[2308.16150](http://arxiv.org/abs/2308.16150)|null|
 |**2023-08-30**|**SignDiff: Learning Diffusion Models for American Sign Language Production**|Sen Fang et.al.|[2308.16082](http://arxiv.org/abs/2308.16082)|null|
 |**2023-08-30**|**DiffuVolume: Diffusion Model for Volume based Stereo Matching**|Dian Zheng et.al.|[2308.15989](http://arxiv.org/abs/2308.15989)|null|
