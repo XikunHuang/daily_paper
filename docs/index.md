@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.03
+## Updated on 2023.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -613,12 +613,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863](http://arxiv.org/abs/2308.16863)|**[link](https://github.com/chinmay5/ms_ida)**|
-|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800](http://arxiv.org/abs/2308.16800)|null|
+|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800](http://arxiv.org/abs/2308.16800)|**[link](https://github.com/roth-andreas/rank_collapse)**|
 |**2023-08-31**|**Curvature-based Pooling within Graph Neural Networks**|Cedric Sanders et.al.|[2308.16516](http://arxiv.org/abs/2308.16516)|**[link](https://gitlab.com/cedric_sanders/masterarbeit)**|
 |**2023-08-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470](http://arxiv.org/abs/2308.16470)|**[link](https://github.com/shenxiaocam/dm_gnn)**|
 |**2023-08-31**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406](http://arxiv.org/abs/2308.16406)|**[link](https://github.com/zehao-dong/CktGNN)**|
 |**2023-08-31**|**BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks**|Qiang Huang et.al.|[2308.16385](http://arxiv.org/abs/2308.16385)|**[link](https://github.com/qianghuangwhu/benchtemp)**|
-|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375](http://arxiv.org/abs/2308.16375)|null|
+|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375](http://arxiv.org/abs/2308.16375)|**[link](https://github.com/nds-vu/awesome-gnn-privacy)**|
 |**2023-08-30**|**MSGNN: Multi-scale Spatio-temporal Graph Neural Network for Epidemic Forecasting**|Mingjie Qiu et.al.|[2308.15840](http://arxiv.org/abs/2308.15840)|null|
 |**2023-08-29**|**An Experimental Comparison of Partitioning Strategies for Distributed Graph Neural Network Training**|Nikolai Merkel et.al.|[2308.15602](http://arxiv.org/abs/2308.15602)|null|
 |**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568](http://arxiv.org/abs/2308.15568)|null|

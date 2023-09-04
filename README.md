@@ -1,4 +1,4 @@
-## Updated on 2023.09.03
+## Updated on 2023.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -613,19 +613,19 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863](http://arxiv.org/abs/2308.16863)|**[link](https://github.com/chinmay5/ms_ida)**|
-|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800](http://arxiv.org/abs/2308.16800)|null|
+|**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800](http://arxiv.org/abs/2308.16800)|**[link](https://github.com/roth-andreas/rank_collapse)**|
 |**2023-08-31**|**Curvature-based Pooling within Graph Neural Networks**|Cedric Sanders et.al.|[2308.16516](http://arxiv.org/abs/2308.16516)|**[link](https://gitlab.com/cedric_sanders/masterarbeit)**|
 |**2023-08-31**|**Domain-adaptive Message Passing Graph Neural Network**|Xiao Shen et.al.|[2308.16470](http://arxiv.org/abs/2308.16470)|**[link](https://github.com/shenxiaocam/dm_gnn)**|
 |**2023-08-31**|**CktGNN: Circuit Graph Neural Network for Electronic Design Automation**|Zehao Dong et.al.|[2308.16406](http://arxiv.org/abs/2308.16406)|**[link](https://github.com/zehao-dong/CktGNN)**|
 |**2023-08-31**|**BenchTemp: A General Benchmark for Evaluating Temporal Graph Neural Networks**|Qiang Huang et.al.|[2308.16385](http://arxiv.org/abs/2308.16385)|**[link](https://github.com/qianghuangwhu/benchtemp)**|
-|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375](http://arxiv.org/abs/2308.16375)|null|
+|**2023-08-31**|**A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications**|Yi Zhang et.al.|[2308.16375](http://arxiv.org/abs/2308.16375)|**[link](https://github.com/nds-vu/awesome-gnn-privacy)**|
 |**2023-08-30**|**MSGNN: Multi-scale Spatio-temporal Graph Neural Network for Epidemic Forecasting**|Mingjie Qiu et.al.|[2308.15840](http://arxiv.org/abs/2308.15840)|null|
 |**2023-08-29**|**An Experimental Comparison of Partitioning Strategies for Distributed Graph Neural Network Training**|Nikolai Merkel et.al.|[2308.15602](http://arxiv.org/abs/2308.15602)|null|
 |**2023-08-29**|**Over-Squashing in Graph Neural Networks: A Comprehensive survey**|Singh Akansha et.al.|[2308.15568](http://arxiv.org/abs/2308.15568)|null|
@@ -935,7 +935,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1677,5 +1677,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
