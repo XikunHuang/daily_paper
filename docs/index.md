@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -15,7 +15,7 @@ layout: default
 |**2023-08-31**|**Facing Unknown: Open-World Encrypted Traffic Classification Based on Contrastive Pre-Training**|Xiang Li et.al.|[2308.16861](http://arxiv.org/abs/2308.16861)|null|
 |**2023-08-31**|**MoMA: Momentum Contrastive Learning with Multi-head Attention-based Knowledge Distillation for Histopathology Image Analysis**|Trinh Thi Le Vuong et.al.|[2308.16561](http://arxiv.org/abs/2308.16561)|**[link](https://github.com/trinhvg/moma)**|
 |**2023-08-31**|**Supervised Contrastive Learning with Nearest Neighbor Search for Speech Emotion Recognition**|Xuechen Wang et.al.|[2308.16485](http://arxiv.org/abs/2308.16485)|null|
-|**2023-08-31**|**Listen to Minority: Encrypted Traffic Classification for Class Imbalance with Contrastive Pre-Training**|Xiang Li et.al.|[2308.16453](http://arxiv.org/abs/2308.16453)|null|
+|**2023-09-04**|**Listen to Minority: Encrypted Traffic Classification for Class Imbalance with Contrastive Pre-Training**|Xiang Li et.al.|[2308.16453](http://arxiv.org/abs/2308.16453)|null|
 |**2023-08-31**|**Contrastive Representation Learning Based on Multiple Node-centered Subgraphs**|Dong Li et.al.|[2308.16441](http://arxiv.org/abs/2308.16441)|null|
 |**2023-08-30**|**CALM: Contrastive Cross-modal Speaking Style Modeling for Expressive Text-to-Speech Synthesis**|Yi Meng et.al.|[2308.16021](http://arxiv.org/abs/2308.16021)|null|
 |**2023-08-30**|**Absolute value measurement of ion-scale turbulence by two-dimensional phase contrast imaging in Large Helical Device**|T. Kinoshita et.al.|[2308.15713](http://arxiv.org/abs/2308.15713)|null|
