@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Graph Self-Contrast Representation Learning**|Minjie Chen et.al.|[2309.02304](http://arxiv.org/abs/2309.02304)|null|
+|**2023-09-05**|**CIEM: Contrastive Instruction Evaluation Method for Better Instruction Tuning**|Hongyu Hu et.al.|[2309.02301](http://arxiv.org/abs/2309.02301)|null|
+|**2023-09-05**|**FALCO simulations of high-contrast polarimetry with the Nancy Grace Roman Space Telescope Coronagraph Instrument**|David S. Doelman et.al.|[2309.02044](http://arxiv.org/abs/2309.02044)|null|
+|**2023-09-04**|**Intensity contrast of solar network and faculae close to the solar limb, observed from two vantage points**|K. Albert et.al.|[2309.01474](http://arxiv.org/abs/2309.01474)|null|
+|**2023-09-04**|**The Three Hundred : contrasting clusters galaxy density in hydrodynamical and dark matter simulations**|A. Jiménez Muñoz et.al.|[2309.01443](http://arxiv.org/abs/2309.01443)|null|
+|**2023-09-04**|**AVATAR: Robust Voice Search Engine Leveraging Autoregressive Document Retrieval and Contrastive Learning**|Yi-Cheng Wang et.al.|[2309.01395](http://arxiv.org/abs/2309.01395)|null|
+|**2023-09-03**|**Multimodal Contrastive Learning with Hard Negative Sampling for Human Activity Recognition**|Hyeongju Choi et.al.|[2309.01262](http://arxiv.org/abs/2309.01262)|null|
+|**2023-09-03**|**Deep Unfolding Convolutional Dictionary Model for Multi-Contrast MRI Super-resolution and Reconstruction**|Pengcheng Lei et.al.|[2309.01171](http://arxiv.org/abs/2309.01171)|null|
+|**2023-09-03**|**Multi-Relational Contrastive Learning for Recommendation**|Wei Wei et.al.|[2309.01103](http://arxiv.org/abs/2309.01103)|null|
+|**2023-09-03**|**M2HGCL: Multi-Scale Meta-Path Integrated Heterogeneous Graph Contrastive Learning**|Yuanyuan Guo et.al.|[2309.01101](http://arxiv.org/abs/2309.01101)|null|
 |**2023-09-01**|**Towards Contrastive Learning in Music Video Domain**|Karel Veldkamp et.al.|[2309.00347](http://arxiv.org/abs/2309.00347)|null|
 |**2023-09-01**|**Fine-Grained Spatiotemporal Motion Alignment for Contrastive Video Representation Learning**|Minghao Zhu et.al.|[2309.00297](http://arxiv.org/abs/2309.00297)|null|
 |**2023-08-31**|**Karhunen-Loève Data Imputation in High Contrast Imaging**|Bin B. Ren et.al.|[2308.16912](http://arxiv.org/abs/2308.16912)|null|
@@ -614,6 +624,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-03**|**Financial Fraud Detection using Quantum Graph Neural Networks**|Nouhaila Innan et.al.|[2309.01127](http://arxiv.org/abs/2309.01127)|null|
+|**2023-09-01**|**Geometric Deep Learning: a Temperature Based Analysis of Graph Neural Networks**|M. Lapenna et.al.|[2309.00699](http://arxiv.org/abs/2309.00699)|null|
 |**2023-08-31**|**Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition**|Milad Ramezani et.al.|[2309.00168](http://arxiv.org/abs/2309.00168)|null|
 |**2023-08-31**|**Self-pruning Graph Neural Network for Predicting Inflammatory Disease Activity in Multiple Sclerosis from Brain MR Images**|Chinmay Prabhakar et.al.|[2308.16863](http://arxiv.org/abs/2308.16863)|**[link](https://github.com/chinmay5/ms_ida)**|
 |**2023-08-31**|**Rank Collapse Causes Over-Smoothing and Over-Correlation in Graph Neural Networks**|Andreas Roth et.al.|[2308.16800](http://arxiv.org/abs/2308.16800)|**[link](https://github.com/roth-andreas/rank_collapse)**|
@@ -935,6 +947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**A Diffusion Quantum Monte Carlo Approach to the Polaritonic Ground State**|Braden M. Weight et.al.|[2309.02349](http://arxiv.org/abs/2309.02349)|null|
+|**2023-09-05**|**Robust frequency-dependent diffusion kurtosis computation using an efficient direction scheme, axisymmetric modelling, and spatial regularization**|J. Hamilton et.al.|[2309.02319](http://arxiv.org/abs/2309.02319)|null|
+|**2023-09-05**|**Robustness and Generalizability of Deepfake Detection: A Study with Diffusion Models**|Haixu Song et.al.|[2309.02218](http://arxiv.org/abs/2309.02218)|**[link](https://github.com/OpenRL-Lab/DeepFakeFace)**|
+|**2023-09-05**|**Hierarchical Masked 3D Diffusion Model for Video Outpainting**|Fanda Fan et.al.|[2309.02119](http://arxiv.org/abs/2309.02119)|null|
+|**2023-09-05**|**Non-diffusive dynamics in a colloidal glass: aging versus rejuvenation**|Roberta Angelini et.al.|[2309.02104](http://arxiv.org/abs/2309.02104)|null|
+|**2023-09-05**|**Diffusion-based 3D Object Detection with Random Boxes**|Xin Zhou et.al.|[2309.02049](http://arxiv.org/abs/2309.02049)|null|
+|**2023-09-05**|**Diffusion Generative Inverse Design**|Marin Vlastelica et.al.|[2309.02040](http://arxiv.org/abs/2309.02040)|null|
+|**2023-09-05**|**sasdim: self-adaptive noise scaling diffusion model for spatial time series imputation**|Shunyang Zhang et.al.|[2309.01988](http://arxiv.org/abs/2309.01988)|null|
+|**2023-09-05**|**Graph-Based Interaction-Aware Multimodal 2D Vehicle Trajectory Prediction using Diffusion Graph Convolutional Networks**|Keshu Wu et.al.|[2309.01981](http://arxiv.org/abs/2309.01981)|null|
+|**2023-09-05**|**Gradient Domain Diffusion Models for Image Synthesis**|Yuanhao Gong et.al.|[2309.01875](http://arxiv.org/abs/2309.01875)|null|
 |**2023-09-01**|**Iterative Multi-granular Image Editing using Diffusion Models**|K J Joseph et.al.|[2309.00613](http://arxiv.org/abs/2309.00613)|null|
 |**2023-09-01**|**Diffusion limited aggregation, resetting and large deviations of Brownian motion**|Uriel Villanueva-Alcalá et.al.|[2309.00560](http://arxiv.org/abs/2309.00560)|null|
 |**2023-09-01**|**VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation**|Xin Li et.al.|[2309.00398](http://arxiv.org/abs/2309.00398)|null|
