@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**|Yung-Sung Chuang et.al.|[2309.03883](http://arxiv.org/abs/2309.03883)|null|
+|**2023-09-07**|**Label-efficient Contrastive Learning-based model for nuclei detection and classification in 3D Cardiovascular Immunofluorescent Images**|Nazanin Moradinasab et.al.|[2309.03744](http://arxiv.org/abs/2309.03744)|null|
+|**2023-09-06**|**A Wolf 359 in sheep's clothing: Hunting for substellar companions in the fifth-closest system using combined high-contrast imaging and radial velocity analysis**|Rachel Bowens-Rubin et.al.|[2309.03402](http://arxiv.org/abs/2309.03402)|null|
+|**2023-09-06**|**Spatio-Temporal Contrastive Self-Supervised Learning for POI-level Crowd Flow Inference**|Songyu Ke et.al.|[2309.03239](http://arxiv.org/abs/2309.03239)|null|
 |**2023-09-06**|**CR-VAE: Contrastive Regularization on Variational Autoencoders for Preventing Posterior Collapse**|Fotios Lygerakis. Elmar Rueckert et.al.|[2309.02968](http://arxiv.org/abs/2309.02968)|null|
 |**2023-09-06**|**Enhancing Event Sequence Modeling with Contrastive Relational Inference**|Yan Wang et.al.|[2309.02868](http://arxiv.org/abs/2309.02868)|null|
 |**2023-09-06**|**Contrastive Learning as Kernel Approximation**|Konstantinos Christopher Tsiolis et.al.|[2309.02651](http://arxiv.org/abs/2309.02651)|null|
@@ -954,6 +958,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
+|**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
+|**2023-09-07**|**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**|Teng Hu et.al.|[2309.03729](http://arxiv.org/abs/2309.03729)|null|
+|**2023-09-07**|**DiffDefense: Defending against Adversarial Attacks via Diffusion Models**|Hondamunige Prasanna Silva et.al.|[2309.03702](http://arxiv.org/abs/2309.03702)|null|
+|**2023-09-07**|**Diffuse gamma-ray emission around the Rosette Nebula**|Jiahao Liu et.al.|[2309.03577](http://arxiv.org/abs/2309.03577)|null|
+|**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
+|**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549](http://arxiv.org/abs/2309.03549)|null|
+|**2023-09-07**|**Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy**|Yi Tang et.al.|[2309.03445](http://arxiv.org/abs/2309.03445)|null|
+|**2023-09-07**|**Mean field limits of particle-based stochastic reaction-drift-diffusion models**|Max Heldman et.al.|[2309.03431](http://arxiv.org/abs/2309.03431)|null|
+|**2023-09-06**|**Highly Controllable Diffusion-based Any-to-Any Voice Conversion Model with Frame-level Prosody Feature**|Kyungguen Byun et.al.|[2309.03364](http://arxiv.org/abs/2309.03364)|null|
 |**2023-09-06**|**Harmonic chain far from equilibrium: single-file diffusion, long-range order, and hyperuniformity**|Harukuni Ikeda et.al.|[2309.03155](http://arxiv.org/abs/2309.03155)|null|
 |**2023-09-06**|**Stochastic modelling of cosmic ray sources for diffuse high-energy gamma-rays and neutrinos**|Anton Stall et.al.|[2309.02860](http://arxiv.org/abs/2309.02860)|null|
 |**2023-09-06**|**Diffusion Model is Secretly a Training-free Open Vocabulary Semantic Segmenter**|Jinglong Wang et.al.|[2309.02773](http://arxiv.org/abs/2309.02773)|null|
