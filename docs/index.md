@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -627,7 +627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-06**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
+|**2023-09-07**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
 |**2023-09-06**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural Networks**|Daniel Levy et.al.|[2309.03139](http://arxiv.org/abs/2309.03139)|null|
 |**2023-09-06**|**Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769](http://arxiv.org/abs/2309.02769)|null|
 |**2023-09-04**|**Effective Multi-Graph Neural Networks for Illicit Account Detection on Cryptocurrency Transaction Networks**|Zhihao Ding et.al.|[2309.02460](http://arxiv.org/abs/2309.02460)|null|
