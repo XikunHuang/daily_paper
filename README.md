@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data**|Giuseppe Cartella et.al.|[2309.05551](http://arxiv.org/abs/2309.05551)|**[link](https://github.com/aimagelab/open-fashion-clip)**|
+|**2023-09-11**|**Multi-Modal Automatic Prosody Annotation with Contrastive Pretraining of SSWP**|Jinzuomu Zhong et.al.|[2309.05423](http://arxiv.org/abs/2309.05423)|null|
+|**2023-09-11**|**Graph Contextual Contrasting for Multivariate Time Series Classification**|Yucheng Wang et.al.|[2309.05202](http://arxiv.org/abs/2309.05202)|null|
+|**2023-09-10**|**Unified Contrastive Fusion Transformer for Multimodal Human Action Recognition**|Kyoung Ok Yang et.al.|[2309.05032](http://arxiv.org/abs/2309.05032)|null|
+|**2023-09-08**|**Microfabricated pinholes for high contrast imaging testbeds**|Emory L. Jenkins et.al.|[2309.04604](http://arxiv.org/abs/2309.04604)|null|
+|**2023-09-08**|**Unsupervised Gaze-aware Contrastive Learning with Subject-specific Condition**|Lingyu Du et.al.|[2309.04506](http://arxiv.org/abs/2309.04506)|null|
 |**2023-09-07**|**ConDA: Contrastive Domain Adaptation for AI-generated Text Detection**|Amrita Bhattacharjee et.al.|[2309.03992](http://arxiv.org/abs/2309.03992)|**[link](https://github.com/amritabh/conda-gen-text-detection)**|
 |**2023-09-07**|**Random Expert Sampling for Deep Learning Segmentation of Acute Ischemic Stroke on Non-contrast CT**|Sophie Ostmeier et.al.|[2309.03930](http://arxiv.org/abs/2309.03930)|null|
 |**2023-09-06**|**C-CLIP: Contrastive Image-Text Encoders to Close the Descriptive-Commentative Gap**|William Theisen et.al.|[2309.03921](http://arxiv.org/abs/2309.03921)|null|
@@ -641,7 +647,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-08**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332](http://arxiv.org/abs/2309.04332)|null|
+|**2023-09-11**|**Learning the Geodesic Embedding with Graph Neural Networks**|Bo Pang et.al.|[2309.05613](http://arxiv.org/abs/2309.05613)|null|
+|**2023-09-10**|**Spatiotemporal Graph Neural Networks with Uncertainty Quantification for Traffic Incident Risk Prediction**|Xiaowei Gao et.al.|[2309.05072](http://arxiv.org/abs/2309.05072)|**[link](https://github.com/sttdanonymous/sttd)**|
+|**2023-09-09**|**Chemical Properties from Graph Neural Network-Predicted Electron Densities**|Ethan M. Sunshine et.al.|[2309.04811](http://arxiv.org/abs/2309.04811)|null|
+|**2023-09-08**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332](http://arxiv.org/abs/2309.04332)|**[link](https://github.com/mayabechlerspeicher/Graph_Neural_Networks_Overfit_Graphs)**|
 |**2023-09-07**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|**[link](https://github.com/zhxchd/blink_gnn)**|
 |**2023-09-06**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural Networks**|Daniel Levy et.al.|[2309.03139](http://arxiv.org/abs/2309.03139)|null|
 |**2023-09-06**|**Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769](http://arxiv.org/abs/2309.02769)|null|
@@ -971,6 +980,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Diffusion-Guided Reconstruction of Everyday Hand-Object Interaction Clips**|Yufei Ye et.al.|[2309.05663](http://arxiv.org/abs/2309.05663)|null|
+|**2023-09-11**|**Anisotropic Diffusion Stencils: From Simple Derivations over Stability Estimates to ResNet Implementations**|Karl Schrader et.al.|[2309.05575](http://arxiv.org/abs/2309.05575)|null|
+|**2023-09-11**|**PAI-Diffusion: Constructing and Serving a Family of Open Chinese Diffusion Models for Text-to-image Synthesis on the Cloud**|Chengyu Wang et.al.|[2309.05534](http://arxiv.org/abs/2309.05534)|null|
+|**2023-09-11**|**Diffusion-Based Co-Speech Gesture Generation Using Joint Text and Audio Representation**|Anna Deichler et.al.|[2309.05455](http://arxiv.org/abs/2309.05455)|null|
+|**2023-09-11**|**Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction**|Qinghui Liu et.al.|[2309.05406](http://arxiv.org/abs/2309.05406)|null|
+|**2023-09-11**|**Large time behaviour of the 2D thermally non-diffusive Boussinesq equations with Navier-slip boundary conditions**|Fabian Bleitner et.al.|[2309.05400](http://arxiv.org/abs/2309.05400)|null|
+|**2023-09-11**|**Diff-Privacy: Diffusion-based Face Privacy Protection**|Xiao He et.al.|[2309.05330](http://arxiv.org/abs/2309.05330)|null|
+|**2023-09-11**|**Discrete Denoising Diffusion Approach to Integer Factorization**|Karlis Freivalds et.al.|[2309.05295](http://arxiv.org/abs/2309.05295)|**[link](https://github.com/karlisfre/diffusion-factorization)**|
+|**2023-09-10**|**Learning Energy-Based Models by Cooperative Diffusion Recovery Likelihood**|Yaxuan Zhu et.al.|[2309.05153](http://arxiv.org/abs/2309.05153)|null|
+|**2023-09-10**|**Reaction-diffusion systems derived from kinetic models for Multiple Sclerosis**|Romina Travaglini et.al.|[2309.05119](http://arxiv.org/abs/2309.05119)|null|
 |**2023-09-08**|**A search for faint resolved galaxies beyond the Milky Way in DES Year 6: A new faint, diffuse dwarf satellite of NGC 55**|M. McNanna et.al.|[2309.04467](http://arxiv.org/abs/2309.04467)|null|
 |**2023-09-08**|**Create Your World: Lifelong Text-to-Image Diffusion**|Gan Sun et.al.|[2309.04430](http://arxiv.org/abs/2309.04430)|null|
 |**2023-09-08**|**Universal diffusion of dendrimers in a semidilute solution of linear polymers**|Silpa Mariya et.al.|[2309.04290](http://arxiv.org/abs/2309.04290)|null|
