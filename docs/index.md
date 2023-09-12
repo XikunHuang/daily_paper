@@ -2,21 +2,21 @@
 layout: default
 ---
 
-## Updated on 2023.09.11
+## Updated on 2023.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-07**|**ConDA: Contrastive Domain Adaptation for AI-generated Text Detection**|Amrita Bhattacharjee et.al.|[2309.03992](http://arxiv.org/abs/2309.03992)|null|
+|**2023-09-07**|**ConDA: Contrastive Domain Adaptation for AI-generated Text Detection**|Amrita Bhattacharjee et.al.|[2309.03992](http://arxiv.org/abs/2309.03992)|**[link](https://github.com/amritabh/conda-gen-text-detection)**|
 |**2023-09-07**|**Random Expert Sampling for Deep Learning Segmentation of Acute Ischemic Stroke on Non-contrast CT**|Sophie Ostmeier et.al.|[2309.03930](http://arxiv.org/abs/2309.03930)|null|
 |**2023-09-06**|**C-CLIP: Contrastive Image-Text Encoders to Close the Descriptive-Commentative Gap**|William Theisen et.al.|[2309.03921](http://arxiv.org/abs/2309.03921)|null|
 |**2023-09-07**|**DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models**|Yung-Sung Chuang et.al.|[2309.03883](http://arxiv.org/abs/2309.03883)|**[link](https://github.com/voidism/dola)**|
 |**2023-09-08**|**Label-efficient Contrastive Learning-based model for nuclei detection and classification in 3D Cardiovascular Immunofluorescent Images**|Nazanin Moradinasab et.al.|[2309.03744](http://arxiv.org/abs/2309.03744)|null|
 |**2023-09-06**|**A Wolf 359 in sheep's clothing: Hunting for substellar companions in the fifth-closest system using combined high-contrast imaging and radial velocity analysis**|Rachel Bowens-Rubin et.al.|[2309.03402](http://arxiv.org/abs/2309.03402)|null|
 |**2023-09-06**|**Spatio-Temporal Contrastive Self-Supervised Learning for POI-level Crowd Flow Inference**|Songyu Ke et.al.|[2309.03239](http://arxiv.org/abs/2309.03239)|null|
-|**2023-09-06**|**CR-VAE: Contrastive Regularization on Variational Autoencoders for Preventing Posterior Collapse**|Fotios Lygerakis. Elmar Rueckert et.al.|[2309.02968](http://arxiv.org/abs/2309.02968)|null|
+|**2023-09-09**|**CR-VAE: Contrastive Regularization on Variational Autoencoders for Preventing Posterior Collapse**|Fotios Lygerakis et.al.|[2309.02968](http://arxiv.org/abs/2309.02968)|null|
 |**2023-09-06**|**Enhancing Event Sequence Modeling with Contrastive Relational Inference**|Yan Wang et.al.|[2309.02868](http://arxiv.org/abs/2309.02868)|null|
 |**2023-09-06**|**Contrastive Learning as Kernel Approximation**|Konstantinos Christopher Tsiolis et.al.|[2309.02651](http://arxiv.org/abs/2309.02651)|null|
 |**2023-09-05**|**Graph Self-Contrast Representation Learning**|Minjie Chen et.al.|[2309.02304](http://arxiv.org/abs/2309.02304)|null|
@@ -635,7 +635,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-08**|**Graph Neural Networks Use Graphs When They Shouldn't**|Maya Bechler-Speicher et.al.|[2309.04332](http://arxiv.org/abs/2309.04332)|null|
-|**2023-09-07**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|null|
+|**2023-09-07**|**Blink: Link Local Differential Privacy in Graph Neural Networks via Bayesian Estimation**|Xiaochen Zhu et.al.|[2309.03190](http://arxiv.org/abs/2309.03190)|**[link](https://github.com/zhxchd/blink_gnn)**|
 |**2023-09-06**|**Using Multiple Vector Channels Improves E(n)-Equivariant Graph Neural Networks**|Daniel Levy et.al.|[2309.03139](http://arxiv.org/abs/2309.03139)|null|
 |**2023-09-06**|**Unifying over-smoothing and over-squashing in graph neural networks: A physics informed approach and beyond**|Zhiqi Shao et.al.|[2309.02769](http://arxiv.org/abs/2309.02769)|null|
 |**2023-09-04**|**Effective Multi-Graph Neural Networks for Illicit Account Detection on Cryptocurrency Transaction Networks**|Zhihao Ding et.al.|[2309.02460](http://arxiv.org/abs/2309.02460)|null|
@@ -969,8 +969,8 @@ layout: default
 |**2023-09-07**|**The sine and cosine diffusive representations for the Caputo fractional derivative**|Hassan Khosravian-Arab et.al.|[2309.04005](http://arxiv.org/abs/2309.04005)|null|
 |**2023-09-07**|**DiffusionEngine: Diffusion Model is Scalable Data Engine for Object Detection**|Manlin Zhang et.al.|[2309.03893](http://arxiv.org/abs/2309.03893)|null|
 |**2023-09-07**|**Text-to-feature diffusion for audio-visual few-shot learning**|Otniel-Bogdan Mercea et.al.|[2309.03869](http://arxiv.org/abs/2309.03869)|null|
-|**2023-09-07**|**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**|Teng Hu et.al.|[2309.03729](http://arxiv.org/abs/2309.03729)|null|
-|**2023-09-07**|**DiffDefense: Defending against Adversarial Attacks via Diffusion Models**|Hondamunige Prasanna Silva et.al.|[2309.03702](http://arxiv.org/abs/2309.03702)|null|
+|**2023-09-07**|**Phasic Content Fusing Diffusion Model with Directional Distribution Consistency for Few-Shot Model Adaption**|Teng Hu et.al.|[2309.03729](http://arxiv.org/abs/2309.03729)|**[link](https://github.com/sjtuplayer/few-shot-diffusion)**|
+|**2023-09-07**|**DiffDefense: Defending against Adversarial Attacks via Diffusion Models**|Hondamunige Prasanna Silva et.al.|[2309.03702](http://arxiv.org/abs/2309.03702)|**[link](https://github.com/hondamunigeprasannasilva/diffdefence)**|
 |**2023-09-07**|**Diffuse gamma-ray emission around the Rosette Nebula**|Jiahao Liu et.al.|[2309.03577](http://arxiv.org/abs/2309.03577)|null|
 |**2023-09-07**|**Text2Control3D: Controllable 3D Avatar Generation in Neural Radiance Fields using Geometry-Guided Text-to-Image Diffusion Model**|Sungwon Hwang et.al.|[2309.03550](http://arxiv.org/abs/2309.03550)|null|
 |**2023-09-07**|**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**|Jiaxi Gu et.al.|[2309.03549](http://arxiv.org/abs/2309.03549)|null|
