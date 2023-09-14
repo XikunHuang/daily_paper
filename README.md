@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Contrastive Deep Encoding Enables Uncertainty-aware Machine-learning-assisted Histopathology**|Nirhoshan Sivaroopan et.al.|[2309.07113](http://arxiv.org/abs/2309.07113)|null|
+|**2023-09-13**|**Mitigating Hallucinations and Off-target Machine Translation with Source-Contrastive and Language-Contrastive Decoding**|Rico Sennrich et.al.|[2309.07098](http://arxiv.org/abs/2309.07098)|**[link](https://github.com/zurichnlp/contradecode)**|
+|**2023-09-13**|**Unsupervised Contrast-Consistent Ranking with Language Models**|Niklas Stoehr et.al.|[2309.06991](http://arxiv.org/abs/2309.06991)|null|
+|**2023-09-13**|**Instance Adaptive Prototypical Contrastive Embedding for Generalized Zero Shot Learning**|Riti Paul et.al.|[2309.06987](http://arxiv.org/abs/2309.06987)|null|
+|**2023-09-13**|**Contrast-Phys+: Unsupervised and Weakly-supervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast**|Zhaodong Sun et.al.|[2309.06924](http://arxiv.org/abs/2309.06924)|null|
+|**2023-09-13**|**DCTTS: Discrete Diffusion Model with Contrastive Learning for Text-to-speech Generation**|Zhichao Wu et.al.|[2309.06787](http://arxiv.org/abs/2309.06787)|null|
+|**2023-09-13**|**ConR: Contrastive Regularizer for Deep Imbalanced Regression**|Mahsa Keramati et.al.|[2309.06651](http://arxiv.org/abs/2309.06651)|**[link](https://github.com/borealisai/conr)**|
 |**2023-09-12**|**The Influence of Contrast and Temporal Expansion on the Marching-on-in-Time Contrast Current Density Volume Integral Equation**|Petrus W. N. van Diepen et.al.|[2309.06321](http://arxiv.org/abs/2309.06321)|null|
 |**2023-09-12**|**Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning**|Jingcan Duan et.al.|[2309.06034](http://arxiv.org/abs/2309.06034)|**[link](https://github.com/felixdjc/nlgad)**|
 |**2023-09-12**|**Learning from History: Task-agnostic Model Contrastive Learning for Image Restoration**|Gang Wu et.al.|[2309.06023](http://arxiv.org/abs/2309.06023)|**[link](https://github.com/aitical/task-agnostic_model_contrastive_learning_image_restoration)**|
@@ -653,6 +660,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Predicting Expressibility of Parameterized Quantum Circuits using Graph Neural Network**|Shamminuj Aktar et.al.|[2309.06975](http://arxiv.org/abs/2309.06975)|null|
+|**2023-09-13**|**Multi-behavior Recommendation with SVD Graph Neural Networks**|Shengxi Fu et.al.|[2309.06912](http://arxiv.org/abs/2309.06912)|null|
+|**2023-09-12**|**Bregman Graph Neural Network**|Jiayu Zhai et.al.|[2309.06645](http://arxiv.org/abs/2309.06645)|null|
+|**2023-09-12**|**Explainable Graph Neural Network for Alzheimer's Disease And Related Dementias Risk Prediction**|Xinyue Hu et.al.|[2309.06584](http://arxiv.org/abs/2309.06584)|null|
 |**2023-09-12**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423](http://arxiv.org/abs/2309.06423)|null|
 |**2023-09-12**|**Information Flow in Graph Neural Networks: A Clinical Triage Use Case**|Víctor Valls et.al.|[2309.06081](http://arxiv.org/abs/2309.06081)|null|
 |**2023-09-11**|**Predicting Interloper Fraction with Graph Neural Networks**|Elena Massara et.al.|[2309.05850](http://arxiv.org/abs/2309.05850)|null|
@@ -989,6 +1000,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Experimental Study on the Detection of Frozen Diffused Ammonia Blockage in the Inactive Section of a Variable Conductance Heat Pipe**|F. K. Miranda et.al.|[2309.06936](http://arxiv.org/abs/2309.06936)|null|
+|**2023-09-13**|**VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance**|Carlos Hernandez-Olivan et.al.|[2309.06934](http://arxiv.org/abs/2309.06934)|null|
+|**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933](http://arxiv.org/abs/2309.06933)|null|
+|**2023-09-13**|**DCTTS: Discrete Diffusion Model with Contrastive Learning for Text-to-speech Generation**|Zhichao Wu et.al.|[2309.06787](http://arxiv.org/abs/2309.06787)|null|
+|**2023-09-12**|**Adapt and Diffuse: Sample-adaptive Reconstruction via Latent Diffusion Models**|Zalan Fabian et.al.|[2309.06642](http://arxiv.org/abs/2309.06642)|null|
+|**2023-09-12**|**Reasoning with Latent Diffusion in Offline Reinforcement Learning**|Siddarth Venkatraman et.al.|[2309.06599](http://arxiv.org/abs/2309.06599)|null|
+|**2023-09-12**|**Efficient Post-processing of Diffusion Tensor Cardiac Magnetic Imaging Using Texture-conserving Deformable Registration**|Fanwen Wang et.al.|[2309.06598](http://arxiv.org/abs/2309.06598)|null|
 |**2023-09-12**|**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation**|Xingchao Liu et.al.|[2309.06380](http://arxiv.org/abs/2309.06380)|**[link](https://github.com/gnobitab/instaflow)**|
 |**2023-09-12**|**Dispersion versus diffusion in mixing fronts**|Gauthier Rousseau et.al.|[2309.06347](http://arxiv.org/abs/2309.06347)|null|
 |**2023-09-12**|**Fg-T2M: Fine-Grained Text-Driven Human Motion Generation via Diffusion Model**|Yin Wang et.al.|[2309.06284](http://arxiv.org/abs/2309.06284)|null|
