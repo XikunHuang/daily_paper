@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**CoLLD: Contrastive Layer-to-layer Distillation for Compressing Multilingual Pre-trained Speech Encoders**|Heng-Jui Chang et.al.|[2309.07707](http://arxiv.org/abs/2309.07707)|null|
+|**2023-09-14**|**Semi-supervised Domain Adaptation on Graphs with Contrastive Learning and Minimax Entropy**|Jiaren Xiao et.al.|[2309.07402](http://arxiv.org/abs/2309.07402)|null|
+|**2023-09-14**|**DebCSE: Rethinking Unsupervised Contrastive Sentence Embedding Learning in the Debiasing Perspective**|Pu Miao et.al.|[2309.07396](http://arxiv.org/abs/2309.07396)|null|
+|**2023-09-14**|**Hodge-Aware Contrastive Learning**|Alexander Möllers et.al.|[2309.07364](http://arxiv.org/abs/2309.07364)|null|
 |**2023-09-13**|**Contrastive Deep Encoding Enables Uncertainty-aware Machine-learning-assisted Histopathology**|Nirhoshan Sivaroopan et.al.|[2309.07113](http://arxiv.org/abs/2309.07113)|null|
 |**2023-09-13**|**Mitigating Hallucinations and Off-target Machine Translation with Source-Contrastive and Language-Contrastive Decoding**|Rico Sennrich et.al.|[2309.07098](http://arxiv.org/abs/2309.07098)|**[link](https://github.com/zurichnlp/contradecode)**|
 |**2023-09-13**|**Unsupervised Contrast-Consistent Ranking with Language Models**|Niklas Stoehr et.al.|[2309.06991](http://arxiv.org/abs/2309.06991)|null|
@@ -660,6 +664,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Is Solving Graph Neural Tangent Kernel Equivalent to Training Graph Neural Network?**|Lianke Qin et.al.|[2309.07452](http://arxiv.org/abs/2309.07452)|null|
 |**2023-09-13**|**Predicting Expressibility of Parameterized Quantum Circuits using Graph Neural Network**|Shamminuj Aktar et.al.|[2309.06975](http://arxiv.org/abs/2309.06975)|null|
 |**2023-09-13**|**Multi-behavior Recommendation with SVD Graph Neural Networks**|Shengxi Fu et.al.|[2309.06912](http://arxiv.org/abs/2309.06912)|null|
 |**2023-09-12**|**Bregman Graph Neural Network**|Jiayu Zhai et.al.|[2309.06645](http://arxiv.org/abs/2309.06645)|**[link](https://github.com/jiayuzhai1207/bregmangnn)**|
@@ -1000,6 +1005,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Large-Vocabulary 3D Diffusion Model with Transformer**|Ziang Cao et.al.|[2309.07920](http://arxiv.org/abs/2309.07920)|null|
+|**2023-09-14**|**Beta Diffusion**|Mingyuan Zhou et.al.|[2309.07867](http://arxiv.org/abs/2309.07867)|null|
+|**2023-09-14**|**EMOCONV-DIFF: Diffusion-based Speech Emotion Conversion for Non-parallel and In-the-wild Data**|Navin Raj Prabhu et.al.|[2309.07828](http://arxiv.org/abs/2309.07828)|null|
+|**2023-09-14**|**DiffTalker: Co-driven audio-image diffusion for talking faces via intermediate landmarks**|Zipeng Qi et.al.|[2309.07509](http://arxiv.org/abs/2309.07509)|null|
+|**2023-09-14**|**Oscillating-gradient spin-echo diffusion-weighted imaging (OGSE-DWI) with a limited number of oscillations: II. Asymptotics**|Jeff Kershaw et.al.|[2309.07484](http://arxiv.org/abs/2309.07484)|null|
+|**2023-09-14**|**Masked Diffusion with Task-awareness for Procedure Planning in Instructional Videos**|Fen Fang et.al.|[2309.07409](http://arxiv.org/abs/2309.07409)|**[link](https://github.com/ffzzy840304/masked-pdpp)**|
+|**2023-09-14**|**Semantic Adversarial Attacks via Diffusion Models**|Chenan Wang et.al.|[2309.07398](http://arxiv.org/abs/2309.07398)|**[link](https://github.com/steven202/semantic_adv_via_dm)**|
+|**2023-09-14**|**Theoretical prediction of diffusive ionic current through nanopores under salt gradients**|Long Ma et.al.|[2309.07389](http://arxiv.org/abs/2309.07389)|null|
+|**2023-09-13**|**A posteriori error analysis of a positivity preserving scheme for the power-law diffusion Keller-Segel model**|Jan Giesselmann et.al.|[2309.07329](http://arxiv.org/abs/2309.07329)|null|
+|**2023-09-13**|**Unbiased Face Synthesis With Diffusion Models: Are We There Yet?**|Harrison Rosenberg et.al.|[2309.07277](http://arxiv.org/abs/2309.07277)|null|
 |**2023-09-13**|**Experimental Study on the Detection of Frozen Diffused Ammonia Blockage in the Inactive Section of a Variable Conductance Heat Pipe**|F. K. Miranda et.al.|[2309.06936](http://arxiv.org/abs/2309.06936)|null|
 |**2023-09-13**|**VRDMG: Vocal Restoration via Diffusion Posterior Sampling with Multiple Guidance**|Carlos Hernandez-Olivan et.al.|[2309.06934](http://arxiv.org/abs/2309.06934)|null|
 |**2023-09-13**|**DreamStyler: Paint by Style Inversion with Text-to-Image Diffusion Models**|Namhyuk Ahn et.al.|[2309.06933](http://arxiv.org/abs/2309.06933)|null|
