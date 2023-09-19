@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Contrastive Learning for Enhancing Robust Scene Transfer in Vision-based Agile Flight**|Jiaxu Xing et.al.|[2309.09865](http://arxiv.org/abs/2309.09865)|null|
+|**2023-09-18**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
+|**2023-09-18**|**Towards Better Modeling with Missing Data: A Contrastive Learning-based Visual Analytics Perspective**|Laixin Xie et.al.|[2309.09744](http://arxiv.org/abs/2309.09744)|null|
+|**2023-09-18**|**Contrastive Learning and Data Augmentation in Traffic Classification Using a Flowpic Input Representation**|Alessandro Finamore et.al.|[2309.09733](http://arxiv.org/abs/2309.09733)|null|
+|**2023-09-18**|**Traffic Scene Similarity: a Graph-based Contrastive Learning Approach**|Maximilian Zipfl et.al.|[2309.09720](http://arxiv.org/abs/2309.09720)|null|
+|**2023-09-17**|**Contrastive Decoding Improves Reasoning in Large Language Models**|Sean O'Brien et.al.|[2309.09117](http://arxiv.org/abs/2309.09117)|null|
+|**2023-09-16**|**Enhancing GAN-Based Vocoders with Contrastive Learning Under Data-limited Condition**|Haoming Guo et.al.|[2309.09088](http://arxiv.org/abs/2309.09088)|null|
+|**2023-09-16**|**Regularized Contrastive Pre-training for Few-shot Bioacoustic Sound Detection**|Ilyass Moummad et.al.|[2309.08971](http://arxiv.org/abs/2309.08971)|null|
+|**2023-09-16**|**Leveraging Multi-lingual Positive Instances in Contrastive Learning to Improve Sentence Embedding**|Kaiyan Zhao et.al.|[2309.08929](http://arxiv.org/abs/2309.08929)|null|
+|**2023-09-16**|**GCL: Gradient-Guided Contrastive Learning for Medical Image Segmentation with Multi-Perspective Meta Labels**|Yixuan Wu et.al.|[2309.08888](http://arxiv.org/abs/2309.08888)|null|
 |**2023-09-15**|**3D Arterial Segmentation via Single 2D Projections and Depth Supervision in Contrast-Enhanced CT Images**|Alina F. Dima et.al.|[2309.08481](http://arxiv.org/abs/2309.08481)|**[link](https://github.com/alinafdima/3dseg-mip-depth)**|
 |**2023-09-15**|**Headless Language Models: Learning without Predicting with Contrastive Weight Tying**|Nathan Godey et.al.|[2309.08351](http://arxiv.org/abs/2309.08351)|null|
 |**2023-09-15**|**Supervised Stochastic Neighbor Embedding Using Contrastive Learning**|Yi Zhang et.al.|[2309.08077](http://arxiv.org/abs/2309.08077)|**[link](https://github.com/imyizhang/manifold-learn)**|
@@ -667,6 +677,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
+|**2023-09-18**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517](http://arxiv.org/abs/2309.09517)|null|
+|**2023-09-17**|**Performance of Graph Neural Networks for Point Cloud Applications**|Dhruv Parikh et.al.|[2309.09142](http://arxiv.org/abs/2309.09142)|null|
 |**2023-09-15**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach**|Karuna Bhaila et.al.|[2309.08569](http://arxiv.org/abs/2309.08569)|**[link](https://github.com/karuna-bhaila/rgnn)**|
 |**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225](http://arxiv.org/abs/2309.08225)|null|
@@ -1011,6 +1024,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968](http://arxiv.org/abs/2309.09968)|null|
+|**2023-09-18**|**Extended defects-enhanced oxygen diffusion in ThO2**|Miaomiao Jin et.al.|[2309.09952](http://arxiv.org/abs/2309.09952)|null|
+|**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944](http://arxiv.org/abs/2309.09944)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
+|**2023-09-18**|**Single and Few-step Diffusion for Generative Speech Enhancement**|Bunlong Lay et.al.|[2309.09677](http://arxiv.org/abs/2309.09677)|null|
+|**2023-09-18**|**Anomalous Diffusion of Lithium-Anion Clusters in Ionic Liquids**|YeongKyu Lee et.al.|[2309.09674](http://arxiv.org/abs/2309.09674)|null|
+|**2023-09-18**|**Speeding Up Speech Synthesis In Diffusion Models By Reducing Data Distribution Recovery Steps Via Content Transfer**|Peter Ochieng et.al.|[2309.09652](http://arxiv.org/abs/2309.09652)|null|
+|**2023-09-18**|**Gradpaint: Gradient-Guided Inpainting with Diffusion Models**|Asya Grechka et.al.|[2309.09614](http://arxiv.org/abs/2309.09614)|null|
+|**2023-09-18**|**A performance characteristic curve for model evaluation: the application in information diffusion prediction**|Wenjin Xie et.al.|[2309.09537](http://arxiv.org/abs/2309.09537)|null|
+|**2023-09-18**|**Progressive Text-to-Image Diffusion with Soft Latent Direction**|YuTeng Ye et.al.|[2309.09466](http://arxiv.org/abs/2309.09466)|**[link](https://github.com/babahui/progressive-text-to-image)**|
+|**2023-09-17**|**Delivering Broadband Light Deep Inside Diffusive Media**|Rohin McIntosh et.al.|[2309.09376](http://arxiv.org/abs/2309.09376)|null|
 |**2023-09-15**|**Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications**|Mehdi Letafati et.al.|[2309.08568](http://arxiv.org/abs/2309.08568)|null|
 |**2023-09-15**|**Generalised Probabilistic Diffusion Scale-Spaces**|Pascal Peter et.al.|[2309.08511](http://arxiv.org/abs/2309.08511)|null|
 |**2023-09-15**|**Diffuse-illumination holographic optical coherence tomography**|Léo Puyo et.al.|[2309.08486](http://arxiv.org/abs/2309.08486)|null|
