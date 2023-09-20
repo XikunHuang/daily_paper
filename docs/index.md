@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task Learning**|Jia Luo Peng et.al.|[2309.10641](http://arxiv.org/abs/2309.10641)|**[link](https://github.com/garynlfd/kfc)**|
+|**2023-09-19**|**A Cognitively-Inspired Neural Architecture for Visual Abstract Reasoning Using Contrastive Perceptual and Conceptual Processing**|Yuan Yang et.al.|[2309.10532](http://arxiv.org/abs/2309.10532)|null|
+|**2023-09-19**|**Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks**|Hao Liu et.al.|[2309.10376](http://arxiv.org/abs/2309.10376)|**[link](https://github.com/haoliu-cola/cola)**|
 |**2023-09-18**|**Contrastive Learning for Enhancing Robust Scene Transfer in Vision-based Agile Flight**|Jiaxu Xing et.al.|[2309.09865](http://arxiv.org/abs/2309.09865)|null|
 |**2023-09-18**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
 |**2023-09-18**|**Towards Better Modeling with Missing Data: A Contrastive Learning-based Visual Analytics Perspective**|Laixin Xie et.al.|[2309.09744](http://arxiv.org/abs/2309.09744)|null|
@@ -670,6 +673,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Graph Neural Networks for Dynamic Modeling of Roller Bearing**|Vinay Sharma et.al.|[2309.10418](http://arxiv.org/abs/2309.10418)|null|
+|**2023-09-18**|**Asynchronous Perception-Action-Communication with Graph Neural Networks**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
 |**2023-09-19**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517](http://arxiv.org/abs/2309.09517)|null|
 |**2023-09-17**|**Performance of Graph Neural Networks for Point Cloud Applications**|Dhruv Parikh et.al.|[2309.09142](http://arxiv.org/abs/2309.09142)|null|
@@ -1015,6 +1020,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
+|**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810](http://arxiv.org/abs/2309.10810)|**[link](https://github.com/pq-yang/pgdiff)**|
+|**2023-09-19**|**Accelerating Diffusion-Based Text-to-Audio Generation with Consistency Distillation**|Yatong Bai et.al.|[2309.10740](http://arxiv.org/abs/2309.10740)|null|
+|**2023-09-19**|**Reconstruct-and-Generate Diffusion Model for Detail-Preserving Image Denoising**|Yujin Wang et.al.|[2309.10714](http://arxiv.org/abs/2309.10714)|null|
+|**2023-09-19**|**Unbiased Parameter Estimation for Partially Observed Diffusions**|Elsiddig Awadelkarim et.al.|[2309.10589](http://arxiv.org/abs/2309.10589)|null|
+|**2023-09-19**|**Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion**|Zhilun Zhou et.al.|[2309.10547](http://arxiv.org/abs/2309.10547)|**[link](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)**|
+|**2023-09-19**|**Learning End-to-End Channel Coding with Diffusion Models**|Muah Kim et.al.|[2309.10505](http://arxiv.org/abs/2309.10505)|null|
+|**2023-09-19**|**Diffusion-based speech enhancement with a weighted generative-supervised learning loss**|Jean-Eudes Ayilo et.al.|[2309.10457](http://arxiv.org/abs/2309.10457)|null|
+|**2023-09-19**|**Unsupervised speech enhancement with diffusion-based generative models**|Berné Nortier et.al.|[2309.10450](http://arxiv.org/abs/2309.10450)|**[link](https://github.com/sp-uhh/sgmse)**|
+|**2023-09-19**|**AutoDiffusion: Training-Free Optimization of Time Steps and Architectures for Automated Diffusion Model Acceleration**|Lijiang Li et.al.|[2309.10438](http://arxiv.org/abs/2309.10438)|null|
 |**2023-09-18**|**Generating and Imputing Tabular Data via Diffusion and Flow-based Gradient-Boosted Trees**|Alexia Jolicoeur-Martineau et.al.|[2309.09968](http://arxiv.org/abs/2309.09968)|null|
 |**2023-09-18**|**Extended defects-enhanced oxygen diffusion in ThO2**|Miaomiao Jin et.al.|[2309.09952](http://arxiv.org/abs/2309.09952)|null|
 |**2023-09-18**|**What is a Fair Diffusion Model? Designing Generative Text-To-Image Models to Incorporate Various Worldviews**|Zoe De Simone et.al.|[2309.09944](http://arxiv.org/abs/2309.09944)|**[link](https://github.com/zoedesimone/diffusionworldviewer)**|
