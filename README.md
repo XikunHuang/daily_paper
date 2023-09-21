@@ -1,4 +1,4 @@
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,11 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-19**|**KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task Learning**|Jia Luo Peng et.al.|[2309.10641](http://arxiv.org/abs/2309.10641)|**[link](https://github.com/garynlfd/kfc)**|
+|**2023-09-20**|**KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task Learning**|Jia Luo Peng et.al.|[2309.10641](http://arxiv.org/abs/2309.10641)|**[link](https://github.com/garynlfd/kfc)**|
 |**2023-09-19**|**A Cognitively-Inspired Neural Architecture for Visual Abstract Reasoning Using Contrastive Perceptual and Conceptual Processing**|Yuan Yang et.al.|[2309.10532](http://arxiv.org/abs/2309.10532)|null|
 |**2023-09-19**|**Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks**|Hao Liu et.al.|[2309.10376](http://arxiv.org/abs/2309.10376)|**[link](https://github.com/haoliu-cola/cola)**|
 |**2023-09-18**|**Contrastive Learning for Enhancing Robust Scene Transfer in Vision-based Agile Flight**|Jiaxu Xing et.al.|[2309.09865](http://arxiv.org/abs/2309.09865)|null|
-|**2023-09-18**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
+|**2023-09-20**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
 |**2023-09-18**|**Towards Better Modeling with Missing Data: A Contrastive Learning-based Visual Analytics Perspective**|Laixin Xie et.al.|[2309.09744](http://arxiv.org/abs/2309.09744)|null|
 |**2023-09-18**|**Contrastive Learning and Data Augmentation in Traffic Classification Using a Flowpic Input Representation**|Alessandro Finamore et.al.|[2309.09733](http://arxiv.org/abs/2309.09733)|null|
 |**2023-09-18**|**Traffic Scene Similarity: a Graph-based Contrastive Learning Approach**|Maximilian Zipfl et.al.|[2309.09720](http://arxiv.org/abs/2309.09720)|null|
@@ -674,7 +674,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## GNN
 
@@ -1023,7 +1023,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1871,5 +1871,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 

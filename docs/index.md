@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-19**|**KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task Learning**|Jia Luo Peng et.al.|[2309.10641](http://arxiv.org/abs/2309.10641)|**[link](https://github.com/garynlfd/kfc)**|
+|**2023-09-20**|**KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task Learning**|Jia Luo Peng et.al.|[2309.10641](http://arxiv.org/abs/2309.10641)|**[link](https://github.com/garynlfd/kfc)**|
 |**2023-09-19**|**A Cognitively-Inspired Neural Architecture for Visual Abstract Reasoning Using Contrastive Perceptual and Conceptual Processing**|Yuan Yang et.al.|[2309.10532](http://arxiv.org/abs/2309.10532)|null|
 |**2023-09-19**|**Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks**|Hao Liu et.al.|[2309.10376](http://arxiv.org/abs/2309.10376)|**[link](https://github.com/haoliu-cola/cola)**|
 |**2023-09-18**|**Contrastive Learning for Enhancing Robust Scene Transfer in Vision-based Agile Flight**|Jiaxu Xing et.al.|[2309.09865](http://arxiv.org/abs/2309.09865)|null|
-|**2023-09-18**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
+|**2023-09-20**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
 |**2023-09-18**|**Towards Better Modeling with Missing Data: A Contrastive Learning-based Visual Analytics Perspective**|Laixin Xie et.al.|[2309.09744](http://arxiv.org/abs/2309.09744)|null|
 |**2023-09-18**|**Contrastive Learning and Data Augmentation in Traffic Classification Using a Flowpic Input Representation**|Alessandro Finamore et.al.|[2309.09733](http://arxiv.org/abs/2309.09733)|null|
 |**2023-09-18**|**Traffic Scene Similarity: a Graph-based Contrastive Learning Approach**|Maximilian Zipfl et.al.|[2309.09720](http://arxiv.org/abs/2309.09720)|null|
