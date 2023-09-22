@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,10 +10,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
-|**2023-09-20**|**Contrastive Pseudo Learning for Open-World DeepFake Attribution**|Zhimin Sun et.al.|[2309.11132](http://arxiv.org/abs/2309.11132)|null|
+|**2023-09-20**|**Contrastive Pseudo Learning for Open-World DeepFake Attribution**|Zhimin Sun et.al.|[2309.11132](http://arxiv.org/abs/2309.11132)|**[link](https://github.com/TencentYoutuResearch/OpenWorld-DeepFakeAttribution)**|
 |**2023-09-20**|**Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning**|Chen Jiang et.al.|[2309.11082](http://arxiv.org/abs/2309.11082)|null|
 |**2023-09-20**|**KFC: Kinship Verification with Fair Contrastive Loss and Multi-Task Learning**|Jia Luo Peng et.al.|[2309.10641](http://arxiv.org/abs/2309.10641)|**[link](https://github.com/garynlfd/kfc)**|
-|**2023-09-19**|**A Cognitively-Inspired Neural Architecture for Visual Abstract Reasoning Using Contrastive Perceptual and Conceptual Processing**|Yuan Yang et.al.|[2309.10532](http://arxiv.org/abs/2309.10532)|null|
+|**2023-09-21**|**A Cognitively-Inspired Neural Architecture for Visual Abstract Reasoning Using Contrastive Perceptual and Conceptual Processing**|Yuan Yang et.al.|[2309.10532](http://arxiv.org/abs/2309.10532)|null|
 |**2023-09-19**|**Graph Contrastive Learning Meets Graph Meta Learning: A Unified Method for Few-shot Node Tasks**|Hao Liu et.al.|[2309.10376](http://arxiv.org/abs/2309.10376)|**[link](https://github.com/haoliu-cola/cola)**|
 |**2023-09-18**|**Contrastive Learning for Enhancing Robust Scene Transfer in Vision-based Agile Flight**|Jiaxu Xing et.al.|[2309.09865](http://arxiv.org/abs/2309.09865)|null|
 |**2023-09-20**|**Contrastive Initial State Buffer for Reinforcement Learning**|Nico Messikommer et.al.|[2309.09752](http://arxiv.org/abs/2309.09752)|null|
@@ -676,12 +676,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-20**|**Improving Article Classification with Edge-Heterogeneous Graph Neural Networks**|Khang Ly et.al.|[2309.11341](http://arxiv.org/abs/2309.11341)|null|
+|**2023-09-20**|**Improving Article Classification with Edge-Heterogeneous Graph Neural Networks**|Khang Ly et.al.|[2309.11341](http://arxiv.org/abs/2309.11341)|**[link](https://github.com/lyvykhang/edgehetero-nodeproppred)**|
 |**2023-09-20**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph Neural Networks**|Puja Trivedi et.al.|[2309.10976](http://arxiv.org/abs/2309.10976)|null|
 |**2023-09-19**|**Graph Neural Networks for Dynamic Modeling of Roller Bearing**|Vinay Sharma et.al.|[2309.10418](http://arxiv.org/abs/2309.10418)|null|
 |**2023-09-18**|**Asynchronous Perception-Action-Communication with Graph Neural Networks**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934](http://arxiv.org/abs/2309.09934)|null|
-|**2023-09-19**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517](http://arxiv.org/abs/2309.09517)|null|
+|**2023-09-21**|**FedGKD: Unleashing the Power of Collaboration in Federated Graph Neural Networks**|Qiying Pan et.al.|[2309.09517](http://arxiv.org/abs/2309.09517)|null|
 |**2023-09-17**|**Performance of Graph Neural Networks for Point Cloud Applications**|Dhruv Parikh et.al.|[2309.09142](http://arxiv.org/abs/2309.09142)|null|
 |**2023-09-15**|**Local Differential Privacy in Graph Neural Networks: a Reconstruction Approach**|Karuna Bhaila et.al.|[2309.08569](http://arxiv.org/abs/2309.08569)|**[link](https://github.com/karuna-bhaila/rgnn)**|
 |**2023-09-15**|**VulnSense: Efficient Vulnerability Detection in Ethereum Smart Contracts by Multimodal Learning with Graph Neural Network and Language Model**|Phan The Duy et.al.|[2309.08474](http://arxiv.org/abs/2309.08474)|null|
@@ -1029,8 +1029,8 @@ layout: default
 |**2023-09-20**|**On the diffusion approximation of the stationary radiative transfer equation with absorption and emission**|Elena Demattè et.al.|[2309.11437](http://arxiv.org/abs/2309.11437)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
 |**2023-09-20**|**EDMP: Ensemble-of-costs-guided Diffusion for Motion Planning**|Kallol Saha et.al.|[2309.11414](http://arxiv.org/abs/2309.11414)|null|
-|**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321](http://arxiv.org/abs/2309.11321)|null|
-|**2023-09-20**|**FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion**|Stefan Stan et.al.|[2309.11306](http://arxiv.org/abs/2309.11306)|null|
+|**2023-09-20**|**Face Aging via Diffusion-based Editing**|Xiangyi Chen et.al.|[2309.11321](http://arxiv.org/abs/2309.11321)|**[link](https://github.com/MunchkinChen/FADING)**|
+|**2023-09-20**|**FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion**|Stefan Stan et.al.|[2309.11306](http://arxiv.org/abs/2309.11306)|**[link](https://github.com/uuembodiedsocialai/FaceDiffuser)**|
 |**2023-09-20**|**PSDiff: Diffusion Model for Person Search with Iterative and Collaborative Refinement**|Chengyou Jia et.al.|[2309.11125](http://arxiv.org/abs/2309.11125)|null|
 |**2023-09-19**|**Assessing the capacity of a denoising diffusion probabilistic model to reproduce spatial context**|Rucha Deshpande et.al.|[2309.10817](http://arxiv.org/abs/2309.10817)|null|
 |**2023-09-19**|**PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance**|Peiqing Yang et.al.|[2309.10810](http://arxiv.org/abs/2309.10810)|**[link](https://github.com/pq-yang/pgdiff)**|
