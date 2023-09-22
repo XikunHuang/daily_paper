@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**TalkNCE: Improving Active Speaker Detection with Talk-Aware Contrastive Learning**|Chaeyoung Jung et.al.|[2309.12306](http://arxiv.org/abs/2309.12306)|null|
+|**2023-09-21**|**Self-Supervised Contrastive Learning for Robust Audio-Sheet Music Retrieval Systems**|Luis Carvalho et.al.|[2309.12134](http://arxiv.org/abs/2309.12134)|null|
+|**2023-09-21**|**Multi-contrast x-ray identification of inhomogeneous materials and their discrimination through deep learning approaches**|Thomas Partridge et.al.|[2309.11943](http://arxiv.org/abs/2309.11943)|null|
+|**2023-09-21**|**Audio Contrastive based Fine-tuning**|Yang Wang et.al.|[2309.11895](http://arxiv.org/abs/2309.11895)|null|
+|**2023-09-21**|**Multi-level Asymmetric Contrastive Learning for Medical Image Segmentation Pre-training**|Shuang Zeng et.al.|[2309.11876](http://arxiv.org/abs/2309.11876)|null|
+|**2023-09-21**|**BitCoin: Bidirectional Tagging and Supervised Contrastive Learning based Joint Relational Triple Extraction Framework**|Luyao He et.al.|[2309.11853](http://arxiv.org/abs/2309.11853)|null|
+|**2023-09-21**|**DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning**|Thanh Nguyen et.al.|[2309.11782](http://arxiv.org/abs/2309.11782)|null|
+|**2023-09-21**|**A class-weighted supervised contrastive learning long-tailed bearing fault diagnosis approach using quadratic neural network**|Wei-En Yu et.al.|[2309.11717](http://arxiv.org/abs/2309.11717)|**[link](https://github.com/yuweien1120/CCQNet)**|
+|**2023-09-20**|**Semi-supervised News Discourse Profiling with Contrastive Learning**|Ming Li et.al.|[2309.11692](http://arxiv.org/abs/2309.11692)|null|
 |**2023-09-20**|**Long-tail Augmented Graph Contrastive Learning for Recommendation**|Qian Zhao et.al.|[2309.11177](http://arxiv.org/abs/2309.11177)|**[link](https://github.com/im0qianqian/LAGCL)**|
 |**2023-09-20**|**Contrastive Pseudo Learning for Open-World DeepFake Attribution**|Zhimin Sun et.al.|[2309.11132](http://arxiv.org/abs/2309.11132)|**[link](https://github.com/TencentYoutuResearch/OpenWorld-DeepFakeAttribution)**|
 |**2023-09-20**|**Dual-Modal Attention-Enhanced Text-Video Retrieval with Triplet Partial Margin Contrastive Learning**|Chen Jiang et.al.|[2309.11082](http://arxiv.org/abs/2309.11082)|null|
@@ -683,6 +692,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856](http://arxiv.org/abs/2309.11856)|**[link](https://github.com/saintslab/i-exact)**|
+|**2023-09-17**|**Towards Differential Privacy in Sequential Recommendation: A Noisy Graph Neural Network Approach**|Wentao Hu et.al.|[2309.11515](http://arxiv.org/abs/2309.11515)|null|
 |**2023-09-20**|**Improving Article Classification with Edge-Heterogeneous Graph Neural Networks**|Khang Ly et.al.|[2309.11341](http://arxiv.org/abs/2309.11341)|**[link](https://github.com/lyvykhang/edgehetero-nodeproppred)**|
 |**2023-09-20**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph Neural Networks**|Puja Trivedi et.al.|[2309.10976](http://arxiv.org/abs/2309.10976)|null|
 |**2023-09-19**|**Graph Neural Networks for Dynamic Modeling of Roller Bearing**|Vinay Sharma et.al.|[2309.10418](http://arxiv.org/abs/2309.10418)|null|
@@ -1034,6 +1045,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283](http://arxiv.org/abs/2309.12283)|null|
+|**2023-09-21**|**Wavelet-based Edge Multiscale Finite Element Methods for Singularly Perturbed Convection-Diffusion Equations**|Shubin Fu et.al.|[2309.12108](http://arxiv.org/abs/2309.12108)|null|
+|**2023-09-21**|**WALLABY Pre-Pilot Survey: Ultra-Diffuse Galaxies in the Eridanus Supergroup**|B. -Q. For et.al.|[2309.11799](http://arxiv.org/abs/2309.11799)|null|
+|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-20**|**On the diffusion approximation of the stationary radiative transfer equation with absorption and emission**|Elena Demattè et.al.|[2309.11437](http://arxiv.org/abs/2309.11437)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
