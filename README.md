@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where**|Zhi-Yi Chin et.al.|[2309.12757](http://arxiv.org/abs/2309.12757)|null|
+|**2023-09-22**|**Dimensional analysis identifies contrasting dynamics of past climate states and critical transitions**|Tommaso Alberti et.al.|[2309.12693](http://arxiv.org/abs/2309.12693)|null|
+|**2023-09-21**|**SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap**|Daehee Kim et.al.|[2309.12382](http://arxiv.org/abs/2309.12382)|null|
 |**2023-09-21**|**TalkNCE: Improving Active Speaker Detection with Talk-Aware Contrastive Learning**|Chaeyoung Jung et.al.|[2309.12306](http://arxiv.org/abs/2309.12306)|null|
 |**2023-09-21**|**Self-Supervised Contrastive Learning for Robust Audio-Sheet Music Retrieval Systems**|Luis Carvalho et.al.|[2309.12134](http://arxiv.org/abs/2309.12134)|null|
 |**2023-09-21**|**Multi-contrast x-ray identification of inhomogeneous materials and their discrimination through deep learning approaches**|Thomas Partridge et.al.|[2309.11943](http://arxiv.org/abs/2309.11943)|null|
@@ -692,6 +695,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
 |**2023-09-21**|**Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856](http://arxiv.org/abs/2309.11856)|**[link](https://github.com/saintslab/i-exact)**|
 |**2023-09-17**|**Towards Differential Privacy in Sequential Recommendation: A Noisy Graph Neural Network Approach**|Wentao Hu et.al.|[2309.11515](http://arxiv.org/abs/2309.11515)|null|
 |**2023-09-20**|**Improving Article Classification with Edge-Heterogeneous Graph Neural Networks**|Khang Ly et.al.|[2309.11341](http://arxiv.org/abs/2309.11341)|**[link](https://github.com/lyvykhang/edgehetero-nodeproppred)**|
@@ -1045,6 +1049,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
+|**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
+|**2023-09-21**|**A Diffusion-Model of Joint Interactive Navigation**|Matthew Niedoba et.al.|[2309.12508](http://arxiv.org/abs/2309.12508)|null|
+|**2023-09-21**|**License Plate Super-Resolution Using Diffusion Models**|Sawsan AlHalawani et.al.|[2309.12506](http://arxiv.org/abs/2309.12506)|null|
 |**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283](http://arxiv.org/abs/2309.12283)|null|
 |**2023-09-21**|**Wavelet-based Edge Multiscale Finite Element Methods for Singularly Perturbed Convection-Diffusion Equations**|Shubin Fu et.al.|[2309.12108](http://arxiv.org/abs/2309.12108)|null|
 |**2023-09-21**|**WALLABY Pre-Pilot Survey: Ultra-Diffuse Galaxies in the Eridanus Supergroup**|B. -Q. For et.al.|[2309.11799](http://arxiv.org/abs/2309.11799)|null|
