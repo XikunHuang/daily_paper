@@ -1,4 +1,4 @@
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |**2023-09-21**|**TalkNCE: Improving Active Speaker Detection with Talk-Aware Contrastive Learning**|Chaeyoung Jung et.al.|[2309.12306](http://arxiv.org/abs/2309.12306)|null|
 |**2023-09-21**|**Self-Supervised Contrastive Learning for Robust Audio-Sheet Music Retrieval Systems**|Luis Carvalho et.al.|[2309.12134](http://arxiv.org/abs/2309.12134)|null|
 |**2023-09-21**|**Multi-contrast x-ray identification of inhomogeneous materials and their discrimination through deep learning approaches**|Thomas Partridge et.al.|[2309.11943](http://arxiv.org/abs/2309.11943)|null|
-|**2023-09-21**|**Audio Contrastive based Fine-tuning**|Yang Wang et.al.|[2309.11895](http://arxiv.org/abs/2309.11895)|null|
+|**2023-09-22**|**Audio Contrastive based Fine-tuning**|Yang Wang et.al.|[2309.11895](http://arxiv.org/abs/2309.11895)|null|
 |**2023-09-21**|**Multi-level Asymmetric Contrastive Learning for Medical Image Segmentation Pre-training**|Shuang Zeng et.al.|[2309.11876](http://arxiv.org/abs/2309.11876)|null|
 |**2023-09-21**|**BitCoin: Bidirectional Tagging and Supervised Contrastive Learning based Joint Relational Triple Extraction Framework**|Luyao He et.al.|[2309.11853](http://arxiv.org/abs/2309.11853)|null|
 |**2023-09-21**|**DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning**|Thanh Nguyen et.al.|[2309.11782](http://arxiv.org/abs/2309.11782)|null|
@@ -686,7 +686,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## GNN
 
@@ -1039,7 +1039,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1898,5 +1898,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 

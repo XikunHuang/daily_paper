@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -12,7 +12,7 @@ layout: default
 |**2023-09-21**|**TalkNCE: Improving Active Speaker Detection with Talk-Aware Contrastive Learning**|Chaeyoung Jung et.al.|[2309.12306](http://arxiv.org/abs/2309.12306)|null|
 |**2023-09-21**|**Self-Supervised Contrastive Learning for Robust Audio-Sheet Music Retrieval Systems**|Luis Carvalho et.al.|[2309.12134](http://arxiv.org/abs/2309.12134)|null|
 |**2023-09-21**|**Multi-contrast x-ray identification of inhomogeneous materials and their discrimination through deep learning approaches**|Thomas Partridge et.al.|[2309.11943](http://arxiv.org/abs/2309.11943)|null|
-|**2023-09-21**|**Audio Contrastive based Fine-tuning**|Yang Wang et.al.|[2309.11895](http://arxiv.org/abs/2309.11895)|null|
+|**2023-09-22**|**Audio Contrastive based Fine-tuning**|Yang Wang et.al.|[2309.11895](http://arxiv.org/abs/2309.11895)|null|
 |**2023-09-21**|**Multi-level Asymmetric Contrastive Learning for Medical Image Segmentation Pre-training**|Shuang Zeng et.al.|[2309.11876](http://arxiv.org/abs/2309.11876)|null|
 |**2023-09-21**|**BitCoin: Bidirectional Tagging and Supervised Contrastive Learning based Joint Relational Triple Extraction Framework**|Luyao He et.al.|[2309.11853](http://arxiv.org/abs/2309.11853)|null|
 |**2023-09-21**|**DimCL: Dimensional Contrastive Learning For Improving Self-Supervised Learning**|Thanh Nguyen et.al.|[2309.11782](http://arxiv.org/abs/2309.11782)|null|
