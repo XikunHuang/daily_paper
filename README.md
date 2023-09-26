@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Calibration-based Dual Prototypical Contrastive Learning Approach for Domain Generalization Semantic Segmentation**|Muxin Liao et.al.|[2309.14282](http://arxiv.org/abs/2309.14282)|null|
+|**2023-09-25**|**SINCERE: Supervised Information Noise-Contrastive Estimation REvisited**|Patrick Feeney et.al.|[2309.14277](http://arxiv.org/abs/2309.14277)|**[link](https://github.com/tufts-ml/supcontrast)**|
+|**2023-09-25**|**Mitigating Worst-Case Exozodiacal Dust Structure in High-contrast Images of Earth-like Exoplanets**|Miles H. Currie et.al.|[2309.14234](http://arxiv.org/abs/2309.14234)|null|
+|**2023-09-25**|**Provable Training for Graph Contrastive Learning**|Yue Yu et.al.|[2309.13944](http://arxiv.org/abs/2309.13944)|**[link](https://github.com/voidharuhi/pot-gcl)**|
+|**2023-09-25**|**Fill the K-Space and Refine the Image: Prompting for Dynamic and Multi-Contrast MRI Reconstruction**|Bingyu Xin et.al.|[2309.13839](http://arxiv.org/abs/2309.13839)|null|
+|**2023-09-25**|**PARTICLE: Part Discovery and Contrastive Learning for Fine-grained Recognition**|Oindrila Saha et.al.|[2309.13822](http://arxiv.org/abs/2309.13822)|null|
+|**2023-09-24**|**Time-resolved laser speckle contrast imaging (TR-LSCI) of cerebral blood flow**|Faraneh Fathi et.al.|[2309.13527](http://arxiv.org/abs/2309.13527)|null|
+|**2023-09-23**|**Finding Order in Chaos: A Novel Data Augmentation Method for Time Series in Contrastive Learning**|Berken Utku Demirel et.al.|[2309.13439](http://arxiv.org/abs/2309.13439)|null|
+|**2023-09-23**|**On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation**|Haibo Ye et.al.|[2309.13384](http://arxiv.org/abs/2309.13384)|null|
+|**2023-09-23**|**Generative Retrieval with Semantic Tree-Structured Item Identifiers via Contrastive Learning**|Zihua Si et.al.|[2309.13375](http://arxiv.org/abs/2309.13375)|null|
 |**2023-09-22**|**Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where**|Zhi-Yi Chin et.al.|[2309.12757](http://arxiv.org/abs/2309.12757)|null|
 |**2023-09-22**|**Dimensional analysis identifies contrasting dynamics of past climate states and critical transitions**|Tommaso Alberti et.al.|[2309.12693](http://arxiv.org/abs/2309.12693)|null|
 |**2023-09-21**|**SCOB: Universal Text Understanding via Character-wise Supervised Contrastive Learning with Online Text Rendering for Bridging Domain Gap**|Daehee Kim et.al.|[2309.12382](http://arxiv.org/abs/2309.12382)|null|
@@ -695,6 +705,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**HiGNN-TTS: Hierarchical Prosody Modeling with Graph Neural Networks for Expressive Long-form TTS**|Dake Guo et.al.|[2309.13907](http://arxiv.org/abs/2309.13907)|null|
+|**2023-09-23**|**A Model-Agnostic Graph Neural Network for Integrating Local and Global Information**|Wenzhuo Zhou et.al.|[2309.13459](http://arxiv.org/abs/2309.13459)|null|
 |**2023-09-22**|**Graph Neural Network for Stress Predictions in Stiffened Panels Under Uniform Loading**|Yuecheng Cai et.al.|[2309.13022](http://arxiv.org/abs/2309.13022)|null|
 |**2023-09-21**|**Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization**|Sebastian Eliassen et.al.|[2309.11856](http://arxiv.org/abs/2309.11856)|**[link](https://github.com/saintslab/i-exact)**|
 |**2023-09-17**|**Towards Differential Privacy in Sequential Recommendation: A Noisy Graph Neural Network Approach**|Wentao Hu et.al.|[2309.11515](http://arxiv.org/abs/2309.11515)|null|
@@ -1049,6 +1061,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
+|**2023-09-25**|**Diffusion metamaterials for plasma transport**|Fubao Yang et.al.|[2309.13875](http://arxiv.org/abs/2309.13875)|null|
+|**2023-09-25**|**Diffusion Conditional Expectation Model for Efficient and Robust Target Speech Extraction**|Leying Zhang et.al.|[2309.13874](http://arxiv.org/abs/2309.13874)|null|
+|**2023-09-25**|**Observing parity-time symmetry in diffusive systems**|Pei-Chao Cao et.al.|[2309.13818](http://arxiv.org/abs/2309.13818)|null|
+|**2023-09-24**|**Beginner's guide to Aggregation-Diffusion Equations**|David Gómez-Castro et.al.|[2309.13713](http://arxiv.org/abs/2309.13713)|null|
+|**2023-09-24**|**Bayesian Parameter Inference for Partially Observed Diffusions using Multilevel Stochastic Runge-Kutta Methods**|Pierre Del Moral et.al.|[2309.13557](http://arxiv.org/abs/2309.13557)|null|
+|**2023-09-23**|**Dream the Impossible: Outlier Imagination with Diffusion Models**|Xuefeng Du et.al.|[2309.13415](http://arxiv.org/abs/2309.13415)|null|
+|**2023-09-23**|**A note on nonlinear diffusive equations on Poincaré half plane**|Roberto Garra et.al.|[2309.13400](http://arxiv.org/abs/2309.13400)|null|
+|**2023-09-23**|**Independent projections of diffusions: Gradient flows for variational inference and optimal mean field approximations**|Daniel Lacker et.al.|[2309.13332](http://arxiv.org/abs/2309.13332)|null|
 |**2023-09-22**|**MosaicFusion: Diffusion Models as Data Augmenters for Large Vocabulary Instance Segmentation**|Jiahao Xie et.al.|[2309.13042](http://arxiv.org/abs/2309.13042)|**[link](https://github.com/jiahao000/mosaicfusion)**|
 |**2023-09-22**|**Diffusion Augmentation for Sequential Recommendation**|Qidong Liu et.al.|[2309.12858](http://arxiv.org/abs/2309.12858)|null|
 |**2023-09-21**|**A Diffusion-Model of Joint Interactive Navigation**|Matthew Niedoba et.al.|[2309.12508](http://arxiv.org/abs/2309.12508)|null|
