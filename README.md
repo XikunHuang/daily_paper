@@ -1,4 +1,4 @@
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -689,7 +689,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
 
 ## GNN
 
@@ -1043,7 +1043,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1056,7 +1056,7 @@
 |**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283](http://arxiv.org/abs/2309.12283)|null|
 |**2023-09-21**|**Wavelet-based Edge Multiscale Finite Element Methods for Singularly Perturbed Convection-Diffusion Equations**|Shubin Fu et.al.|[2309.12108](http://arxiv.org/abs/2309.12108)|null|
 |**2023-09-21**|**WALLABY Pre-Pilot Survey: Ultra-Diffuse Galaxies in the Eridanus Supergroup**|B. -Q. For et.al.|[2309.11799](http://arxiv.org/abs/2309.11799)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
+|**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-20**|**On the diffusion approximation of the stationary radiative transfer equation with absorption and emission**|Elena Demattè et.al.|[2309.11437](http://arxiv.org/abs/2309.11437)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
@@ -1906,5 +1906,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1047,7 +1047,7 @@ layout: default
 |**2023-09-21**|**Performance Conditioning for Diffusion-Based Multi-Instrument Music Synthesis**|Ben Maman et.al.|[2309.12283](http://arxiv.org/abs/2309.12283)|null|
 |**2023-09-21**|**Wavelet-based Edge Multiscale Finite Element Methods for Singularly Perturbed Convection-Diffusion Equations**|Shubin Fu et.al.|[2309.12108](http://arxiv.org/abs/2309.12108)|null|
 |**2023-09-21**|**WALLABY Pre-Pilot Survey: Ultra-Diffuse Galaxies in the Eridanus Supergroup**|B. -Q. For et.al.|[2309.11799](http://arxiv.org/abs/2309.11799)|null|
-|**2023-09-20**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
+|**2023-09-24**|**Latent Diffusion Models for Structural Component Design**|Ethan Herron et.al.|[2309.11601](http://arxiv.org/abs/2309.11601)|null|
 |**2023-09-20**|**FreeU: Free Lunch in Diffusion U-Net**|Chenyang Si et.al.|[2309.11497](http://arxiv.org/abs/2309.11497)|null|
 |**2023-09-20**|**On the diffusion approximation of the stationary radiative transfer equation with absorption and emission**|Elena Demattè et.al.|[2309.11437](http://arxiv.org/abs/2309.11437)|null|
 |**2023-09-20**|**Deep Networks as Denoising Algorithms: Sample-Efficient Learning of Diffusion Models in High-Dimensional Graphical Models**|Song Mei et.al.|[2309.11420](http://arxiv.org/abs/2309.11420)|null|
