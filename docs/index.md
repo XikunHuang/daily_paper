@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1056,7 +1056,7 @@ layout: default
 |**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
 |**2023-09-25**|**Diffusion metamaterials for plasma transport**|Fubao Yang et.al.|[2309.13875](http://arxiv.org/abs/2309.13875)|null|
 |**2023-09-25**|**Diffusion Conditional Expectation Model for Efficient and Robust Target Speech Extraction**|Leying Zhang et.al.|[2309.13874](http://arxiv.org/abs/2309.13874)|null|
-|**2023-09-25**|**Observing parity-time symmetry in diffusive systems**|Pei-Chao Cao et.al.|[2309.13818](http://arxiv.org/abs/2309.13818)|null|
+|**2023-09-26**|**Observing parity-time symmetry in diffusive systems**|Pei-Chao Cao et.al.|[2309.13818](http://arxiv.org/abs/2309.13818)|null|
 |**2023-09-24**|**Beginner's guide to Aggregation-Diffusion Equations**|David Gómez-Castro et.al.|[2309.13713](http://arxiv.org/abs/2309.13713)|null|
 |**2023-09-24**|**Bayesian Parameter Inference for Partially Observed Diffusions using Multilevel Stochastic Runge-Kutta Methods**|Pierre Del Moral et.al.|[2309.13557](http://arxiv.org/abs/2309.13557)|null|
 |**2023-09-23**|**Dream the Impossible: Outlier Imagination with Diffusion Models**|Xuefeng Du et.al.|[2309.13415](http://arxiv.org/abs/2309.13415)|null|
