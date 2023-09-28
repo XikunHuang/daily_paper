@@ -14,7 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-26**|**HPCR: Holistic Proxy-based Contrastive Replay for Online Continual Learning**|Huiwei Lin et.al.|[2309.15038](http://arxiv.org/abs/2309.15038)|null|
+|**2023-09-27**|**Transferability of Representations Learned using Supervised Contrastive Learning Trained on a Multi-Domain Dataset**|Alvin De Jun Tan et.al.|[2309.15486](http://arxiv.org/abs/2309.15486)|null|
+|**2023-09-27**|**Inherit with Distillation and Evolve with Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory**|Danpei Zhao et.al.|[2309.15413](http://arxiv.org/abs/2309.15413)|null|
+|**2023-09-26**|**STANCE-C3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation**|Nayoung Kim et.al.|[2309.15176](http://arxiv.org/abs/2309.15176)|null|
+|**2023-09-26**|**Contrastive Continual Multi-view Clustering with Filtered Structural Fusion**|Xinhang Wan et.al.|[2309.15135](http://arxiv.org/abs/2309.15135)|null|
+|**2023-09-26**|**HPCR: Holistic Proxy-based Contrastive Replay for Online Continual Learning**|Huiwei Lin et.al.|[2309.15038](http://arxiv.org/abs/2309.15038)|**[link](https://github.com/felixhuiweilin/pcr)**|
 |**2023-09-26**|**Synchrotron X-ray phase-contrast imaging of ultrasonic drop atomization**|Anunay Prasanna et.al.|[2309.15012](http://arxiv.org/abs/2309.15012)|null|
 |**2023-09-27**|**Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning**|Jizhe Zhou et.al.|[2309.14900](http://arxiv.org/abs/2309.14900)|**[link](https://github.com/knightzjz/ncl-iml)**|
 |**2023-09-26**|**CWCL: Cross-Modal Transfer with Continuously Weighted Contrastive Loss**|Rakshith Sharma Srinivasa et.al.|[2309.14580](http://arxiv.org/abs/2309.14580)|null|
@@ -709,6 +713,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728](http://arxiv.org/abs/2309.15728)|null|
+|**2023-09-27**|**GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network**|Kaiyuan Zhang et.al.|[2309.15515](http://arxiv.org/abs/2309.15515)|**[link](https://github.com/miracle-2001/gnn4eeg)**|
+|**2023-09-27**|**Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks**|Xibai Lou et.al.|[2309.15378](http://arxiv.org/abs/2309.15378)|null|
 |**2023-09-26**|**Graph Neural Network Based Method for Path Planning Problem**|Xingrong Diao et.al.|[2309.14845](http://arxiv.org/abs/2309.14845)|null|
 |**2023-09-26**|**A Comparative Study of Population-Graph Construction Methods and Graph Neural Networks for Brain Age Regression**|Kyriaki-Margarita Bintsi et.al.|[2309.14816](http://arxiv.org/abs/2309.14816)|**[link](https://github.com/bintsi/brain-age-population-graphs)**|
 |**2023-09-26**|**XGV-BERT: Leveraging Contextualized Language Model and Graph Neural Network for Efficient Software Vulnerability Detection**|Vu Le Anh Quan et.al.|[2309.14677](http://arxiv.org/abs/2309.14677)|null|
@@ -1068,6 +1075,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842](http://arxiv.org/abs/2309.15842)|null|
+|**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
+|**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726](http://arxiv.org/abs/2309.15726)|null|
+|**2023-09-27**|**Large deviations for trajectory observables of diffusion processes in dimension $d>1$ in the double limit of large time and small diffusion coefficient**|Cecile Monthus et.al.|[2309.15542](http://arxiv.org/abs/2309.15542)|null|
+|**2023-09-27**|**High-Fidelity Speech Synthesis with Minimal Supervision: All Using Diffusion Models**|Chunyu Qiang et.al.|[2309.15512](http://arxiv.org/abs/2309.15512)|null|
+|**2023-09-27**|**LD4MRec: Simplifying and Powering Diffusion Model for Multimedia Recommendation**|Penghang Yu et.al.|[2309.15363](http://arxiv.org/abs/2309.15363)|null|
+|**2023-09-27**|**Structural identifiability analysis of linear reaction-advection-diffusion processes in mathematical biology**|Alexander P Browning et.al.|[2309.15326](http://arxiv.org/abs/2309.15326)|null|
+|**2023-09-26**|**Maximum Diffusion Reinforcement Learning**|Thomas A. Berrueta et.al.|[2309.15293](http://arxiv.org/abs/2309.15293)|**[link](https://github.com/murpheylab/maxdiffrl)**|
+|**2023-09-26**|**Learning Using Generated Privileged Information by Text-to-Image Diffusion Models**|Rafael-Edy Menadil et.al.|[2309.15238](http://arxiv.org/abs/2309.15238)|null|
+|**2023-09-26**|**Tensor-valued and frequency-dependent diffusion MRI and magnetization transfer saturation MRI evolution during adult mouse brain maturation**|Naila Rahman et.al.|[2309.15202](http://arxiv.org/abs/2309.15202)|null|
 |**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
 |**2023-09-26**|**Diffusion-based Holistic Texture Rectification and Synthesis**|Guoqing Hao et.al.|[2309.14759](http://arxiv.org/abs/2309.14759)|null|
 |**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756](http://arxiv.org/abs/2309.14756)|null|
