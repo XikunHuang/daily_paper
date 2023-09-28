@@ -1,4 +1,4 @@
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 |**2023-09-26**|**HPCR: Holistic Proxy-based Contrastive Replay for Online Continual Learning**|Huiwei Lin et.al.|[2309.15038](http://arxiv.org/abs/2309.15038)|null|
 |**2023-09-26**|**Synchrotron X-ray phase-contrast imaging of ultrasonic drop atomization**|Anunay Prasanna et.al.|[2309.15012](http://arxiv.org/abs/2309.15012)|null|
-|**2023-09-26**|**Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning**|Jizhe Zhou et.al.|[2309.14900](http://arxiv.org/abs/2309.14900)|**[link](https://github.com/knightzjz/ncl-iml)**|
+|**2023-09-27**|**Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning**|Jizhe Zhou et.al.|[2309.14900](http://arxiv.org/abs/2309.14900)|**[link](https://github.com/knightzjz/ncl-iml)**|
 |**2023-09-26**|**CWCL: Cross-Modal Transfer with Continuously Weighted Contrastive Loss**|Rakshith Sharma Srinivasa et.al.|[2309.14580](http://arxiv.org/abs/2309.14580)|null|
 |**2023-09-25**|**Calibration-based Dual Prototypical Contrastive Learning Approach for Domain Generalization Semantic Segmentation**|Muxin Liao et.al.|[2309.14282](http://arxiv.org/abs/2309.14282)|null|
 |**2023-09-25**|**SINCERE: Supervised Information Noise-Contrastive Estimation REvisited**|Patrick Feeney et.al.|[2309.14277](http://arxiv.org/abs/2309.14277)|**[link](https://github.com/tufts-ml/supcontrast)**|
@@ -703,7 +703,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 ## GNN
 
@@ -1062,20 +1062,20 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-26**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
+|**2023-09-27**|**LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models**|Yaohui Wang et.al.|[2309.15103](http://arxiv.org/abs/2309.15103)|null|
 |**2023-09-26**|**Diffusion-based Holistic Texture Rectification and Synthesis**|Guoqing Hao et.al.|[2309.14759](http://arxiv.org/abs/2309.14759)|null|
 |**2023-09-26**|**On quantifying and improving realism of images generated with diffusion**|Yunzhuo Chen et.al.|[2309.14756](http://arxiv.org/abs/2309.14756)|null|
 |**2023-09-26**|**Text-image guided Diffusion Model for generating Deepfake celebrity interactions**|Yunzhuo Chen et.al.|[2309.14751](http://arxiv.org/abs/2309.14751)|null|
 |**2023-09-26**|**Bootstrap Diffusion Model Curve Estimation for High Resolution Low-Light Image Enhancement**|Jiancheng Huang et.al.|[2309.14709](http://arxiv.org/abs/2309.14709)|null|
 |**2023-09-25**|**Diffusion and interaction effects on molecular release from collapsed microgels**|Adri Escañuela-Copado et.al.|[2309.14536](http://arxiv.org/abs/2309.14536)|null|
 |**2023-09-25**|**Multiple Noises in Diffusion Model for Semi-Supervised Multi-Domain Translation**|Tsiry Mayet et.al.|[2309.14394](http://arxiv.org/abs/2309.14394)|null|
-|**2023-09-25**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
+|**2023-09-27**|**Dataset Diffusion: Diffusion-based Synthetic Dataset Generation for Pixel-Level Semantic Segmentation**|Quang Nguyen et.al.|[2309.14303](http://arxiv.org/abs/2309.14303)|null|
 |**2023-09-25**|**Soft Mixture Denoising: Beyond the Expressive Bottleneck of Diffusion Models**|Yangming Li et.al.|[2309.14068](http://arxiv.org/abs/2309.14068)|null|
 |**2023-09-25**|**Diffusion metamaterials for plasma transport**|Fubao Yang et.al.|[2309.13875](http://arxiv.org/abs/2309.13875)|null|
 |**2023-09-25**|**Diffusion Conditional Expectation Model for Efficient and Robust Target Speech Extraction**|Leying Zhang et.al.|[2309.13874](http://arxiv.org/abs/2309.13874)|null|
@@ -1942,5 +1942,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
 
