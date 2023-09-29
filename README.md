@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Class Activation Map-based Weakly supervised Hemorrhage Segmentation using Resnet-LSTM in Non-Contrast Computed Tomography images**|Shreyas H Ramananda et.al.|[2309.16627](http://arxiv.org/abs/2309.16627)|null|
+|**2023-09-28**|**Accurate and lightweight dehazing via multi-receptive-field non-local network and novel contrastive regularization**|Zewei He et.al.|[2309.16494](http://arxiv.org/abs/2309.16494)|null|
+|**2023-09-28**|**ACT2G: Attention-based Contrastive Learning for Text-to-Gesture Generation**|Hitoshi Teshima et.al.|[2309.16162](http://arxiv.org/abs/2309.16162)|null|
+|**2023-09-28**|**A dual-branch model with inter- and intra-branch contrastive loss for long-tailed recognition**|Qiong Chen et.al.|[2309.16135](http://arxiv.org/abs/2309.16135)|null|
+|**2023-09-28**|**Feature Normalization Prevents Collapse of Non-contrastive Learning Dynamics**|Han Bao et.al.|[2309.16109](http://arxiv.org/abs/2309.16109)|null|
+|**2023-09-28**|**Task-Oriented Koopman-Based Control with Contrastive Encoder**|Xubo Lyu et.al.|[2309.16077](http://arxiv.org/abs/2309.16077)|null|
+|**2023-09-27**|**Exploring Self-Supervised Contrastive Learning of Spatial Sound Event Representation**|Xilin Jiang et.al.|[2309.15938](http://arxiv.org/abs/2309.15938)|null|
 |**2023-09-27**|**Transferability of Representations Learned using Supervised Contrastive Learning Trained on a Multi-Domain Dataset**|Alvin De Jun Tan et.al.|[2309.15486](http://arxiv.org/abs/2309.15486)|null|
 |**2023-09-27**|**Inherit with Distillation and Evolve with Contrast: Exploring Class Incremental Semantic Segmentation Without Exemplar Memory**|Danpei Zhao et.al.|[2309.15413](http://arxiv.org/abs/2309.15413)|null|
 |**2023-09-26**|**STANCE-C3: Domain-adaptive Cross-target Stance Detection via Contrastive Learning and Counterfactual Generation**|Nayoung Kim et.al.|[2309.15176](http://arxiv.org/abs/2309.15176)|null|
@@ -713,6 +720,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**MHG-GNN: Combination of Molecular Hypergraph Grammar with Graph Neural Network**|Akihiro Kishimoto et.al.|[2309.16374](http://arxiv.org/abs/2309.16374)|null|
+|**2023-09-28**|**GInX-Eval: Towards In-Distribution Evaluation of Graph Neural Network Explanations**|Kenza Amara et.al.|[2309.16223](http://arxiv.org/abs/2309.16223)|null|
+|**2023-09-27**|**GNNHLS: Evaluating Graph Neural Network Inference via High-Level Synthesis**|Chenfeng Zhao et.al.|[2309.16022](http://arxiv.org/abs/2309.16022)|**[link](https://github.com/chenfengzhao/gnnhls)**|
 |**2023-09-27**|**Line Graph Neural Networks for Link Weight Prediction**|Jinbi Liang et.al.|[2309.15728](http://arxiv.org/abs/2309.15728)|null|
 |**2023-09-27**|**GNN4EEG: A Benchmark and Toolkit for Electroencephalography Classification with Graph Neural Network**|Kaiyuan Zhang et.al.|[2309.15515](http://arxiv.org/abs/2309.15515)|**[link](https://github.com/miracle-2001/gnn4eeg)**|
 |**2023-09-27**|**Adversarial Object Rearrangement in Constrained Environments with Heterogeneous Graph Neural Networks**|Xibai Lou et.al.|[2309.15378](http://arxiv.org/abs/2309.15378)|null|
@@ -1075,6 +1085,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Diffusion coefficients preserving long-time correlations: Consequences on the Einstein relation and on entanglement in a bosonic Bogoliubov system**|Yamen Hamdouni et.al.|[2309.16651](http://arxiv.org/abs/2309.16651)|null|
+|**2023-09-28**|**The steady states of positive reaction-diffusion equations with Dirichlet conditions**|Henri Berestycki et.al.|[2309.16642](http://arxiv.org/abs/2309.16642)|null|
+|**2023-09-28**|**CCEdit: Creative and Controllable Video Editing via Diffusion Models**|Ruoyu Feng et.al.|[2309.16496](http://arxiv.org/abs/2309.16496)|null|
+|**2023-09-28**|**Distilling ODE Solvers of Diffusion Models into Smaller Steps**|Sanghwan Kim et.al.|[2309.16421](http://arxiv.org/abs/2309.16421)|null|
+|**2023-09-28**|**Excursion theory for the Wright-Fisher diffusion**|Paul A. Jenkins et.al.|[2309.16271](http://arxiv.org/abs/2309.16271)|null|
+|**2023-09-28**|**QonFusion -- Quantum Approaches to Gaussian Random Variables: Applications in Stable Diffusion and Brownian Motion**|Shlomo Kashani et.al.|[2309.16258](http://arxiv.org/abs/2309.16258)|**[link](https://github.com/BoltzmannEntropy/QonFusion)**|
+|**2023-09-28**|**Long time behavior of the field-road diffusion model: an entropy method and a finite volume scheme**|Matthieu Alfaro et.al.|[2309.16242](http://arxiv.org/abs/2309.16242)|null|
+|**2023-09-28**|**Pressure-induced one-dimensional oxygen ion diffusion channel in lead-apatite**|Ri He et.al.|[2309.16218](http://arxiv.org/abs/2309.16218)|null|
+|**2023-09-28**|**DiffGAN-F2S: Symmetric and Efficient Denoising Diffusion GANs for Structural Connectivity Prediction from Brain fMRI**|Qiankun Zuo et.al.|[2309.16205](http://arxiv.org/abs/2309.16205)|null|
+|**2023-09-28**|**A priori and a posteriori error analysis for a VEM discretization of the convection-diffusion eigenvalue problem**|Danilo Amigo et.al.|[2309.16084](http://arxiv.org/abs/2309.16084)|null|
 |**2023-09-27**|**Exploiting the Signal-Leak Bias in Diffusion Models**|Martin Nicolas Everaert et.al.|[2309.15842](http://arxiv.org/abs/2309.15842)|null|
 |**2023-09-27**|**Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation**|David Junhao Zhang et.al.|[2309.15818](http://arxiv.org/abs/2309.15818)|**[link](https://github.com/showlab/show-1)**|
 |**2023-09-27**|**Factorized Diffusion Architectures for Unsupervised Image Generation and Segmentation**|Xin Yuan et.al.|[2309.15726](http://arxiv.org/abs/2309.15726)|null|
