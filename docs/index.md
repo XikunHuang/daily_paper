@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263](http://arxiv.org/abs/2310.02263)|null|
+|**2023-10-03**|**Understanding Masked Autoencoders From a Local Contrastive Perspective**|Xiaoyu Yue et.al.|[2310.01994](http://arxiv.org/abs/2310.01994)|null|
+|**2023-10-03**|**OOD Aware Supervised Contrastive Learning**|Soroush Seifi et.al.|[2310.01942](http://arxiv.org/abs/2310.01942)|null|
+|**2023-10-03**|**Improving style transfer in dynamic contrast enhanced MRI using a spatio-temporal approach**|Adam G. Tattersall et.al.|[2310.01908](http://arxiv.org/abs/2310.01908)|null|
+|**2023-10-02**|**An Investigation of Representation and Allocation Harms in Contrastive Learning**|Subha Maity et.al.|[2310.01583](http://arxiv.org/abs/2310.01583)|**[link](https://github.com/smaityumich/cl-representation-harm)**|
+|**2023-10-02**|**Tuning ultrasmall theranostic nanoparticles for MRI contrast and radiation dose amplification**|Needa Brown et.al.|[2310.01179](http://arxiv.org/abs/2310.01179)|null|
+|**2023-10-02**|**All by Myself: Learning Individualized Competitive Behaviour with a Contrastive Reinforcement Learning optimization**|Pablo Barros et.al.|[2310.00964](http://arxiv.org/abs/2310.00964)|null|
+|**2023-10-02**|**Engineering the Neural Collapse Geometry of Supervised-Contrastive Loss**|Jaidev Gill et.al.|[2310.00893](http://arxiv.org/abs/2310.00893)|null|
+|**2023-10-02**|**Empirical Contrast Model for High-Contrast Imaging -- A VLT/SPHERE Case Study**|Benjamin Courtney-Barre et.al.|[2310.00882](http://arxiv.org/abs/2310.00882)|null|
+|**2023-10-01**|**TDCGL: Two-Level Debiased Contrastive Graph Learning for Recommendation**|Yubo Gao et.al.|[2310.00569](http://arxiv.org/abs/2310.00569)|null|
 |**2023-09-29**|**Experimental demonstration of spectral linear dark field control at NASA's high contrast imaging testbeds**|Phillip K. Poon et.al.|[2309.17449](http://arxiv.org/abs/2309.17449)|null|
 |**2023-09-28**|**3D-Mol: A Novel Contrastive Learning Framework for Molecular Property Prediction with 3D Information**|Taojie Kuang et.al.|[2309.17366](http://arxiv.org/abs/2309.17366)|null|
 |**2023-09-29**|**Aligning the Capabilities of Large Language Models with the Context of Information Retrieval via Contrastive Feedback**|Qian Dong et.al.|[2309.17078](http://arxiv.org/abs/2309.17078)|null|
@@ -717,6 +727,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152](http://arxiv.org/abs/2310.02152)|null|
+|**2023-10-03**|**Controlling Topic-Focus Articulation in Meaning-to-Text Generation using Graph Neural Networks**|Chunliu Wang et.al.|[2310.02053](http://arxiv.org/abs/2310.02053)|null|
+|**2023-10-03**|**SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering**|Bruno Souza et.al.|[2310.01842](http://arxiv.org/abs/2310.01842)|null|
+|**2023-10-03**|**Towards Robust Fidelity for Evaluating Explainability of Graph Neural Networks**|Xu Zheng et.al.|[2310.01820](http://arxiv.org/abs/2310.01820)|null|
+|**2023-10-02**|**Cooperative Graph Neural Networks**|Ben Finkelshtein et.al.|[2310.01267](http://arxiv.org/abs/2310.01267)|null|
+|**2023-10-02**|**NP $^2$ L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks**|Xinjie Shen et.al.|[2310.01098](http://arxiv.org/abs/2310.01098)|null|
+|**2023-10-02**|**Distilling Influences to Mitigate Prediction Churn in Graph Neural Networks**|Andreas Roth et.al.|[2310.00946](http://arxiv.org/abs/2310.00946)|null|
+|**2023-10-02**|**Integration of Graph Neural Network and Neural-ODEs for Tumor Dynamic Prediction**|Omid Bazgir et.al.|[2310.00926](http://arxiv.org/abs/2310.00926)|null|
+|**2023-10-01**|**GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation**|Mingxuan Ju et.al.|[2310.00800](http://arxiv.org/abs/2310.00800)|null|
+|**2023-10-01**|**Physics-Informed Graph Neural Network for Dynamic Reconfiguration of Power Systems**|Jules Authier et.al.|[2310.00728](http://arxiv.org/abs/2310.00728)|null|
 |**2023-10-02**|**Learning Decentralized Flocking Controllers with Spatio-Temporal Graph Neural Network**|Siji Chen et.al.|[2309.17437](http://arxiv.org/abs/2309.17437)|null|
 |**2023-09-29**|**Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417](http://arxiv.org/abs/2309.17417)|**[link](https://github.com/arjunsubramonian/link_bias_amplification)**|
 |**2023-09-29**|**Meta-Path Learning for Multi-relational Graph Neural Networks**|Francesco Ferrini et.al.|[2309.17113](http://arxiv.org/abs/2309.17113)|**[link](https://github.com/francescoferrini/multirelationalgnn)**|
@@ -1085,6 +1105,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
+|**2023-10-03**|**Leveraging Diffusion Disentangled Representations to Mitigate Shortcuts in Underspecified Visual Tasks**|Luca Scimeca et.al.|[2310.02230](http://arxiv.org/abs/2310.02230)|null|
+|**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060](http://arxiv.org/abs/2310.02060)|null|
+|**2023-10-03**|**AlignDiff: Aligning Diverse Human Preferences via Behavior-Customisable Diffusion Model**|Zibin Dong et.al.|[2310.02054](http://arxiv.org/abs/2310.02054)|null|
+|**2023-10-03**|**SMRD: SURE-based Robust MRI Reconstruction with Diffusion Models**|Batu Ozturkler et.al.|[2310.01799](http://arxiv.org/abs/2310.01799)|**[link](https://github.com/batuozt/smrd)**|
+|**2023-10-03**|**Backdiff: a diffusion model for generalized transferable protein backmapping**|Yikai Liu et.al.|[2310.01768](http://arxiv.org/abs/2310.01768)|null|
+|**2023-10-02**|**Transcending Domains through Text-to-Image Diffusion: A Source-Free Approach to Domain Adaptation**|Shivang Chopra et.al.|[2310.01701](http://arxiv.org/abs/2310.01701)|null|
+|**2023-10-02**|**DANI: Fast Diffusion Aware Network Inference with Preserving Topological Structure Property**|Maryam Ramezani et.al.|[2310.01696](http://arxiv.org/abs/2310.01696)|**[link](https://github.com/aryanahadinia/dani)**|
+|**2023-10-02**|**Forecasting Tropical Cyclones with Cascaded Diffusion Models**|Pritthijit Nath et.al.|[2310.01690](http://arxiv.org/abs/2310.01690)|**[link](https://github.com/nathzi1505/forecast-diffmodels)**|
+|**2023-10-02**|**Score dynamics: scaling molecular dynamics with picosecond timesteps via conditional diffusion model**|Tim Hsu et.al.|[2310.01678](http://arxiv.org/abs/2310.01678)|null|
 |**2023-09-29**|**Are Odd Radio Circles virial shocks around massive galaxies? Implications for cosmic-ray diffusion in the circumgalactic medium**|Shotaro Yamasaki et.al.|[2309.17451](http://arxiv.org/abs/2309.17451)|null|
 |**2023-10-02**|**LLM-grounded Video Diffusion Models**|Long Lian et.al.|[2309.17444](http://arxiv.org/abs/2309.17444)|null|
 |**2023-09-29**|**Directly Fine-Tuning Diffusion Models on Differentiable Rewards**|Kevin Clark et.al.|[2309.17400](http://arxiv.org/abs/2309.17400)|null|
