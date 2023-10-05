@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -735,7 +735,7 @@ layout: default
 |**2023-10-02**|**NP $^2$ L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks**|Xinjie Shen et.al.|[2310.01098](http://arxiv.org/abs/2310.01098)|null|
 |**2023-10-02**|**Distilling Influences to Mitigate Prediction Churn in Graph Neural Networks**|Andreas Roth et.al.|[2310.00946](http://arxiv.org/abs/2310.00946)|null|
 |**2023-10-02**|**Integration of Graph Neural Network and Neural-ODEs for Tumor Dynamic Prediction**|Omid Bazgir et.al.|[2310.00926](http://arxiv.org/abs/2310.00926)|null|
-|**2023-10-01**|**GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation**|Mingxuan Ju et.al.|[2310.00800](http://arxiv.org/abs/2310.00800)|null|
+|**2023-10-01**|**GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation**|Mingxuan Ju et.al.|[2310.00800](http://arxiv.org/abs/2310.00800)|**[link](https://github.com/jumxglhf/graphpatcher)**|
 |**2023-10-01**|**Physics-Informed Graph Neural Network for Dynamic Reconfiguration of Power Systems**|Jules Authier et.al.|[2310.00728](http://arxiv.org/abs/2310.00728)|null|
 |**2023-10-02**|**Learning Decentralized Flocking Controllers with Spatio-Temporal Graph Neural Network**|Siji Chen et.al.|[2309.17437](http://arxiv.org/abs/2309.17437)|null|
 |**2023-09-29**|**Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417](http://arxiv.org/abs/2309.17417)|**[link](https://github.com/arjunsubramonian/link_bias_amplification)**|

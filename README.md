@@ -1,4 +1,4 @@
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -728,7 +728,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## GNN
 
@@ -742,7 +742,7 @@
 |**2023-10-02**|**NP $^2$ L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks**|Xinjie Shen et.al.|[2310.01098](http://arxiv.org/abs/2310.01098)|null|
 |**2023-10-02**|**Distilling Influences to Mitigate Prediction Churn in Graph Neural Networks**|Andreas Roth et.al.|[2310.00946](http://arxiv.org/abs/2310.00946)|null|
 |**2023-10-02**|**Integration of Graph Neural Network and Neural-ODEs for Tumor Dynamic Prediction**|Omid Bazgir et.al.|[2310.00926](http://arxiv.org/abs/2310.00926)|null|
-|**2023-10-01**|**GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation**|Mingxuan Ju et.al.|[2310.00800](http://arxiv.org/abs/2310.00800)|null|
+|**2023-10-01**|**GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation**|Mingxuan Ju et.al.|[2310.00800](http://arxiv.org/abs/2310.00800)|**[link](https://github.com/jumxglhf/graphpatcher)**|
 |**2023-10-01**|**Physics-Informed Graph Neural Network for Dynamic Reconfiguration of Power Systems**|Jules Authier et.al.|[2310.00728](http://arxiv.org/abs/2310.00728)|null|
 |**2023-10-02**|**Learning Decentralized Flocking Controllers with Spatio-Temporal Graph Neural Network**|Siji Chen et.al.|[2309.17437](http://arxiv.org/abs/2309.17437)|null|
 |**2023-09-29**|**Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction**|Arjun Subramonian et.al.|[2309.17417](http://arxiv.org/abs/2309.17417)|**[link](https://github.com/arjunsubramonian/link_bias_amplification)**|
@@ -1108,7 +1108,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2028,5 +2028,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231004>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
 
