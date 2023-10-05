@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Continual Contrastive Spoken Language Understanding**|Umberto Cappellazzo et.al.|[2310.02699](http://arxiv.org/abs/2310.02699)|null|
+|**2023-10-04**|**Top-k contrast order-preserving pattern mining for time series classification**|Youxi Wu et.al.|[2310.02612](http://arxiv.org/abs/2310.02612)|null|
 |**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263](http://arxiv.org/abs/2310.02263)|null|
 |**2023-10-03**|**Understanding Masked Autoencoders From a Local Contrastive Perspective**|Xiaoyu Yue et.al.|[2310.01994](http://arxiv.org/abs/2310.01994)|null|
 |**2023-10-03**|**OOD Aware Supervised Contrastive Learning**|Soroush Seifi et.al.|[2310.01942](http://arxiv.org/abs/2310.01942)|null|
@@ -734,6 +736,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
+|**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774](http://arxiv.org/abs/2310.02774)|null|
+|**2023-10-04**|**Learning adjacency matrix for dynamic graph neural network**|Osama Ahmad et.al.|[2310.02606](http://arxiv.org/abs/2310.02606)|null|
+|**2023-10-04**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600](http://arxiv.org/abs/2310.02600)|**[link](https://github.com/msainsburydale/neuralestimatorsgnn)**|
+|**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|null|
+|**2023-10-04**|**Stand for Something or Fall for Everything: Predict Misinformation Spread with Stance-Aware Graph Neural Networks**|Zihan Chen et.al.|[2310.02568](http://arxiv.org/abs/2310.02568)|null|
+|**2023-10-03**|**EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations**|Vaibhav Bihani et.al.|[2310.02428](http://arxiv.org/abs/2310.02428)|null|
+|**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
 |**2023-10-03**|**Graph Neural Network-based EEG Classification: A Survey**|Dominik Klepl et.al.|[2310.02152](http://arxiv.org/abs/2310.02152)|null|
 |**2023-10-03**|**Controlling Topic-Focus Articulation in Meaning-to-Text Generation using Graph Neural Networks**|Chunliu Wang et.al.|[2310.02053](http://arxiv.org/abs/2310.02053)|null|
 |**2023-10-03**|**SelfGraphVQA: A Self-Supervised Graph Neural Network for Scene-based Question Answering**|Bruno Souza et.al.|[2310.01842](http://arxiv.org/abs/2310.01842)|null|
@@ -1114,6 +1124,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
+|**2023-10-04**|**Local Max-Entropy and Free Energy Principles, Belief Diffusions and their Singularities**|Olivier Peltre et.al.|[2310.02946](http://arxiv.org/abs/2310.02946)|null|
+|**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
+|**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848](http://arxiv.org/abs/2310.02848)|null|
+|**2023-10-04**|**High order numerical methods based on quadratic spline collocation method and averaged L1 scheme for the variable-order time fractional mobile/immobile diffusion equation**|Xiao Ye et.al.|[2310.02775](http://arxiv.org/abs/2310.02775)|null|
+|**2023-10-04**|**Robust Tracking for a 3D Diffusion Equation: Controlling Seismicity Rate in Geothermal Reservoirs**|Diego Gutierrez-Oribio et.al.|[2310.02700](http://arxiv.org/abs/2310.02700)|null|
+|**2023-10-04**|**Diffusion Generative Flow Samplers: Improving learning signals through partial trajectory optimization**|Dinghuai Zhang et.al.|[2310.02679](http://arxiv.org/abs/2310.02679)|null|
+|**2023-10-04**|**On Memorization in Diffusion Models**|Xiangming Gu et.al.|[2310.02664](http://arxiv.org/abs/2310.02664)|null|
+|**2023-10-04**|**SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D**|Weiyu Li et.al.|[2310.02596](http://arxiv.org/abs/2310.02596)|null|
+|**2023-10-04**|**Generalization in diffusion models arises from geometry-adaptive harmonic representation**|Zahra Kadkhodaie et.al.|[2310.02557](http://arxiv.org/abs/2310.02557)|null|
 |**2023-10-03**|**Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models**|Huaijin Pi et.al.|[2310.02242](http://arxiv.org/abs/2310.02242)|null|
 |**2023-10-03**|**Leveraging Diffusion Disentangled Representations to Mitigate Shortcuts in Underspecified Visual Tasks**|Luca Scimeca et.al.|[2310.02230](http://arxiv.org/abs/2310.02230)|null|
 |**2023-10-03**|**Global Attractor for a Reaction-Diffusion Model Arising in Biological Dynamic in 3D Soil Structure**|Mohamed Elghandouri et.al.|[2310.02060](http://arxiv.org/abs/2310.02060)|null|
