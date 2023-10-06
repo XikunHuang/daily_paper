@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Data-driven design of multilayer hyperbolic metamaterials for near-field thermal radiative modulator with high modulation contrast**|Tuwei Liao et.al.|[2310.03633](http://arxiv.org/abs/2310.03633)|null|
+|**2023-10-05**|**Robust Representation Learning via Asymmetric Negative Contrast and Reverse Attention**|Nuoyan Zhou et.al.|[2310.03358](http://arxiv.org/abs/2310.03358)|**[link](https://github.com/changzhang777/ancra)**|
+|**2023-10-05**|**Certifiably Robust Graph Contrastive Learning**|Minhua Lin et.al.|[2310.03312](http://arxiv.org/abs/2310.03312)|null|
 |**2023-10-04**|**Continual Contrastive Spoken Language Understanding**|Umberto Cappellazzo et.al.|[2310.02699](http://arxiv.org/abs/2310.02699)|null|
 |**2023-10-04**|**Top-k contrast order-preserving pattern mining for time series classification**|Youxi Wu et.al.|[2310.02612](http://arxiv.org/abs/2310.02612)|null|
 |**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263](http://arxiv.org/abs/2310.02263)|null|
@@ -729,11 +732,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399](http://arxiv.org/abs/2310.03399)|**[link](https://github.com/dfdazac/grapes)**|
 |**2023-10-05**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
 |**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774](http://arxiv.org/abs/2310.02774)|null|
 |**2023-10-04**|**Learning adjacency matrix for dynamic graph neural network**|Osama Ahmad et.al.|[2310.02606](http://arxiv.org/abs/2310.02606)|null|
 |**2023-10-04**|**Neural Bayes Estimators for Irregular Spatial Data using Graph Neural Networks**|Matthew Sainsbury-Dale et.al.|[2310.02600](http://arxiv.org/abs/2310.02600)|**[link](https://github.com/msainsburydale/neuralestimatorsgnn)**|
-|**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|null|
+|**2023-10-04**|**On the Stability of Expressive Positional Encodings for Graph Neural Networks**|Yinan Huang et.al.|[2310.02579](http://arxiv.org/abs/2310.02579)|**[link](https://github.com/Graph-COM/SPE)**|
 |**2023-10-04**|**Stand for Something or Fall for Everything: Predict Misinformation Spread with Stance-Aware Graph Neural Networks**|Zihan Chen et.al.|[2310.02568](http://arxiv.org/abs/2310.02568)|null|
 |**2023-10-03**|**EGraFFBench: Evaluation of Equivariant Graph Neural Network Force Fields for Atomistic Simulations**|Vaibhav Bihani et.al.|[2310.02428](http://arxiv.org/abs/2310.02428)|null|
 |**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
@@ -1115,8 +1119,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
+|**2023-10-05**|**Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator**|Junqing Ji et.al.|[2310.03642](http://arxiv.org/abs/2310.03642)|null|
+|**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502](http://arxiv.org/abs/2310.03502)|null|
+|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420](http://arxiv.org/abs/2310.03420)|null|
+|**2023-10-05**|**Realistic Speech-to-Face Generation with Speech-Conditioned Latent Diffusion Model with Face Prior**|Jinting Wang et.al.|[2310.03363](http://arxiv.org/abs/2310.03363)|null|
+|**2023-10-05**|**Denoising Diffusion Step-aware Models**|Shuai Yang et.al.|[2310.03337](http://arxiv.org/abs/2310.03337)|null|
+|**2023-10-05**|**EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**|Yefei He et.al.|[2310.03270](http://arxiv.org/abs/2310.03270)|null|
+|**2023-10-05**|**Learning Energy-Based Prior Model with Diffusion-Amortized MCMC**|Peiyu Yu et.al.|[2310.03218](http://arxiv.org/abs/2310.03218)|**[link](https://github.com/yupeiyu98/diffusion-amortized-mcmc)**|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020](http://arxiv.org/abs/2310.03020)|null|
-|**2023-10-04**|**Local Max-Entropy and Free Energy Principles, Belief Diffusions and their Singularities**|Olivier Peltre et.al.|[2310.02946](http://arxiv.org/abs/2310.02946)|null|
+|**2023-10-04**|**Local Max-Entropy and Free Energy Principles, Belief Diffusions and their Singularities**|Olivier Peltre et.al.|[2310.02946](http://arxiv.org/abs/2310.02946)|**[link](https://github.com/opeltre/topos)**|
 |**2023-10-04**|**Boosting Dermatoscopic Lesion Segmentation via Diffusion Models with Visual and Textual Prompts**|Shiyi Du et.al.|[2310.02906](http://arxiv.org/abs/2310.02906)|null|
 |**2023-10-04**|**Magicremover: Tuning-free Text-guided Image inpainting with Diffusion Models**|Siyuan Yang et.al.|[2310.02848](http://arxiv.org/abs/2310.02848)|null|
 |**2023-10-04**|**High order numerical methods based on quadratic spline collocation method and averaged L1 scheme for the variable-order time fractional mobile/immobile diffusion equation**|Xiao Ye et.al.|[2310.02775](http://arxiv.org/abs/2310.02775)|null|
