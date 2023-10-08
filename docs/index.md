@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.07
+## Updated on 2023.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-05**|**Data-driven design of multilayer hyperbolic metamaterials for near-field thermal radiative modulator with high modulation contrast**|Tuwei Liao et.al.|[2310.03633](http://arxiv.org/abs/2310.03633)|null|
 |**2023-10-05**|**Robust Representation Learning via Asymmetric Negative Contrast and Reverse Attention**|Nuoyan Zhou et.al.|[2310.03358](http://arxiv.org/abs/2310.03358)|**[link](https://github.com/changzhang777/ancra)**|
-|**2023-10-05**|**Certifiably Robust Graph Contrastive Learning**|Minhua Lin et.al.|[2310.03312](http://arxiv.org/abs/2310.03312)|null|
+|**2023-10-05**|**Certifiably Robust Graph Contrastive Learning**|Minhua Lin et.al.|[2310.03312](http://arxiv.org/abs/2310.03312)|**[link](https://github.com/ventr1c/res-gcl)**|
 |**2023-10-04**|**Continual Contrastive Spoken Language Understanding**|Umberto Cappellazzo et.al.|[2310.02699](http://arxiv.org/abs/2310.02699)|null|
 |**2023-10-04**|**Top-k contrast order-preserving pattern mining for time series classification**|Youxi Wu et.al.|[2310.02612](http://arxiv.org/abs/2310.02612)|null|
 |**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263](http://arxiv.org/abs/2310.02263)|null|
