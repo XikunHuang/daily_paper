@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Perfect Alignment May be Poisonous to Graph Contrastive Learning**|Jingyu Liu et.al.|[2310.03977](http://arxiv.org/abs/2310.03977)|null|
+|**2023-10-05**|**Hard View Selection for Contrastive Learning**|Fabio Ferreira et.al.|[2310.03940](http://arxiv.org/abs/2310.03940)|null|
+|**2023-10-05**|**Provable benefits of annealing for estimating normalizing constants: Importance Sampling, Noise-Contrastive Estimation, and beyond**|Omar Chehab et.al.|[2310.03902](http://arxiv.org/abs/2310.03902)|**[link](https://github.com/l-omar-chehab/annealing-normalizing-constants)**|
 |**2023-10-05**|**Data-driven design of multilayer hyperbolic metamaterials for near-field thermal radiative modulator with high modulation contrast**|Tuwei Liao et.al.|[2310.03633](http://arxiv.org/abs/2310.03633)|null|
 |**2023-10-05**|**Robust Representation Learning via Asymmetric Negative Contrast and Reverse Attention**|Nuoyan Zhou et.al.|[2310.03358](http://arxiv.org/abs/2310.03358)|**[link](https://github.com/changzhang777/ancra)**|
 |**2023-10-05**|**Certifiably Robust Graph Contrastive Learning**|Minhua Lin et.al.|[2310.03312](http://arxiv.org/abs/2310.03312)|**[link](https://github.com/ventr1c/res-gcl)**|
@@ -732,6 +735,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Non-Redundant Graph Neural Networks with Improved Expressiveness**|Franka Bause et.al.|[2310.04190](http://arxiv.org/abs/2310.04190)|null|
+|**2023-10-06**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171](http://arxiv.org/abs/2310.04171)|null|
 |**2023-10-05**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399](http://arxiv.org/abs/2310.03399)|**[link](https://github.com/dfdazac/grapes)**|
 |**2023-10-05**|**Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection**|Xiangyu Dong et.al.|[2310.02861](http://arxiv.org/abs/2310.02861)|null|
 |**2023-10-04**|**Graph Neural Networks and Time Series as Directed Graphs for Quality Recognition**|Angelica Simonetti et.al.|[2310.02774](http://arxiv.org/abs/2310.02774)|null|
@@ -1119,6 +1124,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
+|**2023-10-06**|**Molecular Structural Dynamics in Water-Ethanol Mixtures: Spectroscopy with Polarized Neutrons Simultaneously Accessing Collective and Self-Diffusion**|Riccardo Morbidini et.al.|[2310.04320](http://arxiv.org/abs/2310.04320)|null|
+|**2023-10-06**|**Real diffusion with complex spectral gap**|Jean-Francois Bony et.al.|[2310.04203](http://arxiv.org/abs/2310.04203)|null|
+|**2023-10-06**|**Zones of quiet in a broadband diffuse sound field**|Boaz Rafaely et.al.|[2310.04191](http://arxiv.org/abs/2310.04191)|null|
+|**2023-10-06**|**VI-Diff: Unpaired Visible-Infrared Translation Diffusion Model for Single Modality Labeled Visible-Infrared Person Re-identification**|Han Huang et.al.|[2310.04122](http://arxiv.org/abs/2310.04122)|null|
+|**2023-10-06**|**Observation-Guided Diffusion Probabilistic Models**|Junoh Kang et.al.|[2310.04041](http://arxiv.org/abs/2310.04041)|null|
+|**2023-10-05**|**Diffusion Models as Masked Audio-Video Learners**|Elvis Nunez et.al.|[2310.03937](http://arxiv.org/abs/2310.03937)|null|
+|**2023-10-05**|**On Fractional Spherically Restricted Hyperbolic Diffusion Random Field**|Nikolai Leonenko et.al.|[2310.03933](http://arxiv.org/abs/2310.03933)|null|
+|**2023-10-05**|**Characterizing the Features of Mitotic Figures Using a Conditional Diffusion Probabilistic Model**|Cagla Deniz Bahadir et.al.|[2310.03893](http://arxiv.org/abs/2310.03893)|**[link](https://github.com/cagladbahadir/dpm-for-mitotic-figures)**|
 |**2023-10-05**|**Aligning Text-to-Image Diffusion Models with Reward Backpropagation**|Mihir Prabhudesai et.al.|[2310.03739](http://arxiv.org/abs/2310.03739)|**[link](https://github.com/mihirp1998/alignprop)**|
 |**2023-10-05**|**Deep surrogate model for learning Green's function associated with linear reaction-diffusion operator**|Junqing Ji et.al.|[2310.03642](http://arxiv.org/abs/2310.03642)|null|
 |**2023-10-05**|**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion**|Anton Razzhigaev et.al.|[2310.03502](http://arxiv.org/abs/2310.03502)|**[link](https://github.com/ai-forever/movqgan)**|
