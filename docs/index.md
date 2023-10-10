@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Adaptive Multi-head Contrastive Learning**|Lei Wang et.al.|[2310.05615](http://arxiv.org/abs/2310.05615)|null|
+|**2023-10-09**|**WeatherDepth: Curriculum Contrastive Learning for Self-Supervised Depth Estimation under Adverse Weather Conditions**|Jiyuan Wang et.al.|[2310.05556](http://arxiv.org/abs/2310.05556)|null|
+|**2023-10-08**|**ChiMera: Learning with noisy labels by contrasting mixed-up augmentations**|Zixuan Liu et.al.|[2310.05183](http://arxiv.org/abs/2310.05183)|null|
+|**2023-10-08**|**Instances and Labels: Hierarchy-aware Joint Supervised Contrastive Learning for Hierarchical Multi-Label Text Classification**|Simon Chi Lok U et.al.|[2310.05128](http://arxiv.org/abs/2310.05128)|null|
+|**2023-10-08**|**Understanding the Robustness of Multi-modal Contrastive Learning to Distribution Shift**|Yihao Xue et.al.|[2310.04971](http://arxiv.org/abs/2310.04971)|null|
+|**2023-10-07**|**Integrating Contrastive Learning into a Multitask Transformer Model for Effective Domain Adaptation**|Chung-Soo Ahn et.al.|[2310.04703](http://arxiv.org/abs/2310.04703)|null|
+|**2023-10-07**|**Score-based Diffusion Models With Self-supervised Learning For Accelerated 3D Multi-contrast Cardiac Magnetic Resonance Imaging**|Yuanyuan Liu et.al.|[2310.04669](http://arxiv.org/abs/2310.04669)|null|
+|**2023-10-07**|**Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation**|Xinhua Wang et.al.|[2310.04633](http://arxiv.org/abs/2310.04633)|**[link](https://github.com/houpingy/ea-gcl)**|
 |**2023-10-06**|**Perfect Alignment May be Poisonous to Graph Contrastive Learning**|Jingyu Liu et.al.|[2310.03977](http://arxiv.org/abs/2310.03977)|null|
 |**2023-10-05**|**Hard View Selection for Contrastive Learning**|Fabio Ferreira et.al.|[2310.03940](http://arxiv.org/abs/2310.03940)|null|
 |**2023-10-09**|**Provable benefits of annealing for estimating normalizing constants: Importance Sampling, Noise-Contrastive Estimation, and beyond**|Omar Chehab et.al.|[2310.03902](http://arxiv.org/abs/2310.03902)|**[link](https://github.com/l-omar-chehab/annealing-normalizing-constants)**|
@@ -735,6 +743,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Robust Angular Synchronization via Directed Graph Neural Networks**|Yixuan He et.al.|[2310.05842](http://arxiv.org/abs/2310.05842)|null|
+|**2023-10-08**|**How Graph Neural Networks Learn: Lessons from Training Dynamics in Function Space**|Chenxiao Yang et.al.|[2310.05105](http://arxiv.org/abs/2310.05105)|null|
+|**2023-10-07**|**Hybrid Recommendation System using Graph Neural Network and BERT Embeddings**|Shashidhar Reddy Javaji et.al.|[2310.04878](http://arxiv.org/abs/2310.04878)|null|
 |**2023-10-06**|**Non-Redundant Graph Neural Networks with Improved Expressiveness**|Franka Bause et.al.|[2310.04190](http://arxiv.org/abs/2310.04190)|null|
 |**2023-10-09**|**Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**|Heehyeon Kim et.al.|[2310.04171](http://arxiv.org/abs/2310.04171)|null|
 |**2023-10-05**|**GRAPES: Learning to Sample Graphs for Scalable Graph Neural Networks**|Taraneh Younesian et.al.|[2310.03399](http://arxiv.org/abs/2310.03399)|**[link](https://github.com/dfdazac/grapes)**|
@@ -1124,6 +1135,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873](http://arxiv.org/abs/2310.05873)|null|
+|**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866](http://arxiv.org/abs/2310.05866)|null|
+|**2023-10-09**|**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**|Shansan Gong et.al.|[2310.05793](http://arxiv.org/abs/2310.05793)|null|
+|**2023-10-09**|**Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation**|Lijun Yu et.al.|[2310.05737](http://arxiv.org/abs/2310.05737)|null|
+|**2023-10-09**|**Local Central Limit Theorem for Reflecting Diffusions in a Continuum Percolation Cluster**|Yutaka Takeuchi et.al.|[2310.05482](http://arxiv.org/abs/2310.05482)|null|
+|**2023-10-09**|**DiffCPS: Diffusion Model based Constrained Policy Search for Offline Reinforcement Learning**|Longxiang He et.al.|[2310.05333](http://arxiv.org/abs/2310.05333)|**[link](https://github.com/felix-thu/DiffCPS)**|
+|**2023-10-08**|**Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography**|InChan Hwang et.al.|[2310.05299](http://arxiv.org/abs/2310.05299)|null|
+|**2023-10-08**|**The Emergence of Reproducibility and Consistency in Diffusion Models**|Huijie Zhang et.al.|[2310.05264](http://arxiv.org/abs/2310.05264)|null|
+|**2023-10-08**|**Latent Diffusion Model for Medical Image Standardization and Enhancement**|Md Selim et.al.|[2310.05237](http://arxiv.org/abs/2310.05237)|null|
+|**2023-10-07**|**On Accelerating Diffusion-based Molecular Conformation Generation in SE(3)-invariant Space**|Zihan Zhou et.al.|[2310.04915](http://arxiv.org/abs/2310.04915)|null|
 |**2023-10-09**|**Diffusion Random Feature Model**|Esha Saha et.al.|[2310.04417](http://arxiv.org/abs/2310.04417)|null|
 |**2023-10-06**|**Molecular Structural Dynamics in Water-Ethanol Mixtures: Spectroscopy with Polarized Neutrons Simultaneously Accessing Collective and Self-Diffusion**|Riccardo Morbidini et.al.|[2310.04320](http://arxiv.org/abs/2310.04320)|null|
 |**2023-10-06**|**Real diffusion with complex spectral gap**|Jean-Francois Bony et.al.|[2310.04203](http://arxiv.org/abs/2310.04203)|null|
