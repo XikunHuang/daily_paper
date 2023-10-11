@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles**|Daria-Mihaela Broscoteanu et.al.|[2310.06540](http://arxiv.org/abs/2310.06540)|**[link](https://github.com/dariabroscoteanu/roclico)**|
+|**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
+|**2023-10-10**|**CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation**|Zekang Zhang et.al.|[2310.06368](http://arxiv.org/abs/2310.06368)|**[link](https://github.com/zkzhang98/coinseg)**|
+|**2023-10-10**|**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**|Bowen Gao et.al.|[2310.06367](http://arxiv.org/abs/2310.06367)|null|
+|**2023-10-10**|**Contrastive Prompt Learning-based Code Search based on Interaction Matrix**|Yubo Zhang et.al.|[2310.06342](http://arxiv.org/abs/2310.06342)|null|
 |**2023-10-09**|**Adaptive Multi-head Contrastive Learning**|Lei Wang et.al.|[2310.05615](http://arxiv.org/abs/2310.05615)|null|
 |**2023-10-09**|**WeatherDepth: Curriculum Contrastive Learning for Self-Supervised Depth Estimation under Adverse Weather Conditions**|Jiyuan Wang et.al.|[2310.05556](http://arxiv.org/abs/2310.05556)|null|
 |**2023-10-08**|**ChiMera: Learning with noisy labels by contrasting mixed-up augmentations**|Zixuan Liu et.al.|[2310.05183](http://arxiv.org/abs/2310.05183)|null|
@@ -743,6 +748,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
 |**2023-10-09**|**Robust Angular Synchronization via Directed Graph Neural Networks**|Yixuan He et.al.|[2310.05842](http://arxiv.org/abs/2310.05842)|null|
 |**2023-10-08**|**How Graph Neural Networks Learn: Lessons from Training Dynamics in Function Space**|Chenxiao Yang et.al.|[2310.05105](http://arxiv.org/abs/2310.05105)|null|
 |**2023-10-07**|**Hybrid Recommendation System using Graph Neural Network and BERT Embeddings**|Shashidhar Reddy Javaji et.al.|[2310.04878](http://arxiv.org/abs/2310.04878)|null|
@@ -1135,6 +1141,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
+|**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795](http://arxiv.org/abs/2310.06795)|null|
+|**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661](http://arxiv.org/abs/2310.06661)|null|
+|**2023-10-10**|**Low regularity global well-posedness of axisymmetric MHD equations with vertical dissipation and magnetic diffusion**|Hammadi Abidi et.al.|[2310.06432](http://arxiv.org/abs/2310.06432)|null|
+|**2023-10-10**|**AnoDODE: Anomaly Detection with Diffusion ODE**|Xianyao Hu et.al.|[2310.06420](http://arxiv.org/abs/2310.06420)|null|
+|**2023-10-10**|**Advective Diffusion Transformers for Topological Generalization in Graph Learning**|Qitian Wu et.al.|[2310.06417](http://arxiv.org/abs/2310.06417)|null|
+|**2023-10-10**|**Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling**|Huangjie Zheng et.al.|[2310.06389](http://arxiv.org/abs/2310.06389)|null|
+|**2023-10-10**|**Leveraging Diffusion-Based Image Variations for Robust Training on Poisoned Data**|Lukas Struppek et.al.|[2310.06372](http://arxiv.org/abs/2310.06372)|**[link](https://github.com/lukasstruppek/robust_training_on_poisoned_samples)**|
 |**2023-10-10**|**Geom-Erasing: Geometry-Driven Removal of Implicit Concept in Diffusion Models**|Zhili Liu et.al.|[2310.05873](http://arxiv.org/abs/2310.05873)|null|
 |**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866](http://arxiv.org/abs/2310.05866)|null|
 |**2023-10-09**|**DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models**|Shansan Gong et.al.|[2310.05793](http://arxiv.org/abs/2310.05793)|**[link](https://github.com/Shark-NLP/DiffuSeq)**|
