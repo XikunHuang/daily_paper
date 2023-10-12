@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1144,7 +1144,7 @@ layout: default
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
 |**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795](http://arxiv.org/abs/2310.06795)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
-|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|null|
 |**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661](http://arxiv.org/abs/2310.06661)|null|
 |**2023-10-10**|**Low regularity global well-posedness of axisymmetric MHD equations with vertical dissipation and magnetic diffusion**|Hammadi Abidi et.al.|[2310.06432](http://arxiv.org/abs/2310.06432)|null|
 |**2023-10-10**|**AnoDODE: Anomaly Detection with Diffusion ODE**|Xianyao Hu et.al.|[2310.06420](http://arxiv.org/abs/2310.06420)|null|

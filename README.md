@@ -1,4 +1,4 @@
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -749,7 +749,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
 
 ## GNN
 
@@ -1144,7 +1144,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1153,7 +1153,7 @@
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
 |**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795](http://arxiv.org/abs/2310.06795)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
-|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|**[link](https://github.com/lmb-freiburg/ldce)**|
+|**2023-10-10**|**Latent Diffusion Counterfactual Explanations**|Karim Farid et.al.|[2310.06668](http://arxiv.org/abs/2310.06668)|null|
 |**2023-10-10**|**Tertiary Lymphoid Structures Generation through Graph-based Diffusion**|Manuel Madeira et.al.|[2310.06661](http://arxiv.org/abs/2310.06661)|null|
 |**2023-10-10**|**Low regularity global well-posedness of axisymmetric MHD equations with vertical dissipation and magnetic diffusion**|Hammadi Abidi et.al.|[2310.06432](http://arxiv.org/abs/2310.06432)|null|
 |**2023-10-10**|**AnoDODE: Anomaly Detection with Diffusion ODE**|Xianyao Hu et.al.|[2310.06420](http://arxiv.org/abs/2310.06420)|null|
@@ -2111,5 +2111,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
 
