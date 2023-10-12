@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Atom-Motif Contrastive Transformer for Molecular Property Prediction**|Wentao Yu et.al.|[2310.07351](http://arxiv.org/abs/2310.07351)|null|
+|**2023-10-11**|**IBoxCLA: Towards Robust Box-supervised Segmentation of Polyp via Improved Box-dice and Contrastive Latent-anchors**|Zhiwei Wang et.al.|[2310.07248](http://arxiv.org/abs/2310.07248)|null|
+|**2023-10-10**|**Improving Contrastive Learning of Sentence Embeddings with Focal-InfoNCE**|Pengyue Hou et.al.|[2310.06918](http://arxiv.org/abs/2310.06918)|null|
 |**2023-10-10**|**A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles**|Daria-Mihaela Broscoteanu et.al.|[2310.06540](http://arxiv.org/abs/2310.06540)|**[link](https://github.com/dariabroscoteanu/roclico)**|
 |**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
 |**2023-10-10**|**CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation**|Zekang Zhang et.al.|[2310.06368](http://arxiv.org/abs/2310.06368)|**[link](https://github.com/zkzhang98/coinseg)**|
@@ -748,6 +751,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Non-backtracking Graph Neural Networks**|Seonghyun Park et.al.|[2310.07430](http://arxiv.org/abs/2310.07430)|null|
+|**2023-10-10**|**Accelerated Modelling of Interfaces for Electronic Devices using Graph Neural Networks**|Pratik Brahma et.al.|[2310.06995](http://arxiv.org/abs/2310.06995)|null|
 |**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
 |**2023-10-09**|**Robust Angular Synchronization via Directed Graph Neural Networks**|Yixuan He et.al.|[2310.05842](http://arxiv.org/abs/2310.05842)|null|
 |**2023-10-08**|**How Graph Neural Networks Learn: Lessons from Training Dynamics in Function Space**|Chenxiao Yang et.al.|[2310.05105](http://arxiv.org/abs/2310.05105)|null|
@@ -1141,6 +1146,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
+|**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
+|**2023-10-11**|**Mobility and diffusion of intruders in granular suspensions. Einstein relation**|Rubén Gómez González et.al.|[2310.07409](http://arxiv.org/abs/2310.07409)|null|
+|**2023-10-11**|**New analytical solution for time fractional Burgers-Huxley equation describing the interaction between reaction mechanisms and diffusion transport**|Gayatri Das et.al.|[2310.07375](http://arxiv.org/abs/2310.07375)|null|
+|**2023-10-11**|**Adaptive Distributionally Robust Planning for Renewable-Powered Fast Charging Stations Under Decision-Dependent EV Diffusion Uncertainty**|Yujia Li et.al.|[2310.07352](http://arxiv.org/abs/2310.07352)|null|
+|**2023-10-11**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312](http://arxiv.org/abs/2310.07312)|null|
+|**2023-10-11**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297](http://arxiv.org/abs/2310.07297)|**[link](https://github.com/thu-ml/srpo)**|
+|**2023-10-11**|**Integration by parts formula for exit times of one dimensional diffusions**|Noufel Frikha et.al.|[2310.07266](http://arxiv.org/abs/2310.07266)|null|
+|**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222](http://arxiv.org/abs/2310.07222)|**[link](https://github.com/ysy31415/unipaint)**|
+|**2023-10-11**|**Generative Modeling on Manifolds Through Mixture of Riemannian Diffusion Processes**|Jaehyeong Jo et.al.|[2310.07216](http://arxiv.org/abs/2310.07216)|null|
 |**2023-10-10**|**What Does Stable Diffusion Know about the 3D Scene?**|Guanqi Zhan et.al.|[2310.06836](http://arxiv.org/abs/2310.06836)|null|
 |**2023-10-10**|**Impact of grain boundary and surface diffusion on predicted fission gas bubble behavior and release in UO $_2$ fuel**|Md Ali Muntaha et.al.|[2310.06795](http://arxiv.org/abs/2310.06795)|null|
 |**2023-10-10**|**Tweedie Moment Projected Diffusions For Inverse Problems**|Benjamin Boys et.al.|[2310.06721](http://arxiv.org/abs/2310.06721)|null|
