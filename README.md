@@ -1,4 +1,4 @@
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,9 +16,9 @@
 |---|---|---|---|---|
 |**2023-10-11**|**Atom-Motif Contrastive Transformer for Molecular Property Prediction**|Wentao Yu et.al.|[2310.07351](http://arxiv.org/abs/2310.07351)|null|
 |**2023-10-11**|**IBoxCLA: Towards Robust Box-supervised Segmentation of Polyp via Improved Box-dice and Contrastive Latent-anchors**|Zhiwei Wang et.al.|[2310.07248](http://arxiv.org/abs/2310.07248)|null|
-|**2023-10-10**|**Improving Contrastive Learning of Sentence Embeddings with Focal-InfoNCE**|Pengyue Hou et.al.|[2310.06918](http://arxiv.org/abs/2310.06918)|null|
+|**2023-10-10**|**Improving Contrastive Learning of Sentence Embeddings with Focal-InfoNCE**|Pengyue Hou et.al.|[2310.06918](http://arxiv.org/abs/2310.06918)|**[link](https://github.com/puerrrr/focal-infonce)**|
 |**2023-10-10**|**A Novel Contrastive Learning Method for Clickbait Detection on RoCliCo: A Romanian Clickbait Corpus of News Articles**|Daria-Mihaela Broscoteanu et.al.|[2310.06540](http://arxiv.org/abs/2310.06540)|**[link](https://github.com/dariabroscoteanu/roclico)**|
-|**2023-10-10**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
+|**2023-10-12**|**SpikeCLIP: A Contrastive Language-Image Pretrained Spiking Neural Network**|Tianlong Li et.al.|[2310.06488](http://arxiv.org/abs/2310.06488)|null|
 |**2023-10-10**|**CoinSeg: Contrast Inter- and Intra- Class Representations for Incremental Segmentation**|Zekang Zhang et.al.|[2310.06368](http://arxiv.org/abs/2310.06368)|**[link](https://github.com/zkzhang98/coinseg)**|
 |**2023-10-10**|**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**|Bowen Gao et.al.|[2310.06367](http://arxiv.org/abs/2310.06367)|null|
 |**2023-10-10**|**Contrastive Prompt Learning-based Code Search based on Interaction Matrix**|Yubo Zhang et.al.|[2310.06342](http://arxiv.org/abs/2310.06342)|null|
@@ -752,7 +752,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
 
 ## GNN
 
@@ -1149,7 +1149,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1157,11 +1157,11 @@
 |---|---|---|---|---|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
-|**2023-10-11**|**Mobility and diffusion of intruders in granular suspensions. Einstein relation**|Rubén Gómez González et.al.|[2310.07409](http://arxiv.org/abs/2310.07409)|null|
+|**2023-10-12**|**Mobility and diffusion of intruders in granular suspensions. Einstein relation**|Rubén Gómez González et.al.|[2310.07409](http://arxiv.org/abs/2310.07409)|null|
 |**2023-10-11**|**New analytical solution for time fractional Burgers-Huxley equation describing the interaction between reaction mechanisms and diffusion transport**|Gayatri Das et.al.|[2310.07375](http://arxiv.org/abs/2310.07375)|null|
-|**2023-10-11**|**Adaptive Distributionally Robust Planning for Renewable-Powered Fast Charging Stations Under Decision-Dependent EV Diffusion Uncertainty**|Yujia Li et.al.|[2310.07352](http://arxiv.org/abs/2310.07352)|null|
-|**2023-10-11**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312](http://arxiv.org/abs/2310.07312)|null|
-|**2023-10-11**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297](http://arxiv.org/abs/2310.07297)|**[link](https://github.com/thu-ml/srpo)**|
+|**2023-10-12**|**Adaptive Distributionally Robust Planning for Renewable-Powered Fast Charging Stations Under Decision-Dependent EV Diffusion Uncertainty**|Yujia Li et.al.|[2310.07352](http://arxiv.org/abs/2310.07352)|null|
+|**2023-10-12**|**WiGenAI: The Symphony of Wireless and Generative AI via Diffusion Models**|Mehdi Letafati et.al.|[2310.07312](http://arxiv.org/abs/2310.07312)|null|
+|**2023-10-12**|**Score Regularized Policy Optimization through Diffusion Behavior**|Huayu Chen et.al.|[2310.07297](http://arxiv.org/abs/2310.07297)|**[link](https://github.com/thu-ml/srpo)**|
 |**2023-10-11**|**Integration by parts formula for exit times of one dimensional diffusions**|Noufel Frikha et.al.|[2310.07266](http://arxiv.org/abs/2310.07266)|null|
 |**2023-10-11**|**Uni-paint: A Unified Framework for Multimodal Image Inpainting with Pretrained Diffusion Model**|Shiyuan Yang et.al.|[2310.07222](http://arxiv.org/abs/2310.07222)|**[link](https://github.com/ysy31415/unipaint)**|
 |**2023-10-11**|**Generative Modeling on Manifolds Through Mixture of Riemannian Diffusion Processes**|Jaehyeong Jo et.al.|[2310.07216](http://arxiv.org/abs/2310.07216)|null|
@@ -2126,5 +2126,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231012>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
 
