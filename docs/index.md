@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2023.10.13
+## Updated on 2023.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**CHIP: Contrastive Hierarchical Image Pretraining**|Arpit Mittal et.al.|[2310.08304](http://arxiv.org/abs/2310.08304)|null|
+|**2023-10-12**|**SimCKP: Simple Contrastive Learning of Keyphrase Representations**|Minseok Choi et.al.|[2310.08221](http://arxiv.org/abs/2310.08221)|**[link](https://github.com/brightjade/SimCKP)**|
+|**2023-10-12**|**CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning**|Minghao Lin et.al.|[2310.08210](http://arxiv.org/abs/2310.08210)|null|
+|**2023-10-12**|**Phase offset method of ptychographic contrast reversal correction**|Christoph Hofera et.al.|[2310.08161](http://arxiv.org/abs/2310.08161)|null|
+|**2023-10-12**|**Incorporating Domain Knowledge Graph into Multimodal Movie Genre Classification with Self-Supervised Attention and Contrastive Learning**|Jiaqi Li et.al.|[2310.08032](http://arxiv.org/abs/2310.08032)|**[link](https://github.com/aoluming/IDKG)**|
 |**2023-10-11**|**Atom-Motif Contrastive Transformer for Molecular Property Prediction**|Wentao Yu et.al.|[2310.07351](http://arxiv.org/abs/2310.07351)|null|
 |**2023-10-11**|**IBoxCLA: Towards Robust Box-supervised Segmentation of Polyp via Improved Box-dice and Contrastive Latent-anchors**|Zhiwei Wang et.al.|[2310.07248](http://arxiv.org/abs/2310.07248)|null|
 |**2023-10-10**|**Improving Contrastive Learning of Sentence Embeddings with Focal-InfoNCE**|Pengyue Hou et.al.|[2310.06918](http://arxiv.org/abs/2310.06918)|**[link](https://github.com/puerrrr/focal-infonce)**|
@@ -751,6 +756,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176](http://arxiv.org/abs/2310.08176)|**[link](https://github.com/yCobanoglu/infinite-width-gnns)**|
+|**2023-10-12**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979](http://arxiv.org/abs/2310.07979)|null|
 |**2023-10-11**|**Non-backtracking Graph Neural Networks**|Seonghyun Park et.al.|[2310.07430](http://arxiv.org/abs/2310.07430)|null|
 |**2023-10-10**|**Accelerated Modelling of Interfaces for Electronic Devices using Graph Neural Networks**|Pratik Brahma et.al.|[2310.06995](http://arxiv.org/abs/2310.06995)|null|
 |**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
@@ -1146,6 +1153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579](http://arxiv.org/abs/2310.08579)|null|
+|**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|null|
+|**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|null|
+|**2023-10-12**|**A new local and explicit kinetic method for linear and non-linear convection-diffusion problems with finite kinetic speeds: I. One-dimensional case**|Gauthier Wissocq et.al.|[2310.08356](http://arxiv.org/abs/2310.08356)|null|
+|**2023-10-12**|**Neural Diffusion Models**|Grigory Bartosh et.al.|[2310.08337](http://arxiv.org/abs/2310.08337)|null|
+|**2023-10-12**|**Locality Error Free Effective Core Potentials for 3d Transition Metal Elements Developed for the Diffusion Monte Carlo Method**|Tom Ichibha et.al.|[2310.08238](http://arxiv.org/abs/2310.08238)|null|
+|**2023-10-12**|**Time-Variable Diffuse $γ$ -ray Foreground**|Thomas Siegert et.al.|[2310.08135](http://arxiv.org/abs/2310.08135)|null|
+|**2023-10-12**|**Giant Acceleration of Diffusion in Soft Matter Potential**|Yu Lu et.al.|[2310.08003](http://arxiv.org/abs/2310.08003)|null|
+|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972](http://arxiv.org/abs/2310.07972)|null|
+|**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896](http://arxiv.org/abs/2310.07896)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
 |**2023-10-12**|**Mobility and diffusion of intruders in granular suspensions. Einstein relation**|Rubén Gómez González et.al.|[2310.07409](http://arxiv.org/abs/2310.07409)|null|
