@@ -1170,7 +1170,7 @@
 |**2023-10-12**|**Locality Error Free Effective Core Potentials for 3d Transition Metal Elements Developed for the Diffusion Monte Carlo Method**|Tom Ichibha et.al.|[2310.08238](http://arxiv.org/abs/2310.08238)|null|
 |**2023-10-12**|**Time-Variable Diffuse $γ$ -ray Foreground**|Thomas Siegert et.al.|[2310.08135](http://arxiv.org/abs/2310.08135)|null|
 |**2023-10-12**|**Giant Acceleration of Diffusion in Soft Matter Potential**|Yu Lu et.al.|[2310.08003](http://arxiv.org/abs/2310.08003)|null|
-|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972](http://arxiv.org/abs/2310.07972)|null|
+|**2023-10-12**|**Interpretable Diffusion via Information Decomposition**|Xianghao Kong et.al.|[2310.07972](http://arxiv.org/abs/2310.07972)|**[link](https://github.com/kxh001/info-decomp)**|
 |**2023-10-11**|**NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration**|Ajay Sridhar et.al.|[2310.07896](http://arxiv.org/abs/2310.07896)|null|
 |**2023-10-11**|**ScaleCrafter: Tuning-free Higher-Resolution Visual Generation with Diffusion Models**|Yingqing He et.al.|[2310.07702](http://arxiv.org/abs/2310.07702)|**[link](https://github.com/yingqinghe/scalecrafter)**|
 |**2023-10-11**|**Boosting Black-box Attack to Deep Neural Networks with Conditional Diffusion Models**|Renyang Liu et.al.|[2310.07492](http://arxiv.org/abs/2310.07492)|null|
