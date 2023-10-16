@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.15
+## Updated on 2023.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -12,7 +12,7 @@ layout: default
 |**2023-10-12**|**CHIP: Contrastive Hierarchical Image Pretraining**|Arpit Mittal et.al.|[2310.08304](http://arxiv.org/abs/2310.08304)|null|
 |**2023-10-12**|**SimCKP: Simple Contrastive Learning of Keyphrase Representations**|Minseok Choi et.al.|[2310.08221](http://arxiv.org/abs/2310.08221)|**[link](https://github.com/brightjade/SimCKP)**|
 |**2023-10-12**|**CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning**|Minghao Lin et.al.|[2310.08210](http://arxiv.org/abs/2310.08210)|null|
-|**2023-10-12**|**Phase offset method of ptychographic contrast reversal correction**|Christoph Hofera et.al.|[2310.08161](http://arxiv.org/abs/2310.08161)|null|
+|**2023-10-13**|**Phase offset method of ptychographic contrast reversal correction**|Christoph Hofer et.al.|[2310.08161](http://arxiv.org/abs/2310.08161)|null|
 |**2023-10-12**|**Incorporating Domain Knowledge Graph into Multimodal Movie Genre Classification with Self-Supervised Attention and Contrastive Learning**|Jiaqi Li et.al.|[2310.08032](http://arxiv.org/abs/2310.08032)|**[link](https://github.com/aoluming/IDKG)**|
 |**2023-10-11**|**Atom-Motif Contrastive Transformer for Molecular Property Prediction**|Wentao Yu et.al.|[2310.07351](http://arxiv.org/abs/2310.07351)|null|
 |**2023-10-11**|**IBoxCLA: Towards Robust Box-supervised Segmentation of Polyp via Improved Box-dice and Contrastive Latent-anchors**|Zhiwei Wang et.al.|[2310.07248](http://arxiv.org/abs/2310.07248)|null|
