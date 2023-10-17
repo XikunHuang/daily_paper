@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Prompt Tuning for Multi-View Graph Contrastive Learning**|Chenghua Gong et.al.|[2310.10362](http://arxiv.org/abs/2310.10362)|null|
+|**2023-10-16**|**Magnetic contrast layers with functional SiO2 coatings for soft matter studies with polarised neutron reflectometry**|Olga Dikaia et.al.|[2310.10340](http://arxiv.org/abs/2310.10340)|null|
+|**2023-10-16**|**BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval**|Kaixing Yang et.al.|[2310.10300](http://arxiv.org/abs/2310.10300)|null|
+|**2023-10-16**|**Node-based Knowledge Graph Contrastive Learning for Medical Relationship Prediction**|Zhiguang Fan et.al.|[2310.10138](http://arxiv.org/abs/2310.10138)|**[link](https://github.com/zhi520/nc-kge)**|
+|**2023-10-15**|**JWST-TST High Contrast: Achieving direct spectroscopy of faint substellar companions next to bright stars with the NIRSpec IFU**|Jean-Baptiste Ruffio et.al.|[2310.09902](http://arxiv.org/abs/2310.09902)|null|
+|**2023-10-15**|**Top-K Pooling with Patch Contrastive Learning for Weakly-Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2310.09828](http://arxiv.org/abs/2310.09828)|null|
+|**2023-10-15**|**SCME: A Self-Contrastive Method for Data-free and Query-Limited Model Extraction Attack**|Renyang Liu et.al.|[2310.09792](http://arxiv.org/abs/2310.09792)|null|
+|**2023-10-15**|**RSVP: Customer Intent Detection via Agent Response Contrastive and Generative Pre-Training**|Yu-Chien Tang et.al.|[2310.09773](http://arxiv.org/abs/2310.09773)|null|
+|**2023-10-15**|**DropMix: Better Graph Contrastive Learning with Harder Negative Samples**|Yueqi Ma et.al.|[2310.09764](http://arxiv.org/abs/2310.09764)|null|
+|**2023-10-15**|**HiCL: Hierarchical Contrastive Learning of Unsupervised Sentence Embeddings**|Zhuofeng Wu et.al.|[2310.09720](http://arxiv.org/abs/2310.09720)|null|
 |**2023-10-13**|**HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling**|Junwen Zhang et.al.|[2310.09135](http://arxiv.org/abs/2310.09135)|**[link](https://github.com/ai-agi/hicl)**|
 |**2023-10-13**|**Timestamp-supervised Wearable-based Activity Segmentation and Recognition with Contrastive Learning and Order-Preserving Optimal Transport**|Songpengcheng Xia et.al.|[2310.09114](http://arxiv.org/abs/2310.09114)|null|
 |**2023-10-13**|**Multi-level Adaptive Contrastive Learning for Knowledge Internalization in Dialogue Generation**|Chenxu Yang et.al.|[2310.08943](http://arxiv.org/abs/2310.08943)|null|
@@ -769,6 +779,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Exploring the Power of Graph Neural Networks in Solving Linear Optimization Problems**|Chendi Qian et.al.|[2310.10603](http://arxiv.org/abs/2310.10603)|null|
+|**2023-10-16**|**Learning visual-based deformable object rearrangement with local graph neural networks**|Yuhong Deng et.al.|[2310.10307](http://arxiv.org/abs/2310.10307)|null|
+|**2023-10-16**|**From Continuous Dynamics to Graph Neural Networks: Neural Diffusion and Beyond**|Andi Han et.al.|[2310.10121](http://arxiv.org/abs/2310.10121)|null|
+|**2023-10-15**|**Model Inversion Attacks on Homogeneous and Heterogeneous Graph Neural Networks**|Renyang Liu et.al.|[2310.09800](http://arxiv.org/abs/2310.09800)|null|
+|**2023-10-15**|**SGA: A Graph Augmentation Method for Signed Graph Neural Networks**|Zeyu Zhang et.al.|[2310.09705](http://arxiv.org/abs/2310.09705)|null|
+|**2023-10-14**|**Context-aware Session-based Recommendation with Graph Neural Networks**|Zhihui Zhang et.al.|[2310.09593](http://arxiv.org/abs/2310.09593)|**[link](https://github.com/brilliantzhang/cares)**|
+|**2023-10-14**|**Graph Neural Network approaches for single-cell data: A recent overview**|Konstantinos Lazaros et.al.|[2310.09561](http://arxiv.org/abs/2310.09561)|null|
 |**2023-10-12**|**Heterophily-Based Graph Neural Network for Imbalanced Classification**|Zirui Liang et.al.|[2310.08725](http://arxiv.org/abs/2310.08725)|null|
 |**2023-10-12**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176](http://arxiv.org/abs/2310.08176)|**[link](https://github.com/yCobanoglu/infinite-width-gnns)**|
 |**2023-10-12**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979](http://arxiv.org/abs/2310.07979)|null|
@@ -1169,6 +1186,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**A Survey on Video Diffusion Models**|Zhen Xing et.al.|[2310.10647](http://arxiv.org/abs/2310.10647)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639](http://arxiv.org/abs/2310.10639)|null|
+|**2023-10-16**|**ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model**|Bo Ni et.al.|[2310.10605](http://arxiv.org/abs/2310.10605)|null|
+|**2023-10-16**|**Generation or Replication: Auscultating Audio Latent Diffusion Models**|Dimitrios Bralios et.al.|[2310.10604](http://arxiv.org/abs/2310.10604)|null|
+|**2023-10-16**|**Corrections to diffusion in interacting quantum systems**|Alexios A. Michailidis et.al.|[2310.10564](http://arxiv.org/abs/2310.10564)|null|
+|**2023-10-16**|**ConsistNet: Enforcing 3D Consistency for Multi-view Images Diffusion**|Jiayu Yang et.al.|[2310.10343](http://arxiv.org/abs/2310.10343)|null|
+|**2023-10-16**|**Scene Graph Conditioning in Latent Diffusion**|Frank Fundel et.al.|[2310.10338](http://arxiv.org/abs/2310.10338)|null|
+|**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
+|**2023-10-16**|**AutoDIR: Automatic All-in-One Image Restoration with Latent Diffusion**|Yitong Jiang et.al.|[2310.10123](http://arxiv.org/abs/2310.10123)|null|
+|**2023-10-16**|**From Continuous Dynamics to Graph Neural Networks: Neural Diffusion and Beyond**|Andi Han et.al.|[2310.10121](http://arxiv.org/abs/2310.10121)|null|
 |**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213](http://arxiv.org/abs/2310.09213)|null|
 |**2023-10-13**|**The effect of solar wind on the charged particles' diffusion coefficients**|J. F. Wang et.al.|[2310.09211](http://arxiv.org/abs/2310.09211)|null|
 |**2023-10-13**|**Galactic Gamma-Ray Diffuse Emission at TeV energies with HAWC Data**|R. Alfaro et.al.|[2310.09117](http://arxiv.org/abs/2310.09117)|null|
