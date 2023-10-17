@@ -1,4 +1,4 @@
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling**|Junwen Zhang et.al.|[2310.09135](http://arxiv.org/abs/2310.09135)|**[link](https://github.com/ai-agi/hicl)**|
+|**2023-10-13**|**Timestamp-supervised Wearable-based Activity Segmentation and Recognition with Contrastive Learning and Order-Preserving Optimal Transport**|Songpengcheng Xia et.al.|[2310.09114](http://arxiv.org/abs/2310.09114)|null|
+|**2023-10-13**|**Multi-level Adaptive Contrastive Learning for Knowledge Internalization in Dialogue Generation**|Chenxu Yang et.al.|[2310.08943](http://arxiv.org/abs/2310.08943)|null|
+|**2023-10-13**|**Extending Multi-modal Contrastive Representations**|Zehan Wang et.al.|[2310.08884](http://arxiv.org/abs/2310.08884)|**[link](https://github.com/mcr-peft/ex-mcr)**|
+|**2023-10-13**|**Semi-Supervised End-To-End Contrastive Learning For Time Series Classification**|Huili Cai et.al.|[2310.08848](http://arxiv.org/abs/2310.08848)|null|
+|**2023-10-12**|**Splicing Up Your Predictions with RNA Contrastive Learning**|Philip Fradkin et.al.|[2310.08738](http://arxiv.org/abs/2310.08738)|null|
 |**2023-10-12**|**CHIP: Contrastive Hierarchical Image Pretraining**|Arpit Mittal et.al.|[2310.08304](http://arxiv.org/abs/2310.08304)|null|
 |**2023-10-12**|**SimCKP: Simple Contrastive Learning of Keyphrase Representations**|Minseok Choi et.al.|[2310.08221](http://arxiv.org/abs/2310.08221)|**[link](https://github.com/brightjade/SimCKP)**|
 |**2023-10-12**|**CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning**|Minghao Lin et.al.|[2310.08210](http://arxiv.org/abs/2310.08210)|null|
@@ -757,12 +763,13 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Heterophily-Based Graph Neural Network for Imbalanced Classification**|Zirui Liang et.al.|[2310.08725](http://arxiv.org/abs/2310.08725)|null|
 |**2023-10-12**|**Infinite Width Graph Neural Networks for Node Regression/ Classification**|Yunus Cobanoglu et.al.|[2310.08176](http://arxiv.org/abs/2310.08176)|**[link](https://github.com/yCobanoglu/infinite-width-gnns)**|
 |**2023-10-12**|**Graph-SCP: Accelerating Set Cover Problems with Graph Neural Networks**|Zohair Shafi et.al.|[2310.07979](http://arxiv.org/abs/2310.07979)|null|
 |**2023-10-11**|**Non-backtracking Graph Neural Networks**|Seonghyun Park et.al.|[2310.07430](http://arxiv.org/abs/2310.07430)|null|
@@ -1156,12 +1163,22 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Unseen Image Synthesis with Diffusion Models**|Ye Zhu et.al.|[2310.09213](http://arxiv.org/abs/2310.09213)|null|
+|**2023-10-13**|**The effect of solar wind on the charged particles' diffusion coefficients**|J. F. Wang et.al.|[2310.09211](http://arxiv.org/abs/2310.09211)|null|
+|**2023-10-13**|**Galactic Gamma-Ray Diffuse Emission at TeV energies with HAWC Data**|R. Alfaro et.al.|[2310.09117](http://arxiv.org/abs/2310.09117)|null|
+|**2023-10-13**|**MINDE: Mutual Information Neural Diffusion Estimation**|Giulio Franzese et.al.|[2310.09031](http://arxiv.org/abs/2310.09031)|null|
+|**2023-10-13**|**Global behavior of nonlocal in time reaction-diffusion equations**|Berikbol T. Torebek et.al.|[2310.08985](http://arxiv.org/abs/2310.08985)|null|
+|**2023-10-13**|**Making Multimodal Generation Easier: When Diffusion Models Meet LLMs**|Xiangyu Zhao et.al.|[2310.08949](http://arxiv.org/abs/2310.08949)|**[link](https://github.com/zxy556677/easygen)**|
+|**2023-10-13**|**The dynamical lineage of field ultra-diffuse galaxies**|Nilanjana Nandi et.al.|[2310.08925](http://arxiv.org/abs/2310.08925)|null|
+|**2023-10-13**|**Sampling from Mean-Field Gibbs Measures via Diffusion Processes**|Ahmed El Alaoui et.al.|[2310.08912](http://arxiv.org/abs/2310.08912)|null|
+|**2023-10-13**|**DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection**|Chaocheng Yang et.al.|[2310.08800](http://arxiv.org/abs/2310.08800)|null|
+|**2023-10-12**|**Histogram- and Diffusion-Based Medical Out-of-Distribution Detection**|Evi M. C. Huijben et.al.|[2310.08654](http://arxiv.org/abs/2310.08654)|null|
 |**2023-10-12**|**HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion**|Xian Liu et.al.|[2310.08579](http://arxiv.org/abs/2310.08579)|null|
 |**2023-10-12**|**MotionDirector: Motion Customization of Text-to-Video Diffusion Models**|Rui Zhao et.al.|[2310.08465](http://arxiv.org/abs/2310.08465)|null|
 |**2023-10-12**|**Debias the Training of Diffusion Models**|Hu Yu et.al.|[2310.08442](http://arxiv.org/abs/2310.08442)|null|
@@ -2143,5 +2160,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
 
