@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Multi-view Contrastive Learning for Entity Typing over Knowledge Graphs**|Zhiwei Hu et.al.|[2310.12008](http://arxiv.org/abs/2310.12008)|**[link](https://github.com/zhiweihu1103/et-mclet)**|
+|**2023-10-18**|**Rather a Nurse than a Physician -- Contrastive Explanations under Investigation**|Oliver Eberle et.al.|[2310.11906](http://arxiv.org/abs/2310.11906)|null|
+|**2023-10-18**|**CLARA: Multilingual Contrastive Learning for Audio Representation Acquisition**|Kari A Noriy et.al.|[2310.11830](http://arxiv.org/abs/2310.11830)|null|
 |**2023-10-18**|**HGCVAE: Integrating Generative and Contrastive Learning for Heterogeneous Graph Learning**|Yulan Hu et.al.|[2310.11102](http://arxiv.org/abs/2310.11102)|null|
 |**2023-10-17**|**Understanding writing style in social media with a supervised contrastively pre-trained transformer**|Javier Huertas-Tato et.al.|[2310.11081](http://arxiv.org/abs/2310.11081)|null|
 |**2023-10-17**|**Understanding Contrastive Learning via Distributionally Robust Optimization**|Junkang Wu et.al.|[2310.11048](http://arxiv.org/abs/2310.11048)|**[link](https://github.com/junkangwu/ADNCE)**|
@@ -783,6 +786,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**A Quasi-Wasserstein Loss for Learning Graph Neural Networks**|Minjie Cheng et.al.|[2310.11762](http://arxiv.org/abs/2310.11762)|null|
+|**2023-10-18**|**Federated Heterogeneous Graph Neural Network for Privacy-preserving Recommendation**|Bo Yan et.al.|[2310.11730](http://arxiv.org/abs/2310.11730)|null|
+|**2023-10-17**|**RekomGNN: Visualizing, Contextualizing and Evaluating Graph Neural Networks Recommendations**|Camelia D. Brumar et.al.|[2310.11562](http://arxiv.org/abs/2310.11562)|null|
+|**2023-10-17**|**On the Temperature of Bayesian Graph Neural Networks for Conformal Prediction**|Seohyeon Cha et.al.|[2310.11479](http://arxiv.org/abs/2310.11479)|null|
 |**2023-10-17**|**Hybrid quantum-classical graph neural networks for tumor classification in digital pathology**|Anupama Ray et.al.|[2310.11353](http://arxiv.org/abs/2310.11353)|null|
 |**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
 |**2023-10-17**|**Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation**|Xinyi Gao et.al.|[2310.10998](http://arxiv.org/abs/2310.10998)|null|
@@ -1195,6 +1202,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Total variation regularization for recovering the spatial source term in a time-fractional diffusion equation**|Bin Fan et.al.|[2310.12029](http://arxiv.org/abs/2310.12029)|null|
+|**2023-10-18**|**Image Super-resolution Via Latent Diffusion: A Sampling-space Mixture Of Experts And Frequency-augmented Decoder Approach**|Feng Luo et.al.|[2310.12004](http://arxiv.org/abs/2310.12004)|null|
+|**2023-10-18**|**InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation**|Renzhi Wang et.al.|[2310.11976](http://arxiv.org/abs/2310.11976)|**[link](https://github.com/rzhwang/infodiffusion)**|
+|**2023-10-18**|**A Kernel-Density-Estimator Minimizing Movement Scheme for Diffusion Equations**|Florentine Fleißner et.al.|[2310.11961](http://arxiv.org/abs/2310.11961)|null|
+|**2023-10-18**|**Observation of the diffusive Nambu-Goldstone mode of a non-equilibrium phase transition**|Ferdinand Claude et.al.|[2310.11903](http://arxiv.org/abs/2310.11903)|null|
+|**2023-10-18**|**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**|Yimeng Zhang et.al.|[2310.11868](http://arxiv.org/abs/2310.11868)|**[link](https://github.com/optml-group/diffusion-mu-attack)**|
+|**2023-10-17**|**Reflection-Equivariant Diffusion for 3D Structure Determination from Isotopologue Rotational Spectra in Natural Abundance**|Austin Cheng et.al.|[2310.11609](http://arxiv.org/abs/2310.11609)|**[link](https://github.com/aspuru-guzik-group/kreed)**|
 |**2023-10-17**|**Elucidating The Design Space of Classifier-Guided Diffusion Generation**|Jiajun Ma et.al.|[2310.11311](http://arxiv.org/abs/2310.11311)|null|
 |**2023-10-17**|**Optimal existence, uniqueness and blow-up for a quasilinear diffusion equation with spatially inhomogeneous reaction**|Razvan Gabriel Iagar et.al.|[2310.11224](http://arxiv.org/abs/2310.11224)|null|
 |**2023-10-17**|**A diffusive wetting model for water entry/exit based on the weakly-compressible SPH method**|Shuoguo Zhang et.al.|[2310.11179](http://arxiv.org/abs/2310.11179)|null|
