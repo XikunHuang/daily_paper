@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-17**|**HGCVAE: Integrating Generative and Contrastive Learning for Heterogeneous Graph Learning**|Yulan Hu et.al.|[2310.11102](http://arxiv.org/abs/2310.11102)|null|
+|**2023-10-18**|**HGCVAE: Integrating Generative and Contrastive Learning for Heterogeneous Graph Learning**|Yulan Hu et.al.|[2310.11102](http://arxiv.org/abs/2310.11102)|null|
 |**2023-10-17**|**Understanding writing style in social media with a supervised contrastively pre-trained transformer**|Javier Huertas-Tato et.al.|[2310.11081](http://arxiv.org/abs/2310.11081)|null|
 |**2023-10-17**|**Understanding Contrastive Learning via Distributionally Robust Optimization**|Junkang Wu et.al.|[2310.11048](http://arxiv.org/abs/2310.11048)|**[link](https://github.com/junkangwu/ADNCE)**|
 |**2023-10-17**|**Semantic-Aware Contrastive Sentence Representation Learning with Large Language Models**|Huiming Wang et.al.|[2310.10962](http://arxiv.org/abs/2310.10962)|null|
@@ -777,7 +777,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-17**|**Hybrid quantum-classical graph neural networks for tumor classification in digital pathology**|Anupama Ray et.al.|[2310.11353](http://arxiv.org/abs/2310.11353)|null|
-|**2023-10-17**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
+|**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
 |**2023-10-17**|**Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation**|Xinyi Gao et.al.|[2310.10998](http://arxiv.org/abs/2310.10998)|null|
 |**2023-10-17**|**Analyzing Modularity Maximization in Approximation, Heuristic, and Graph Neural Network Algorithms for Community Detection**|Samin Aref et.al.|[2310.10898](http://arxiv.org/abs/2310.10898)|null|
 |**2023-10-16**|**Neural Tangent Kernels Motivate Graph Neural Networks with Cross-Covariance Graphs**|Shervin Khalafi et.al.|[2310.10791](http://arxiv.org/abs/2310.10791)|null|

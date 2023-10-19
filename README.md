@@ -1,4 +1,4 @@
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-17**|**HGCVAE: Integrating Generative and Contrastive Learning for Heterogeneous Graph Learning**|Yulan Hu et.al.|[2310.11102](http://arxiv.org/abs/2310.11102)|null|
+|**2023-10-18**|**HGCVAE: Integrating Generative and Contrastive Learning for Heterogeneous Graph Learning**|Yulan Hu et.al.|[2310.11102](http://arxiv.org/abs/2310.11102)|null|
 |**2023-10-17**|**Understanding writing style in social media with a supervised contrastively pre-trained transformer**|Javier Huertas-Tato et.al.|[2310.11081](http://arxiv.org/abs/2310.11081)|null|
 |**2023-10-17**|**Understanding Contrastive Learning via Distributionally Robust Optimization**|Junkang Wu et.al.|[2310.11048](http://arxiv.org/abs/2310.11048)|**[link](https://github.com/junkangwu/ADNCE)**|
 |**2023-10-17**|**Semantic-Aware Contrastive Sentence Representation Learning with Large Language Models**|Huiming Wang et.al.|[2310.10962](http://arxiv.org/abs/2310.10962)|null|
@@ -777,14 +777,14 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-17**|**Hybrid quantum-classical graph neural networks for tumor classification in digital pathology**|Anupama Ray et.al.|[2310.11353](http://arxiv.org/abs/2310.11353)|null|
-|**2023-10-17**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
+|**2023-10-18**|**Graph Neural Networks for Recommendation: Reproducibility, Graph Topology, and Node Representation**|Daniele Malitesta et.al.|[2310.11270](http://arxiv.org/abs/2310.11270)|null|
 |**2023-10-17**|**Accelerating Scalable Graph Neural Network Inference with Node-Adaptive Propagation**|Xinyi Gao et.al.|[2310.10998](http://arxiv.org/abs/2310.10998)|null|
 |**2023-10-17**|**Analyzing Modularity Maximization in Approximation, Heuristic, and Graph Neural Network Algorithms for Community Detection**|Samin Aref et.al.|[2310.10898](http://arxiv.org/abs/2310.10898)|null|
 |**2023-10-16**|**Neural Tangent Kernels Motivate Graph Neural Networks with Cross-Covariance Graphs**|Shervin Khalafi et.al.|[2310.10791](http://arxiv.org/abs/2310.10791)|null|
@@ -1189,7 +1189,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2202,5 +2202,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231019>back to top</a>)</p>
 
