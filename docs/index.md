@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
+|**2023-10-20**|**DistillCSE: Distilled Contrastive Learning for Sentence Embeddings**|Jiahao Xu et.al.|[2310.13499](http://arxiv.org/abs/2310.13499)|null|
+|**2023-10-20**|**On the Language Encoder of Contrastive Cross-modal Models**|Mengjie Zhao et.al.|[2310.13267](http://arxiv.org/abs/2310.13267)|null|
+|**2023-10-20**|**Multi-level Contrastive Learning for Script-based Character Understanding**|Dawei Li et.al.|[2310.13231](http://arxiv.org/abs/2310.13231)|null|
+|**2023-10-20**|**In-context Learning with Transformer Is Really Equivalent to a Contrastive Learning Pattern**|Ruifeng Ren et.al.|[2310.13220](http://arxiv.org/abs/2310.13220)|null|
 |**2023-10-19**|**Quantitative evaluation of simultaneous spatial and temporal regularization in liver perfusion studies using low-dose dynamic contrast-enhanced CT**|Kenya Murase et.al.|[2310.12499](http://arxiv.org/abs/2310.12499)|null|
 |**2023-10-19**|**Co $^2$ PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Contrastive Prompt Tuning**|Xiangjue Dong et.al.|[2310.12490](http://arxiv.org/abs/2310.12490)|**[link](https://github.com/dongxiangjue/co2pt)**|
 |**2023-10-19**|**Contrastive Learning for Inference in Dialogue**|Etsuko Ishii et.al.|[2310.12467](http://arxiv.org/abs/2310.12467)|**[link](https://github.com/hltchkust/contrastive_inference_dialogue)**|
@@ -784,6 +789,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**TempGNN: Temporal Graph Neural Networks for Dynamic Session-Based Recommendations**|Eunkyu Oh et.al.|[2310.13249](http://arxiv.org/abs/2310.13249)|null|
+|**2023-10-20**|**FLEE-GNN: A Federated Learning System for Edge-Enhanced Graph Neural Network in Analyzing Geospatial Resilience of Multicommodity Food Flows**|Yuxiao Qu et.al.|[2310.13248](http://arxiv.org/abs/2310.13248)|**[link](https://github.com/geods/flee-gnn)**|
+|**2023-10-19**|**Heterogeneous Graph Neural Networks for Data-driven Traffic Assignment**|Tong Liu et.al.|[2310.13193](http://arxiv.org/abs/2310.13193)|null|
+|**2023-10-19**|**Graph Neural Networks with polynomial activations have limited expressivity**|Sammy Khalife et.al.|[2310.13139](http://arxiv.org/abs/2310.13139)|null|
+|**2023-10-19**|**Agri-GNN: A Novel Genotypic-Topological Graph Neural Network Framework Built on GraphSAGE for Optimized Yield Prediction**|Aditya Gupta et.al.|[2310.13037](http://arxiv.org/abs/2310.13037)|null|
 |**2023-10-19**|**Exploring Graph Neural Networks for Indian Legal Judgment Prediction**|Mann Khatri et.al.|[2310.12800](http://arxiv.org/abs/2310.12800)|null|
 |**2023-10-19**|**DepWiGNN: A Depth-wise Graph Neural Network for Multi-hop Spatial Reasoning in Text**|Shuaiyi Li et.al.|[2310.12557](http://arxiv.org/abs/2310.12557)|**[link](https://github.com/syon-li/depwignn)**|
 |**2023-10-19**|**MuseGNN: Interpretable and Convergent Graph Neural Network Layers at Scale**|Haitian Jiang et.al.|[2310.12457](http://arxiv.org/abs/2310.12457)|null|
@@ -1203,6 +1213,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
+|**2023-10-20**|**Well-posedness of diffusion-aggregation equations with bounded kernels and their mean-field approximations**|Li Chen et.al.|[2310.13463](http://arxiv.org/abs/2310.13463)|null|
+|**2023-10-20**|**Molecular beam epitaxy of GaN/AlGaN quantum wells on bulk GaN substrate in the step-flow or step meandering regime: influence on indirect exciton diffusion**|Benjamin Damilano et.al.|[2310.13323](http://arxiv.org/abs/2310.13323)|null|
+|**2023-10-20**|**DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics**|Kaiwen Zheng et.al.|[2310.13268](http://arxiv.org/abs/2310.13268)|**[link](https://github.com/thu-ml/dpm-solver-v3)**|
+|**2023-10-20**|**Diffusive dynamics of a model protein chain in solution**|Margarita Colberg et.al.|[2310.13223](http://arxiv.org/abs/2310.13223)|null|
+|**2023-10-19**|**CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation**|Sihan Xu et.al.|[2310.13165](http://arxiv.org/abs/2310.13165)|**[link](https://github.com/sled-group/cyclenet)**|
+|**2023-10-19**|**Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models**|Gabriele Corso et.al.|[2310.13102](http://arxiv.org/abs/2310.13102)|**[link](https://github.com/gcorso/particle-guidance)**|
 |**2023-10-19**|**Structure preservation in high-order hybrid discretisations of advection-diffusion equations: linear and nonlinear approaches**|Simon Lemaire et.al.|[2310.12870](http://arxiv.org/abs/2310.12870)|null|
 |**2023-10-19**|**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model**|Zheyuan Zhang et.al.|[2310.12868](http://arxiv.org/abs/2310.12868)|null|
 |**2023-10-19**|**Weak pinning and long-range anticorrelated motion of phase boundaries in driven diffusive systems**|Sören Schweers et.al.|[2310.12742](http://arxiv.org/abs/2310.12742)|null|
