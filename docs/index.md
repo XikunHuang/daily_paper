@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation**|Wei-Lin Chen et.al.|[2310.14981](http://arxiv.org/abs/2310.14981)|**[link](https://github.com/ntunlplab/fecs)**|
+|**2023-10-23**|**SAMCLR: Contrastive pre-training on complex scenes using SAM for view sampling**|Benjamin Missaoui et.al.|[2310.14736](http://arxiv.org/abs/2310.14736)|null|
+|**2023-10-23**|**Do We Really Need Contrastive Learning for Graph Representation?**|Yulan Hu et.al.|[2310.14525](http://arxiv.org/abs/2310.14525)|null|
+|**2023-10-22**|**Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation**|Xiuyuan Qin et.al.|[2310.14318](http://arxiv.org/abs/2310.14318)|**[link](https://github.com/qinhsiu/icsrec)**|
+|**2023-10-22**|**Contact holes in vertical electrode structures analyzed by voltage contrast-SEM and conducting AFM**|Minsun Gu et.al.|[2310.14212](http://arxiv.org/abs/2310.14212)|null|
+|**2023-10-21**|**Zero-shot Learning of Individualized Task Contrast Prediction from Resting-state Functional Connectomes**|Minh Nguyen et.al.|[2310.14105](http://arxiv.org/abs/2310.14105)|null|
+|**2023-10-21**|**Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series**|Yihe Wang et.al.|[2310.14017](http://arxiv.org/abs/2310.14017)|**[link](https://github.com/dl4mhealth/comet)**|
+|**2023-10-21**|**Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation**|Yongjing Hao et.al.|[2310.13925](http://arxiv.org/abs/2310.13925)|null|
+|**2023-10-20**|**Augment with Care: Enhancing Graph Contrastive Learning with Selective Spectrum Perturbation**|Kaiqi Yang et.al.|[2310.13845](http://arxiv.org/abs/2310.13845)|null|
 |**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
 |**2023-10-20**|**DistillCSE: Distilled Contrastive Learning for Sentence Embeddings**|Jiahao Xu et.al.|[2310.13499](http://arxiv.org/abs/2310.13499)|null|
 |**2023-10-20**|**On the Language Encoder of Contrastive Cross-modal Models**|Mengjie Zhao et.al.|[2310.13267](http://arxiv.org/abs/2310.13267)|null|
@@ -789,6 +798,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Accelerate Microstructure Evolution Simulation Using Graph Neural Networks with Adaptive Spatiotemporal Resolution**|Shaoxun Fan et.al.|[2310.15153](http://arxiv.org/abs/2310.15153)|null|
+|**2023-10-23**|**A Study on Knowledge Graph Embeddings and Graph Neural Networks for Web Of Things**|Rohith Teja Mittakola et.al.|[2310.14866](http://arxiv.org/abs/2310.14866)|**[link](https://github.com/kgrl2021/submission-one)**|
+|**2023-10-22**|**Ensemble Learning for Graph Neural Networks**|Zhen Hao Wong et.al.|[2310.14166](http://arxiv.org/abs/2310.14166)|**[link](https://github.com/wongzhenhao/elgnn)**|
+|**2023-10-21**|**Graph Neural Networks and Applied Linear Algebra**|Nicholas S. Moore et.al.|[2310.14084](http://arxiv.org/abs/2310.14084)|**[link](https://github.com/sandialabs/gnn-applied-linear-algebra)**|
+|**2023-10-20**|**Adversarial Attacks on Fairness of Graph Neural Networks**|Binchi Zhang et.al.|[2310.13822](http://arxiv.org/abs/2310.13822)|**[link](https://github.com/zhangbinchi/g-fairattack)**|
 |**2023-10-20**|**TempGNN: Temporal Graph Neural Networks for Dynamic Session-Based Recommendations**|Eunkyu Oh et.al.|[2310.13249](http://arxiv.org/abs/2310.13249)|null|
 |**2023-10-20**|**FLEE-GNN: A Federated Learning System for Edge-Enhanced Graph Neural Network in Analyzing Geospatial Resilience of Multicommodity Food Flows**|Yuxiao Qu et.al.|[2310.13248](http://arxiv.org/abs/2310.13248)|**[link](https://github.com/geods/flee-gnn)**|
 |**2023-10-19**|**Heterogeneous Graph Neural Networks for Data-driven Traffic Assignment**|Tong Liu et.al.|[2310.13193](http://arxiv.org/abs/2310.13193)|null|
@@ -1213,6 +1227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
+|**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
+|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
+|**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842](http://arxiv.org/abs/2310.14842)|null|
+|**2023-10-23**|**Anomalous Kinetics of a Multi-Species Reaction-Diffusion System: Effect of Random Velocity Fluctuations**|Michal Hnatič et.al.|[2310.14759](http://arxiv.org/abs/2310.14759)|null|
+|**2023-10-23**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729](http://arxiv.org/abs/2310.14729)|null|
+|**2023-10-23**|**DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction**|Younwoo Choi et.al.|[2310.14570](http://arxiv.org/abs/2310.14570)|null|
+|**2023-10-23**|**Mock Observations: Formation and Evolution of diffuse light in Galaxy Groups and Clusters in the IllustrisTNG Simulations**|Lin Tang et.al.|[2310.14530](http://arxiv.org/abs/2310.14530)|null|
+|**2023-10-22**|**Diffusion-Model-Assisted Supervised Learning of Generative Models for Density Estimation**|Yanfang Liu et.al.|[2310.14458](http://arxiv.org/abs/2310.14458)|null|
 |**2023-10-20**|**ScaleLong: Towards More Stable Training of Diffusion Model via Scaling Network Long Skip Connection**|Zhongzhan Huang et.al.|[2310.13545](http://arxiv.org/abs/2310.13545)|**[link](https://github.com/sail-sg/scalelong)**|
 |**2023-10-20**|**Well-posedness of diffusion-aggregation equations with bounded kernels and their mean-field approximations**|Li Chen et.al.|[2310.13463](http://arxiv.org/abs/2310.13463)|null|
 |**2023-10-20**|**Molecular beam epitaxy of GaN/AlGaN quantum wells on bulk GaN substrate in the step-flow or step meandering regime: influence on indirect exciton diffusion**|Benjamin Damilano et.al.|[2310.13323](http://arxiv.org/abs/2310.13323)|null|
