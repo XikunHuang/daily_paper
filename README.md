@@ -1,4 +1,4 @@
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,10 +20,10 @@
 |**2023-10-22**|**Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation**|Xiuyuan Qin et.al.|[2310.14318](http://arxiv.org/abs/2310.14318)|**[link](https://github.com/qinhsiu/icsrec)**|
 |**2023-10-22**|**Contact holes in vertical electrode structures analyzed by voltage contrast-SEM and conducting AFM**|Minsun Gu et.al.|[2310.14212](http://arxiv.org/abs/2310.14212)|null|
 |**2023-10-21**|**Zero-shot Learning of Individualized Task Contrast Prediction from Resting-state Functional Connectomes**|Minh Nguyen et.al.|[2310.14105](http://arxiv.org/abs/2310.14105)|null|
-|**2023-10-21**|**Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series**|Yihe Wang et.al.|[2310.14017](http://arxiv.org/abs/2310.14017)|**[link](https://github.com/dl4mhealth/comet)**|
+|**2023-10-24**|**Contrast Everything: A Hierarchical Contrastive Framework for Medical Time-Series**|Yihe Wang et.al.|[2310.14017](http://arxiv.org/abs/2310.14017)|**[link](https://github.com/dl4mhealth/comet)**|
 |**2023-10-21**|**Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation**|Yongjing Hao et.al.|[2310.13925](http://arxiv.org/abs/2310.13925)|null|
 |**2023-10-20**|**Augment with Care: Enhancing Graph Contrastive Learning with Selective Spectrum Perturbation**|Kaiqi Yang et.al.|[2310.13845](http://arxiv.org/abs/2310.13845)|null|
-|**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
+|**2023-10-24**|**Contrastive Preference Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
 |**2023-10-20**|**DistillCSE: Distilled Contrastive Learning for Sentence Embeddings**|Jiahao Xu et.al.|[2310.13499](http://arxiv.org/abs/2310.13499)|null|
 |**2023-10-20**|**On the Language Encoder of Contrastive Cross-modal Models**|Mengjie Zhao et.al.|[2310.13267](http://arxiv.org/abs/2310.13267)|null|
 |**2023-10-20**|**Multi-level Contrastive Learning for Script-based Character Understanding**|Dawei Li et.al.|[2310.13231](http://arxiv.org/abs/2310.13231)|null|
@@ -799,7 +799,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
 
 ## GNN
 
@@ -1230,7 +1230,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1239,7 +1239,7 @@
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
-|**2023-10-23**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
+|**2023-10-24**|**Wonder3D: Single Image to 3D using Cross-Domain Diffusion**|Xiaoxiao Long et.al.|[2310.15008](http://arxiv.org/abs/2310.15008)|null|
 |**2023-10-23**|**Joint Non-Linear MRI Inversion with Diffusion Priors**|Moritz Erlacher et.al.|[2310.14842](http://arxiv.org/abs/2310.14842)|null|
 |**2023-10-23**|**Anomalous Kinetics of a Multi-Species Reaction-Diffusion System: Effect of Random Velocity Fluctuations**|Michal Hnatič et.al.|[2310.14759](http://arxiv.org/abs/2310.14759)|null|
 |**2023-10-23**|**MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion**|Roy Kapon et.al.|[2310.14729](http://arxiv.org/abs/2310.14729)|null|
@@ -2277,5 +2277,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231025>back to top</a>)</p>
 
