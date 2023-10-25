@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Contrastive Learning-based Sentence Encoders Implicitly Weight Informative Words**|Hiroto Kurita et.al.|[2310.15921](http://arxiv.org/abs/2310.15921)|**[link](https://github.com/kuriyan1204/sentence-encoder-word-weighting)**|
+|**2023-10-24**|**Cross-feature Contrastive Loss for Decentralized Deep Learning on Heterogeneous Data**|Sai Aparna Aketi et.al.|[2310.15890](http://arxiv.org/abs/2310.15890)|null|
+|**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767](http://arxiv.org/abs/2310.15767)|null|
+|**2023-10-24**|**CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction**|Rajdeep Mukherjee et.al.|[2310.15577](http://arxiv.org/abs/2310.15577)|**[link](https://github.com/nitkannen/contraste)**|
+|**2023-10-24**|**Learning with Noisy Labels Using Collaborative Sample Selection and Contrastive Semi-Supervised Learning**|Qing Miao et.al.|[2310.15533](http://arxiv.org/abs/2310.15533)|null|
+|**2023-10-24**|**Generative and Contrastive Paradigms Are Complementary for Graph Self-Supervised Learning**|Yuxiang Wang et.al.|[2310.15523](http://arxiv.org/abs/2310.15523)|null|
+|**2023-10-23**|**Towards contrast-agnostic soft segmentation of the spinal cord**|Sandrine Bédard et.al.|[2310.15402](http://arxiv.org/abs/2310.15402)|**[link](https://github.com/sct-pipeline/contrast-agnostic-softseg-spinalcord)**|
 |**2023-10-23**|**Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation**|Wei-Lin Chen et.al.|[2310.14981](http://arxiv.org/abs/2310.14981)|**[link](https://github.com/ntunlplab/fecs)**|
 |**2023-10-23**|**SAMCLR: Contrastive pre-training on complex scenes using SAM for view sampling**|Benjamin Missaoui et.al.|[2310.14736](http://arxiv.org/abs/2310.14736)|null|
 |**2023-10-23**|**Do We Really Need Contrastive Learning for Graph Representation?**|Yulan Hu et.al.|[2310.14525](http://arxiv.org/abs/2310.14525)|null|
@@ -805,6 +812,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation**|Anshul Ahluwalia et.al.|[2310.15938](http://arxiv.org/abs/2310.15938)|null|
+|**2023-10-24**|**Using Causality-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs**|Franziska Heeg et.al.|[2310.15865](http://arxiv.org/abs/2310.15865)|null|
+|**2023-10-23**|**HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**|Yihong Ma et.al.|[2310.15318](http://arxiv.org/abs/2310.15318)|null|
 |**2023-10-23**|**Accelerate Microstructure Evolution Simulation Using Graph Neural Networks with Adaptive Spatiotemporal Resolution**|Shaoxun Fan et.al.|[2310.15153](http://arxiv.org/abs/2310.15153)|null|
 |**2023-10-23**|**A Study on Knowledge Graph Embeddings and Graph Neural Networks for Web Of Things**|Rohith Teja Mittakola et.al.|[2310.14866](http://arxiv.org/abs/2310.14866)|**[link](https://github.com/kgrl2021/submission-one)**|
 |**2023-10-22**|**Ensemble Learning for Graph Neural Networks**|Zhen Hao Wong et.al.|[2310.14166](http://arxiv.org/abs/2310.14166)|**[link](https://github.com/wongzhenhao/elgnn)**|
@@ -1236,6 +1246,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043](http://arxiv.org/abs/2310.16043)|null|
+|**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012](http://arxiv.org/abs/2310.16012)|null|
+|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
+|**2023-10-24**|**$L^2$ -Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897](http://arxiv.org/abs/2310.15897)|null|
+|**2023-10-24**|**Hybridized Formulations of Flux Reconstruction Schemes for Advection-Diffusion Problems**|Carlos A. Pereira et.al.|[2310.15870](http://arxiv.org/abs/2310.15870)|null|
+|**2023-10-24**|**A Diffusion Weighted Graph Framework for New Intent Discovery**|Wenkai Shi et.al.|[2310.15836](http://arxiv.org/abs/2310.15836)|**[link](https://github.com/yibai-shi/dwgf)**|
+|**2023-10-24**|**A Comparative Study of Variational Autoencoders, Normalizing Flows, and Score-based Diffusion Models for Electrical Impedance Tomography**|Huihui Wang et.al.|[2310.15831](http://arxiv.org/abs/2310.15831)|null|
+|**2023-10-24**|**Discriminator Guidance for Autoregressive Diffusion Models**|Filip Ekström Kelvinius et.al.|[2310.15817](http://arxiv.org/abs/2310.15817)|null|
+|**2023-10-24**|**Improving Diffusion Models for ECG Imputation with an Augmented Template Prior**|Alexander Jenkins et.al.|[2310.15742](http://arxiv.org/abs/2310.15742)|null|
 |**2023-10-23**|**FreeNoise: Tuning-Free Longer Video Diffusion Via Noise Rescheduling**|Haonan Qiu et.al.|[2310.15169](http://arxiv.org/abs/2310.15169)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111](http://arxiv.org/abs/2310.15111)|null|
 |**2023-10-23**|**Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model**|Ruoxi Shi et.al.|[2310.15110](http://arxiv.org/abs/2310.15110)|**[link](https://github.com/sudo-ai-3d/zero123plus)**|
