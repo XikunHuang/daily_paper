@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.25
+## Updated on 2023.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1239,8 +1239,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043](http://arxiv.org/abs/2310.16043)|null|
 |**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012](http://arxiv.org/abs/2310.16012)|null|
-|**2023-10-24**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
-|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|null|
+|**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
+|**2023-10-24**|**Language-driven Scene Synthesis using Multi-conditional Diffusion Model**|An Vuong et.al.|[2310.15948](http://arxiv.org/abs/2310.15948)|**[link](https://github.com/andvg3/LSDM)**|
 |**2023-10-24**|**$L^2$ -Wasserstein contraction for Euler schemes of elliptic diffusions and interacting particle systems**|Linshan Liu et.al.|[2310.15897](http://arxiv.org/abs/2310.15897)|null|
 |**2023-10-24**|**Hybridized Formulations of Flux Reconstruction Schemes for Advection-Diffusion Problems**|Carlos A. Pereira et.al.|[2310.15870](http://arxiv.org/abs/2310.15870)|null|
 |**2023-10-24**|**A Diffusion Weighted Graph Framework for New Intent Discovery**|Wenkai Shi et.al.|[2310.15836](http://arxiv.org/abs/2310.15836)|**[link](https://github.com/yibai-shi/dwgf)**|
