@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835](http://arxiv.org/abs/2310.16835)|null|
+|**2023-10-25**|**IntenDD: A Unified Contrastive Learning Approach for Intent Detection and Discovery**|Bhavuk Singhal et.al.|[2310.16761](http://arxiv.org/abs/2310.16761)|null|
+|**2023-10-25**|**SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations**|Tao Shi et.al.|[2310.16676](http://arxiv.org/abs/2310.16676)|**[link](https://github.com/taoshi1998/sslcl)**|
+|**2023-10-25**|**Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation**|Chengpeng Li et.al.|[2310.16566](http://arxiv.org/abs/2310.16566)|null|
+|**2023-10-25**|**Lang3DSG: Language-based contrastive pre-training for 3D Scene Graph prediction**|Sebastian Koch et.al.|[2310.16494](http://arxiv.org/abs/2310.16494)|null|
 |**2023-10-24**|**Contrastive Learning-based Sentence Encoders Implicitly Weight Informative Words**|Hiroto Kurita et.al.|[2310.15921](http://arxiv.org/abs/2310.15921)|**[link](https://github.com/kuriyan1204/sentence-encoder-word-weighting)**|
 |**2023-10-24**|**Cross-feature Contrastive Loss for Decentralized Deep Learning on Heterogeneous Data**|Sai Aparna Aketi et.al.|[2310.15890](http://arxiv.org/abs/2310.15890)|null|
 |**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767](http://arxiv.org/abs/2310.15767)|null|
@@ -812,6 +817,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Graph Neural Networks with a Distribution of Parametrized Graphs**|See Hian Lee et.al.|[2310.16401](http://arxiv.org/abs/2310.16401)|null|
+|**2023-10-25**|**DyExplainer: Explainable Dynamic Graph Neural Networks**|Tianchun Wang et.al.|[2310.16375](http://arxiv.org/abs/2310.16375)|null|
 |**2023-10-24**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation**|Anshul Ahluwalia et.al.|[2310.15938](http://arxiv.org/abs/2310.15938)|null|
 |**2023-10-24**|**Using Causality-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs**|Franziska Heeg et.al.|[2310.15865](http://arxiv.org/abs/2310.15865)|null|
 |**2023-10-23**|**HetGPT: Harnessing the Power of Prompt Tuning in Pre-Trained Heterogeneous Graph Neural Networks**|Yihong Ma et.al.|[2310.15318](http://arxiv.org/abs/2310.15318)|null|
@@ -1246,6 +1253,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
+|**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
+|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
+|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
+|**2023-10-25**|**Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo**|Kun Fang et.al.|[2310.16594](http://arxiv.org/abs/2310.16594)|null|
+|**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573](http://arxiv.org/abs/2310.16573)|null|
+|**2023-10-25**|**Growth of Massive Molecular Cloud Filament by Accretion Flows I: Slow Shock Instability v.s. Ambipolar Diffusion**|Daisei Abe et.al.|[2310.16448](http://arxiv.org/abs/2310.16448)|null|
+|**2023-10-25**|**Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models**|Tianyi Lu et.al.|[2310.16400](http://arxiv.org/abs/2310.16400)|null|
+|**2023-10-25**|**A model for drift velocity mediated scalar eddy diffusivity in homogeneous turbulent flows**|Omkar B. Shende et.al.|[2310.16372](http://arxiv.org/abs/2310.16372)|null|
 |**2023-10-24**|**The ballistic to diffusive crossover in a weakly-interacting Fermi gas**|Jerome Lloyd et.al.|[2310.16043](http://arxiv.org/abs/2310.16043)|null|
 |**2023-10-24**|**Regularization estimates of the Landau-Coulomb diffusion**|Rene Cabrera et.al.|[2310.16012](http://arxiv.org/abs/2310.16012)|null|
 |**2023-10-25**|**Improving Robustness and Reliability in Medical Image Classification with Latent-Guided Diffusion and Nested-Ensembles**|Xing Shen et.al.|[2310.15952](http://arxiv.org/abs/2310.15952)|null|
