@@ -9,13 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification**|Jiachen Li et.al.|[2310.17218](http://arxiv.org/abs/2310.17218)|null|
+|**2023-10-26**|**Multi-Speaker Expressive Speech Synthesis via Semi-supervised Contrastive Learning**|Xinfa Zhu et.al.|[2310.17101](http://arxiv.org/abs/2310.17101)|null|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835](http://arxiv.org/abs/2310.16835)|null|
 |**2023-10-25**|**IntenDD: A Unified Contrastive Learning Approach for Intent Detection and Discovery**|Bhavuk Singhal et.al.|[2310.16761](http://arxiv.org/abs/2310.16761)|null|
 |**2023-10-25**|**SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations**|Tao Shi et.al.|[2310.16676](http://arxiv.org/abs/2310.16676)|**[link](https://github.com/taoshi1998/sslcl)**|
 |**2023-10-25**|**Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation**|Chengpeng Li et.al.|[2310.16566](http://arxiv.org/abs/2310.16566)|null|
 |**2023-10-25**|**Lang3DSG: Language-based contrastive pre-training for 3D Scene Graph prediction**|Sebastian Koch et.al.|[2310.16494](http://arxiv.org/abs/2310.16494)|null|
 |**2023-10-24**|**Contrastive Learning-based Sentence Encoders Implicitly Weight Informative Words**|Hiroto Kurita et.al.|[2310.15921](http://arxiv.org/abs/2310.15921)|**[link](https://github.com/kuriyan1204/sentence-encoder-word-weighting)**|
-|**2023-10-26**|**Cross-feature Contrastive Loss for Decentralized Deep Learning on Heterogeneous Data**|Sai Aparna Aketi et.al.|[2310.15890](http://arxiv.org/abs/2310.15890)|null|
+|**2023-10-26**|**Cross-feature Contrastive Loss for Decentralized Deep Learning on Heterogeneous Data**|Sai Aparna Aketi et.al.|[2310.15890](http://arxiv.org/abs/2310.15890)|**[link](https://github.com/aparna-aketi/cross_feature_contrastive_loss)**|
 |**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767](http://arxiv.org/abs/2310.15767)|null|
 |**2023-10-24**|**CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction**|Rajdeep Mukherjee et.al.|[2310.15577](http://arxiv.org/abs/2310.15577)|**[link](https://github.com/nitkannen/contraste)**|
 |**2023-10-24**|**Learning with Noisy Labels Using Collaborative Sample Selection and Contrastive Semi-Supervised Learning**|Qing Miao et.al.|[2310.15533](http://arxiv.org/abs/2310.15533)|null|
@@ -810,6 +812,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646](http://arxiv.org/abs/2310.17646)|null|
+|**2023-10-26**|**Enhancing Graph Neural Networks with Structure-Based Prompt**|Qingqing Ge et.al.|[2310.17394](http://arxiv.org/abs/2310.17394)|null|
+|**2023-10-26**|**Explainable Spatio-Temporal Graph Neural Networks**|Jiabin Tang et.al.|[2310.17149](http://arxiv.org/abs/2310.17149)|**[link](https://github.com/hkuds/stexplainer)**|
+|**2023-10-26**|**Network Design through Graph Neural Networks: Identifying Challenges and Improving Performance**|Donald Loveland et.al.|[2310.17100](http://arxiv.org/abs/2310.17100)|null|
 |**2023-10-25**|**Graph Neural Networks with a Distribution of Parametrized Graphs**|See Hian Lee et.al.|[2310.16401](http://arxiv.org/abs/2310.16401)|null|
 |**2023-10-25**|**DyExplainer: Explainable Dynamic Graph Neural Networks**|Tianchun Wang et.al.|[2310.16375](http://arxiv.org/abs/2310.16375)|null|
 |**2023-10-24**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation**|Anshul Ahluwalia et.al.|[2310.15938](http://arxiv.org/abs/2310.15938)|null|
@@ -1244,6 +1250,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
+|**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638](http://arxiv.org/abs/2310.17638)|null|
+|**2023-10-26**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
+|**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
+|**2023-10-26**|**SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching**|Xinghui Li et.al.|[2310.17569](http://arxiv.org/abs/2310.17569)|null|
+|**2023-10-26**|**The statistical thermodynamics of generative diffusion models**|Luca Ambrogioni et.al.|[2310.17467](http://arxiv.org/abs/2310.17467)|null|
+|**2023-10-26**|**Likelihood-based Out-of-Distribution Detection with Denoising Diffusion Probabilistic Models**|Joseph Goodier et.al.|[2310.17432](http://arxiv.org/abs/2310.17432)|null|
+|**2023-10-26**|**Causal Modeling with Stationary Diffusions**|Lars Lorch et.al.|[2310.17405](http://arxiv.org/abs/2310.17405)|null|
+|**2023-10-26**|**Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning**|Junfeng Hu et.al.|[2310.17360](http://arxiv.org/abs/2310.17360)|null|
+|**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359](http://arxiv.org/abs/2310.17359)|null|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
 |**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
