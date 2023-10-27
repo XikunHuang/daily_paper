@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -15,7 +15,7 @@ layout: default
 |**2023-10-25**|**Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation**|Chengpeng Li et.al.|[2310.16566](http://arxiv.org/abs/2310.16566)|null|
 |**2023-10-25**|**Lang3DSG: Language-based contrastive pre-training for 3D Scene Graph prediction**|Sebastian Koch et.al.|[2310.16494](http://arxiv.org/abs/2310.16494)|null|
 |**2023-10-24**|**Contrastive Learning-based Sentence Encoders Implicitly Weight Informative Words**|Hiroto Kurita et.al.|[2310.15921](http://arxiv.org/abs/2310.15921)|**[link](https://github.com/kuriyan1204/sentence-encoder-word-weighting)**|
-|**2023-10-24**|**Cross-feature Contrastive Loss for Decentralized Deep Learning on Heterogeneous Data**|Sai Aparna Aketi et.al.|[2310.15890](http://arxiv.org/abs/2310.15890)|null|
+|**2023-10-26**|**Cross-feature Contrastive Loss for Decentralized Deep Learning on Heterogeneous Data**|Sai Aparna Aketi et.al.|[2310.15890](http://arxiv.org/abs/2310.15890)|null|
 |**2023-10-24**|**Unpaired MRI Super Resolution with Self-Supervised Contrastive Learning**|Hao Li et.al.|[2310.15767](http://arxiv.org/abs/2310.15767)|null|
 |**2023-10-24**|**CONTRASTE: Supervised Contrastive Pre-training With Aspect-based Prompts For Aspect Sentiment Triplet Extraction**|Rajdeep Mukherjee et.al.|[2310.15577](http://arxiv.org/abs/2310.15577)|**[link](https://github.com/nitkannen/contraste)**|
 |**2023-10-24**|**Learning with Noisy Labels Using Collaborative Sample Selection and Contrastive Semi-Supervised Learning**|Qing Miao et.al.|[2310.15533](http://arxiv.org/abs/2310.15533)|null|
@@ -1246,9 +1246,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-25**|**Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution**|Aaron Lou et.al.|[2310.16834](http://arxiv.org/abs/2310.16834)|null|
 |**2023-10-25**|**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**|Aaron Gokaslan et.al.|[2310.16825](http://arxiv.org/abs/2310.16825)|**[link](https://github.com/mosaicml/diffusion)**|
-|**2023-10-25**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
+|**2023-10-26**|**DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior**|Jingxiang Sun et.al.|[2310.16818](http://arxiv.org/abs/2310.16818)|**[link](https://github.com/deepseek-ai/dreamcraft3d)**|
 |**2023-10-25**|**Using Diffusion Models to Generate Synthetic Labelled Data for Medical Image Segmentation**|Daniel Saragih et.al.|[2310.16794](http://arxiv.org/abs/2310.16794)|null|
-|**2023-10-25**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
+|**2023-10-26**|**Multi-scale Diffusion Denoised Smoothing**|Jongheon Jeong et.al.|[2310.16779](http://arxiv.org/abs/2310.16779)|null|
 |**2023-10-25**|**Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo**|Kun Fang et.al.|[2310.16594](http://arxiv.org/abs/2310.16594)|null|
 |**2023-10-25**|**Adapt Anything: Tailor Any Image Classifiers across Domains And Categories Using Text-to-Image Diffusion Models**|Weijie Chen et.al.|[2310.16573](http://arxiv.org/abs/2310.16573)|null|
 |**2023-10-25**|**Growth of Massive Molecular Cloud Filament by Accretion Flows I: Slow Shock Instability v.s. Ambipolar Diffusion**|Daisei Abe et.al.|[2310.16448](http://arxiv.org/abs/2310.16448)|null|
