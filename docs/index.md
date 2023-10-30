@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1252,7 +1252,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
 |**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638](http://arxiv.org/abs/2310.17638)|null|
-|**2023-10-26**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
+|**2023-10-27**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
 |**2023-10-26**|**DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation**|Yongxin Zhu et.al.|[2310.17570](http://arxiv.org/abs/2310.17570)|null|
 |**2023-10-26**|**SD4Match: Learning to Prompt Stable Diffusion Model for Semantic Matching**|Xinghui Li et.al.|[2310.17569](http://arxiv.org/abs/2310.17569)|null|
 |**2023-10-26**|**The statistical thermodynamics of generative diffusion models**|Luca Ambrogioni et.al.|[2310.17467](http://arxiv.org/abs/2310.17467)|null|
