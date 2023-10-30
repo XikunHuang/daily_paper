@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning**|Yifei Zhang et.al.|[2310.18209](http://arxiv.org/abs/2310.18209)|null|
+|**2023-10-26**|**Non-contrastive sentence representations via self-supervision**|Marco Farina et.al.|[2310.17690](http://arxiv.org/abs/2310.17690)|null|
+|**2023-10-26**|**Spatio-Temporal Meta Contrastive Learning**|Jiabin Tang et.al.|[2310.17678](http://arxiv.org/abs/2310.17678)|**[link](https://github.com/hkuds/cl4st)**|
 |**2023-10-26**|**Prototypical Contrastive Learning-based CLIP Fine-tuning for Object Re-identification**|Jiachen Li et.al.|[2310.17218](http://arxiv.org/abs/2310.17218)|null|
 |**2023-10-26**|**Multi-Speaker Expressive Speech Synthesis via Semi-supervised Contrastive Learning**|Xinfa Zhu et.al.|[2310.17101](http://arxiv.org/abs/2310.17101)|null|
 |**2023-10-25**|**Proposal-Contrastive Pretraining for Object Detection from Fewer Data**|Quentin Bouniot et.al.|[2310.16835](http://arxiv.org/abs/2310.16835)|null|
@@ -819,6 +822,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-26**|**GNN-GMVO: Graph Neural Networks for Optimizing Gross Merchandise Value in Similar Item Recommendation**|Ramin Giahi et.al.|[2310.17732](http://arxiv.org/abs/2310.17732)|null|
+|**2023-10-26**|**Improving Traffic Density Forecasting in Intelligent Transportation Systems Using Gated Graph Neural Networks**|Razib Hayat Khan et.al.|[2310.17729](http://arxiv.org/abs/2310.17729)|null|
 |**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646](http://arxiv.org/abs/2310.17646)|null|
 |**2023-10-26**|**Enhancing Graph Neural Networks with Structure-Based Prompt**|Qingqing Ge et.al.|[2310.17394](http://arxiv.org/abs/2310.17394)|null|
 |**2023-10-26**|**Explainable Spatio-Temporal Graph Neural Networks**|Jiabin Tang et.al.|[2310.17149](http://arxiv.org/abs/2310.17149)|**[link](https://github.com/hkuds/stexplainer)**|
@@ -1259,6 +1264,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-27**|**Style Description based Text-to-Speech with Conditional Prosodic Layer Normalization based Diffusion GAN**|Neeraj Kumar et.al.|[2310.18169](http://arxiv.org/abs/2310.18169)|null|
+|**2023-10-27**|**Upper bounds on entropy production in diffusive dynamics**|Andreas Dechant et.al.|[2310.17929](http://arxiv.org/abs/2310.17929)|null|
+|**2023-10-26**|**Interacting Diffusion Processes for Event Sequence Forecasting**|Mai Zeng et.al.|[2310.17800](http://arxiv.org/abs/2310.17800)|null|
+|**2023-10-26**|**Diffusive-hydrodynamic transition in the anomalous Hall effect**|D. S. Zohrabyan et.al.|[2310.17738](http://arxiv.org/abs/2310.17738)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649](http://arxiv.org/abs/2310.17649)|null|
 |**2023-10-26**|**Generative Fractional Diffusion Models**|Gabriel Nobis et.al.|[2310.17638](http://arxiv.org/abs/2310.17638)|null|
 |**2023-10-27**|**Global Structure-Aware Diffusion Process for Low-Light Image Enhancement**|Jinhui Hou et.al.|[2310.17577](http://arxiv.org/abs/2310.17577)|**[link](https://github.com/jinnh/GSAD)**|
