@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168](http://arxiv.org/abs/2310.19168)|**[link](https://github.com/mvrl/birdsat)**|
+|**2023-10-29**|**Transport-of-Intensity Model for Single-Mask X-ray Differential Phase Contrast Imaging**|Jingcheng Yuan et.al.|[2310.19087](http://arxiv.org/abs/2310.19087)|null|
+|**2023-10-29**|**Controllable Group Choreography using Contrastive Diffusion**|Nhat Le et.al.|[2310.18986](http://arxiv.org/abs/2310.18986)|null|
+|**2023-10-29**|**Retrofitting Light-weight Language Models for Emotions using Supervised Contrastive Learning**|Sapan Shah et.al.|[2310.18930](http://arxiv.org/abs/2310.18930)|null|
+|**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
+|**2023-10-29**|**Simple and Asymmetric Graph Contrastive Learning without Augmentations**|Teng Xiao et.al.|[2310.18884](http://arxiv.org/abs/2310.18884)|**[link](https://github.com/tengxiao1/graphacl)**|
+|**2023-10-28**|**Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss**|An Zhang et.al.|[2310.18700](http://arxiv.org/abs/2310.18700)|**[link](https://github.com/lehengthu/advinfonce)**|
+|**2023-10-28**|**ReConTab: Regularized Contrastive Representation Learning for Tabular Data**|Suiyao Chen et.al.|[2310.18541](http://arxiv.org/abs/2310.18541)|null|
+|**2023-10-27**|**Feature Selection in the Contrastive Analysis Setting**|Ethan Weinberger et.al.|[2310.18531](http://arxiv.org/abs/2310.18531)|null|
 |**2023-10-27**|**Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning**|Yifei Zhang et.al.|[2310.18209](http://arxiv.org/abs/2310.18209)|null|
 |**2023-10-26**|**Non-contrastive sentence representations via self-supervision**|Marco Farina et.al.|[2310.17690](http://arxiv.org/abs/2310.17690)|null|
 |**2023-10-26**|**Spatio-Temporal Meta Contrastive Learning**|Jiabin Tang et.al.|[2310.17678](http://arxiv.org/abs/2310.17678)|**[link](https://github.com/hkuds/cl4st)**|
@@ -815,6 +824,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
+|**2023-10-29**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918](http://arxiv.org/abs/2310.18918)|null|
+|**2023-10-28**|**Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First**|Zheng Zhang et.al.|[2310.18735](http://arxiv.org/abs/2310.18735)|**[link](https://github.com/rollingstonezz/curriculum_learning_for_gnns)**|
 |**2023-10-26**|**GNN-GMVO: Graph Neural Networks for Optimizing Gross Merchandise Value in Similar Item Recommendation**|Ramin Giahi et.al.|[2310.17732](http://arxiv.org/abs/2310.17732)|null|
 |**2023-10-26**|**Improving Traffic Density Forecasting in Intelligent Transportation Systems Using Gated Graph Neural Networks**|Razib Hayat Khan et.al.|[2310.17729](http://arxiv.org/abs/2310.17729)|null|
 |**2023-10-26**|**Do Graph Neural Networks Dream of Landau Damping? Insights from Kinetic Simulations of a Plasma Sheet Model**|Diogo D Carvalho et.al.|[2310.17646](http://arxiv.org/abs/2310.17646)|null|
@@ -1255,6 +1267,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Linear optical properties of organic microcavity polaritons with non-Markovian Quantum State Diffusion**|Timo Leppälä et.al.|[2310.19162](http://arxiv.org/abs/2310.19162)|null|
+|**2023-10-29**|**Controllable Group Choreography using Contrastive Diffusion**|Nhat Le et.al.|[2310.18986](http://arxiv.org/abs/2310.18986)|null|
+|**2023-10-29**|**Homogenization of diffusions on the lattice ${\mathbf Z}^d$ with periodic drift coefficients; Application of logarithmic Sobolev inequality**|Sergio et.al.|[2310.18973](http://arxiv.org/abs/2310.18973)|null|
+|**2023-10-29**|**Quantum algorithms for linear and non-linear fractional reaction-diffusion equations**|Dong An et.al.|[2310.18900](http://arxiv.org/abs/2310.18900)|null|
+|**2023-10-28**|**Customizing 360-Degree Panoramas through Text-to-Image Diffusion Models**|Hai Wang et.al.|[2310.18840](http://arxiv.org/abs/2310.18840)|**[link](https://github.com/littlewhitesea/stitchdiffusion)**|
+|**2023-10-28**|**Successfully Applying Lottery Ticket Hypothesis to Diffusion Model**|Chao Jiang et.al.|[2310.18823](http://arxiv.org/abs/2310.18823)|**[link](https://github.com/osier0524/lottery-ticket-to-ddpm)**|
+|**2023-10-28**|**Ultrafast Electron Diffuse Scattering as a Tool for Studying Phonon Transport: Phonon Hydrodynamics and Second Sound Oscillations**|Laurenz Kremeyer et.al.|[2310.18793](http://arxiv.org/abs/2310.18793)|null|
+|**2023-10-28**|**Arnold diffusion for an a priori unstable Hamiltonian system with 3 $+$ 1/2 degrees of freedom**|Amadeu Delshams et.al.|[2310.18787](http://arxiv.org/abs/2310.18787)|null|
+|**2023-10-28**|**Purify++: Improving Diffusion-Purification with Advanced Diffusion Models and Control of Randomness**|Boya Zhang et.al.|[2310.18762](http://arxiv.org/abs/2310.18762)|null|
+|**2023-10-28**|**Diffusion processes as Wasserstein gradient flows via stochastic control of the volatility matrix**|Bertram Tschiderer et.al.|[2310.18678](http://arxiv.org/abs/2310.18678)|null|
 |**2023-10-27**|**Style Description based Text-to-Speech with Conditional Prosodic Layer Normalization based Diffusion GAN**|Neeraj Kumar et.al.|[2310.18169](http://arxiv.org/abs/2310.18169)|null|
 |**2023-10-27**|**Upper bounds on entropy production in diffusive dynamics**|Andreas Dechant et.al.|[2310.17929](http://arxiv.org/abs/2310.17929)|null|
 |**2023-10-26**|**Interacting Diffusion Processes for Event Sequence Forecasting**|Mai Zeng et.al.|[2310.17800](http://arxiv.org/abs/2310.17800)|null|
