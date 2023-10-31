@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -821,7 +821,7 @@ layout: default
 |**2023-10-26**|**Enhancing Graph Neural Networks with Structure-Based Prompt**|Qingqing Ge et.al.|[2310.17394](http://arxiv.org/abs/2310.17394)|null|
 |**2023-10-26**|**Explainable Spatio-Temporal Graph Neural Networks**|Jiabin Tang et.al.|[2310.17149](http://arxiv.org/abs/2310.17149)|**[link](https://github.com/hkuds/stexplainer)**|
 |**2023-10-26**|**Network Design through Graph Neural Networks: Identifying Challenges and Improving Performance**|Donald Loveland et.al.|[2310.17100](http://arxiv.org/abs/2310.17100)|null|
-|**2023-10-25**|**Graph Neural Networks with a Distribution of Parametrized Graphs**|See Hian Lee et.al.|[2310.16401](http://arxiv.org/abs/2310.16401)|null|
+|**2023-10-28**|**Graph Neural Networks with a Distribution of Parametrized Graphs**|See Hian Lee et.al.|[2310.16401](http://arxiv.org/abs/2310.16401)|null|
 |**2023-10-25**|**DyExplainer: Explainable Dynamic Graph Neural Networks**|Tianchun Wang et.al.|[2310.16375](http://arxiv.org/abs/2310.16375)|null|
 |**2023-10-24**|**ABKD: Graph Neural Network Compression with Attention-Based Knowledge Distillation**|Anshul Ahluwalia et.al.|[2310.15938](http://arxiv.org/abs/2310.15938)|null|
 |**2023-10-24**|**Using Causality-Aware Graph Neural Networks to Predict Temporal Centralities in Dynamic Graphs**|Franziska Heeg et.al.|[2310.15865](http://arxiv.org/abs/2310.15865)|null|
