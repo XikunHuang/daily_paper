@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Contrast-agent-induced deterministic component of CT-density in the abdominal aorta during routine angiography: proof of concept study**|Maria R. Kodenko et.al.|[2310.20243](http://arxiv.org/abs/2310.20243)|null|
+|**2023-10-31**|**Contrastive Difference Predictive Coding**|Chongyi Zheng et.al.|[2310.20141](http://arxiv.org/abs/2310.20141)|**[link](https://github.com/chongyi-zheng/td_infonce)**|
+|**2023-10-30**|**FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space**|Shengzhong Liu et.al.|[2310.20071](http://arxiv.org/abs/2310.20071)|null|
+|**2023-10-30**|**ERGO-ML -- Comparing IllustrisTNG and HSC galaxy images via contrastive learning**|Lukas Eisert et.al.|[2310.19904](http://arxiv.org/abs/2310.19904)|null|
+|**2023-10-30**|**Diffraction by a right-angled no-contrast penetrable wedge: recovery of far-field asymptotics**|Valentin D. Kunz et.al.|[2310.19892](http://arxiv.org/abs/2310.19892)|null|
 |**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168](http://arxiv.org/abs/2310.19168)|**[link](https://github.com/mvrl/birdsat)**|
 |**2023-10-29**|**Transport-of-Intensity Model for Single-Mask X-ray Differential Phase Contrast Imaging**|Jingcheng Yuan et.al.|[2310.19087](http://arxiv.org/abs/2310.19087)|null|
 |**2023-10-29**|**Controllable Group Choreography using Contrastive Diffusion**|Nhat Le et.al.|[2310.18986](http://arxiv.org/abs/2310.18986)|null|
@@ -831,6 +836,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552](http://arxiv.org/abs/2310.20552)|null|
+|**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519](http://arxiv.org/abs/2310.20519)|null|
+|**2023-10-30**|**Coarse-grained crystal graph neural networks for reticular materials design**|Vadim Korolev et.al.|[2310.19500](http://arxiv.org/abs/2310.19500)|null|
+|**2023-10-30**|**LightSAGE: Graph Neural Networks for Large Scale Item Retrieval in Shopee's Advertisement Recommendation**|Dang Minh Nguyen et.al.|[2310.19394](http://arxiv.org/abs/2310.19394)|null|
+|**2023-10-30**|**TempME: Towards the Explainability of Temporal Graph Neural Networks via Motif Discovery**|Jialin Chen et.al.|[2310.19324](http://arxiv.org/abs/2310.19324)|**[link](https://github.com/graph-and-geometric-learning/tempme)**|
+|**2023-10-30**|**Facilitating Graph Neural Networks with Random Walk on Simplicial Complexes**|Cai Zhou et.al.|[2310.19285](http://arxiv.org/abs/2310.19285)|**[link](https://github.com/zhouc20/hodgerandomwalk)**|
+|**2023-10-30**|**Prediction of Effective Elastic Moduli of Rocks using Graph Neural Networks**|Jaehong Chung et.al.|[2310.19274](http://arxiv.org/abs/2310.19274)|null|
+|**2023-10-30**|**A Metadata-Driven Approach to Understand Graph Neural Networks**|Ting Wei Li et.al.|[2310.19263](http://arxiv.org/abs/2310.19263)|null|
 |**2023-10-29**|**MAG-GNN: Reinforcement Learning Boosted Graph Neural Network**|Lecheng Kong et.al.|[2310.19142](http://arxiv.org/abs/2310.19142)|null|
 |**2023-10-29**|**Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach**|Nurendra Choudhary et.al.|[2310.18918](http://arxiv.org/abs/2310.18918)|null|
 |**2023-10-28**|**Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First**|Zheng Zhang et.al.|[2310.18735](http://arxiv.org/abs/2310.18735)|**[link](https://github.com/rollingstonezz/curriculum_learning_for_gnns)**|
@@ -1276,6 +1289,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
+|**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
+|**2023-10-31**|**The very singular solution for the Anisotropic Fast Diffusion Equation and its consequences**|Juan Luis Vázquez et.al.|[2310.20569](http://arxiv.org/abs/2310.20569)|null|
+|**2023-10-31**|**Structure and Color Gradients of Ultra-diffuse Galaxies in Distant Massive Galaxy Clusters**|Pinsong Zhao et.al.|[2310.20530](http://arxiv.org/abs/2310.20530)|null|
+|**2023-10-31**|**Measure-dependent non-linear diffusions with superlinear drifts: asymptotic behaviour of the first exit-times**|Ashot Aleksian et.al.|[2310.20471](http://arxiv.org/abs/2310.20471)|null|
+|**2023-10-31**|**Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion**|Zhengyi Yang et.al.|[2310.20453](http://arxiv.org/abs/2310.20453)|**[link](https://github.com/yangzhengyi98/dreamrec)**|
+|**2023-10-31**|**High-Resolution Reference Image Assisted Volumetric Super-Resolution of Cardiac Diffusion Weighted Imaging**|Yinzhe Wu et.al.|[2310.20389](http://arxiv.org/abs/2310.20389)|null|
+|**2023-10-31**|**Existence and uniqueness of the solutions to convection-diffusion equations**|Alireza Ataei et.al.|[2310.20269](http://arxiv.org/abs/2310.20269)|null|
+|**2023-10-31**|**Topological plasma transport from a diffusion view**|Zhoufei Liu et.al.|[2310.20244](http://arxiv.org/abs/2310.20244)|null|
+|**2023-10-31**|**Synthesizing Diabetic Foot Ulcer Images with Diffusion Model**|Reza Basiri et.al.|[2310.20140](http://arxiv.org/abs/2310.20140)|null|
 |**2023-10-29**|**Linear optical properties of organic microcavity polaritons with non-Markovian Quantum State Diffusion**|Timo Leppälä et.al.|[2310.19162](http://arxiv.org/abs/2310.19162)|null|
 |**2023-10-29**|**Controllable Group Choreography using Contrastive Diffusion**|Nhat Le et.al.|[2310.18986](http://arxiv.org/abs/2310.18986)|null|
 |**2023-10-29**|**Homogenization of diffusions on the lattice ${\mathbf Z}^d$ with periodic drift coefficients; Application of logarithmic Sobolev inequality**|Sergio et.al.|[2310.18973](http://arxiv.org/abs/2310.18973)|null|
