@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders**|Anthony Fuller et.al.|[2311.00566](http://arxiv.org/abs/2311.00566)|**[link](https://github.com/antofuller/croma)**|
+|**2023-11-01**|**Retrieval-Based Reconstruction For Time-series Contrastive Learning**|Maxwell A. Xu et.al.|[2311.00519](http://arxiv.org/abs/2311.00519)|null|
+|**2023-11-01**|**Comparing Optimization Targets for Contrast-Consistent Search**|Hugo Fry et.al.|[2311.00488](http://arxiv.org/abs/2311.00488)|null|
+|**2023-11-01**|**Rethinking Samples Selection for Contrastive Learning: Mining of Potential Samples**|Hengkui Dong et.al.|[2311.00358](http://arxiv.org/abs/2311.00358)|null|
+|**2023-10-31**|**Medi-CAT: Contrastive Adversarial Training for Medical Image Classification**|Pervaiz Iqbal Khan et.al.|[2311.00154](http://arxiv.org/abs/2311.00154)|null|
 |**2023-10-31**|**Contrast-agent-induced deterministic component of CT-density in the abdominal aorta during routine angiography: proof of concept study**|Maria R. Kodenko et.al.|[2310.20243](http://arxiv.org/abs/2310.20243)|null|
 |**2023-10-31**|**Contrastive Difference Predictive Coding**|Chongyi Zheng et.al.|[2310.20141](http://arxiv.org/abs/2310.20141)|**[link](https://github.com/chongyi-zheng/td_infonce)**|
 |**2023-10-30**|**FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space**|Shengzhong Liu et.al.|[2310.20071](http://arxiv.org/abs/2310.20071)|null|
@@ -836,6 +841,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network**|Hongrui Gao et.al.|[2311.00296](http://arxiv.org/abs/2311.00296)|null|
+|**2023-10-31**|**Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis**|Abhinav Nippani et.al.|[2311.00164](http://arxiv.org/abs/2311.00164)|**[link](https://github.com/virtuosoresearch/ml4roadsafety)**|
 |**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552](http://arxiv.org/abs/2310.20552)|null|
 |**2023-10-31**|**Enhancing Graph Neural Networks with Quantum Computed Encodings**|Slimane Thabet et.al.|[2310.20519](http://arxiv.org/abs/2310.20519)|null|
 |**2023-10-30**|**Coarse-grained crystal graph neural networks for reticular materials design**|Vadim Korolev et.al.|[2310.19500](http://arxiv.org/abs/2310.19500)|null|
@@ -1289,6 +1296,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-01**|**Ab initio machine-learning unveils strong anharmonicity in non-Arrhenius self-diffusion of tungsten**|Xi Zhang et.al.|[2311.00633](http://arxiv.org/abs/2311.00633)|null|
+|**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
+|**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
+|**2023-11-01**|**Intriguing Properties of Data Attribution on Diffusion Models**|Xiaosen Zheng et.al.|[2311.00500](http://arxiv.org/abs/2311.00500)|**[link](https://github.com/sail-sg/d-trak)**|
+|**2023-11-01**|**Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model**|Xuan Liu et.al.|[2311.00496](http://arxiv.org/abs/2311.00496)|null|
+|**2023-11-01**|**Diffusion models for probabilistic programming**|Simon Dirmeier et.al.|[2311.00474](http://arxiv.org/abs/2311.00474)|null|
+|**2023-11-01**|**Dual Conditioned Diffusion Models for Out-Of-Distribution Detection: Application to Fetal Ultrasound Videos**|Divyanshu Mishra et.al.|[2311.00469](http://arxiv.org/abs/2311.00469)|null|
+|**2023-11-01**|**LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation**|Yuxiang Bao et.al.|[2311.00353](http://arxiv.org/abs/2311.00353)|null|
+|**2023-11-01**|**Entropy solutions to the fully non-local diffusion equations**|Ying Li et.al.|[2311.00347](http://arxiv.org/abs/2311.00347)|null|
+|**2023-11-01**|**The entropic origin of the enhancement of liquid diffusion at the confining wall**|Lorenzo Agosta et.al.|[2311.00329](http://arxiv.org/abs/2311.00329)|null|
 |**2023-10-31**|**SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction**|Xinyuan Chen et.al.|[2310.20700](http://arxiv.org/abs/2310.20700)|null|
 |**2023-10-31**|**Diffusion Reconstruction of Ultrasound Images with Informative Uncertainty**|Yuxin Zhang et.al.|[2310.20618](http://arxiv.org/abs/2310.20618)|null|
 |**2023-10-31**|**The very singular solution for the Anisotropic Fast Diffusion Equation and its consequences**|Juan Luis Vázquez et.al.|[2310.20569](http://arxiv.org/abs/2310.20569)|null|
