@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Contrastive Moments: Unsupervised Halfspace Learning in Polynomial Time**|Xinyuan Cao et.al.|[2311.01435](http://arxiv.org/abs/2311.01435)|null|
+|**2023-11-02**|**Time-series Generation by Contrastive Imitation**|Daniel Jarrett et.al.|[2311.01388](http://arxiv.org/abs/2311.01388)|null|
+|**2023-11-02**|**Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration**|Yifan Xie et.al.|[2311.01202](http://arxiv.org/abs/2311.01202)|**[link](https://github.com/ivanxie416/cmignet)**|
+|**2023-11-02**|**AI for Interpretable Chemistry: Predicting Radical Mechanistic Pathways via Contrastive Learning**|Mohammadamin Tavakoli et.al.|[2311.01118](http://arxiv.org/abs/2311.01118)|null|
+|**2023-11-02**|**Contrastive Modules with Temporal Attention for Multi-Task Reinforcement Learning**|Siming Lan et.al.|[2311.01075](http://arxiv.org/abs/2311.01075)|null|
+|**2023-11-02**|**Augmentation is AUtO-Net: Augmentation-Driven Contrastive Multiview Learning for Medical Image Segmentation**|Yanming Guo et.al.|[2311.01023](http://arxiv.org/abs/2311.01023)|null|
 |**2023-11-01**|**CROMA: Remote Sensing Representations with Contrastive Radar-Optical Masked Autoencoders**|Anthony Fuller et.al.|[2311.00566](http://arxiv.org/abs/2311.00566)|**[link](https://github.com/antofuller/croma)**|
 |**2023-11-01**|**Retrieval-Based Reconstruction For Time-series Contrastive Learning**|Maxwell A. Xu et.al.|[2311.00519](http://arxiv.org/abs/2311.00519)|null|
 |**2023-11-01**|**Comparing Optimization Targets for Contrast-Consistent Search**|Hugo Fry et.al.|[2311.00488](http://arxiv.org/abs/2311.00488)|null|
@@ -841,6 +847,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Attacking Graph Neural Networks with Bit Flips: Weisfeiler and Lehman Go Indifferent**|Lorenz Kummer et.al.|[2311.01205](http://arxiv.org/abs/2311.01205)|null|
+|**2023-11-02**|**Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**|Jiarong Xu et.al.|[2311.01038](http://arxiv.org/abs/2311.01038)|**[link](https://github.com/galina0217/apt)**|
+|**2023-11-02**|**Accelerated Data-Driven Discovery and Screening of Two-Dimensional Magnets Using Graph Neural Networks**|Ahmed Elrashidy et.al.|[2311.00939](http://arxiv.org/abs/2311.00939)|null|
 |**2023-11-01**|**Semantic Representation Learning of Scientific Literature based on Adaptive Feature and Graph Neural Network**|Hongrui Gao et.al.|[2311.00296](http://arxiv.org/abs/2311.00296)|null|
 |**2023-10-31**|**Graph Neural Networks for Road Safety Modeling: Datasets and Evaluations for Accident Analysis**|Abhinav Nippani et.al.|[2311.00164](http://arxiv.org/abs/2311.00164)|**[link](https://github.com/virtuosoresearch/ml4roadsafety)**|
 |**2023-10-31**|**Privacy-preserving design of graph neural networks with applications to vertical federated learning**|Ruofan Wu et.al.|[2310.20552](http://arxiv.org/abs/2310.20552)|null|
@@ -1296,6 +1305,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Time Series Anomaly Detection using Diffusion-based Models**|Ioana Pintilie et.al.|[2311.01452](http://arxiv.org/abs/2311.01452)|null|
+|**2023-11-02**|**Functional inequalities for a family of infinite-dimensional diffusions with degenerate noise**|Fabrice Baudoin et.al.|[2311.01440](http://arxiv.org/abs/2311.01440)|null|
+|**2023-11-02**|**Constrained-Context Conditional Diffusion Models for Imitation Learning**|Vaibhav Saxena et.al.|[2311.01419](http://arxiv.org/abs/2311.01419)|null|
+|**2023-11-02**|**The Blessing of Randomness: SDE Beats ODE in General Diffusion-based Image Editing**|Shen Nie et.al.|[2311.01410](http://arxiv.org/abs/2311.01410)|null|
+|**2023-11-02**|**Unraveling Diffusion in Fusion Plasma: A Case Study of In Situ Processing and Particle Sorting**|Junmin Gu et.al.|[2311.01288](http://arxiv.org/abs/2311.01288)|null|
+|**2023-11-02**|**Optimal Transport-Guided Conditional Score-Based Diffusion Models**|Xiang Gu et.al.|[2311.01226](http://arxiv.org/abs/2311.01226)|**[link](https://github.com/xjtu-xgu/otcs)**|
+|**2023-11-02**|**Diffusion Models for Reinforcement Learning: A Survey**|Zhengbang Zhu et.al.|[2311.01223](http://arxiv.org/abs/2311.01223)|**[link](https://github.com/apexrl/diff4rlsurvey)**|
+|**2023-11-02**|**An inverse source problem for the stochastic multi-term time-fractional diffusion-wave equation**|Xiaoli Feng et.al.|[2311.01170](http://arxiv.org/abs/2311.01170)|null|
+|**2023-11-02**|**Add and Thin: Diffusion for Temporal Point Processes**|David Lüdke et.al.|[2311.01139](http://arxiv.org/abs/2311.01139)|null|
+|**2023-11-02**|**Infusion: Internal Diffusion for Video Inpainting**|Nicolas Cherel et.al.|[2311.01090](http://arxiv.org/abs/2311.01090)|null|
 |**2023-11-01**|**Ab initio machine-learning unveils strong anharmonicity in non-Arrhenius self-diffusion of tungsten**|Xi Zhang et.al.|[2311.00633](http://arxiv.org/abs/2311.00633)|null|
 |**2023-11-01**|**De-Diffusion Makes Text a Strong Cross-Modal Interface**|Chen Wei et.al.|[2311.00618](http://arxiv.org/abs/2311.00618)|null|
 |**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
