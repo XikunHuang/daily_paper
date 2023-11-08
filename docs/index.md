@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Its All Graph To Me: Foundational Topology Models with Contrastive Learning on Multiple Domains**|Alex O. Davies et.al.|[2311.03976](http://arxiv.org/abs/2311.03976)|null|
+|**2023-11-07**|**Temporal Graph Representation Learning with Adaptive Augmentation Contrastive**|Hongjiang Chen et.al.|[2311.03897](http://arxiv.org/abs/2311.03897)|null|
+|**2023-11-07**|**Sparse Contrastive Learning of Sentence Embeddings**|Ruize An et.al.|[2311.03881](http://arxiv.org/abs/2311.03881)|null|
+|**2023-11-07**|**SCONE-GAN: Semantic Contrastive learning-based Generative Adversarial Network for an end-to-end image translation**|Iman Abbasnejad et.al.|[2311.03866](http://arxiv.org/abs/2311.03866)|null|
+|**2023-11-07**|**Counterfactual Data Augmentation with Contrastive Learning**|Ahmed Aloui et.al.|[2311.03630](http://arxiv.org/abs/2311.03630)|null|
+|**2023-11-06**|**Efficient and Low-Footprint Object Classification using Spatial Contrast**|Matthew Belding et.al.|[2311.03422](http://arxiv.org/abs/2311.03422)|null|
+|**2023-11-06**|**DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering**|Huifa Li et.al.|[2311.03410](http://arxiv.org/abs/2311.03410)|null|
 |**2023-11-06**|**Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation**|Fuyun Wang et.al.|[2311.02938](http://arxiv.org/abs/2311.02938)|null|
 |**2023-11-05**|**Architecture Matters: Uncovering Implicit Mechanisms in Graph Contrastive Learning**|Xiaojun Guo et.al.|[2311.02687](http://arxiv.org/abs/2311.02687)|null|
 |**2023-11-05**|**scBeacon: single-cell biomarker extraction via identifying paired cell clusters across biological conditions with contrastive siamese networks**|Chenyu Liu et.al.|[2311.02594](http://arxiv.org/abs/2311.02594)|null|
@@ -849,6 +856,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Graph Neural Networks for Power Grid Operational Risk Assessment**|Yadong Zhang et.al.|[2311.03661](http://arxiv.org/abs/2311.03661)|null|
+|**2023-11-06**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520](http://arxiv.org/abs/2311.03520)|null|
 |**2023-11-06**|**From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260](http://arxiv.org/abs/2311.03260)|null|
 |**2023-11-06**|**Equivariance Is Not All You Need: Characterizing the Utility of Equivariant Graph Neural Networks for Particle Physics Tasks**|Savannah Thais et.al.|[2311.03094](http://arxiv.org/abs/2311.03094)|null|
 |**2023-11-06**|**Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation**|Fuyun Wang et.al.|[2311.02938](http://arxiv.org/abs/2311.02938)|null|
@@ -1317,6 +1326,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
+|**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052](http://arxiv.org/abs/2311.04052)|null|
+|**2023-11-07**|**Quantum reaction-limited reaction-diffusion dynamics of noninteracting Bose gases**|Shiphrah Rowlands et.al.|[2311.04018](http://arxiv.org/abs/2311.04018)|null|
+|**2023-11-07**|**Unambiguous Simulation of Diffusive Charge Transport in Disordered Nanoribbons**|H. P. Veiga et.al.|[2311.03983](http://arxiv.org/abs/2311.03983)|null|
+|**2023-11-07**|**Persistence probabilities of a smooth self-similar anomalous diffusion process**|Frank Aurzada et.al.|[2311.03972](http://arxiv.org/abs/2311.03972)|null|
+|**2023-11-07**|**Computation of the Distribution of the Absorption Time of the Drifted Diffusion with Stochastic Resetting and Mixed Boundary Conditions**|Riccardo Turin et.al.|[2311.03939](http://arxiv.org/abs/2311.03939)|null|
+|**2023-11-07**|**RobustMat: Neural Diffusion for Street Landmark Patch Matching under Challenging Environments**|Rui She et.al.|[2311.03904](http://arxiv.org/abs/2311.03904)|**[link](https://github.com/ai-it-avs/robustmat)**|
+|**2023-11-07**|**Reducing Spatial Fitting Error in Distillation of Denoising Diffusion Models**|Shengzhe Zhou et.al.|[2311.03830](http://arxiv.org/abs/2311.03830)|null|
+|**2023-11-07**|**3DifFusionDet: Diffusion Model for 3D Object Detection with Robust LiDAR-Camera Fusion**|Xinhao Xiang et.al.|[2311.03742](http://arxiv.org/abs/2311.03742)|null|
+|**2023-11-06**|**The steady state of the boundary-driven multiparticle asymmetric diffusion model**|Rouven Frassek et.al.|[2311.03603](http://arxiv.org/abs/2311.03603)|null|
 |**2023-11-06**|**TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models**|Yangming Li et.al.|[2311.03303](http://arxiv.org/abs/2311.03303)|null|
 |**2023-11-06**|**Controlled Diffusions under Full, Partial and Decentralized Information: Existence of Optimal Policies and Discrete-Time Approximations**|Somnath Pradhan et.al.|[2311.03254](http://arxiv.org/abs/2311.03254)|null|
 |**2023-11-06**|**On optimal control of reflected diffusions**|Adam Jonsson et.al.|[2311.03241](http://arxiv.org/abs/2311.03241)|null|
