@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Towards a Unified Framework of Contrastive Learning for Disentangled Representations**|Stefan Matthes et.al.|[2311.04774](http://arxiv.org/abs/2311.04774)|null|
+|**2023-11-08**|**Towards Open-world Cross-Domain Sequential Recommendation: A Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760](http://arxiv.org/abs/2311.04760)|null|
+|**2023-11-07**|**Sub-Sentence Encoder: Contrastive Learning of Propositional Semantic Representations**|Sihao Chen et.al.|[2311.04335](http://arxiv.org/abs/2311.04335)|**[link](https://github.com/schen149/sub-sentence-encoder)**|
+|**2023-11-07**|**Unifying Structure and Language Semantic for Efficient Contrastive Knowledge Graph Completion with Structured Entity Anchors**|Sang-Hyun Je et.al.|[2311.04250](http://arxiv.org/abs/2311.04250)|null|
 |**2023-11-07**|**Its All Graph To Me: Foundational Topology Models with Contrastive Learning on Multiple Domains**|Alex O. Davies et.al.|[2311.03976](http://arxiv.org/abs/2311.03976)|null|
 |**2023-11-07**|**Temporal Graph Representation Learning with Adaptive Augmentation Contrastive**|Hongjiang Chen et.al.|[2311.03897](http://arxiv.org/abs/2311.03897)|null|
 |**2023-11-07**|**Sparse Contrastive Learning of Sentence Embeddings**|Ruize An et.al.|[2311.03881](http://arxiv.org/abs/2311.03881)|null|
@@ -863,6 +867,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507](http://arxiv.org/abs/2311.04507)|null|
+|**2023-11-07**|**GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**|Zhonghang Li et.al.|[2311.04245](http://arxiv.org/abs/2311.04245)|**[link](https://github.com/hkuds/gpt-st)**|
+|**2023-11-07**|**HKTGNN: Hierarchical Knowledge Transferable Graph Neural Network-based Supply Chain Risk Assessment**|Zhanting Zhou et.al.|[2311.04244](http://arxiv.org/abs/2311.04244)|null|
 |**2023-11-07**|**Graph Neural Networks for Power Grid Operational Risk Assessment**|Yadong Zhang et.al.|[2311.03661](http://arxiv.org/abs/2311.03661)|null|
 |**2023-11-06**|**Brain Networks and Intelligence: A Graph Neural Network Based Approach to Resting State fMRI Data**|Bishal Thapaliya et.al.|[2311.03520](http://arxiv.org/abs/2311.03520)|null|
 |**2023-11-06**|**From Coupled Oscillators to Graph Neural Networks: Reducing Over-smoothing via a Kuramoto Model-based Approach**|Tuan Nguyen et.al.|[2311.03260](http://arxiv.org/abs/2311.03260)|null|
@@ -1335,6 +1342,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**The High Energy X-ray Probe (HEX-P): resolving the nature of Sgr A* flares, compact object binaries and diffuse X-ray emission in the Galactic Center and beyond**|Kaya Mori et.al.|[2311.04854](http://arxiv.org/abs/2311.04854)|null|
+|**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693](http://arxiv.org/abs/2311.04693)|null|
+|**2023-11-08**|**Weakly-supervised deepfake localization in diffusion-generated images**|Dragos Tantaru et.al.|[2311.04584](http://arxiv.org/abs/2311.04584)|null|
+|**2023-11-08**|**Hydrogen diffusion in the lower mantle revealed by machine learning potentials**|Yihang Peng et.al.|[2311.04461](http://arxiv.org/abs/2311.04461)|null|
+|**2023-11-07**|**3DiffTection: 3D Object Detection with Geometry-Aware Diffusion Features**|Chenfeng Xu et.al.|[2311.04391](http://arxiv.org/abs/2311.04391)|null|
+|**2023-11-07**|**A Data Perspective on Enhanced Identity Preservation for Diffusion Personalization**|Xingzhe He et.al.|[2311.04315](http://arxiv.org/abs/2311.04315)|null|
+|**2023-11-07**|**High-Order Numerical Method for 1D Non-local Diffusive Equation**|D. Do et.al.|[2311.04306](http://arxiv.org/abs/2311.04306)|null|
 |**2023-11-07**|**I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models**|Shiwei Zhang et.al.|[2311.04145](http://arxiv.org/abs/2311.04145)|null|
 |**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052](http://arxiv.org/abs/2311.04052)|null|
 |**2023-11-07**|**Quantum reaction-limited reaction-diffusion dynamics of noninteracting Bose gases**|Shiphrah Rowlands et.al.|[2311.04018](http://arxiv.org/abs/2311.04018)|null|
