@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-09**|**Simulation of high-contrast polarimetric observations of debris disks with the Roman Coronagraph Instrument**|Ramya M Anche et.al.|[2311.05422](http://arxiv.org/abs/2311.05422)|null|
+|**2023-11-09**|**On neural and dimensional collapse in supervised and unsupervised contrastive learning with hard negative sampling**|Ruijie Jiang et.al.|[2311.05139](http://arxiv.org/abs/2311.05139)|null|
 |**2023-11-08**|**Towards a Unified Framework of Contrastive Learning for Disentangled Representations**|Stefan Matthes et.al.|[2311.04774](http://arxiv.org/abs/2311.04774)|null|
 |**2023-11-08**|**Towards Open-world Cross-Domain Sequential Recommendation: A Model-Agnostic Contrastive Denoising Approach**|Wujiang Xu et.al.|[2311.04760](http://arxiv.org/abs/2311.04760)|null|
 |**2023-11-07**|**Sub-Sentence Encoder: Contrastive Learning of Propositional Semantic Representations**|Sihao Chen et.al.|[2311.04335](http://arxiv.org/abs/2311.04335)|**[link](https://github.com/schen149/sub-sentence-encoder)**|
@@ -860,6 +862,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400](http://arxiv.org/abs/2311.05400)|null|
+|**2023-11-09**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural Networks**|Paul Almasan et.al.|[2311.05337](http://arxiv.org/abs/2311.05337)|null|
 |**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507](http://arxiv.org/abs/2311.04507)|null|
 |**2023-11-07**|**GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**|Zhonghang Li et.al.|[2311.04245](http://arxiv.org/abs/2311.04245)|**[link](https://github.com/hkuds/gpt-st)**|
 |**2023-11-07**|**HKTGNN: Hierarchical Knowledge Transferable Graph Neural Network-based Supply Chain Risk Assessment**|Zhanting Zhou et.al.|[2311.04244](http://arxiv.org/abs/2311.04244)|null|
@@ -1333,6 +1337,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606](http://arxiv.org/abs/2311.05606)|null|
+|**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556](http://arxiv.org/abs/2311.05556)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
+|**2023-11-09**|**Retinal OCT Synthesis with Denoising Diffusion Probabilistic Models for Layer Segmentation**|Yuli Wu et.al.|[2311.05479](http://arxiv.org/abs/2311.05479)|null|
+|**2023-11-09**|**3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models**|Haibo Yang et.al.|[2311.05464](http://arxiv.org/abs/2311.05464)|**[link](https://github.com/yanghb22-fdu/3dstyle-diffusion-official)**|
+|**2023-11-09**|**ControlStyle: Text-Driven Stylized Image Generation Using Diffusion Priors**|Jingwen Chen et.al.|[2311.05463](http://arxiv.org/abs/2311.05463)|null|
+|**2023-11-09**|**Diffusion Based Causal Representation Learning**|Amir Mohammad Karimi Mamaghan et.al.|[2311.05421](http://arxiv.org/abs/2311.05421)|null|
+|**2023-11-09**|**Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models**|Marta Guimarães et.al.|[2311.05417](http://arxiv.org/abs/2311.05417)|null|
+|**2023-11-09**|**Coupled reaction-diffusion equations with degenerate diffusivity: wavefront analysis**|Eduardo Muñoz-Hernández et.al.|[2311.05385](http://arxiv.org/abs/2311.05385)|null|
+|**2023-11-09**|**The polymer diffusive instability in highly concentrated polymeric fluids**|Theo Lewy et.al.|[2311.05251](http://arxiv.org/abs/2311.05251)|null|
+|**2023-11-09**|**Super-Resolution Emulation of Large Cosmological Fields with a 3D Conditional Diffusion Model**|Adam Rouhiainen et.al.|[2311.05217](http://arxiv.org/abs/2311.05217)|null|
 |**2023-11-08**|**The High Energy X-ray Probe (HEX-P): resolving the nature of Sgr A* flares, compact object binaries and diffuse X-ray emission in the Galactic Center and beyond**|Kaya Mori et.al.|[2311.04854](http://arxiv.org/abs/2311.04854)|null|
 |**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693](http://arxiv.org/abs/2311.04693)|null|
 |**2023-11-08**|**Weakly-supervised deepfake localization in diffusion-generated images**|Dragos Tantaru et.al.|[2311.04584](http://arxiv.org/abs/2311.04584)|null|
