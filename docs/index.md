@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.11
+## Updated on 2023.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -863,7 +863,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400](http://arxiv.org/abs/2311.05400)|null|
-|**2023-11-09**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural Networks**|Paul Almasan et.al.|[2311.05337](http://arxiv.org/abs/2311.05337)|null|
+|**2023-11-09**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural Networks**|Paul Almasan et.al.|[2311.05337](http://arxiv.org/abs/2311.05337)|**[link](https://github.com/bnn-upc/atom_neural_traffic_compression)**|
 |**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507](http://arxiv.org/abs/2311.04507)|null|
 |**2023-11-07**|**GPT-ST: Generative Pre-Training of Spatio-Temporal Graph Neural Networks**|Zhonghang Li et.al.|[2311.04245](http://arxiv.org/abs/2311.04245)|**[link](https://github.com/hkuds/gpt-st)**|
 |**2023-11-07**|**HKTGNN: Hierarchical Knowledge Transferable Graph Neural Network-based Supply Chain Risk Assessment**|Zhanting Zhou et.al.|[2311.04244](http://arxiv.org/abs/2311.04244)|null|
