@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Learning Contrastive Self-Distillation for Ultra-Fine-Grained Visual Categorization Targeting Limited Samples**|Ziye Fang et.al.|[2311.06056](http://arxiv.org/abs/2311.06056)|null|
 |**2023-11-09**|**Simulation of high-contrast polarimetric observations of debris disks with the Roman Coronagraph Instrument**|Ramya M Anche et.al.|[2311.05422](http://arxiv.org/abs/2311.05422)|null|
 |**2023-11-09**|**On neural and dimensional collapse in supervised and unsupervised contrastive learning with hard negative sampling**|Ruijie Jiang et.al.|[2311.05139](http://arxiv.org/abs/2311.05139)|null|
 |**2023-11-08**|**Towards a Unified Framework of Contrastive Learning for Disentangled Representations**|Stefan Matthes et.al.|[2311.04774](http://arxiv.org/abs/2311.04774)|null|
@@ -869,6 +870,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation**|Jialin Chen et.al.|[2311.05767](http://arxiv.org/abs/2311.05767)|null|
+|**2023-11-09**|**Generative Explanations for Graph Neural Network: Methods and Evaluations**|Jialin Chen et.al.|[2311.05764](http://arxiv.org/abs/2311.05764)|null|
 |**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400](http://arxiv.org/abs/2311.05400)|null|
 |**2023-11-09**|**Atom: Neural Traffic Compression with Spatio-Temporal Graph Neural Networks**|Paul Almasan et.al.|[2311.05337](http://arxiv.org/abs/2311.05337)|**[link](https://github.com/bnn-upc/atom_neural_traffic_compression)**|
 |**2023-11-08**|**Conversation Understanding using Relational Temporal Graph Neural Networks with Auxiliary Cross-Modality Interaction**|Cam-Van Thi Nguyen et.al.|[2311.04507](http://arxiv.org/abs/2311.04507)|null|
@@ -1346,6 +1349,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222](http://arxiv.org/abs/2311.06222)|null|
+|**2023-11-10**|**Gain variations as induced by the diffuse night sky background: the ASTRI-Horn experience**|D. Impiombato et.al.|[2311.06155](http://arxiv.org/abs/2311.06155)|null|
+|**2023-11-10**|**Turbulence Scaling from Deep Learning Diffusion Generative Models**|Tim Whittaker et.al.|[2311.06112](http://arxiv.org/abs/2311.06112)|null|
+|**2023-11-10**|**Global existence and non-existence of weak solutions for non-local stochastic semilinear reaction-diffusion equations driven by a fractional noise**|S. Sankar et.al.|[2311.05926](http://arxiv.org/abs/2311.05926)|null|
+|**2023-11-10**|**Semantic Map Guided Synthesis of Wireless Capsule Endoscopy Images using Diffusion Models**|Haejin Lee et.al.|[2311.05889](http://arxiv.org/abs/2311.05889)|null|
+|**2023-11-10**|**Diffusion Shape Prior for Wrinkle-Accurate Cloth Registration**|Jingfan Guo et.al.|[2311.05828](http://arxiv.org/abs/2311.05828)|null|
+|**2023-11-09**|**First Detailed Calculation of Atmospheric Neutrino Foregrounds to the Diffuse Supernova Neutrino Background in Super-Kamiokande**|Bei Zhou et.al.|[2311.05675](http://arxiv.org/abs/2311.05675)|null|
 |**2023-11-09**|**Diffusion-Generative Multi-Fidelity Learning for Physical Simulation**|Zheng Wang et.al.|[2311.05606](http://arxiv.org/abs/2311.05606)|null|
 |**2023-11-09**|**LCM-LoRA: A Universal Stable-Diffusion Acceleration Module**|Simian Luo et.al.|[2311.05556](http://arxiv.org/abs/2311.05556)|**[link](https://github.com/luosiallen/latent-consistency-model)**|
 |**2023-11-09**|**Retinal OCT Synthesis with Denoising Diffusion Probabilistic Models for Layer Segmentation**|Yuli Wu et.al.|[2311.05479](http://arxiv.org/abs/2311.05479)|null|
