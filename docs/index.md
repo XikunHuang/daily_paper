@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**AdaCCD: Adaptive Semantic Contrasts Discovery based Cross Lingual Adaptation for Code Clone Detection**|Yangkai Du et.al.|[2311.07277](http://arxiv.org/abs/2311.07277)|null|
+|**2023-11-12**|**Contrastive Learning of View-Invariant Representations for Facial Expressions Recognition**|Shuvendu Roy et.al.|[2311.06852](http://arxiv.org/abs/2311.06852)|null|
+|**2023-11-12**|**CL-Flow:Strengthening the Normalizing Flows by Contrastive Learning for Better Anomaly Detection**|Shunfeng Wang et.al.|[2311.06794](http://arxiv.org/abs/2311.06794)|null|
+|**2023-11-12**|**Are LLMs Rigorous Logical Reasoner? Empowering Natural Language Proof Generation with Contrastive Stepwise Decoding**|Ying Su et.al.|[2311.06736](http://arxiv.org/abs/2311.06736)|null|
+|**2023-11-11**|**Visual Commonsense based Heterogeneous Graph Contrastive Learning**|Zongzhao Li et.al.|[2311.06553](http://arxiv.org/abs/2311.06553)|null|
+|**2023-11-11**|**Asymmetric Contrastive Multimodal Learning for Advancing Chemical Understanding**|Hao Xu et.al.|[2311.06456](http://arxiv.org/abs/2311.06456)|null|
 |**2023-11-10**|**Learning Contrastive Self-Distillation for Ultra-Fine-Grained Visual Categorization Targeting Limited Samples**|Ziye Fang et.al.|[2311.06056](http://arxiv.org/abs/2311.06056)|null|
 |**2023-11-09**|**Simulation of high-contrast polarimetric observations of debris disks with the Roman Coronagraph Instrument**|Ramya M Anche et.al.|[2311.05422](http://arxiv.org/abs/2311.05422)|null|
 |**2023-11-09**|**On neural and dimensional collapse in supervised and unsupervised contrastive learning with hard negative sampling**|Ruijie Jiang et.al.|[2311.05139](http://arxiv.org/abs/2311.05139)|null|
@@ -863,6 +869,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548](http://arxiv.org/abs/2311.07548)|null|
+|**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416](http://arxiv.org/abs/2311.07416)|null|
+|**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321](http://arxiv.org/abs/2311.07321)|**[link](https://github.com/aryan-at-ul/aics_2023_submission)**|
+|**2023-11-13**|**Collaborative Goal Tracking of Multiple Mobile Robots Based on Geometric Graph Neural Network**|Qingquan Lin et.al.|[2311.07105](http://arxiv.org/abs/2311.07105)|null|
+|**2023-11-12**|**Contractive Systems Improve Graph Neural Networks Against Adversarial Attacks**|Moshe Eliasof et.al.|[2311.06942](http://arxiv.org/abs/2311.06942)|null|
+|**2023-11-12**|**Preserving Node-level Privacy in Graph Neural Networks**|Zihang Xiang et.al.|[2311.06888](http://arxiv.org/abs/2311.06888)|null|
+|**2023-11-11**|**Identification of vortex in unstructured mesh with graph neural networks**|Lianfa Wang et.al.|[2311.06557](http://arxiv.org/abs/2311.06557)|null|
 |**2023-11-09**|**Dirichlet Energy Enhancement of Graph Neural Networks by Framelet Augmentation**|Jialin Chen et.al.|[2311.05767](http://arxiv.org/abs/2311.05767)|null|
 |**2023-11-09**|**Generative Explanations for Graph Neural Network: Methods and Evaluations**|Jialin Chen et.al.|[2311.05764](http://arxiv.org/abs/2311.05764)|null|
 |**2023-11-09**|**SIRE: scale-invariant, rotation-equivariant estimation of artery orientations using graph neural networks**|Dieuwertje Alblas et.al.|[2311.05400](http://arxiv.org/abs/2311.05400)|null|
@@ -1340,6 +1353,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**What can we learn from diffusion about Anderson localization of a degenerate Fermi gas?**|Sian Barbosa et.al.|[2311.07505](http://arxiv.org/abs/2311.07505)|null|
+|**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421](http://arxiv.org/abs/2311.07421)|null|
+|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345](http://arxiv.org/abs/2311.07345)|null|
+|**2023-11-13**|**Fibroblast mediated dynamics in diffusively uncoupled myocytes -- a simulation study using 2-cell motifs**|S. Sridhar et.al.|[2311.07313](http://arxiv.org/abs/2311.07313)|null|
+|**2023-11-13**|**The \ion{H}{I}-rich Ultra-diffuse Galaxies follow the Extended Schmidt Law**|Sai Zhai et.al.|[2311.07240](http://arxiv.org/abs/2311.07240)|null|
+|**2023-11-13**|**MonoDiffusion: Self-Supervised Monocular Depth Estimation Using Diffusion Model**|Shuwei Shao et.al.|[2311.07198](http://arxiv.org/abs/2311.07198)|**[link](https://github.com/shuweishao/monodiffusion)**|
+|**2023-11-13**|**On the instability of threshold solutions of reaction-diffusion equations, and applications to optimization problems**|Grégoire Nadin et.al.|[2311.07154](http://arxiv.org/abs/2311.07154)|null|
+|**2023-11-13**|**Pulsed interactions unify reaction-diffusion and spatial nonlocal models for biological pattern formation**|Eduardo H. Colombo et.al.|[2311.07135](http://arxiv.org/abs/2311.07135)|null|
+|**2023-11-13**|**Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models**|Yuanbin Cheng et.al.|[2311.07110](http://arxiv.org/abs/2311.07110)|null|
+|**2023-11-13**|**A new instability framework in 2-component reaction-diffusion systems**|Hirofumi Izuhara et.al.|[2311.07045](http://arxiv.org/abs/2311.07045)|null|
 |**2023-11-10**|**Diffusion Models for Earth Observation Use-cases: from cloud removal to urban change detection**|Fulvio Sanguigni et.al.|[2311.06222](http://arxiv.org/abs/2311.06222)|null|
 |**2023-11-10**|**Gain variations as induced by the diffuse night sky background: the ASTRI-Horn experience**|D. Impiombato et.al.|[2311.06155](http://arxiv.org/abs/2311.06155)|null|
 |**2023-11-10**|**Turbulence Scaling from Deep Learning Diffusion Generative Models**|Tim Whittaker et.al.|[2311.06112](http://arxiv.org/abs/2311.06112)|null|
