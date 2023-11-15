@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Open-vocabulary keyword spotting in any language through multilingual contrastive speech-phoneme pretraining**|Jian Zhu et.al.|[2311.08323](http://arxiv.org/abs/2311.08323)|null|
+|**2023-11-14**|**Improving hateful memes detection via learning hatefulness-aware embedding space through retrieval-guided contrastive learning**|Jingbiao Mei et.al.|[2311.08110](http://arxiv.org/abs/2311.08110)|null|
+|**2023-11-14**|**Contrastive Learning for Multi-Object Tracking with Transformers**|Pierre-François De Plaen et.al.|[2311.08043](http://arxiv.org/abs/2311.08043)|null|
+|**2023-11-14**|**Time-efficient combined morphologic and quantitative joint MRI based on clinical image contrasts -- An exploratory in-situ study of standardized cartilage defects**|Teresa Lemainque et.al.|[2311.08036](http://arxiv.org/abs/2311.08036)|null|
+|**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928](http://arxiv.org/abs/2311.07928)|null|
+|**2023-11-14**|**Test-Time Training for Semantic Segmentation with Output Contrastive Loss**|Yunlong Zhang et.al.|[2311.07877](http://arxiv.org/abs/2311.07877)|**[link](https://github.com/dazhangyu123/ocl)**|
+|**2023-11-13**|**CSLP-AE: A Contrastive Split-Latent Permutation Autoencoder Framework for Zero-Shot Electroencephalography Signal Conversion**|Anders Vestergaard Nørskov et.al.|[2311.07788](http://arxiv.org/abs/2311.07788)|**[link](https://github.com/andersxa/cslp-ae)**|
 |**2023-11-13**|**AdaCCD: Adaptive Semantic Contrasts Discovery based Cross Lingual Adaptation for Code Clone Detection**|Yangkai Du et.al.|[2311.07277](http://arxiv.org/abs/2311.07277)|null|
 |**2023-11-12**|**Contrastive Learning of View-Invariant Representations for Facial Expressions Recognition**|Shuvendu Roy et.al.|[2311.06852](http://arxiv.org/abs/2311.06852)|null|
 |**2023-11-12**|**CL-Flow:Strengthening the Normalizing Flows by Contrastive Learning for Better Anomaly Detection**|Shunfeng Wang et.al.|[2311.06794](http://arxiv.org/abs/2311.06794)|null|
@@ -876,6 +883,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118](http://arxiv.org/abs/2311.08118)|null|
 |**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548](http://arxiv.org/abs/2311.07548)|null|
 |**2023-11-13**|**Three-dimensional granular flow simulation using graph neural network-based learned simulator**|Yongjin Choi et.al.|[2311.07416](http://arxiv.org/abs/2311.07416)|null|
 |**2023-11-13**|**Connecting the Dots: Graph Neural Network Powered Ensemble and Classification of Medical Images**|Aryan Singh et.al.|[2311.07321](http://arxiv.org/abs/2311.07321)|**[link](https://github.com/aryan-at-ul/aics_2023_submission)**|
@@ -1362,6 +1370,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Generative De-Quantization for Neural Speech Codec via Latent Diffusion**|Haici Yang et.al.|[2311.08330](http://arxiv.org/abs/2311.08330)|null|
+|**2023-11-14**|**Electronic plasma diffusion with radiation reaction force and time-dependent electric field**|J. F. García-Camacho et.al.|[2311.08215](http://arxiv.org/abs/2311.08215)|null|
+|**2023-11-14**|**Diffusion-based generation of Histopathological Whole Slide Images at a Gigapixel scale**|Robert Harb et.al.|[2311.08199](http://arxiv.org/abs/2311.08199)|null|
+|**2023-11-14**|**T-wave Inversion through Inhomogeneous Voltage Diffusion within the FK3V Cardiac Model**|E. Angelaki et.al.|[2311.08173](http://arxiv.org/abs/2311.08173)|null|
+|**2023-11-14**|**Modeling ionic flow between small targets: insights from diffusion and electro-diffusion theory**|Frédéric Paquin-Lefebvre et.al.|[2311.08169](http://arxiv.org/abs/2311.08169)|null|
+|**2023-11-14**|**Brain-Driven Representation Learning Based on Diffusion Model**|Soowon Kim et.al.|[2311.07925](http://arxiv.org/abs/2311.07925)|null|
+|**2023-11-14**|**Bayesian Conditional Diffusion Models for Versatile Spatiotemporal Turbulence Generation**|Han Gao et.al.|[2311.07896](http://arxiv.org/abs/2311.07896)|null|
+|**2023-11-14**|**One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**|Minghua Liu et.al.|[2311.07885](http://arxiv.org/abs/2311.07885)|null|
+|**2023-11-13**|**Distributed pressure matching strategy using diffusion adaptation**|Mengfei Zhang et.al.|[2311.07729](http://arxiv.org/abs/2311.07729)|null|
 |**2023-11-13**|**What can we learn from diffusion about Anderson localization of a degenerate Fermi gas?**|Sian Barbosa et.al.|[2311.07505](http://arxiv.org/abs/2311.07505)|null|
 |**2023-11-13**|**Robust semi-supervised segmentation with timestep ensembling diffusion models**|Margherita Rosnati et.al.|[2311.07421](http://arxiv.org/abs/2311.07421)|null|
 |**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345](http://arxiv.org/abs/2311.07345)|null|
