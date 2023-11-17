@@ -1371,8 +1371,8 @@ layout: default
 |**2023-11-15**|**Finding polarised communities and tracking information diffusion on Twitter: The Irish Abortion Referendum**|Caroline Pena et.al.|[2311.09196](http://arxiv.org/abs/2311.09196)|null|
 |**2023-11-15**|**Degenerate Mean Field Type Control with Linear and Unbounded Diffusion, and their Associated Equations**|Alain Bensoussan et.al.|[2311.09138](http://arxiv.org/abs/2311.09138)|null|
 |**2023-11-15**|**A Spectral Diffusion Prior for Hyperspectral Image Super-Resolution**|Jianjun Liu et.al.|[2311.08955](http://arxiv.org/abs/2311.08955)|null|
-|**2023-11-15**|**Role of the isospin diffusion on cluster transfer in $^{12,14}$C + $^{209}$ Bi reactions**|Zepeng Gao et.al.|[2311.08897](http://arxiv.org/abs/2311.08897)|null|
-|**2023-11-15**|**One-Shot Federated Learning with Classifier-Guided Diffusion Models**|Mingzhao Yang et.al.|[2311.08870](http://arxiv.org/abs/2311.08870)|null|
+|**2023-11-16**|**Role of the isospin diffusion on cluster transfer in $^{12,14}$C + $^{209}$ Bi reactions**|Zepeng Gao et.al.|[2311.08897](http://arxiv.org/abs/2311.08897)|null|
+|**2023-11-16**|**One-Shot Federated Learning with Classifier-Guided Diffusion Models**|Mingzhao Yang et.al.|[2311.08870](http://arxiv.org/abs/2311.08870)|null|
 |**2023-11-15**|**A Diffusion Model Based Quality Enhancement Method for HEVC Compressed Video**|Zheng Liu et.al.|[2311.08746](http://arxiv.org/abs/2311.08746)|null|
 |**2023-11-15**|**Towards Graph-Aware Diffusion Modeling for Collaborative Filtering**|Yunqin Zhu et.al.|[2311.08744](http://arxiv.org/abs/2311.08744)|null|
 |**2023-11-15**|**Discovery of Diffuse Radio Source in Abell 1060**|Kohei Kurahara et.al.|[2311.08693](http://arxiv.org/abs/2311.08693)|null|
