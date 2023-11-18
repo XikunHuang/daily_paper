@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**Robust Contrastive Learning With Theory Guarantee**|Ngoc N. Tran et.al.|[2311.09671](http://arxiv.org/abs/2311.09671)|null|
+|**2023-11-15**|**MoCo-Transfer: Investigating out-of-distribution contrastive learning for limited-data domains**|Yuwen Chen et.al.|[2311.09401](http://arxiv.org/abs/2311.09401)|null|
+|**2023-11-15**|**Contrastive Chain-of-Thought Prompting**|Yew Ken Chia et.al.|[2311.09277](http://arxiv.org/abs/2311.09277)|**[link](https://github.com/damo-nlp-sg/contrastive-cot)**|
 |**2023-11-15**|**Contrastive Transformer Learning with Proximity Data Generation for Text-Based Person Search**|Hefeng Wu et.al.|[2311.09084](http://arxiv.org/abs/2311.09084)|**[link](https://github.com/hcplab-sysu/personsearch-ctlg)**|
 |**2023-11-15**|**Speculative Contrastive Decoding**|Hongyi Yuan et.al.|[2311.08981](http://arxiv.org/abs/2311.08981)|null|
 |**2023-11-15**|**CLN-VC: Text-Free Voice Conversion Based on Fine-Grained Style Control and Contrastive Learning with Negative Samples Augmentation**|Yimin Deng et.al.|[2311.08670](http://arxiv.org/abs/2311.08670)|null|
@@ -887,6 +890,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
 |**2023-11-14**|**Uplift Modeling based on Graph Neural Network Combined with Causal Knowledge**|Haowen Wang et.al.|[2311.08434](http://arxiv.org/abs/2311.08434)|null|
 |**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118](http://arxiv.org/abs/2311.08118)|**[link](https://github.com/ericssonresearch/gnn-neighbors-xai)**|
 |**2023-11-13**|**Interpretable Fine-Tuning for Graph Neural Network Surrogate Models**|Shivam Barwey et.al.|[2311.07548](http://arxiv.org/abs/2311.07548)|null|
@@ -1375,6 +1379,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
+|**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999](http://arxiv.org/abs/2311.09999)|null|
+|**2023-11-16**|**Existence and dimensions of global attractors for a delayed reaction-diffusion equation on an unbounded domain**|Wenjie Hu et.al.|[2311.09980](http://arxiv.org/abs/2311.09980)|null|
+|**2023-11-16**|**DSR-Diff: Depth Map Super-Resolution with Diffusion Model**|Yuan Shi et.al.|[2311.09919](http://arxiv.org/abs/2311.09919)|null|
+|**2023-11-16**|**Unbiased and Multilevel Methods for a Class of Diffusions Partially Observed via Marked Point Processes**|Miguel Alvarez et.al.|[2311.09875](http://arxiv.org/abs/2311.09875)|null|
+|**2023-11-16**|**Diffusion-Augmented Neural Processes**|Lorenzo Bonito et.al.|[2311.09848](http://arxiv.org/abs/2311.09848)|null|
+|**2023-11-16**|**MAM-E: Mammographic synthetic image generation with diffusion models**|Ricardo Montoya-del-Angel et.al.|[2311.09822](http://arxiv.org/abs/2311.09822)|**[link](https://github.com/Likalto4/diffusion-models_master)**|
+|**2023-11-16**|**Scene Text Image Super-resolution based on Text-conditional Diffusion Models**|Chihiro Noguchi et.al.|[2311.09759](http://arxiv.org/abs/2311.09759)|null|
+|**2023-11-16**|**DIFFNAT: Improving Diffusion Image Quality Using Natural Image Statistics**|Aniket Roy et.al.|[2311.09753](http://arxiv.org/abs/2311.09753)|null|
+|**2023-11-16**|**Neutrino nonradiative decay and the diffuse supernova neutrino background**|Pilar Iváñez-Ballesteros et.al.|[2311.09725](http://arxiv.org/abs/2311.09725)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
 |**2023-11-15**|**Finding polarised communities and tracking information diffusion on Twitter: The Irish Abortion Referendum**|Caroline Pena et.al.|[2311.09196](http://arxiv.org/abs/2311.09196)|null|
