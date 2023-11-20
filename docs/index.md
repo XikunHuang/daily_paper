@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**FOAL: Fine-grained Contrastive Learning for Cross-domain Aspect Sentiment Triplet Extraction**|Ting Xu et.al.|[2311.10373](http://arxiv.org/abs/2311.10373)|null|
+|**2023-11-17**|**Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection**|Fan Xu et.al.|[2311.10370](http://arxiv.org/abs/2311.10370)|null|
+|**2023-11-16**|**Wildfire Smoke Detection with Cross Contrast Patch Embedding**|Chong Wang et.al.|[2311.10116](http://arxiv.org/abs/2311.10116)|null|
+|**2023-11-15**|**VideoCon: Robust Video-Language Alignment via Contrast Captions**|Hritik Bansal et.al.|[2311.10111](http://arxiv.org/abs/2311.10111)|**[link](https://github.com/hritikbansal/videocon)**|
 |**2023-11-16**|**Robust Contrastive Learning With Theory Guarantee**|Ngoc N. Tran et.al.|[2311.09671](http://arxiv.org/abs/2311.09671)|null|
 |**2023-11-15**|**MoCo-Transfer: Investigating out-of-distribution contrastive learning for limited-data domains**|Yuwen Chen et.al.|[2311.09401](http://arxiv.org/abs/2311.09401)|null|
 |**2023-11-15**|**Contrastive Chain-of-Thought Prompting**|Yew Ken Chia et.al.|[2311.09277](http://arxiv.org/abs/2311.09277)|**[link](https://github.com/damo-nlp-sg/contrastive-cot)**|
@@ -883,6 +887,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579](http://arxiv.org/abs/2311.10579)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
 |**2023-11-14**|**Uplift Modeling based on Graph Neural Network Combined with Causal Knowledge**|Haowen Wang et.al.|[2311.08434](http://arxiv.org/abs/2311.08434)|null|
 |**2023-11-14**|**Evaluating Neighbor Explainability for Graph Neural Networks**|Oscar Llorente et.al.|[2311.08118](http://arxiv.org/abs/2311.08118)|**[link](https://github.com/ericssonresearch/gnn-neighbors-xai)**|
@@ -1370,6 +1375,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Bacterial diffusion in disordered media, by forgetting the media**|Henry H. Mattingly et.al.|[2311.10612](http://arxiv.org/abs/2311.10612)|null|
+|**2023-11-17**|**Local asymptotics and optimal control for a viscous Cahn-Hilliard-Reaction-Diffusion model for tumor growth**|Elisa Davoli et.al.|[2311.10457](http://arxiv.org/abs/2311.10457)|null|
+|**2023-11-17**|**Effective diffusion of a tracer in active bath: a path-integral approach**|Mengkai Feng et.al.|[2311.10325](http://arxiv.org/abs/2311.10325)|null|
+|**2023-11-17**|**A consistent and conservative diffuse-domain lattice Boltzmann method for multiphase flows in complex geometries**|Xi Liu et.al.|[2311.10314](http://arxiv.org/abs/2311.10314)|null|
+|**2023-11-17**|**Mean Field Games with infinitely degenerate diffusion and non-coercive Hamiltonian**|Yiming Jiang et.al.|[2311.10312](http://arxiv.org/abs/2311.10312)|null|
+|**2023-11-17**|**Joint channel estimation and data detection in massive MIMO systems based on diffusion models**|Nicolas Zilberstein et.al.|[2311.10311](http://arxiv.org/abs/2311.10311)|null|
+|**2023-11-17**|**Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers**|Staphord Bengesi et.al.|[2311.10242](http://arxiv.org/abs/2311.10242)|null|
+|**2023-11-16**|**K-space Cold Diffusion: Learning to Reconstruct Accelerated MRI without Noise**|Guoyao Shen et.al.|[2311.10162](http://arxiv.org/abs/2311.10162)|null|
+|**2023-11-16**|**An analytical investigation into solute transport and sorption via intra-particle diffusion in the dual-porosity limit**|Lucy C. Auton et.al.|[2311.10161](http://arxiv.org/abs/2311.10161)|null|
 |**2023-11-16**|**The Chosen One: Consistent Characters in Text-to-Image Diffusion Models**|Omri Avrahami et.al.|[2311.10093](http://arxiv.org/abs/2311.10093)|null|
 |**2023-11-16**|**TransFusion -- A Transparency-Based Diffusion Model for Anomaly Detection**|Matic Fučka et.al.|[2311.09999](http://arxiv.org/abs/2311.09999)|null|
 |**2023-11-16**|**Existence and dimensions of global attractors for a delayed reaction-diffusion equation on an unbounded domain**|Wenjie Hu et.al.|[2311.09980](http://arxiv.org/abs/2311.09980)|null|
