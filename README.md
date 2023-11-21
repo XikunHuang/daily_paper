@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning**|Haiyang Ying et.al.|[2311.11666](http://arxiv.org/abs/2311.11666)|null|
+|**2023-11-20**|**What's left can't be right -- The remaining positional incompetence of contrastive vision-language models**|Nils Hoehing et.al.|[2311.11477](http://arxiv.org/abs/2311.11477)|null|
+|**2023-11-19**|**ML-LMCL: Mutual Learning and Large-Margin Contrastive Learning for Improving ASR Robustness in Spoken Language Understanding**|Xuxin Cheng et.al.|[2311.11375](http://arxiv.org/abs/2311.11375)|null|
+|**2023-11-18**|**Community-Aware Efficient Graph Contrastive Learning via Personalized Self-Training**|Yuecheng Li et.al.|[2311.11073](http://arxiv.org/abs/2311.11073)|null|
+|**2023-11-18**|**Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition**|Dongyuan Li et.al.|[2311.11009](http://arxiv.org/abs/2311.11009)|null|
+|**2023-11-17**|**Pre- to Post-Contrast Breast MRI Synthesis for Enhanced Tumour Segmentation**|Richard Osuala et.al.|[2311.10879](http://arxiv.org/abs/2311.10879)|**[link](https://github.com/richardobi/pre_post_synthesis)**|
 |**2023-11-17**|**FOAL: Fine-grained Contrastive Learning for Cross-domain Aspect Sentiment Triplet Extraction**|Ting Xu et.al.|[2311.10373](http://arxiv.org/abs/2311.10373)|null|
 |**2023-11-17**|**Few-shot Message-Enhanced Contrastive Learning for Graph Anomaly Detection**|Fan Xu et.al.|[2311.10370](http://arxiv.org/abs/2311.10370)|null|
 |**2023-11-16**|**Wildfire Smoke Detection with Cross Contrast Patch Embedding**|Chong Wang et.al.|[2311.10116](http://arxiv.org/abs/2311.10116)|null|
@@ -894,6 +900,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Robust Tumor Segmentation with Hyperspectral Imaging and Graph Neural Networks**|Mayar Lotfy et.al.|[2311.11782](http://arxiv.org/abs/2311.11782)|null|
 |**2023-11-17**|**Graph Neural Networks for Pressure Estimation in Water Distribution Systems**|Huy Truong et.al.|[2311.10579](http://arxiv.org/abs/2311.10579)|**[link](https://github.com/ditec-project/gnn-pressure-estimation)**|
 |**2023-11-15**|**Emerging Drug Interaction Prediction Enabled by Flow-based Graph Neural Network with Biomedical Network**|Yongqi Zhang et.al.|[2311.09261](http://arxiv.org/abs/2311.09261)|**[link](https://github.com/lars-research/emergnn)**|
 |**2023-11-14**|**Uplift Modeling based on Graph Neural Network Combined with Causal Knowledge**|Haowen Wang et.al.|[2311.08434](http://arxiv.org/abs/2311.08434)|null|
@@ -1384,6 +1391,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**Diffusion with two resetting points**|Pedro Julián Salgado et.al.|[2311.11897](http://arxiv.org/abs/2311.11897)|null|
+|**2023-11-20**|**Multiplicative noise removal based on a variable-order fractional diffusion model**|Yuhang Li et.al.|[2311.11680](http://arxiv.org/abs/2311.11680)|null|
+|**2023-11-20**|**Cancer-Net PCa-Data: An Open-Source Benchmark Dataset for Prostate Cancer Clinical Decision Support using Synthetic Correlated Diffusion Imaging Data**|Hayden Gunraj et.al.|[2311.11647](http://arxiv.org/abs/2311.11647)|null|
+|**2023-11-20**|**Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model**|Chunming He et.al.|[2311.11638](http://arxiv.org/abs/2311.11638)|**[link](https://github.com/chunminghe/reti-diff)**|
+|**2023-11-20**|**Generating Realistic Counterfactuals for Retinal Fundus and OCT Images using Diffusion Models**|Indu Ilanchezian et.al.|[2311.11629](http://arxiv.org/abs/2311.11629)|null|
+|**2023-11-20**|**Deep Equilibrium Diffusion Restoration with Parallel Sampling**|Jiezhang Cao et.al.|[2311.11600](http://arxiv.org/abs/2311.11600)|null|
+|**2023-11-20**|**Advancing Urban Renewal: An Automated Approach to Generating Historical Arcade Facades with Stable Diffusion Models**|Zheyuan Kuang et.al.|[2311.11590](http://arxiv.org/abs/2311.11590)|null|
+|**2023-11-20**|**Traveling phase interfaces in viscous forward-backward diffusion equations**|Carina Geldhauser et.al.|[2311.11573](http://arxiv.org/abs/2311.11573)|null|
+|**2023-11-19**|**Detecting temporal scaling with modified diffusion entropy analysis**|Garland Culbreth et.al.|[2311.11453](http://arxiv.org/abs/2311.11453)|null|
+|**2023-11-19**|**DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model**|Zhenghao Pan et.al.|[2311.11417](http://arxiv.org/abs/2311.11417)|null|
 |**2023-11-17**|**Bacterial diffusion in disordered media, by forgetting the media**|Henry H. Mattingly et.al.|[2311.10612](http://arxiv.org/abs/2311.10612)|null|
 |**2023-11-17**|**Local asymptotics and optimal control for a viscous Cahn-Hilliard-Reaction-Diffusion model for tumor growth**|Elisa Davoli et.al.|[2311.10457](http://arxiv.org/abs/2311.10457)|null|
 |**2023-11-17**|**Effective diffusion of a tracer in active bath: a path-integral approach**|Mengkai Feng et.al.|[2311.10325](http://arxiv.org/abs/2311.10325)|null|
