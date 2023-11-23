@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Deep Learning for Vascular Segmentation and Applications in Phase Contrast Tomography Imaging**|Ekin Yagis et.al.|[2311.13319](http://arxiv.org/abs/2311.13319)|null|
+|**2023-11-21**|**FedCPC: An Effective Federated Contrastive Learning Method for Privacy Preserving Early-Stage Alzheimer's Speech Detection**|Wenqing Wei et.al.|[2311.13043](http://arxiv.org/abs/2311.13043)|null|
 |**2023-11-21**|**Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR**|Dominique Nshimyimana et.al.|[2311.12674](http://arxiv.org/abs/2311.12674)|null|
 |**2023-11-21**|**Leveraging Unlabeled Data for 3D Medical Image Segmentation through Self-Supervised Contrastive Learning**|Sanaz Karimijafarbigloo et.al.|[2311.12617](http://arxiv.org/abs/2311.12617)|null|
 |**2023-11-21**|**Rich and Poor Texture Contrast: A Simple yet Effective Approach for AI-generated Image Detection**|Nan Zhong et.al.|[2311.12397](http://arxiv.org/abs/2311.12397)|null|
@@ -906,6 +908,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Benchmarking Toxic Molecule Classification using Graph Neural Networks and Few Shot Learning**|Bhavya Mehta et.al.|[2311.13490](http://arxiv.org/abs/2311.13490)|null|
+|**2023-11-22**|**Hard Label Black Box Node Injection Attack on Graph Neural Networks**|Yu Zhou et.al.|[2311.13244](http://arxiv.org/abs/2311.13244)|null|
 |**2023-11-21**|**Content Augmented Graph Neural Networks**|Fatemeh Gholamzadeh Nasrabadi et.al.|[2311.12741](http://arxiv.org/abs/2311.12741)|**[link](https://github.com/fatemehgholamzadeh/augss-gnn)**|
 |**2023-11-21**|**Carbohydrate NMR chemical shift predictions using E(3) equivariant graph neural networks**|Maria Bånkestad et.al.|[2311.12657](http://arxiv.org/abs/2311.12657)|**[link](https://github.com/mariabankestad/geqshift)**|
 |**2023-11-21**|**Power grid operational risk assessment using graph neural network surrogates**|Yadong Zhang et.al.|[2311.12309](http://arxiv.org/abs/2311.12309)|null|
@@ -1400,6 +1404,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584](http://arxiv.org/abs/2311.13584)|null|
+|**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570](http://arxiv.org/abs/2311.13570)|null|
+|**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|null|
+|**2023-11-22**|**Simultaneous uniqueness and numerical inversion for an inverse problem in the time-domain diffuse optical tomography with fluorescence**|Zhiyuan Li et.al.|[2311.13391](http://arxiv.org/abs/2311.13391)|null|
+|**2023-11-22**|**A highly efficient finite volume method with a diffusion control parameter for hyperbolic problems**|Wassim Aboussi et.al.|[2311.13344](http://arxiv.org/abs/2311.13344)|null|
+|**2023-11-22**|**Recognition-Guided Diffusion Model for Scene Text Image Super-Resolution**|Yuxuan Zhou et.al.|[2311.13317](http://arxiv.org/abs/2311.13317)|null|
+|**2023-11-22**|**Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model**|Kai Yang et.al.|[2311.13231](http://arxiv.org/abs/2311.13231)|null|
+|**2023-11-22**|**Diffusion360: Seamless 360 Degree Panoramic Image Generation based on Diffusion Models**|Mengyang Feng et.al.|[2311.13141](http://arxiv.org/abs/2311.13141)|null|
+|**2023-11-22**|**Toward Robust Imperceptible Perturbation against Unauthorized Text-to-image Diffusion-based Synthesis**|Yixin Liu et.al.|[2311.13127](http://arxiv.org/abs/2311.13127)|null|
+|**2023-11-22**|**On the Limitation of Diffusion Models for Synthesizing Training Datasets**|Shin'ya Yamaguchi et.al.|[2311.13090](http://arxiv.org/abs/2311.13090)|null|
 |**2023-11-21**|**Systematically Measuring Ultra-Diffuse Galaxies (SMUDGes). VI. Nuclear Star Clusters**|Mika Lambert et.al.|[2311.12795](http://arxiv.org/abs/2311.12795)|null|
 |**2023-11-21**|**Stable Diffusion For Aerial Object Detection**|Yanan Jian et.al.|[2311.12345](http://arxiv.org/abs/2311.12345)|null|
 |**2023-11-21**|**Deciphering Non-Gaussianity of Diffusion Based on the Evolution of Diffusivity**|Haolan Xu et.al.|[2311.12317](http://arxiv.org/abs/2311.12317)|null|
