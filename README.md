@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Contrasting observables related to the $N^*(1535)$ from the molecular or a genuine structure**|Li Hai-Peng et.al.|[2311.14365](http://arxiv.org/abs/2311.14365)|null|
 |**2023-11-22**|**Deep Learning for Vascular Segmentation and Applications in Phase Contrast Tomography Imaging**|Ekin Yagis et.al.|[2311.13319](http://arxiv.org/abs/2311.13319)|null|
 |**2023-11-21**|**FedCPC: An Effective Federated Contrastive Learning Method for Privacy Preserving Early-Stage Alzheimer's Speech Detection**|Wenqing Wei et.al.|[2311.13043](http://arxiv.org/abs/2311.13043)|null|
 |**2023-11-21**|**Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR**|Dominique Nshimyimana et.al.|[2311.12674](http://arxiv.org/abs/2311.12674)|null|
@@ -908,6 +909,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Fault Detection in Telecom Networks using Bi-level Federated Graph Neural Networks**|R. Bourgerie et.al.|[2311.14469](http://arxiv.org/abs/2311.14469)|null|
+|**2023-11-24**|**AdaMedGraph: Adaboosting Graph Neural Networks for Personalized Medicine**|Jie Lian et.al.|[2311.14304](http://arxiv.org/abs/2311.14304)|null|
+|**2023-11-24**|**Out-of-Distribution Generalized Dynamic Graph Neural Network with Disentangled Intervention and Invariance Promotion**|Zeyang Zhang et.al.|[2311.14255](http://arxiv.org/abs/2311.14255)|null|
+|**2023-11-23**|**Exact Combinatorial Optimization with Temporo-Attentional Graph Neural Networks**|Mehdi Seyfi et.al.|[2311.13843](http://arxiv.org/abs/2311.13843)|null|
 |**2023-11-22**|**Benchmarking Toxic Molecule Classification using Graph Neural Networks and Few Shot Learning**|Bhavya Mehta et.al.|[2311.13490](http://arxiv.org/abs/2311.13490)|null|
 |**2023-11-22**|**Hard Label Black Box Node Injection Attack on Graph Neural Networks**|Yu Zhou et.al.|[2311.13244](http://arxiv.org/abs/2311.13244)|**[link](https://github.com/bryanzhou008/hard_label_black_box_attack_gnn)**|
 |**2023-11-21**|**Content Augmented Graph Neural Networks**|Fatemeh Gholamzadeh Nasrabadi et.al.|[2311.12741](http://arxiv.org/abs/2311.12741)|**[link](https://github.com/fatemehgholamzadeh/augss-gnn)**|
@@ -1404,6 +1409,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**CatVersion: Concatenating Embeddings for Diffusion-Based Text-to-Image Personalization**|Ruoyu Zhao et.al.|[2311.14631](http://arxiv.org/abs/2311.14631)|null|
+|**2023-11-24**|**ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model**|Eslam Mohamed Bakr et.al.|[2311.14542](http://arxiv.org/abs/2311.14542)|null|
+|**2023-11-24**|**MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation**|Zhiqi Li et.al.|[2311.14494](http://arxiv.org/abs/2311.14494)|null|
+|**2023-11-24**|**Joint Diffusion: Mutual Consistency-Driven Diffusion Model for PET-MRI Co-Reconstruction**|Taofeng Xie et.al.|[2311.14473](http://arxiv.org/abs/2311.14473)|null|
+|**2023-11-24**|**Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion**|Minshan Xie et.al.|[2311.14343](http://arxiv.org/abs/2311.14343)|null|
+|**2023-11-24**|**Numerical methods and regularity properties for viscosity solutions of nonlocal in space and time diffusion equations**|Félix del Teso et.al.|[2311.14317](http://arxiv.org/abs/2311.14317)|null|
+|**2023-11-24**|**Study of unitary Bose polarons with Diffusion Monte-Carlo and Gross-Pitaevskii approaches**|Nikolay Yegovtsev et.al.|[2311.14313](http://arxiv.org/abs/2311.14313)|null|
+|**2023-11-24**|**An Adaptive Fast-Multipole-Accelerated Hybrid Boundary Integral Equation Method for Accurate Diffusion Curves**|Seungbae Bang et.al.|[2311.14312](http://arxiv.org/abs/2311.14312)|null|
+|**2023-11-24**|**Paragraph-to-Image Generation with Information-Enriched Diffusion Model**|Weijia Wu et.al.|[2311.14284](http://arxiv.org/abs/2311.14284)|**[link](https://github.com/weijiawu/paradiffusion)**|
+|**2023-11-24**|**Image Super-Resolution with Text Prompt Diffusion**|Zheng Chen et.al.|[2311.14282](http://arxiv.org/abs/2311.14282)|**[link](https://github.com/zhengchen1999/promptsr)**|
 |**2023-11-22**|**On diffusion-based generative models and their error bounds: The log-concave case with full convergence estimates**|Stefano Bruno et.al.|[2311.13584](http://arxiv.org/abs/2311.13584)|null|
 |**2023-11-22**|**WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space**|Katja Schwarz et.al.|[2311.13570](http://arxiv.org/abs/2311.13570)|null|
 |**2023-11-22**|**Accelerating Inference in Molecular Diffusion Models with Latent Representations of Protein Structure**|Ian Dunn et.al.|[2311.13466](http://arxiv.org/abs/2311.13466)|**[link](https://github.com/dunni3/keypoint-diffusion)**|
