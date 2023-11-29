@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**High-contrast JWST-MIRI spectroscopy of planet-forming disks for the JDISC Survey**|Klaus M. Pontoppidan et.al.|[2311.17020](http://arxiv.org/abs/2311.17020)|null|
+|**2023-11-28**|**Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**|Sicong Leng et.al.|[2311.16922](http://arxiv.org/abs/2311.16922)|**[link](https://github.com/damo-nlp-sg/vcd)**|
+|**2023-11-28**|**MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation**|Yunshan Ma et.al.|[2311.16751](http://arxiv.org/abs/2311.16751)|**[link](https://github.com/happypointer/multicbr)**|
+|**2023-11-28**|**Contrastive encoder pre-training-based clustered federated learning for heterogeneous data**|Ye Lin Tun et.al.|[2311.16535](http://arxiv.org/abs/2311.16535)|null|
+|**2023-11-25**|**Elucidating and Overcoming the Challenges of Label Noise in Supervised Contrastive Learning**|Zijun Long et.al.|[2311.16481](http://arxiv.org/abs/2311.16481)|null|
+|**2023-11-28**|**CLAP: Contrastive Learning with Augmented Prompts for Robustness on Pretrained Vision-Language Models**|Yichao Cai et.al.|[2311.16445](http://arxiv.org/abs/2311.16445)|null|
+|**2023-11-27**|**Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning**|Xinrui He et.al.|[2311.16334](http://arxiv.org/abs/2311.16334)|null|
 |**2023-11-27**|**FALCON: Fairness Learning via Contrastive Attention Approach to Continual Semantic Scene Understanding in Open World**|Thanh-Dat Truong et.al.|[2311.15965](http://arxiv.org/abs/2311.15965)|null|
 |**2023-11-26**|**HyperKon: A Self-Supervised Contrastive Network for Hyperspectral Image Analysis**|Daniel L Ayuba et.al.|[2311.15459](http://arxiv.org/abs/2311.15459)|null|
 |**2023-11-26**|**Dual-stream contrastive predictive network with joint handcrafted feature view for SAR ship classification**|Xianting Feng et.al.|[2311.15202](http://arxiv.org/abs/2311.15202)|null|
@@ -916,6 +923,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856](http://arxiv.org/abs/2311.16856)|null|
+|**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
+|**2023-11-28**|**PyTorch Geometric High Order: A Unified Library for High Order Graph Neural Network**|Xiyuan Wang et.al.|[2311.16670](http://arxiv.org/abs/2311.16670)|**[link](https://github.com/graphpku/pygho)**|
+|**2023-11-27**|**A Graph Neural Network-Based QUBO-Formulated Hamiltonian-Inspired Loss Function for Combinatorial Optimization using Reinforcement Learning**|Redwan Ahmed Rizvee et.al.|[2311.16277](http://arxiv.org/abs/2311.16277)|null|
 |**2023-11-27**|**Soil Organic Carbon Estimation from Climate-related Features with Graph Neural Network**|Weiying Zhao et.al.|[2311.15979](http://arxiv.org/abs/2311.15979)|null|
 |**2023-11-27**|**Over-Squashing in Riemannian Graph Neural Networks**|Julia Balla et.al.|[2311.15945](http://arxiv.org/abs/2311.15945)|null|
 |**2023-11-27**|**Out-of-Distribution Generalized Dynamic Graph Neural Network for Human Albumin Prediction**|Zeyang Zhang et.al.|[2311.15545](http://arxiv.org/abs/2311.15545)|null|
@@ -1422,6 +1433,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models**|Tsun-Hsuan Wang et.al.|[2311.17053](http://arxiv.org/abs/2311.17053)|null|
+|**2023-11-28**|**Surf-D: High-Quality Surface Generation for Arbitrary Topologies using Diffusion Models**|Zhengming Yu et.al.|[2311.17050](http://arxiv.org/abs/2311.17050)|null|
+|**2023-11-28**|**Adversarial Diffusion Distillation**|Axel Sauer et.al.|[2311.17042](http://arxiv.org/abs/2311.17042)|**[link](https://github.com/stability-ai/generative-models)**|
+|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
+|**2023-11-28**|**Pricing and hedging for a sticky diffusion**|Alexis Anagnostakis et.al.|[2311.17011](http://arxiv.org/abs/2311.17011)|null|
+|**2023-11-28**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009](http://arxiv.org/abs/2311.17009)|null|
+|**2023-11-28**|**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following**|Yutong Feng et.al.|[2311.17002](http://arxiv.org/abs/2311.17002)|null|
+|**2023-11-28**|**HumanRef: Single Image to 3D Human Generation via Reference-Guided Diffusion**|Jingbo Zhang et.al.|[2311.16961](http://arxiv.org/abs/2311.16961)|null|
+|**2023-11-28**|**SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models**|Yuwei Guo et.al.|[2311.16933](http://arxiv.org/abs/2311.16933)|null|
+|**2023-11-28**|**RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D**|Lingteng Qiu et.al.|[2311.16918](http://arxiv.org/abs/2311.16918)|null|
 |**2023-11-27**|**Test-time Adaptation of Discriminative Models via Diffusion Generative Feedback**|Mihir Prabhudesai et.al.|[2311.16102](http://arxiv.org/abs/2311.16102)|null|
 |**2023-11-27**|**KPZ-type equation from growth driven by a non-Markovian diffusion**|Amir Dembo et.al.|[2311.16095](http://arxiv.org/abs/2311.16095)|null|
 |**2023-11-27**|**Self-correcting LLM-controlled Diffusion Models**|Tsung-Han Wu et.al.|[2311.16090](http://arxiv.org/abs/2311.16090)|null|
