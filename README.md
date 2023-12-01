@@ -1,4 +1,4 @@
-## Updated on 2023.11.30
+## Updated on 2023.12.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -919,7 +919,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## GNN
 
@@ -928,8 +928,8 @@
 |**2023-11-29**|**FastSample: Accelerating Distributed Graph Neural Network Training for Billion-Scale Graphs**|Hesham Mostafa et.al.|[2311.17847](http://arxiv.org/abs/2311.17847)|null|
 |**2023-11-29**|**CrimeGNN: Harnessing the Power of Graph Neural Networks for Community Detection in Criminal Networks**|Chen Yang et.al.|[2311.17479](http://arxiv.org/abs/2311.17479)|null|
 |**2023-11-29**|**The Devil is in the Data: Learning Fair Graph Neural Networks via Partial Knowledge Distillation**|Yuchang Zhu et.al.|[2311.17373](http://arxiv.org/abs/2311.17373)|**[link](https://github.com/zzoomd/fairgkd)**|
-|**2023-11-29**|**How does spatial structure affect psychological restoration? A method based on Graph Neural Networks and Street View Imagery**|Haoran Ma et.al.|[2311.17361](http://arxiv.org/abs/2311.17361)|null|
-|**2023-11-28**|**\texttt{GlycoNMR}: Dataset and benchmarks for NMR chemical shift prediction of carbohydrates with graph neural networks**|Zizhang Chen et.al.|[2311.17134](http://arxiv.org/abs/2311.17134)|null|
+|**2023-11-30**|**How does spatial structure affect psychological restoration? A method based on Graph Neural Networks and Street View Imagery**|Haoran Ma et.al.|[2311.17361](http://arxiv.org/abs/2311.17361)|null|
+|**2023-11-30**|**GlycoNMR: Dataset and benchmarks for NMR chemical shift prediction of carbohydrates with graph neural networks**|Zizhang Chen et.al.|[2311.17134](http://arxiv.org/abs/2311.17134)|null|
 |**2023-11-28**|**Attentional Graph Neural Networks for Robust Massive Network Localization**|Wenzhong Yan et.al.|[2311.16856](http://arxiv.org/abs/2311.16856)|null|
 |**2023-11-28**|**Hyper-Relational Knowledge Graph Neural Network for Next POI**|Jixiao Zhang et.al.|[2311.16683](http://arxiv.org/abs/2311.16683)|null|
 |**2023-11-28**|**PyTorch Geometric High Order: A Unified Library for High Order Graph Neural Network**|Xiyuan Wang et.al.|[2311.16670](http://arxiv.org/abs/2311.16670)|**[link](https://github.com/graphpku/pygho)**|
@@ -1434,13 +1434,13 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-29**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921](http://arxiv.org/abs/2311.17921)|null|
+|**2023-11-30**|**Do text-free diffusion models learn discriminative visual representations?**|Soumik Mukhopadhyay et.al.|[2311.17921](http://arxiv.org/abs/2311.17921)|null|
 |**2023-11-29**|**Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models**|Daniel Geng et.al.|[2311.17919](http://arxiv.org/abs/2311.17919)|null|
 |**2023-11-29**|**SODA: Bottleneck Diffusion Models for Representation Learning**|Drew A. Hudson et.al.|[2311.17901](http://arxiv.org/abs/2311.17901)|null|
 |**2023-11-29**|**Leveraging Graph Diffusion Models for Network Refinement Tasks**|Puja Trivedi et.al.|[2311.17856](http://arxiv.org/abs/2311.17856)|null|
@@ -2725,5 +2725,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
 
