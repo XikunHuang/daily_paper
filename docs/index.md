@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.01
+## Updated on 2023.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -923,7 +923,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672](http://arxiv.org/abs/2311.18672)|null|
+|**2023-11-30**|**A Comparison Between Invariant and Equivariant Classical and Quantum Graph Neural Networks**|Roy T. Forestano et.al.|[2311.18672](http://arxiv.org/abs/2311.18672)|**[link](https://github.com/royforestano/2023_gsoc_ml4sci_qmlhep_gnn)**|
 |**2023-11-30**|**An Effective Universal Polynomial Basis for Spectral Graph Neural Networks**|Keke Huang et.al.|[2311.18177](http://arxiv.org/abs/2311.18177)|null|
 |**2023-11-29**|**Enhancing Data-Assimilation in CFD using Graph Neural Networks**|Michele Quattromini et.al.|[2311.18027](http://arxiv.org/abs/2311.18027)|null|
 |**2023-11-29**|**FastSample: Accelerating Distributed Graph Neural Network Training for Billion-Scale Graphs**|Hesham Mostafa et.al.|[2311.17847](http://arxiv.org/abs/2311.17847)|null|
