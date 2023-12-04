@@ -1,4 +1,4 @@
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,8 +18,8 @@
 |**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
 |**2023-11-30**|**Material decomposition for dual-energy propagation-based phase-contrast CT**|Suyu Liao et.al.|[2311.18186](http://arxiv.org/abs/2311.18186)|null|
 |**2023-11-29**|**Detecting Biosignatures in Nearby Rocky Exoplanets using High-Contrast Imaging and Medium-Resolution Spectroscopy with Extremely Large Telescope**|Huihao Zhang et.al.|[2311.18117](http://arxiv.org/abs/2311.18117)|null|
-|**2023-11-29**|**Contrastive Vision-Language Alignment Makes Efficient Instruction Learner**|Lizhao Liu et.al.|[2311.17945](http://arxiv.org/abs/2311.17945)|null|
-|**2023-11-29**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
+|**2023-11-29**|**Contrastive Vision-Language Alignment Makes Efficient Instruction Learner**|Lizhao Liu et.al.|[2311.17945](http://arxiv.org/abs/2311.17945)|**[link](https://github.com/lizhaoliu-lec/cg-vlm)**|
+|**2023-11-30**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
 |**2023-11-29**|**CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning**|Xu Liu et.al.|[2311.17583](http://arxiv.org/abs/2311.17583)|null|
 |**2023-11-28**|**High-contrast JWST-MIRI spectroscopy of planet-forming disks for the JDISC Survey**|Klaus M. Pontoppidan et.al.|[2311.17020](http://arxiv.org/abs/2311.17020)|null|
 |**2023-11-28**|**Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**|Sicong Leng et.al.|[2311.16922](http://arxiv.org/abs/2311.16922)|**[link](https://github.com/damo-nlp-sg/vcd)**|
@@ -924,7 +924,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
 
 ## GNN
 
@@ -1442,7 +1442,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2743,5 +2743,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231204>back to top</a>)</p>
 

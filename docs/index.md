@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -13,8 +13,8 @@ layout: default
 |**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
 |**2023-11-30**|**Material decomposition for dual-energy propagation-based phase-contrast CT**|Suyu Liao et.al.|[2311.18186](http://arxiv.org/abs/2311.18186)|null|
 |**2023-11-29**|**Detecting Biosignatures in Nearby Rocky Exoplanets using High-Contrast Imaging and Medium-Resolution Spectroscopy with Extremely Large Telescope**|Huihao Zhang et.al.|[2311.18117](http://arxiv.org/abs/2311.18117)|null|
-|**2023-11-29**|**Contrastive Vision-Language Alignment Makes Efficient Instruction Learner**|Lizhao Liu et.al.|[2311.17945](http://arxiv.org/abs/2311.17945)|null|
-|**2023-11-29**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
+|**2023-11-29**|**Contrastive Vision-Language Alignment Makes Efficient Instruction Learner**|Lizhao Liu et.al.|[2311.17945](http://arxiv.org/abs/2311.17945)|**[link](https://github.com/lizhaoliu-lec/cg-vlm)**|
+|**2023-11-30**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
 |**2023-11-29**|**CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning**|Xu Liu et.al.|[2311.17583](http://arxiv.org/abs/2311.17583)|null|
 |**2023-11-28**|**High-contrast JWST-MIRI spectroscopy of planet-forming disks for the JDISC Survey**|Klaus M. Pontoppidan et.al.|[2311.17020](http://arxiv.org/abs/2311.17020)|null|
 |**2023-11-28**|**Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**|Sicong Leng et.al.|[2311.16922](http://arxiv.org/abs/2311.16922)|**[link](https://github.com/damo-nlp-sg/vcd)**|
