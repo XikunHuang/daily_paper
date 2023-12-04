@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Dual-Domain Multi-Contrast MRI Reconstruction with Synthesis-based Fusion Network**|Junwei Yang et.al.|[2312.00661](http://arxiv.org/abs/2312.00661)|null|
+|**2023-12-01**|**Partition-based K-space Synthesis for Multi-contrast Parallel Imaging**|Yuxia Huang et.al.|[2312.00387](http://arxiv.org/abs/2312.00387)|null|
+|**2023-12-01**|**Optimal Sample Complexity of Contrastive Learning**|Noga Alon et.al.|[2312.00379](http://arxiv.org/abs/2312.00379)|null|
+|**2023-11-30**|**Uncertainty in Graph Contrastive Learning with Bayesian Neural Networks**|Alexander Möllers et.al.|[2312.00232](http://arxiv.org/abs/2312.00232)|null|
+|**2023-11-30**|**Multi-Modal Video Topic Segmentation with Dual-Contrastive Domain Adaptation**|Linzi Xing et.al.|[2312.00220](http://arxiv.org/abs/2312.00220)|null|
+|**2023-11-30**|**Analysis of High-Contrast All-Optical Dual Wavelength Switching in Asymmetric Dual-Core Fibers**|Le Xuan The Tai et.al.|[2312.00145](http://arxiv.org/abs/2312.00145)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608](http://arxiv.org/abs/2311.18608)|null|
 |**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
 |**2023-11-30**|**Material decomposition for dual-energy propagation-based phase-contrast CT**|Suyu Liao et.al.|[2311.18186](http://arxiv.org/abs/2311.18186)|null|
@@ -1448,6 +1454,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**VideoBooth: Diffusion-based Video Generation with Image Prompts**|Yuming Jiang et.al.|[2312.00777](http://arxiv.org/abs/2312.00777)|null|
+|**2023-12-01**|**Resource-constrained knowledge diffusion processes inspired by human peer learning**|Ehsan Beikihassan et.al.|[2312.00660](http://arxiv.org/abs/2312.00660)|null|
+|**2023-12-01**|**TrackDiffusion: Multi-object Tracking Data Generation via Diffusion Models**|Pengxiang Li et.al.|[2312.00651](http://arxiv.org/abs/2312.00651)|null|
+|**2023-12-01**|**How the zebra got its stripes: Curvature-dependent diffusion orients Turing patterns on 3D surfaces**|Michael F. Staddon et.al.|[2312.00637](http://arxiv.org/abs/2312.00637)|null|
+|**2023-12-01**|**Stopper vs. singular-controller games with degenerate diffusions**|Andrea Bovo et.al.|[2312.00613](http://arxiv.org/abs/2312.00613)|null|
+|**2023-12-01**|**Dynamics of a diffusive predator-prey system with fear effect in advective environments**|Daifeng Duan et.al.|[2312.00395](http://arxiv.org/abs/2312.00395)|null|
+|**2023-11-30**|**DREAM: Diffusion Rectification and Estimation-Adaptive Models**|Jinxin Zhou et.al.|[2312.00210](http://arxiv.org/abs/2312.00210)|null|
+|**2023-11-30**|**S2ST: Image-to-Image Translation in the Seed Space of Latent Diffusion**|Or Greenberg et.al.|[2312.00116](http://arxiv.org/abs/2312.00116)|null|
 |**2023-11-30**|**VIDiff: Translating Videos via Multi-Modal Instructions with Diffusion Models**|Zhen Xing et.al.|[2311.18837](http://arxiv.org/abs/2311.18837)|null|
 |**2023-11-30**|**ART $\boldsymbol{\cdot}$ V: Auto-Regressive Text-to-Video Generation with Diffusion Models**|Wenming Weng et.al.|[2311.18834](http://arxiv.org/abs/2311.18834)|null|
 |**2023-11-30**|**Exploiting Diffusion Prior for Generalizable Pixel-Level Semantic Prediction**|Hsin-Ying Lee et.al.|[2311.18832](http://arxiv.org/abs/2311.18832)|**[link](https://github.com/shinying/dmp)**|
