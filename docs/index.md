@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Binary Dispersion Formulations of Mid-Infrared Lossless Dielectric Contrast Gratings**|Ken Araki et.al.|[2312.02360](http://arxiv.org/abs/2312.02360)|null|
+|**2023-12-04**|**A Contrastive Compositional Benchmark for Text-to-Image Synthesis: A Study with Unified Text-to-Image Fidelity Metrics**|Xiangru Zhu et.al.|[2312.02338](http://arxiv.org/abs/2312.02338)|**[link](https://github.com/zhuxiangru/winoground-t2i)**|
+|**2023-12-04**|**Contrastive Learning-Based Spectral Knowledge Distillation for Multi-Modality and Missing Modality Scenarios in Semantic Segmentation**|Aniruddh Sikdar et.al.|[2312.02240](http://arxiv.org/abs/2312.02240)|null|
+|**2023-12-04**|**Improving Multimodal Sentiment Analysis: Supervised Angular Margin-based Contrastive Learning for Enhanced Fusion Representation**|Cong-Duy Nguyen et.al.|[2312.02227](http://arxiv.org/abs/2312.02227)|null|
 |**2023-12-04**|**Saltire -- A model to measure dynamical masses for high-contrast binaries and exoplanets with high-resolution spectroscopy**|Daniel Sebastian et.al.|[2312.01924](http://arxiv.org/abs/2312.01924)|null|
 |**2023-12-04**|**Long-Tail Learning with Rebalanced Contrastive Loss**|Charika De Alvis et.al.|[2312.01753](http://arxiv.org/abs/2312.01753)|null|
 |**2023-12-04**|**CLAMP: Contrastive LAnguage Model Prompt-tuning**|Piotr Teterwak et.al.|[2312.01629](http://arxiv.org/abs/2312.01629)|null|
@@ -935,6 +939,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**On the Initialization of Graph Neural Networks**|Jiahang Li et.al.|[2312.02622](http://arxiv.org/abs/2312.02622)|**[link](https://github.com/lspongebobjh/virgo_icml2023)**|
+|**2023-12-05**|**Congestion-aware Distributed Task Offloading in Wireless Multi-hop Networks Using Graph Neural Networks**|Zhongyuan Zhao et.al.|[2312.02471](http://arxiv.org/abs/2312.02471)|null|
+|**2023-12-04**|**On the Trade-Off between Stability and Representational Capacity in Graph Neural Networks**|Zhan Gao et.al.|[2312.02372](http://arxiv.org/abs/2312.02372)|null|
+|**2023-12-04**|**Digital Histopathology with Graph Neural Networks: Concepts and Explanations for Clinicians**|Alessandro Farace di Villaforesta et.al.|[2312.02225](http://arxiv.org/abs/2312.02225)|null|
 |**2023-12-04**|**The Self-Loop Paradox: Investigating the Impact of Self-Loops on Graph Neural Networks**|Moritz Lampert et.al.|[2312.01721](http://arxiv.org/abs/2312.01721)|**[link](https://github.com/m-lampert/self-loop-paradox)**|
 |**2023-12-03**|**Graph Coordinates and Conventional Neural Networks -- An Alternative for Graph Neural Networks**|Zheyi Qin et.al.|[2312.01342](http://arxiv.org/abs/2312.01342)|null|
 |**2023-12-02**|**Mixed-Integer Optimisation of Graph Neural Networks for Computer-Aided Molecular Design**|Tom McDonald et.al.|[2312.01228](http://arxiv.org/abs/2312.01228)|null|
@@ -1454,6 +1462,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
+|**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
+|**2023-12-05**|**AmbiGen: Generating Ambigrams from Pre-trained Diffusion Model**|Boheng Zhao et.al.|[2312.02967](http://arxiv.org/abs/2312.02967)|null|
+|**2023-12-05**|**Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection**|Cheng-Ju Ho et.al.|[2312.02966](http://arxiv.org/abs/2312.02966)|**[link](https://github.com/luluho1208/diffusion-ss3d)**|
+|**2023-12-05**|**WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation**|Jiachen Lu et.al.|[2312.02934](http://arxiv.org/abs/2312.02934)|**[link](https://github.com/fudan-zvg/wovogen)**|
+|**2023-12-05**|**Assessing Nonlinear Diffusion Acceleration for Boltzmann Fokker Planck Equation in Slab Geometry**|Japan K. Patel et.al.|[2312.02930](http://arxiv.org/abs/2312.02930)|null|
+|**2023-12-05**|**A Diffusion Model of Dynamic Participant Inflow Management**|Baris Ata et.al.|[2312.02927](http://arxiv.org/abs/2312.02927)|null|
+|**2023-12-05**|**Large deviation principles for singular Riesz-type diffusive flows**|Elias Hess-Childs et.al.|[2312.02904](http://arxiv.org/abs/2312.02904)|null|
+|**2023-12-05**|**Deterministic Guidance Diffusion Model for Probabilistic Weather Forecasting**|Donggeun Yoon et.al.|[2312.02819](http://arxiv.org/abs/2312.02819)|null|
+|**2023-12-05**|**BIVDiff: A Training-Free Framework for General-Purpose Video Synthesis via Bridging Image and Video Diffusion Models**|Fengyuan Shi et.al.|[2312.02813](http://arxiv.org/abs/2312.02813)|null|
 |**2023-12-04**|**Latent Feature-Guided Diffusion Models for Shadow Removal**|Kangfu Mei et.al.|[2312.02156](http://arxiv.org/abs/2312.02156)|null|
 |**2023-12-04**|**Readout Guidance: Learning Control from Diffusion Features**|Grace Luo et.al.|[2312.02150](http://arxiv.org/abs/2312.02150)|null|
 |**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145](http://arxiv.org/abs/2312.02145)|null|
