@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Enhancing quantum contrast by using an EMCCD as a photon number resolving device**|Rounak Chatterjee et.al.|[2312.04184](http://arxiv.org/abs/2312.04184)|null|
+|**2023-12-07**|**Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation**|Jiawei Fan et.al.|[2312.04168](http://arxiv.org/abs/2312.04168)|**[link](https://github.com/osvai/af-dcd)**|
+|**2023-12-07**|**Improved Face Representation via Joint Label Classification and Supervised Contrastive Clustering**|Zhenduo Zhang et.al.|[2312.04029](http://arxiv.org/abs/2312.04029)|null|
+|**2023-12-06**|**Multi-Scale and Multi-Modal Contrastive Learning Network for Biomedical Time Series**|Hongbo Guo et.al.|[2312.03796](http://arxiv.org/abs/2312.03796)|null|
 |**2023-12-06**|**Direct Exoplanet Detection Using Deep Convolutional Image Reconstruction (ConStruct): A New Algorithm for Post-Processing High-Contrast Images**|Trevor N. Wolf et.al.|[2312.03671](http://arxiv.org/abs/2312.03671)|null|
 |**2023-12-06**|**Generalized Contrastive Divergence: Joint Training of Energy-Based Model and Diffusion Model through Inverse Reinforcement Learning**|Sangwoong Yoon et.al.|[2312.03397](http://arxiv.org/abs/2312.03397)|null|
 |**2023-12-06**|**Complementary Benefits of Contrastive Learning and Self-Training Under Distribution Shift**|Saurabh Garg et.al.|[2312.03318](http://arxiv.org/abs/2312.03318)|null|
@@ -21,7 +25,7 @@
 |**2023-12-04**|**A Contrastive Compositional Benchmark for Text-to-Image Synthesis: A Study with Unified Text-to-Image Fidelity Metrics**|Xiangru Zhu et.al.|[2312.02338](http://arxiv.org/abs/2312.02338)|**[link](https://github.com/zhuxiangru/winoground-t2i)**|
 |**2023-12-04**|**Contrastive Learning-Based Spectral Knowledge Distillation for Multi-Modality and Missing Modality Scenarios in Semantic Segmentation**|Aniruddh Sikdar et.al.|[2312.02240](http://arxiv.org/abs/2312.02240)|null|
 |**2023-12-04**|**Improving Multimodal Sentiment Analysis: Supervised Angular Margin-based Contrastive Learning for Enhanced Fusion Representation**|Cong-Duy Nguyen et.al.|[2312.02227](http://arxiv.org/abs/2312.02227)|null|
-|**2023-12-04**|**Saltire -- A model to measure dynamical masses for high-contrast binaries and exoplanets with high-resolution spectroscopy**|Daniel Sebastian et.al.|[2312.01924](http://arxiv.org/abs/2312.01924)|null|
+|**2023-12-04**|**Saltire -- A model to measure dynamical masses for high-contrast binaries and exoplanets with high-resolution spectroscopy**|Daniel Sebastian et.al.|[2312.01924](http://arxiv.org/abs/2312.01924)|**[link](https://github.com/dsagred/saltire)**|
 |**2023-12-04**|**Long-Tail Learning with Rebalanced Contrastive Loss**|Charika De Alvis et.al.|[2312.01753](http://arxiv.org/abs/2312.01753)|null|
 |**2023-12-04**|**CLAMP: Contrastive LAnguage Model Prompt-tuning**|Piotr Teterwak et.al.|[2312.01629](http://arxiv.org/abs/2312.01629)|null|
 |**2023-12-04**|**Local-Global History-aware Contrastive Learning for Temporal Knowledge Graph Reasoning**|Wei Chen et.al.|[2312.01601](http://arxiv.org/abs/2312.01601)|null|
@@ -949,6 +953,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307](http://arxiv.org/abs/2312.04307)|**[link](https://github.com/rickymaulanafajri/spa)**|
+|**2023-12-07**|**Simulating the Air Quality Impact of Prescribed Fires Using a Graph Neural Network-Based PM $_{2.5}$ Emissions Forecasting System**|Kyleen Liao et.al.|[2312.04291](http://arxiv.org/abs/2312.04291)|null|
+|**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071](http://arxiv.org/abs/2312.04071)|null|
+|**2023-12-06**|**Adaptive Dependency Learning Graph Neural Networks**|Abishek Sriramulu et.al.|[2312.03903](http://arxiv.org/abs/2312.03903)|**[link](https://github.com/abisheksriramulu/adlgnn)**|
+|**2023-12-06**|**Learning Genomic Sequence Representations using Graph Neural Networks over De Bruijn Graphs**|Kacper Kapuśniak et.al.|[2312.03865](http://arxiv.org/abs/2312.03865)|**[link](https://github.com/ratschlab/genomic-gnn)**|
 |**2023-12-06**|**Augmenting optimization-based molecular design with graph neural networks**|Shiqiang Zhang et.al.|[2312.03613](http://arxiv.org/abs/2312.03613)|null|
 |**2023-12-06**|**Multicoated and Folded Graph Neural Networks with Strong Lottery Tickets**|Jiale Yan et.al.|[2312.03236](http://arxiv.org/abs/2312.03236)|**[link](https://github.com/louivalley/slt-gnn)**|
 |**2023-12-05**|**On the Initialization of Graph Neural Networks**|Jiahang Li et.al.|[2312.02622](http://arxiv.org/abs/2312.02622)|**[link](https://github.com/lspongebobjh/virgo_icml2023)**|
@@ -1476,6 +1485,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation**|Zhaoxi Chen et.al.|[2312.04559](http://arxiv.org/abs/2312.04559)|**[link](https://github.com/frozenburning/primdiffusion)**|
+|**2023-12-07**|**GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation**|Shoufa Chen et.al.|[2312.04557](http://arxiv.org/abs/2312.04557)|null|
+|**2023-12-07**|**PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**|Lili Chen et.al.|[2312.04549](http://arxiv.org/abs/2312.04549)|null|
+|**2023-12-07**|**Diffusion Reflectance Map: Single-Image Stochastic Inverse Rendering of Illumination and Reflectance**|Yuto Enyo et.al.|[2312.04529](http://arxiv.org/abs/2312.04529)|null|
+|**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524](http://arxiv.org/abs/2312.04524)|**[link](https://github.com/rehg-lab/rave)**|
+|**2023-12-07**|**Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion**|Kiran Chhatre et.al.|[2312.04466](http://arxiv.org/abs/2312.04466)|**[link](https://github.com/kiranchhatre/amuse)**|
+|**2023-12-07**|**FitDiff: Robust monocular 3D facial shape and reflectance estimation using Diffusion Models**|Stathis Galanakis et.al.|[2312.04465](http://arxiv.org/abs/2312.04465)|null|
+|**2023-12-07**|**Parameter Inference for Hypo-Elliptic Diffusions under a Weak Design Condition**|Yuga Iguchi et.al.|[2312.04444](http://arxiv.org/abs/2312.04444)|null|
+|**2023-12-07**|**Approximate Caching for Efficiently Serving Diffusion Models**|Shubham Agarwal et.al.|[2312.04429](http://arxiv.org/abs/2312.04429)|null|
+|**2023-12-07**|**Spheroidal Molecular Communication via Diffusion: Signaling Between Homogeneous Cell Aggregates**|Mitra Rezaei et.al.|[2312.04427](http://arxiv.org/abs/2312.04427)|null|
 |**2023-12-06**|**WarpDiffusion: Efficient Diffusion Model for High-Fidelity Virtual Try-on**|xujie zhang et.al.|[2312.03667](http://arxiv.org/abs/2312.03667)|null|
 |**2023-12-06**|**TokenCompose: Grounding Diffusion with Token-level Supervision**|Zirui Wang et.al.|[2312.03626](http://arxiv.org/abs/2312.03626)|null|
 |**2023-12-06**|**Context Diffusion: In-Context Aware Image Generation**|Ivona Najdenkoska et.al.|[2312.03584](http://arxiv.org/abs/2312.03584)|null|
