@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**StructComp: Substituting propagation with Structural Compression in Training Graph Contrastive Learning**|Shengzhong Zhang et.al.|[2312.04865](http://arxiv.org/abs/2312.04865)|null|
+|**2023-12-08**|**Attention-Guided Contrastive Role Representations for Multi-Agent Reinforcement Learning**|Zican Hu et.al.|[2312.04819](http://arxiv.org/abs/2312.04819)|null|
+|**2023-12-08**|**Segmentation of Kidney Tumors on Non-Contrast CT Images using Protuberance Detection Network**|Taro Hatsutani et.al.|[2312.04796](http://arxiv.org/abs/2312.04796)|null|
 |**2023-12-07**|**Enhancing quantum contrast by using an EMCCD as a photon number resolving device**|Rounak Chatterjee et.al.|[2312.04184](http://arxiv.org/abs/2312.04184)|null|
 |**2023-12-07**|**Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation**|Jiawei Fan et.al.|[2312.04168](http://arxiv.org/abs/2312.04168)|**[link](https://github.com/osvai/af-dcd)**|
 |**2023-12-07**|**Improved Face Representation via Joint Label Classification and Supervised Contrastive Clustering**|Zhenduo Zhang et.al.|[2312.04029](http://arxiv.org/abs/2312.04029)|null|
@@ -946,6 +949,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|null|
+|**2023-12-05**|**Toward Energy-Efficient Massive MIMO: Graph Neural Network Precoding for Mitigating Non-Linear PA Distortion**|Thomas Feys et.al.|[2312.04591](http://arxiv.org/abs/2312.04591)|null|
 |**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307](http://arxiv.org/abs/2312.04307)|**[link](https://github.com/rickymaulanafajri/spa)**|
 |**2023-12-07**|**Simulating the Air Quality Impact of Prescribed Fires Using a Graph Neural Network-Based PM $_{2.5}$ Emissions Forecasting System**|Kyleen Liao et.al.|[2312.04291](http://arxiv.org/abs/2312.04291)|null|
 |**2023-12-07**|**Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks**|Zijie Huang et.al.|[2312.04071](http://arxiv.org/abs/2312.04071)|null|
@@ -1476,6 +1481,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253](http://arxiv.org/abs/2312.05253)|null|
+|**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|null|
+|**2023-12-08**|**Stoichiometry preservation and generalization of Bilger mixture fraction for non-premixed combustion with differential molecular diffusion**|Haifeng Wang et.al.|[2312.05204](http://arxiv.org/abs/2312.05204)|null|
+|**2023-12-08**|**Membership Inference Attacks on Diffusion Models via Quantile Regression**|Shuai Tang et.al.|[2312.05140](http://arxiv.org/abs/2312.05140)|null|
+|**2023-12-08**|**DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models**|Mengyang Feng et.al.|[2312.05107](http://arxiv.org/abs/2312.05107)|null|
+|**2023-12-08**|**Application of deep learning to the estimation of normalization coefficients in diffusion-based covariance models**|Folke K Skrunes et.al.|[2312.05068](http://arxiv.org/abs/2312.05068)|null|
+|**2023-12-08**|**UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models**|Yiming Zhao et.al.|[2312.04884](http://arxiv.org/abs/2312.04884)|**[link](https://github.com/zym-pku/udifftext)**|
+|**2023-12-08**|**MVDD: Multi-View Depth Diffusion Models**|Zhen Wang et.al.|[2312.04875](http://arxiv.org/abs/2312.04875)|null|
+|**2023-12-08**|**HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models**|Pei Lin et.al.|[2312.04867](http://arxiv.org/abs/2312.04867)|null|
+|**2023-12-08**|**DiffCMR: Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models**|Tianqi Xiang et.al.|[2312.04853](http://arxiv.org/abs/2312.04853)|**[link](https://github.com/xmed-lab/diffcmr)**|
 |**2023-12-07**|**PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation**|Zhaoxi Chen et.al.|[2312.04559](http://arxiv.org/abs/2312.04559)|**[link](https://github.com/frozenburning/primdiffusion)**|
 |**2023-12-07**|**GenTron: Delving Deep into Diffusion Transformers for Image and Video Generation**|Shoufa Chen et.al.|[2312.04557](http://arxiv.org/abs/2312.04557)|null|
 |**2023-12-07**|**PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play**|Lili Chen et.al.|[2312.04549](http://arxiv.org/abs/2312.04549)|null|
