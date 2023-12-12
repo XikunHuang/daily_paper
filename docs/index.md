@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -949,7 +949,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|null|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|**[link](https://github.com/gvogiatzis/trafficgen)**|
 |**2023-12-05**|**Toward Energy-Efficient Massive MIMO: Graph Neural Network Precoding for Mitigating Non-Linear PA Distortion**|Thomas Feys et.al.|[2312.04591](http://arxiv.org/abs/2312.04591)|null|
 |**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307](http://arxiv.org/abs/2312.04307)|**[link](https://github.com/rickymaulanafajri/spa)**|
 |**2023-12-07**|**Simulating the Air Quality Impact of Prescribed Fires Using a Graph Neural Network-Based PM $_{2.5}$ Emissions Forecasting System**|Kyleen Liao et.al.|[2312.04291](http://arxiv.org/abs/2312.04291)|null|
