@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**RCA-NOC: Relative Contrastive Alignment for Novel Object Captioning**|Jiashuo Fan et.al.|[2312.06299](http://arxiv.org/abs/2312.06299)|null|
+|**2023-12-11**|**Music-PAW: Learning Music Representations via Hierarchical Part-whole Interaction and Contrast**|Dong Yao et.al.|[2312.06197](http://arxiv.org/abs/2312.06197)|null|
+|**2023-12-11**|**Adaptive Feature Selection for No-Reference Image Quality Assessment using Contrastive Mitigating Semantic Noise Sensitivity**|Xudong Li et.al.|[2312.06158](http://arxiv.org/abs/2312.06158)|null|
+|**2023-12-11**|**Mining Gaze for Contrastive Learning toward Computer-Assisted Diagnosis**|Zihao Zhao et.al.|[2312.06069](http://arxiv.org/abs/2312.06069)|**[link](https://github.com/zhaozh10/mcgip)**|
+|**2023-12-11**|**Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks**|Renxiang Guan et.al.|[2312.06068](http://arxiv.org/abs/2312.06068)|null|
+|**2023-12-11**|**CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models**|Tuna Han Salih Meral et.al.|[2312.06059](http://arxiv.org/abs/2312.06059)|null|
+|**2023-12-11**|**Speaker-Text Retrieval via Contrastive Learning**|Xuechen Liu et.al.|[2312.06055](http://arxiv.org/abs/2312.06055)|null|
+|**2023-12-10**|**Temporal Supervised Contrastive Learning for Modeling Patient Risk Progression**|Shahriar Noroozizadeh et.al.|[2312.05933](http://arxiv.org/abs/2312.05933)|null|
+|**2023-12-10**|**PSCR: Patches Sampling-based Contrastive Regression for AIGC Image Quality Assessment**|Jiquan Yuan et.al.|[2312.05897](http://arxiv.org/abs/2312.05897)|**[link](https://github.com/jiquan123/pscr)**|
+|**2023-12-10**|**CLeaRForecast: Contrastive Learning of High-Purity Representations for Time Series Forecasting**|Jiaxin Gao et.al.|[2312.05758](http://arxiv.org/abs/2312.05758)|null|
 |**2023-12-08**|**StructComp: Substituting propagation with Structural Compression in Training Graph Contrastive Learning**|Shengzhong Zhang et.al.|[2312.04865](http://arxiv.org/abs/2312.04865)|null|
 |**2023-12-08**|**Attention-Guided Contrastive Role Representations for Multi-Agent Reinforcement Learning**|Zican Hu et.al.|[2312.04819](http://arxiv.org/abs/2312.04819)|null|
 |**2023-12-08**|**Segmentation of Kidney Tumors on Non-Contrast CT Images using Protuberance Detection Network**|Taro Hatsutani et.al.|[2312.04796](http://arxiv.org/abs/2312.04796)|null|
@@ -956,6 +966,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557](http://arxiv.org/abs/2312.06557)|null|
+|**2023-12-11**|**Detecting Contextual Network Anomalies with Graph Neural Networks**|Hamid Latif-Martínez et.al.|[2312.06342](http://arxiv.org/abs/2312.06342)|null|
+|**2023-12-11**|**Pipeline for performance evaluation of flavour tagging dedicated Graph Neural Network algorithms**|Greta Brianti et.al.|[2312.06245](http://arxiv.org/abs/2312.06245)|null|
+|**2023-12-10**|**TransGlow: Attention-augmented Transduction model based on Graph Neural Networks for Water Flow Forecasting**|Naghmeh Shafiee Roudbari et.al.|[2312.05961](http://arxiv.org/abs/2312.05961)|null|
+|**2023-12-10**|**ASWT-SGNN: Adaptive Spectral Wavelet Transform-based Self-Supervised Graph Neural Network**|Ruyue Liu et.al.|[2312.05736](http://arxiv.org/abs/2312.05736)|null|
+|**2023-12-09**|**Towards a Graph Neural Network-Based Approach for Estimating Hidden States in Cyber Attack Simulations**|Pontus Johnson et.al.|[2312.05666](http://arxiv.org/abs/2312.05666)|null|
+|**2023-12-09**|**Factorized Explainer for Graph Neural Networks**|Rundong Huang et.al.|[2312.05596](http://arxiv.org/abs/2312.05596)|null|
+|**2023-12-09**|**Poisoning $\times$ Evasion: Symbiotic Adversarial Robustness for Graph Neural Networks**|Ege Erdogan et.al.|[2312.05502](http://arxiv.org/abs/2312.05502)|null|
 |**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|**[link](https://github.com/gvogiatzis/trafficgen)**|
 |**2023-12-05**|**Toward Energy-Efficient Massive MIMO: Graph Neural Network Precoding for Mitigating Non-Linear PA Distortion**|Thomas Feys et.al.|[2312.04591](http://arxiv.org/abs/2312.04591)|null|
 |**2023-12-07**|**A Structural-Clustering Based Active Learning for Graph Neural Networks**|Ricky Maulana Fajri et.al.|[2312.04307](http://arxiv.org/abs/2312.04307)|**[link](https://github.com/rickymaulanafajri/spa)**|
@@ -1490,6 +1508,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Photorealistic Video Generation with Diffusion Models**|Agrim Gupta et.al.|[2312.06662](http://arxiv.org/abs/2312.06662)|null|
+|**2023-12-11**|**UpFusion: Novel View Diffusion from Unposed Sparse View Observations**|Bharath Raj Nagoor Kani et.al.|[2312.06661](http://arxiv.org/abs/2312.06661)|null|
+|**2023-12-11**|**Upscale-A-Video: Temporal-Consistent Diffusion Model for Real-World Video Super-Resolution**|Shangchen Zhou et.al.|[2312.06640](http://arxiv.org/abs/2312.06640)|null|
+|**2023-12-11**|**DiAD: A Diffusion-based Framework for Multi-class Anomaly Detection**|Haoyang He et.al.|[2312.06607](http://arxiv.org/abs/2312.06607)|**[link](https://github.com/lewandofskee/DiAD)**|
+|**2023-12-11**|**ControlNet-XS: Designing an Efficient and Effective Architecture for Controlling Text-to-Image Diffusion Models**|Denis Zavadski et.al.|[2312.06573](http://arxiv.org/abs/2312.06573)|**[link](https://github.com/vislearn/ControlNet-XS)**|
+|**2023-12-11**|**HOI-Diff: Text-Driven Synthesis of 3D Human-Object Interactions using Diffusion Models**|Xiaogang Peng et.al.|[2312.06553](http://arxiv.org/abs/2312.06553)|null|
+|**2023-12-11**|**On One Dimensional Advection -- Diffusion Equation with Variable Diffusivity**|Eeshwar Prasad Poudel et.al.|[2312.06493](http://arxiv.org/abs/2312.06493)|null|
+|**2023-12-11**|**STDiff: Spatio-temporal Diffusion for Continuous Stochastic Video Prediction**|Xi Ye et.al.|[2312.06486](http://arxiv.org/abs/2312.06486)|**[link](https://github.com/xiye20/stdiffproject)**|
+|**2023-12-11**|**De novo Design of Polymer Electrolytes with High Conductivity using GPT-based and Diffusion-based Generative Models**|Zhenze Yang et.al.|[2312.06470](http://arxiv.org/abs/2312.06470)|null|
+|**2023-12-11**|**DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers**|Aaron Mir et.al.|[2312.06400](http://arxiv.org/abs/2312.06400)|null|
 |**2023-12-08**|**KBFormer: A Diffusion Model for Structured Entity Completion**|Ouail Kitouni et.al.|[2312.05253](http://arxiv.org/abs/2312.05253)|null|
 |**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|null|
 |**2023-12-08**|**Stoichiometry preservation and generalization of Bilger mixture fraction for non-premixed combustion with differential molecular diffusion**|Haifeng Wang et.al.|[2312.05204](http://arxiv.org/abs/2312.05204)|null|
