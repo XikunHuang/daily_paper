@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -16,7 +16,7 @@ layout: default
 |**2023-12-11**|**Contrastive Multi-view Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks**|Renxiang Guan et.al.|[2312.06068](http://arxiv.org/abs/2312.06068)|null|
 |**2023-12-11**|**CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models**|Tuna Han Salih Meral et.al.|[2312.06059](http://arxiv.org/abs/2312.06059)|null|
 |**2023-12-11**|**Speaker-Text Retrieval via Contrastive Learning**|Xuechen Liu et.al.|[2312.06055](http://arxiv.org/abs/2312.06055)|null|
-|**2023-12-10**|**Temporal Supervised Contrastive Learning for Modeling Patient Risk Progression**|Shahriar Noroozizadeh et.al.|[2312.05933](http://arxiv.org/abs/2312.05933)|null|
+|**2023-12-10**|**Temporal Supervised Contrastive Learning for Modeling Patient Risk Progression**|Shahriar Noroozizadeh et.al.|[2312.05933](http://arxiv.org/abs/2312.05933)|**[link](https://github.com/shahriarnz14/temporal-supervised-contrastive-learning)**|
 |**2023-12-10**|**PSCR: Patches Sampling-based Contrastive Regression for AIGC Image Quality Assessment**|Jiquan Yuan et.al.|[2312.05897](http://arxiv.org/abs/2312.05897)|**[link](https://github.com/jiquan123/pscr)**|
 |**2023-12-10**|**CLeaRForecast: Contrastive Learning of High-Purity Representations for Time Series Forecasting**|Jiaxin Gao et.al.|[2312.05758](http://arxiv.org/abs/2312.05758)|null|
 |**2023-12-08**|**StructComp: Substituting propagation with Structural Compression in Training Graph Contrastive Learning**|Shengzhong Zhang et.al.|[2312.04865](http://arxiv.org/abs/2312.04865)|null|
@@ -959,7 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-11**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557](http://arxiv.org/abs/2312.06557)|null|
+|**2023-12-11**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557](http://arxiv.org/abs/2312.06557)|**[link](https://github.com/vmtenorio/robust_gnn)**|
 |**2023-12-11**|**Detecting Contextual Network Anomalies with Graph Neural Networks**|Hamid Latif-Martínez et.al.|[2312.06342](http://arxiv.org/abs/2312.06342)|null|
 |**2023-12-11**|**Pipeline for performance evaluation of flavour tagging dedicated Graph Neural Network algorithms**|Greta Brianti et.al.|[2312.06245](http://arxiv.org/abs/2312.06245)|null|
 |**2023-12-10**|**TransGlow: Attention-augmented Transduction model based on Graph Neural Networks for Water Flow Forecasting**|Naghmeh Shafiee Roudbari et.al.|[2312.05961](http://arxiv.org/abs/2312.05961)|null|
