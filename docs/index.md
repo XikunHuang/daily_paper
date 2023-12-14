@@ -9,11 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-12**|**Cross-modal Contrastive Learning with Asymmetric Co-attention Network for Video Moment Retrieval**|Love Panta et.al.|[2312.07435](http://arxiv.org/abs/2312.07435)|null|
+|**2023-12-13**|**Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches**|Gregor Kobsik et.al.|[2312.08230](http://arxiv.org/abs/2312.08230)|null|
+|**2023-12-13**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223](http://arxiv.org/abs/2312.08223)|null|
+|**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060](http://arxiv.org/abs/2312.08060)|null|
+|**2023-12-13**|**CoRTEx: Contrastive Learning for Representing Terms via Explanations with Applications on Constructing Biomedical Knowledge Graphs**|Huaiyuan Ying et.al.|[2312.08036](http://arxiv.org/abs/2312.08036)|**[link](https://github.com/yinghy18/cortex)**|
+|**2023-12-12**|**Supervised Contrastive Learning for Fine-grained Chromosome Recognition**|Ruijia Chang et.al.|[2312.07623](http://arxiv.org/abs/2312.07623)|null|
+|**2023-12-12**|**Cross-modal Contrastive Learning with Asymmetric Co-attention Network for Video Moment Retrieval**|Love Panta et.al.|[2312.07435](http://arxiv.org/abs/2312.07435)|**[link](https://github.com/love481/Cross-modal-Contrastive-Learning-with-Asymmetric-Co-attention-Network-for-Video-Moment-Retrieval)**|
 |**2023-12-12**|**A Simple Recipe for Contrastively Pre-training Video-First Encoders Beyond 16 Frames**|Pinelopi Papalampidi et.al.|[2312.07395](http://arxiv.org/abs/2312.07395)|null|
 |**2023-12-12**|**EdgePruner: Poisoned Edge Pruning in Graph Contrastive Learning**|Hiroya Kato et.al.|[2312.07022](http://arxiv.org/abs/2312.07022)|null|
 |**2023-12-12**|**Transformer-based No-Reference Image Quality Assessment via Supervised Contrastive Learning**|Jinsong Shi et.al.|[2312.06995](http://arxiv.org/abs/2312.06995)|null|
-|**2023-12-12**|**CLASSMix: Adaptive stain separation-based contrastive learning with pseudo labeling for histopathological image classification**|Bodong Zhang et.al.|[2312.06978](http://arxiv.org/abs/2312.06978)|null|
+|**2023-12-13**|**CLASS-M: Adaptive stain separation-based contrastive learning with pseudo-labeling for histopathological image classification**|Bodong Zhang et.al.|[2312.06978](http://arxiv.org/abs/2312.06978)|null|
 |**2023-12-12**|**Hallucination Augmented Contrastive Learning for Multimodal Large Language Model**|Chaoya Jiang et.al.|[2312.06968](http://arxiv.org/abs/2312.06968)|null|
 |**2023-12-11**|**A Critique of Human-Autonomous Team Dynamics: Contrasting Qualitative and Quantitative Perspectives**|Hanjing Shi et.al.|[2312.06789](http://arxiv.org/abs/2312.06789)|null|
 |**2023-12-11**|**RCA-NOC: Relative Contrastive Alignment for Novel Object Captioning**|Jiashuo Fan et.al.|[2312.06299](http://arxiv.org/abs/2312.06299)|null|
@@ -966,6 +971,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181](http://arxiv.org/abs/2312.08181)|null|
+|**2023-12-13**|**Securing Graph Neural Networks in MLaaS: A Comprehensive Realization of Query-based Integrity Verification**|Bang Wu et.al.|[2312.07870](http://arxiv.org/abs/2312.07870)|null|
+|**2023-12-13**|**GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks**|Bang Wu et.al.|[2312.07861](http://arxiv.org/abs/2312.07861)|**[link](https://github.com/graphguard/graphguard-proactive)**|
+|**2023-12-11**|**IndoorGNN: A Graph Neural Network based approach for Indoor Localization using WiFi RSSI**|Rahul Vishwakarma et.al.|[2312.07609](http://arxiv.org/abs/2312.07609)|null|
+|**2023-12-11**|**On the Prediction of Hardware Security Properties of HLS Designs Using Graph Neural Networks**|Amalia Artemis Koufopoulou et.al.|[2312.07594](http://arxiv.org/abs/2312.07594)|null|
 |**2023-12-12**|**Cost Aware Untargeted Poisoning Attack against Graph Neural Networks,**|Yuwei Han et.al.|[2312.07158](http://arxiv.org/abs/2312.07158)|null|
 |**2023-12-11**|**A Novel Differentiable Loss Function for Unsupervised Graph Neural Networks in Graph Partitioning**|Vivek Chaudhary et.al.|[2312.06877](http://arxiv.org/abs/2312.06877)|null|
 |**2023-12-11**|**Optimizing High Throughput Inference on Graph Neural Networks at Shared Computing Facilities with the NVIDIA Triton Inference Server**|Claire Savard et.al.|[2312.06838](http://arxiv.org/abs/2312.06838)|null|
@@ -1509,6 +1519,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-13**|**Anti-Diffusion in an Algae-Bacteria Microcosm: Photosynthesis, Chemotaxis, and Expulsion**|Praneet Prakash et.al.|[2312.08346](http://arxiv.org/abs/2312.08346)|null|
+|**2023-12-13**|**PhenDiff: Revealing Invisible Phenotypes with Conditional Diffusion Models**|Anis Bourou et.al.|[2312.08290](http://arxiv.org/abs/2312.08290)|**[link](https://github.com/warmongeringbeaver/phendiff)**|
+|**2023-12-13**|**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**|Yan Pang et.al.|[2312.08207](http://arxiv.org/abs/2312.08207)|null|
+|**2023-12-13**|**SPD-DDPM: Denoising Diffusion Probabilistic Models in the Symmetric Positive Definite Space**|Yunchen Li et.al.|[2312.08200](http://arxiv.org/abs/2312.08200)|**[link](https://github.com/li-yun-chen/spd-ddpm)**|
+|**2023-12-13**|**Concept-centric Personalization with Large-scale Diffusion Priors**|Pu Cao et.al.|[2312.08195](http://arxiv.org/abs/2312.08195)|**[link](https://github.com/priv-creation/concept-centric-personalization)**|
+|**2023-12-13**|**$ρ$ -Diffusion: A diffusion-based density estimation framework for computational physics**|Maxwell X. Cai et.al.|[2312.08153](http://arxiv.org/abs/2312.08153)|null|
+|**2023-12-13**|**A cross-diffusion system modelling rivaling gangs: global existence of bounded solutions and FCT stabilization for numerical simulation**|Mario Fuest et.al.|[2312.08147](http://arxiv.org/abs/2312.08147)|null|
+|**2023-12-13**|**Clockwork Diffusion: Efficient Generation With Model-Step Distillation**|Amirhossein Habibian et.al.|[2312.08128](http://arxiv.org/abs/2312.08128)|null|
+|**2023-12-13**|**Phase modulation of directed transport, energy diffusion and quantum scrambling in a Floquet non-Hermitian system**|Wen-Lei Zhao et.al.|[2312.08082](http://arxiv.org/abs/2312.08082)|null|
+|**2023-12-13**|**Compositional Inversion for Stable Diffusion Models**|Xu-Lu Zhang et.al.|[2312.08048](http://arxiv.org/abs/2312.08048)|**[link](https://github.com/zhangxulu1996/compositional-inversion)**|
 |**2023-12-12**|**FreeInit: Bridging Initialization Gap in Video Diffusion Models**|Tianxing Wu et.al.|[2312.07537](http://arxiv.org/abs/2312.07537)|**[link](https://github.com/tianxingwu/freeinit)**|
 |**2023-12-12**|**FreeControl: Training-Free Spatial Control of Any Text-to-Image Diffusion Model with Any Condition**|Sicheng Mo et.al.|[2312.07536](http://arxiv.org/abs/2312.07536)|null|
 |**2023-12-12**|**Cosmological Field Emulation and Parameter Inference with Diffusion Models**|Nayantara Mudur et.al.|[2312.07534](http://arxiv.org/abs/2312.07534)|null|
