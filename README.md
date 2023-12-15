@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**On the Difficulty of Defending Contrastive Learning against Backdoor Attacks**|Changjiang Li et.al.|[2312.09057](http://arxiv.org/abs/2312.09057)|null|
+|**2023-12-14**|**ReCoRe: Regularized Contrastive Representation Learning of World Model**|Rudra P. K. Poudel et.al.|[2312.09056](http://arxiv.org/abs/2312.09056)|null|
+|**2023-12-14**|**High-contrast random systems of PDEs: homogenisation and spectral theory**|Matteo Capoferri et.al.|[2312.09046](http://arxiv.org/abs/2312.09046)|null|
+|**2023-12-14**|**Incomplete Contrastive Multi-View Clustering with High-Confidence Guiding**|Guoqing Chao et.al.|[2312.08697](http://arxiv.org/abs/2312.08697)|**[link](https://github.com/liunian-jay/icmvc)**|
+|**2023-12-13**|**Revisiting Recommendation Loss Functions through Contrastive Learning (Technical Report)**|Dong Li et.al.|[2312.08520](http://arxiv.org/abs/2312.08520)|null|
+|**2023-12-13**|**(Debiased) Contrastive Learning Loss for Recommendation (Technical Report)**|Ruoming Jin et.al.|[2312.08517](http://arxiv.org/abs/2312.08517)|null|
 |**2023-12-13**|**Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches**|Gregor Kobsik et.al.|[2312.08230](http://arxiv.org/abs/2312.08230)|null|
 |**2023-12-13**|**Patch-wise Graph Contrastive Learning for Image Translation**|Chanyong Jung et.al.|[2312.08223](http://arxiv.org/abs/2312.08223)|null|
 |**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060](http://arxiv.org/abs/2312.08060)|null|
@@ -978,6 +984,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Graph Neural Networks with Diverse Spectral Filtering**|Jingwei Guo et.al.|[2312.09041](http://arxiv.org/abs/2312.09041)|**[link](https://github.com/jingweio/dsf)**|
+|**2023-12-14**|**Uplifting the Expressive Power of Graph Neural Networks through Graph Partitioning**|Asela Hevapathige et.al.|[2312.08671](http://arxiv.org/abs/2312.08671)|null|
+|**2023-12-14**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656](http://arxiv.org/abs/2312.08656)|**[link](https://github.com/harveyp123/maxk-gnn)**|
 |**2023-12-13**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181](http://arxiv.org/abs/2312.08181)|null|
 |**2023-12-13**|**Securing Graph Neural Networks in MLaaS: A Comprehensive Realization of Query-based Integrity Verification**|Bang Wu et.al.|[2312.07870](http://arxiv.org/abs/2312.07870)|null|
 |**2023-12-13**|**GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks**|Bang Wu et.al.|[2312.07861](http://arxiv.org/abs/2312.07861)|**[link](https://github.com/graphguard/graphguard-proactive)**|
@@ -985,7 +994,7 @@
 |**2023-12-11**|**On the Prediction of Hardware Security Properties of HLS Designs Using Graph Neural Networks**|Amalia Artemis Koufopoulou et.al.|[2312.07594](http://arxiv.org/abs/2312.07594)|null|
 |**2023-12-12**|**Cost Aware Untargeted Poisoning Attack against Graph Neural Networks,**|Yuwei Han et.al.|[2312.07158](http://arxiv.org/abs/2312.07158)|null|
 |**2023-12-11**|**A Novel Differentiable Loss Function for Unsupervised Graph Neural Networks in Graph Partitioning**|Vivek Chaudhary et.al.|[2312.06877](http://arxiv.org/abs/2312.06877)|null|
-|**2023-12-11**|**Optimizing High Throughput Inference on Graph Neural Networks at Shared Computing Facilities with the NVIDIA Triton Inference Server**|Claire Savard et.al.|[2312.06838](http://arxiv.org/abs/2312.06838)|null|
+|**2023-12-11**|**Optimizing High Throughput Inference on Graph Neural Networks at Shared Computing Facilities with the NVIDIA Triton Inference Server**|Claire Savard et.al.|[2312.06838](http://arxiv.org/abs/2312.06838)|**[link](https://github.com/cgsavard/triton_multiuser_benchmarks)**|
 |**2023-12-11**|**Robust Graph Neural Network based on Graph Denoising**|Victor M. Tenorio et.al.|[2312.06557](http://arxiv.org/abs/2312.06557)|**[link](https://github.com/vmtenorio/robust_gnn)**|
 |**2023-12-11**|**Detecting Contextual Network Anomalies with Graph Neural Networks**|Hamid Latif-Martínez et.al.|[2312.06342](http://arxiv.org/abs/2312.06342)|null|
 |**2023-12-11**|**Pipeline for performance evaluation of flavour tagging dedicated Graph Neural Network algorithms**|Greta Brianti et.al.|[2312.06245](http://arxiv.org/abs/2312.06245)|null|
@@ -1528,6 +1537,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
+|**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250](http://arxiv.org/abs/2312.09250)|null|
+|**2023-12-14**|**A framework for conditional diffusion modelling with applications in motif scaffolding for protein design**|Kieran Didi et.al.|[2312.09236](http://arxiv.org/abs/2312.09236)|null|
+|**2023-12-14**|**Fast Sampling via De-randomization for Discrete Diffusion Models**|Zixiang Chen et.al.|[2312.09193](http://arxiv.org/abs/2312.09193)|null|
+|**2023-12-14**|**Improving Efficiency of Diffusion Models via Multi-Stage Framework and Tailored Multi-Decoder Architectures**|Huijie Zhang et.al.|[2312.09181](http://arxiv.org/abs/2312.09181)|null|
+|**2023-12-14**|**PI3D: Efficient Text-to-3D Generation with Pseudo-Image Diffusion**|Ying-Tian Liu et.al.|[2312.09069](http://arxiv.org/abs/2312.09069)|null|
+|**2023-12-14**|**Effects of Symmetry in a Diffusive Energy Balance Model**|Aksel Samuelsberg et.al.|[2312.09032](http://arxiv.org/abs/2312.09032)|null|
+|**2023-12-14**|**Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis**|Qiankun Zuo et.al.|[2312.09022](http://arxiv.org/abs/2312.09022)|null|
+|**2023-12-14**|**Smoluchowski-Kramers diffusion approximation for systems of stochastic damped wave equations with non-constant friction**|Sandra Cerrai et.al.|[2312.08925](http://arxiv.org/abs/2312.08925)|null|
+|**2023-12-14**|**VaLID: Variable-Length Input Diffusion for Novel View Synthesis**|Shijie Li et.al.|[2312.08892](http://arxiv.org/abs/2312.08892)|null|
 |**2023-12-13**|**Anti-Diffusion in an Algae-Bacteria Microcosm: Photosynthesis, Chemotaxis, and Expulsion**|Praneet Prakash et.al.|[2312.08346](http://arxiv.org/abs/2312.08346)|null|
 |**2023-12-13**|**PhenDiff: Revealing Invisible Phenotypes with Conditional Diffusion Models**|Anis Bourou et.al.|[2312.08290](http://arxiv.org/abs/2312.08290)|**[link](https://github.com/warmongeringbeaver/phendiff)**|
 |**2023-12-13**|**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**|Yan Pang et.al.|[2312.08207](http://arxiv.org/abs/2312.08207)|null|
