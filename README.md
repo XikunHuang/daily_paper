@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**High angular sensitivity X-ray phase-contrast microtomography of soft-tissue through a two-directional beam-tracking synchrotron set-up**|Carlos Navarrete-Leon et.al.|[2312.09992](http://arxiv.org/abs/2312.09992)|null|
+|**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|null|
+|**2023-12-15**|**Urban Region Embedding via Multi-View Contrastive Prediction**|Zechen Li et.al.|[2312.09681](http://arxiv.org/abs/2312.09681)|null|
+|**2023-12-15**|**Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering**|Renxiang Guan et.al.|[2312.09630](http://arxiv.org/abs/2312.09630)|null|
+|**2023-12-15**|**A novel dual-stream time-frequency contrastive pretext tasks framework for sleep stage classification**|Sergio Kazatzidis et.al.|[2312.09623](http://arxiv.org/abs/2312.09623)|null|
+|**2023-12-15**|**Stethoscope-guided Supervised Contrastive Learning for Cross-domain Adaptation on Respiratory Sound Classification**|June-Woo Kim et.al.|[2312.09603](http://arxiv.org/abs/2312.09603)|null|
+|**2023-12-15**|**CLAF: Contrastive Learning with Augmented Features for Imbalanced Semi-Supervised Learning**|Bowen Tao et.al.|[2312.09598](http://arxiv.org/abs/2312.09598)|null|
+|**2023-12-14**|**Text-Guided Face Recognition using Multi-Granularity Cross-Modal Contrastive Learning**|Md Mahedi Hasan et.al.|[2312.09367](http://arxiv.org/abs/2312.09367)|null|
 |**2023-12-14**|**On the Difficulty of Defending Contrastive Learning against Backdoor Attacks**|Changjiang Li et.al.|[2312.09057](http://arxiv.org/abs/2312.09057)|null|
 |**2023-12-14**|**ReCoRe: Regularized Contrastive Representation Learning of World Model**|Rudra P. K. Poudel et.al.|[2312.09056](http://arxiv.org/abs/2312.09056)|null|
 |**2023-12-14**|**High-contrast random systems of PDEs: homogenisation and spectral theory**|Matteo Capoferri et.al.|[2312.09046](http://arxiv.org/abs/2312.09046)|null|
@@ -984,6 +992,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Concept Prerequisite Relation Prediction by Using Permutation-Equivariant Directed Graph Neural Networks**|Xiran Qu et.al.|[2312.09802](http://arxiv.org/abs/2312.09802)|null|
+|**2023-12-15**|**GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy**|Tianhao Peng et.al.|[2312.09708](http://arxiv.org/abs/2312.09708)|null|
+|**2023-12-15**|**Rethinking Causal Relationships Learning in Graph Neural Networks**|Hang Gao et.al.|[2312.09613](http://arxiv.org/abs/2312.09613)|**[link](https://github.com/yaoyao-yaoyao-cell/crcg)**|
 |**2023-12-14**|**Graph Neural Networks with Diverse Spectral Filtering**|Jingwei Guo et.al.|[2312.09041](http://arxiv.org/abs/2312.09041)|**[link](https://github.com/jingweio/dsf)**|
 |**2023-12-14**|**Uplifting the Expressive Power of Graph Neural Networks through Graph Partitioning**|Asela Hevapathige et.al.|[2312.08671](http://arxiv.org/abs/2312.08671)|null|
 |**2023-12-14**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656](http://arxiv.org/abs/2312.08656)|**[link](https://github.com/harveyp123/maxk-gnn)**|
@@ -1537,6 +1548,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008](http://arxiv.org/abs/2312.10008)|null|
+|**2023-12-15**|**A quasi-Trefftz discontinuous Galerkin method for the homogeneous diffusion-advection-reaction equation with piecewise-smooth coefficients**|Chiara Perinati et.al.|[2312.09919](http://arxiv.org/abs/2312.09919)|null|
+|**2023-12-15**|**Socio-Economic Deprivation Analysis: Diffusion Maps**|June Moh Goo et.al.|[2312.09830](http://arxiv.org/abs/2312.09830)|null|
+|**2023-12-15**|**Latent Diffusion Models with Image-Derived Annotations for Enhanced AI-Assisted Cancer Diagnosis in Histopathology**|Pedro Osorio et.al.|[2312.09792](http://arxiv.org/abs/2312.09792)|null|
+|**2023-12-15**|**DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**|Yifeng Ma et.al.|[2312.09767](http://arxiv.org/abs/2312.09767)|null|
+|**2023-12-15**|**Positivity and global existence for nonlocal advection-diffusion models of interacting populations**|Valeria Giunta et.al.|[2312.09692](http://arxiv.org/abs/2312.09692)|null|
+|**2023-12-15**|**Atomic Diffusion and Mixing in Old Stars VIII: Chemical abundance variations in the globular cluster M4 (NGC 6121)**|T. Nordlander et.al.|[2312.09657](http://arxiv.org/abs/2312.09657)|null|
+|**2023-12-15**|**Acceleration or finite speed propagation in weakly monostable reaction-diffusion equations**|Emeric Bouin et.al.|[2312.09614](http://arxiv.org/abs/2312.09614)|null|
+|**2023-12-15**|**Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models**|Senmao Li et.al.|[2312.09608](http://arxiv.org/abs/2312.09608)|**[link](https://github.com/hutaihang/faster-diffusion)**|
+|**2023-12-15**|**Quantifying macrostructures in viscoelastic sub-diffusive flows**|Tanisha Chauhan et.al.|[2312.09557](http://arxiv.org/abs/2312.09557)|null|
 |**2023-12-14**|**LIME: Localized Image Editing via Attention Regularization in Diffusion Models**|Enis Simsar et.al.|[2312.09256](http://arxiv.org/abs/2312.09256)|null|
 |**2023-12-14**|**Single Mesh Diffusion Models with Field Latents for Texture Generation**|Thomas W. Mitchel et.al.|[2312.09250](http://arxiv.org/abs/2312.09250)|null|
 |**2023-12-14**|**A framework for conditional diffusion modelling with applications in motif scaffolding for protein design**|Kieran Didi et.al.|[2312.09236](http://arxiv.org/abs/2312.09236)|null|
