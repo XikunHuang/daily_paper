@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-15**|**High angular sensitivity X-ray phase-contrast microtomography of soft-tissue through a two-directional beam-tracking synchrotron set-up**|Carlos Navarrete-Leon et.al.|[2312.09992](http://arxiv.org/abs/2312.09992)|null|
-|**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|null|
+|**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|**[link](https://github.com/salmon1802/cetn)**|
 |**2023-12-15**|**Urban Region Embedding via Multi-View Contrastive Prediction**|Zechen Li et.al.|[2312.09681](http://arxiv.org/abs/2312.09681)|null|
 |**2023-12-15**|**Pixel-Superpixel Contrastive Learning and Pseudo-Label Correction for Hyperspectral Image Clustering**|Renxiang Guan et.al.|[2312.09630](http://arxiv.org/abs/2312.09630)|null|
 |**2023-12-15**|**A novel dual-stream time-frequency contrastive pretext tasks framework for sleep stage classification**|Sergio Kazatzidis et.al.|[2312.09623](http://arxiv.org/abs/2312.09623)|null|
