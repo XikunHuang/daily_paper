@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**SMC-NCA: Semantic-guided Multi-level Contrast for Semi-supervised Action Segmentation**|Feixiang Zhou et.al.|[2312.12347](http://arxiv.org/abs/2312.12347)|null|
+|**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142](http://arxiv.org/abs/2312.12142)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
+|**2023-12-19**|**Knowledge Graph Error Detection with Contrastive Confidence Adaption**|Xiangyu Liu et.al.|[2312.12108](http://arxiv.org/abs/2312.12108)|**[link](https://github.com/nju-websoft/cca)**|
+|**2023-12-19**|**Synergistic Anchored Contrastive Pre-training for Few-Shot Relation Extraction**|DaLuo et.al.|[2312.12021](http://arxiv.org/abs/2312.12021)|**[link](https://github.com/aone-nlp/fsre-sacon)**|
+|**2023-12-19**|**Time-Series Contrastive Learning against False Negatives and Class Imbalance**|Xiyuan Jin et.al.|[2312.11939](http://arxiv.org/abs/2312.11939)|null|
+|**2023-12-19**|**Difficulty-Focused Contrastive Learning for Knowledge Tracing with a Large Language Model-Based Difficulty Prediction**|Unggi Lee et.al.|[2312.11890](http://arxiv.org/abs/2312.11890)|null|
+|**2023-12-18**|**ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing**|Zhi Jin et.al.|[2312.11584](http://arxiv.org/abs/2312.11584)|null|
+|**2023-12-19**|**CLIM: Contrastive Language-Image Mosaic for Region Representation**|Size Wu et.al.|[2312.11376](http://arxiv.org/abs/2312.11376)|null|
+|**2023-12-18**|**Cross-Age Contrastive Learning for Age-Invariant Face Recognition**|Haoyi Wang et.al.|[2312.11195](http://arxiv.org/abs/2312.11195)|null|
+|**2023-12-18**|**Information Type Classification with Contrastive Task-Specialized Sentence Encoders**|Philipp Seeberger et.al.|[2312.11020](http://arxiv.org/abs/2312.11020)|null|
 |**2023-12-15**|**High angular sensitivity X-ray phase-contrast microtomography of soft-tissue through a two-directional beam-tracking synchrotron set-up**|Carlos Navarrete-Leon et.al.|[2312.09992](http://arxiv.org/abs/2312.09992)|null|
 |**2023-12-15**|**CETN: Contrast-enhanced Through Network for CTR Prediction**|Honghao Li et.al.|[2312.09715](http://arxiv.org/abs/2312.09715)|**[link](https://github.com/salmon1802/cetn)**|
 |**2023-12-15**|**Urban Region Embedding via Multi-View Contrastive Prediction**|Zechen Li et.al.|[2312.09681](http://arxiv.org/abs/2312.09681)|null|
@@ -992,12 +1002,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**SimCalib: Graph Neural Network Calibration based on Similarity between Nodes**|Boshi Tang et.al.|[2312.11858](http://arxiv.org/abs/2312.11858)|null|
+|**2023-12-19**|**CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs**|Yanran Tang et.al.|[2312.11229](http://arxiv.org/abs/2312.11229)|null|
+|**2023-12-17**|**Non-Euclidean Spatial Graph Neural Network**|Zheng Zhang et.al.|[2312.10808](http://arxiv.org/abs/2312.10808)|**[link](https://github.com/anonymous-submitter-1234/manifold_spatial_networks)**|
+|**2023-12-16**|**Degree-based stratification of nodes in Graph Neural Networks**|Ameen Ali et.al.|[2312.10458](http://arxiv.org/abs/2312.10458)|null|
 |**2023-12-15**|**Concept Prerequisite Relation Prediction by Using Permutation-Equivariant Directed Graph Neural Networks**|Xiran Qu et.al.|[2312.09802](http://arxiv.org/abs/2312.09802)|null|
 |**2023-12-15**|**GraphRARE: Reinforcement Learning Enhanced Graph Neural Network with Relative Entropy**|Tianhao Peng et.al.|[2312.09708](http://arxiv.org/abs/2312.09708)|null|
 |**2023-12-15**|**Rethinking Causal Relationships Learning in Graph Neural Networks**|Hang Gao et.al.|[2312.09613](http://arxiv.org/abs/2312.09613)|**[link](https://github.com/yaoyao-yaoyao-cell/crcg)**|
 |**2023-12-14**|**Graph Neural Networks with Diverse Spectral Filtering**|Jingwei Guo et.al.|[2312.09041](http://arxiv.org/abs/2312.09041)|**[link](https://github.com/jingweio/dsf)**|
 |**2023-12-14**|**Uplifting the Expressive Power of Graph Neural Networks through Graph Partitioning**|Asela Hevapathige et.al.|[2312.08671](http://arxiv.org/abs/2312.08671)|null|
-|**2023-12-14**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656](http://arxiv.org/abs/2312.08656)|**[link](https://github.com/harveyp123/maxk-gnn)**|
+|**2023-12-18**|**MaxK-GNN: Towards Theoretical Speed Limits for Accelerating Graph Neural Networks Training**|Hongwu Peng et.al.|[2312.08656](http://arxiv.org/abs/2312.08656)|**[link](https://github.com/harveyp123/maxk-gnn)**|
 |**2023-12-13**|**Adversarial Attacks on Graph Neural Networks based Spatial Resource Management in P2P Wireless Communications**|Ahmad Ghasemi et.al.|[2312.08181](http://arxiv.org/abs/2312.08181)|null|
 |**2023-12-13**|**Securing Graph Neural Networks in MLaaS: A Comprehensive Realization of Query-based Integrity Verification**|Bang Wu et.al.|[2312.07870](http://arxiv.org/abs/2312.07870)|null|
 |**2023-12-13**|**GraphGuard: Detecting and Counteracting Training Data Misuse in Graph Neural Networks**|Bang Wu et.al.|[2312.07861](http://arxiv.org/abs/2312.07861)|**[link](https://github.com/graphguard/graphguard-proactive)**|
@@ -1548,6 +1562,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**On Inference Stability for Diffusion Models**|Viet Nguyen et.al.|[2312.12431](http://arxiv.org/abs/2312.12431)|**[link](https://github.com/viettmab/sa-dpm)**|
+|**2023-12-19**|**SegRefiner: Towards Model-Agnostic Segmentation Refinement with Discrete Diffusion Process**|Mengyu Wang et.al.|[2312.12425](http://arxiv.org/abs/2312.12425)|**[link](https://github.com/mengyuwang826/segrefiner)**|
+|**2023-12-19**|**Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models**|Shweta Mahajan et.al.|[2312.12416](http://arxiv.org/abs/2312.12416)|null|
+|**2023-12-19**|**Diffusion limited aggregation in the layers model**|Colin Cooper et.al.|[2312.12326](http://arxiv.org/abs/2312.12326)|null|
+|**2023-12-19**|**Intrinsic Image Diffusion for Single-view Material Estimation**|Peter Kocsis et.al.|[2312.12274](http://arxiv.org/abs/2312.12274)|null|
+|**2023-12-19**|**Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model**|Lingjun Zhang et.al.|[2312.12232](http://arxiv.org/abs/2312.12232)|**[link](https://github.com/ecnuljzhang/brush-your-text)**|
+|**2023-12-19**|**HuTuMotion: Human-Tuned Navigation of Latent Motion Diffusion Models with Minimal Feedback**|Gaoge Han et.al.|[2312.12227](http://arxiv.org/abs/2312.12227)|null|
+|**2023-12-19**|**Heavy quark momentum diffusion coefficient during hydrodynamization via effective kinetic theory**|Kirill Boguslavski et.al.|[2312.12200](http://arxiv.org/abs/2312.12200)|null|
+|**2023-12-19**|**FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning**|Zhenhua Yang et.al.|[2312.12142](http://arxiv.org/abs/2312.12142)|**[link](https://github.com/yeungchenwa/fontdiffuser)**|
+|**2023-12-19**|**Average diffusion rate of Ehrenfest Wind-tree billiards**|Simon Barazer et.al.|[2312.12126](http://arxiv.org/abs/2312.12126)|null|
 |**2023-12-15**|**Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects**|Paul Maria Scheikl et.al.|[2312.10008](http://arxiv.org/abs/2312.10008)|null|
 |**2023-12-15**|**A quasi-Trefftz discontinuous Galerkin method for the homogeneous diffusion-advection-reaction equation with piecewise-smooth coefficients**|Chiara Perinati et.al.|[2312.09919](http://arxiv.org/abs/2312.09919)|null|
 |**2023-12-15**|**Socio-Economic Deprivation Analysis: Diffusion Maps**|June Moh Goo et.al.|[2312.09830](http://arxiv.org/abs/2312.09830)|null|
