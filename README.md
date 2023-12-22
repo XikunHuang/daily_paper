@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Towards More Faithful Natural Language Explanation Using Multi-Level Contrastive Learning in VQA**|Chengen Lai et.al.|[2312.13594](http://arxiv.org/abs/2312.13594)|**[link](https://github.com/laichengen/mcle)**|
+|**2023-12-21**|**Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**|Guangyin Bao et.al.|[2312.13508](http://arxiv.org/abs/2312.13508)|null|
+|**2023-12-20**|**Dimension-Accuracy Tradeoffs in Contrastive Embeddings for Triplets, Terminals & Top-k Nearest Neighbors**|Vaggos Chatziafratis et.al.|[2312.13490](http://arxiv.org/abs/2312.13490)|null|
 |**2023-12-19**|**Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pretraining**|Bumsoo Kim et.al.|[2312.12661](http://arxiv.org/abs/2312.12661)|null|
 |**2023-12-19**|**Expediting Contrastive Language-Image Pretraining via Self-distilled Encoders**|Bumsoo Kim et.al.|[2312.12659](http://arxiv.org/abs/2312.12659)|null|
 |**2023-12-19**|**A laboratory-based X-ray phase contrast microscopy system for targeting in unstained soft-tissue samples**|Michela Esposito et.al.|[2312.12650](http://arxiv.org/abs/2312.12650)|null|
@@ -1005,7 +1008,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-21**|**NodeMixup: Tackling Under-Reaching for Graph Neural Networks**|Weigang Lu et.al.|[2312.13032](http://arxiv.org/abs/2312.13032)|null|
+|**2023-12-21**|**Fine-tuning Graph Neural Networks by Preserving Graph Generative Patterns**|Yifei Sun et.al.|[2312.13583](http://arxiv.org/abs/2312.13583)|**[link](https://github.com/zjunet/G-Tuning)**|
+|**2023-12-21**|**NodeMixup: Tackling Under-Reaching for Graph Neural Networks**|Weigang Lu et.al.|[2312.13032](http://arxiv.org/abs/2312.13032)|**[link](https://github.com/weiganglu/nodemixup)**|
 |**2023-12-20**|**Fast Cell Library Characterization for Design Technology Co-Optimization Based on Graph Neural Networks**|Tianliang Ma et.al.|[2312.12784](http://arxiv.org/abs/2312.12784)|null|
 |**2023-12-19**|**Survey on Trustworthy Graph Neural Networks: From A Causal Perspective**|Wenzhao Jiang et.al.|[2312.12477](http://arxiv.org/abs/2312.12477)|**[link](https://github.com/usail-hkust/causality-inspired-gnns)**|
 |**2023-12-19**|**Learning to Reweight for Graph Neural Network**|Zhengyu Chen et.al.|[2312.12475](http://arxiv.org/abs/2312.12475)|null|
@@ -1569,6 +1573,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
+|**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
+|**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
+|**2023-12-21**|**Identifying diffusive length scales in one-dimensional Bose gases**|Frederik Møller et.al.|[2312.14007](http://arxiv.org/abs/2312.14007)|null|
+|**2023-12-21**|**Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning**|Desai Xie et.al.|[2312.13980](http://arxiv.org/abs/2312.13980)|null|
+|**2023-12-21**|**Controllable 3D Face Generation with Conditional Style Code Diffusion**|Xiaolong Shen et.al.|[2312.13941](http://arxiv.org/abs/2312.13941)|**[link](https://github.com/sxl142/tex-face)**|
+|**2023-12-21**|**Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models**|Xianfang Zeng et.al.|[2312.13913](http://arxiv.org/abs/2312.13913)|**[link](https://github.com/opentexture/paint3d)**|
+|**2023-12-21**|**Self-diffusion coefficient as a function of the thermodynamic factor**|Melina Sampayo Puelles et.al.|[2312.13843](http://arxiv.org/abs/2312.13843)|null|
+|**2023-12-21**|**Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models**|Huan Ling et.al.|[2312.13763](http://arxiv.org/abs/2312.13763)|null|
+|**2023-12-21**|**Hierarchical Topological States in Thermal Diffusive Networks**|Bao Chen et.al.|[2312.13733](http://arxiv.org/abs/2312.13733)|null|
 |**2023-12-20**|**A structure preserving discretization for the Derrida-Lebowitz-Speer-Spohn equation based on diffusive transport**|Daniel Matthes et.al.|[2312.13284](http://arxiv.org/abs/2312.13284)|null|
 |**2023-12-20**|**Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model**|Saurabh Saxena et.al.|[2312.13252](http://arxiv.org/abs/2312.13252)|null|
 |**2023-12-20**|**Diffusion Models With Learned Adaptive Noise**|Subham Sekhar Sahoo et.al.|[2312.13236](http://arxiv.org/abs/2312.13236)|**[link](https://github.com/s-sahoo/mulan)**|
