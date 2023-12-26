@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.25
+## Updated on 2023.12.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1573,7 +1573,7 @@ layout: default
 |**2023-12-22**|**Diffusion Maps for Signal Filtering in Graph Learning**|Todd Hildebrant et.al.|[2312.14758](http://arxiv.org/abs/2312.14758)|null|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-22**|**Non-Denoising Forward-Time Diffusions**|Stefano Peluchetti et.al.|[2312.14589](http://arxiv.org/abs/2312.14589)|null|
-|**2023-12-22**|**Sharp error estimates for target measure diffusion maps with applications to the committor problem**|Shashank Sule et.al.|[2312.14418](http://arxiv.org/abs/2312.14418)|null|
+|**2023-12-22**|**Sharp error estimates for target measure diffusion maps with applications to the committor problem**|Shashank Sule et.al.|[2312.14418](http://arxiv.org/abs/2312.14418)|**[link](https://github.com/shashanksule/tmdmaps)**|
 |**2023-12-21**|**Diffusion Reward: Learning Rewards via Conditional Video Diffusion**|Tao Huang et.al.|[2312.14134](http://arxiv.org/abs/2312.14134)|null|
 |**2023-12-21**|**Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation**|Philipp Schröppel et.al.|[2312.14124](http://arxiv.org/abs/2312.14124)|**[link](https://github.com/lmb-freiburg/neural-point-cloud-diffusion)**|
 |**2023-12-21**|**HD-Painter: High-Resolution and Prompt-Faithful Text-Guided Image Inpainting with Diffusion Models**|Hayk Manukyan et.al.|[2312.14091](http://arxiv.org/abs/2312.14091)|**[link](https://github.com/picsart-ai-research/hd-painter)**|
