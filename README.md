@@ -1,4 +1,4 @@
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1013,7 +1013,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 ## GNN
 
@@ -1583,7 +1583,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1595,7 +1595,7 @@
 |**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
 |**2023-12-25**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826](http://arxiv.org/abs/2312.15826)|null|
 |**2023-12-25**|**GenCast: Diffusion-based ensemble forecasting for medium-range weather**|Ilan Price et.al.|[2312.15796](http://arxiv.org/abs/2312.15796)|null|
-|**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|null|
+|**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|**[link](https://github.com/chenxx89/bfrffusion)**|
 |**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
 |**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665](http://arxiv.org/abs/2312.15665)|**[link](https://github.com/wyky481l/mmcd)**|
 |**2023-12-25**|**Conversational Co-Speech Gesture Generation via Modeling Dialog Intention, Emotion, and Context with Diffusion Models**|Haiwei Xue et.al.|[2312.15567](http://arxiv.org/abs/2312.15567)|null|
@@ -3038,5 +3038,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20231228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231229>back to top</a>)</p>
 

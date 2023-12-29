@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1586,7 +1586,7 @@ layout: default
 |**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964](http://arxiv.org/abs/2312.15964)|null|
 |**2023-12-25**|**Adversarial Item Promotion on Visually-Aware Recommender Systems by Guided Diffusion**|Lijian Chen et.al.|[2312.15826](http://arxiv.org/abs/2312.15826)|null|
 |**2023-12-25**|**GenCast: Diffusion-based ensemble forecasting for medium-range weather**|Ilan Price et.al.|[2312.15796](http://arxiv.org/abs/2312.15796)|null|
-|**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|null|
+|**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|**[link](https://github.com/chenxx89/bfrffusion)**|
 |**2023-12-25**|**High-Fidelity Diffusion-based Image Editing**|Chen Hou et.al.|[2312.15707](http://arxiv.org/abs/2312.15707)|null|
 |**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665](http://arxiv.org/abs/2312.15665)|**[link](https://github.com/wyky481l/mmcd)**|
 |**2023-12-25**|**Conversational Co-Speech Gesture Generation via Modeling Dialog Intention, Emotion, and Context with Diffusion Models**|Haiwei Xue et.al.|[2312.15567](http://arxiv.org/abs/2312.15567)|null|
