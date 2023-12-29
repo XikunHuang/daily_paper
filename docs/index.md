@@ -9,9 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**3DTINC: Time-Equivariant Non-Contrastive Learning for Predicting Disease Progression from Longitudinal OCTs**|Taha Emre et.al.|[2312.16980](http://arxiv.org/abs/2312.16980)|null|
+|**2023-12-28**|**A Contrastive Variational Graph Auto-Encoder for Node Clustering**|Nairouz Mrabah et.al.|[2312.16830](http://arxiv.org/abs/2312.16830)|**[link](https://github.com/nairouz/cvgae_pr)**|
+|**2023-12-28**|**Adversarial Representation with Intra-Modal and Inter-Modal Graph Contrastive Learning for Multimodal Emotion Recognition**|Yuntao Shou et.al.|[2312.16778](http://arxiv.org/abs/2312.16778)|null|
+|**2023-12-27**|**scRNA-seq Data Clustering by Cluster-aware Iterative Contrastive Learning**|Weikang Jiang et.al.|[2312.16600](http://arxiv.org/abs/2312.16600)|**[link](https://github.com/alunethy/cicl)**|
+|**2023-12-27**|**RDGCL: Reaction-Diffusion Graph Contrastive Learning for Recommendation**|Jeongwhan Choi et.al.|[2312.16563](http://arxiv.org/abs/2312.16563)|null|
+|**2023-12-27**|**Soft Contrastive Learning for Time Series**|Seunghan Lee et.al.|[2312.16424](http://arxiv.org/abs/2312.16424)|**[link](https://github.com/seunghan96/softclt)**|
 |**2023-12-26**|**Generating and Reweighting Dense Contrastive Patterns for Unsupervised Anomaly Detection**|Songmin Dai et.al.|[2312.15911](http://arxiv.org/abs/2312.15911)|null|
 |**2023-12-26**|**Medical Report Generation based on Segment-Enhanced Contrastive Representation Learning**|Ruoqing Zhao et.al.|[2312.15869](http://arxiv.org/abs/2312.15869)|null|
-|**2023-12-26**|**Masked Contrastive Reconstruction for Cross-modal Medical Image-Report Retrieval**|Zeqiang Wei et.al.|[2312.15840](http://arxiv.org/abs/2312.15840)|null|
+|**2023-12-27**|**Masked Contrastive Reconstruction for Cross-modal Medical Image-Report Retrieval**|Zeqiang Wei et.al.|[2312.15840](http://arxiv.org/abs/2312.15840)|null|
 |**2023-12-25**|**Contrastive Learning-Based Framework for Sim-to-Real Mapping of Lidar Point Clouds in Autonomous Driving Systems**|Hamed Haghighi et.al.|[2312.15817](http://arxiv.org/abs/2312.15817)|**[link](https://github.com/hamedhaghighi/cls2r)**|
 |**2023-12-25**|**TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning**|Jiexi Liu et.al.|[2312.15709](http://arxiv.org/abs/2312.15709)|null|
 |**2023-12-25**|**A Multi-Modal Contrastive Diffusion Model for Therapeutic Peptide Generation**|Yongkang Wang et.al.|[2312.15665](http://arxiv.org/abs/2312.15665)|**[link](https://github.com/wyky481l/mmcd)**|
@@ -1012,6 +1018,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755](http://arxiv.org/abs/2312.16755)|null|
 |**2023-12-25**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825](http://arxiv.org/abs/2312.15825)|null|
 |**2023-12-24**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training**|Charles Dickens et.al.|[2312.15520](http://arxiv.org/abs/2312.15520)|**[link](https://github.com/amazon-science/convolution-matching)**|
 |**2023-12-23**|**Towards Fine-Grained Explainability for Heterogeneous Graph Neural Network**|Tong Li et.al.|[2312.15237](http://arxiv.org/abs/2312.15237)|**[link](https://github.com/litong99/xpath)**|
@@ -1580,6 +1587,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
+|**2023-12-28**|**Branching Brownian motion with generation-dependent diffusivity and nonlocal partial differential equations**|Alexander Dunlap et.al.|[2312.17139](http://arxiv.org/abs/2312.17139)|null|
+|**2023-12-28**|**100-fold improvement in relaxed eddy accumulation flux estimates through error diffusion**|Anas Emad et.al.|[2312.17027](http://arxiv.org/abs/2312.17027)|null|
+|**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
+|**2023-12-28**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
+|**2023-12-27**|**Behavioural pseudometrics for continuous-time diffusions**|Linan Chen et.al.|[2312.16729](http://arxiv.org/abs/2312.16729)|null|
+|**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
+|**2023-12-27**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System without Angular Cutoff**|Yuan Xu et.al.|[2312.16588](http://arxiv.org/abs/2312.16588)|null|
+|**2023-12-27**|**RDGCL: Reaction-Diffusion Graph Contrastive Learning for Recommendation**|Jeongwhan Choi et.al.|[2312.16563](http://arxiv.org/abs/2312.16563)|null|
+|**2023-12-27**|**Image Restoration by Denoising Diffusion Models with Iteratively Preconditioned Guidance**|Tomer Garber et.al.|[2312.16519](http://arxiv.org/abs/2312.16519)|null|
 |**2023-12-26**|**One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications**|Mengyao Lyu et.al.|[2312.16145](http://arxiv.org/abs/2312.16145)|null|
 |**2023-12-26**|**Mathematical analysis and multiscale derivation of a nonlinear predator-prey cross-diffusion--fluid system with two chemicals**|Mostafa Bendahmane et.al.|[2312.16092](http://arxiv.org/abs/2312.16092)|null|
 |**2023-12-26**|**Compositional Search of Stable Crystalline Structures in Multi-Component Alloys Using Generative Diffusion Models**|Grzegorz Kaszuba et.al.|[2312.16073](http://arxiv.org/abs/2312.16073)|null|
