@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Contrastive learning through non-equilibrium memory**|Martin Falk et.al.|[2312.17723](http://arxiv.org/abs/2312.17723)|null|
+|**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-28**|**3DTINC: Time-Equivariant Non-Contrastive Learning for Predicting Disease Progression from Longitudinal OCTs**|Taha Emre et.al.|[2312.16980](http://arxiv.org/abs/2312.16980)|null|
 |**2023-12-28**|**A Contrastive Variational Graph Auto-Encoder for Node Clustering**|Nairouz Mrabah et.al.|[2312.16830](http://arxiv.org/abs/2312.16830)|**[link](https://github.com/nairouz/cvgae_pr)**|
 |**2023-12-28**|**Adversarial Representation with Intra-Modal and Inter-Modal Graph Contrastive Learning for Multimodal Emotion Recognition**|Yuntao Shou et.al.|[2312.16778](http://arxiv.org/abs/2312.16778)|null|
@@ -1025,6 +1027,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506](http://arxiv.org/abs/2312.17506)|null|
 |**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755](http://arxiv.org/abs/2312.16755)|null|
 |**2023-12-25**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825](http://arxiv.org/abs/2312.15825)|null|
 |**2023-12-24**|**Graph Coarsening via Convolution Matching for Scalable Graph Neural Network Training**|Charles Dickens et.al.|[2312.15520](http://arxiv.org/abs/2312.15520)|**[link](https://github.com/amazon-science/convolution-matching)**|
@@ -1596,11 +1599,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679](http://arxiv.org/abs/2312.17679)|**[link](https://github.com/kayzliu/godm)**|
+|**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
+|**2023-12-29**|**Curvature diffusion of planar curves with generalised Neumann boundary conditions inside cones**|Mashniah Gazwani et.al.|[2312.17490](http://arxiv.org/abs/2312.17490)|null|
+|**2023-12-29**|**Sampling probabilities, diffusions, ancestral graphs, and duality under strong selection**|Martina Favero et.al.|[2312.17406](http://arxiv.org/abs/2312.17406)|null|
+|**2023-12-28**|**Classifier-free graph diffusion for molecular property targeting**|Matteo Ninniri et.al.|[2312.17397](http://arxiv.org/abs/2312.17397)|null|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250](http://arxiv.org/abs/2312.17250)|**[link](https://github.com/chinhsuanwu/ifusion)**|
 |**2023-12-28**|**Branching Brownian motion with generation-dependent diffusivity and nonlocal partial differential equations**|Alexander Dunlap et.al.|[2312.17139](http://arxiv.org/abs/2312.17139)|null|
-|**2023-12-28**|**100-fold improvement in relaxed eddy accumulation flux estimates through error diffusion**|Anas Emad et.al.|[2312.17027](http://arxiv.org/abs/2312.17027)|null|
+|**2023-12-28**|**100-fold improvement in relaxed eddy accumulation flux estimates through error diffusion**|Anas Emad et.al.|[2312.17027](http://arxiv.org/abs/2312.17027)|**[link](https://github.com/anasem/quantized-eddy-accumulation)**|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
-|**2023-12-28**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
+|**2023-12-29**|**DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors**|Biwen Lei et.al.|[2312.16837](http://arxiv.org/abs/2312.16837)|null|
 |**2023-12-27**|**Behavioural pseudometrics for continuous-time diffusions**|Linan Chen et.al.|[2312.16729](http://arxiv.org/abs/2312.16729)|null|
 |**2023-12-27**|**I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models**|Xun Guo et.al.|[2312.16693](http://arxiv.org/abs/2312.16693)|null|
 |**2023-12-27**|**Diffusive Limit of the Vlasov-Poisson-Boltzmann System without Angular Cutoff**|Yuan Xu et.al.|[2312.16588](http://arxiv.org/abs/2312.16588)|null|
