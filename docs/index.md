@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Contrastive Sequential Interaction Network Learning on Co-Evolving Riemannian Spaces**|Li Sun et.al.|[2401.01243](http://arxiv.org/abs/2401.01243)|null|
+|**2024-01-02**|**Encoding Binary Events from Continuous Time Series in Rooted Trees using Contrastive Learning**|Tobias Engelhardt Rasmussen et.al.|[2401.01242](http://arxiv.org/abs/2401.01242)|null|
+|**2024-01-02**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**|Li Sun et.al.|[2401.01232](http://arxiv.org/abs/2401.01232)|**[link](https://github.com/riemanngraph/motifrgc)**|
+|**2024-01-02**|**Freeze the backbones: A Parameter-Efficient Contrastive Approach to Robust Medical Vision-Language Pre-training**|Jiuming Qin et.al.|[2401.01179](http://arxiv.org/abs/2401.01179)|null|
+|**2024-01-02**|**Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt**|Jiaqi Liu et.al.|[2401.01010](http://arxiv.org/abs/2401.01010)|**[link](https://github.com/shirowalker/ucad)**|
+|**2024-01-01**|**COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training**|Alex Jinpeng Wang et.al.|[2401.00849](http://arxiv.org/abs/2401.00849)|null|
+|**2023-12-30**|**Mitigating the Impact of False Negatives in Dense Retrieval with Contrastive Confidence Regularization**|Shiqi Wang et.al.|[2401.00165](http://arxiv.org/abs/2401.00165)|**[link](https://github.com/wangskygit/passage-sieve)**|
+|**2023-12-30**|**Contrastive learning-based agent modeling for deep reinforcement learning**|Wenhao Ma et.al.|[2401.00132](http://arxiv.org/abs/2401.00132)|null|
+|**2023-12-29**|**Generalization properties of contrastive world models**|Kandan Ramakrishnan et.al.|[2401.00057](http://arxiv.org/abs/2401.00057)|null|
 |**2023-12-29**|**Contrastive learning through non-equilibrium memory**|Martin Falk et.al.|[2312.17723](http://arxiv.org/abs/2312.17723)|null|
 |**2023-12-29**|**HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping**|Xin Zhang et.al.|[2312.17492](http://arxiv.org/abs/2312.17492)|null|
 |**2023-12-28**|**3DTINC: Time-Equivariant Non-Contrastive Learning for Predicting Disease Progression from Longitudinal OCTs**|Taha Emre et.al.|[2312.16980](http://arxiv.org/abs/2312.16980)|null|
@@ -1020,6 +1029,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**|Li Sun et.al.|[2401.01232](http://arxiv.org/abs/2401.01232)|**[link](https://github.com/riemanngraph/motifrgc)**|
+|**2024-01-01**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755](http://arxiv.org/abs/2401.00755)|null|
+|**2024-01-02**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713](http://arxiv.org/abs/2401.00713)|null|
+|**2024-01-01**|**On Discprecncies between Perturbation Evaluations of Graph Neural Network Attributions**|Razieh Rezaei et.al.|[2401.00633](http://arxiv.org/abs/2401.00633)|null|
 |**2023-12-29**|**A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506](http://arxiv.org/abs/2312.17506)|null|
 |**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755](http://arxiv.org/abs/2312.16755)|null|
 |**2023-12-25**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825](http://arxiv.org/abs/2312.15825)|null|
@@ -1590,6 +1603,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Joint Generative Modeling of Scene Graphs and Images via Diffusion Models**|Bicheng Xu et.al.|[2401.01130](http://arxiv.org/abs/2401.01130)|null|
+|**2024-01-02**|**Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation**|Jinlong Xue et.al.|[2401.01044](http://arxiv.org/abs/2401.01044)|**[link](https://github.com/happylittlecat2333/Auffusion)**|
+|**2023-12-31**|**TrailBlazer: Trajectory Control for Diffusion-Based Video Generation**|Wan-Duo Kurt Ma et.al.|[2401.00896](http://arxiv.org/abs/2401.00896)|null|
+|**2023-12-31**|**On the area swept by a biased diffusion till its first-exit time: Martingale approach and gambling opportunities**|Yonathan Sarmiento et.al.|[2401.00895](http://arxiv.org/abs/2401.00895)|null|
+|**2024-01-01**|**DiffMorph: Text-less Image Morphing with Diffusion Models**|Shounak Chatterjee et.al.|[2401.00739](http://arxiv.org/abs/2401.00739)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736](http://arxiv.org/abs/2401.00736)|null|
+|**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
+|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436](http://arxiv.org/abs/2401.00436)|null|
+|**2023-12-31**|**Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion**|Wei-Jer Chang et.al.|[2401.00391](http://arxiv.org/abs/2401.00391)|null|
+|**2023-12-30**|**Two quantum algorithms for solving the one-dimensional advection-diffusion equation**|Julia Ingelmann et.al.|[2401.00326](http://arxiv.org/abs/2401.00326)|null|
 |**2023-12-29**|**Data Augmentation for Supervised Graph Outlier Detection with Latent Diffusion Models**|Kay Liu et.al.|[2312.17679](http://arxiv.org/abs/2312.17679)|**[link](https://github.com/kayzliu/godm)**|
 |**2023-12-29**|**Leveraging Open-Vocabulary Diffusion to Camouflaged Instance Segmentation**|Tuan-Anh Vu et.al.|[2312.17505](http://arxiv.org/abs/2312.17505)|null|
 |**2023-12-29**|**Curvature diffusion of planar curves with generalised Neumann boundary conditions inside cones**|Mashniah Gazwani et.al.|[2312.17490](http://arxiv.org/abs/2312.17490)|null|
