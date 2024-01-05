@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.04
+## Updated on 2024.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1034,11 +1034,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
 |**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626](http://arxiv.org/abs/2401.01626)|null|
-|**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384](http://arxiv.org/abs/2401.01384)|null|
+|**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384](http://arxiv.org/abs/2401.01384)|**[link](https://github.com/yassinmihemedi/strong-transitivity-relations-and-graph-neural-network)**|
 |**2024-01-02**|**Motif-aware Riemannian Graph Neural Network with Generative-Contrastive Learning**|Li Sun et.al.|[2401.01232](http://arxiv.org/abs/2401.01232)|**[link](https://github.com/riemanngraph/motifrgc)**|
 |**2024-01-01**|**Saliency-Aware Regularized Graph Neural Network**|Wenjie Pei et.al.|[2401.00755](http://arxiv.org/abs/2401.00755)|null|
 |**2024-01-02**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713](http://arxiv.org/abs/2401.00713)|null|
-|**2024-01-01**|**On Discprecncies between Perturbation Evaluations of Graph Neural Network Attributions**|Razieh Rezaei et.al.|[2401.00633](http://arxiv.org/abs/2401.00633)|null|
+|**2024-01-01**|**On Discprecncies between Perturbation Evaluations of Graph Neural Network Attributions**|Razieh Rezaei et.al.|[2401.00633](http://arxiv.org/abs/2401.00633)|**[link](https://github.com/alirezadizaji/graphroar)**|
 |**2023-12-29**|**A graph neural network-based model with Out-of-Distribution Robustness for enhancing Antiretroviral Therapy Outcome Prediction for HIV-1**|Giulia Di Teodoro et.al.|[2312.17506](http://arxiv.org/abs/2312.17506)|null|
 |**2023-12-28**|**Graph Neural Networks for Antisocial Behavior Detection on Twitter**|Martina Toshevska et.al.|[2312.16755](http://arxiv.org/abs/2312.16755)|null|
 |**2023-12-25**|**Comparative Analysis of Radiomic Features and Gene Expression Profiles in Histopathology Data Using Graph Neural Networks**|Luis Carlos Rivera Monroy et.al.|[2312.15825](http://arxiv.org/abs/2312.15825)|null|
@@ -1609,7 +1609,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|null|
+|**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|**[link](https://github.com/pixelhero98/dgdnn)**|
 |**2024-01-03**|**Aggregation-diffusion phenomena: from microscopic models to free boundary problems**|Inwon Kim et.al.|[2401.01840](http://arxiv.org/abs/2401.01840)|null|
 |**2024-01-03**|**Short-time expansion of one-dimensional Fokker-Planck equations with heterogeneous diffusion**|Tom Dupont et.al.|[2401.01765](http://arxiv.org/abs/2401.01765)|null|
 |**2024-01-03**|**An accurate reaction-diffusion limit to the spherical-symmetric Boltzmann equation**|Shay I. Heizler et.al.|[2401.01726](http://arxiv.org/abs/2401.01726)|null|
