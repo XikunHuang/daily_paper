@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137](http://arxiv.org/abs/2401.02137)|null|
+|**2024-01-04**|**CLAPP: Contrastive Language-Audio Pre-training in Passive Underwater Vessel Classification**|Zeyu Li et.al.|[2401.02099](http://arxiv.org/abs/2401.02099)|null|
 |**2024-01-03**|**SCALA: Sparsification-based Contrastive Learning for Anomaly Detection on Attributed Networks**|Enbo He et.al.|[2401.01625](http://arxiv.org/abs/2401.01625)|null|
 |**2024-01-03**|**A Two-Stage Multimodal Emotion Recognition Model Based on Graph Contrastive Learning**|Wei Ai et.al.|[2401.01495](http://arxiv.org/abs/2401.01495)|null|
 |**2024-01-02**|**ProbMCL: Simple Probabilistic Contrastive Learning for Multi-label Visual Classification**|Ahmad Sajedi et.al.|[2401.01448](http://arxiv.org/abs/2401.01448)|null|
@@ -1039,6 +1041,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143](http://arxiv.org/abs/2401.02143)|null|
+|**2024-01-04**|**View-based Explanations for Graph Neural Networks**|Tingyang Chen et.al.|[2401.02086](http://arxiv.org/abs/2401.02086)|**[link](https://github.com/zju-daily/gvex)**|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
 |**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626](http://arxiv.org/abs/2401.01626)|null|
 |**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384](http://arxiv.org/abs/2401.01384)|**[link](https://github.com/yassinmihemedi/strong-transitivity-relations-and-graph-neural-network)**|
@@ -1618,6 +1622,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Bring Metric Functions into Diffusion Models**|Jie An et.al.|[2401.02414](http://arxiv.org/abs/2401.02414)|null|
+|**2024-01-04**|**Effects of forward scattering on the onset of phototactic bioconvection in an algal suspension under diffuse flux without collimated flux**|S. K. Rajput et.al.|[2401.02338](http://arxiv.org/abs/2401.02338)|null|
+|**2024-01-04**|**Phototactic bioconvection in an algal suspension with a free top wall due to diffuse flux in the absence of direct collimated flux**|S. K. Rajput et.al.|[2401.02336](http://arxiv.org/abs/2401.02336)|null|
+|**2024-01-04**|**A finite difference scheme for two-dimensional singularly perturbed convection-diffusion problem with discontinuous source term**|Ram Shiromani et.al.|[2401.02331](http://arxiv.org/abs/2401.02331)|null|
+|**2024-01-04**|**High order Lagrange-Galerkin methods for the conservative formulation of the advection-diffusion equation**|Rodolfo Bermejo et.al.|[2401.02249](http://arxiv.org/abs/2401.02249)|null|
+|**2024-01-04**|**Unified Diffusion-Based Rigid and Non-Rigid Editing with Text and Image Guidance**|Jiacheng Wang et.al.|[2401.02126](http://arxiv.org/abs/2401.02126)|**[link](https://github.com/kihensarn/ti-guided-edit)**|
+|**2024-01-04**|**Preserving Image Properties Through Initializations in Diffusion Models**|Jeffrey Zhang et.al.|[2401.02097](http://arxiv.org/abs/2401.02097)|null|
+|**2024-01-04**|**Energy based diffusion generator for efficient sampling of Boltzmann distributions**|Yan Wang et.al.|[2401.02080](http://arxiv.org/abs/2401.02080)|null|
+|**2024-01-04**|**Local Discontinuous Galerkin Methods for Solving Convection-Diffusion and Cahn-Hilliard Equations on Surfaces**|Shixin Xu et.al.|[2401.02069](http://arxiv.org/abs/2401.02069)|null|
+|**2024-01-04**|**DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection**|Yunfan Ye et.al.|[2401.02032](http://arxiv.org/abs/2401.02032)|**[link](https://github.com/guhuangai/diffusionedge)**|
 |**2024-01-03**|**DGDNN: Decoupled Graph Diffusion Neural Network for Stock Movement Prediction**|Zinuo You et.al.|[2401.01846](http://arxiv.org/abs/2401.01846)|**[link](https://github.com/pixelhero98/dgdnn)**|
 |**2024-01-03**|**Aggregation-diffusion phenomena: from microscopic models to free boundary problems**|Inwon Kim et.al.|[2401.01840](http://arxiv.org/abs/2401.01840)|null|
 |**2024-01-03**|**Short-time expansion of one-dimensional Fokker-Planck equations with heterogeneous diffusion**|Tom Dupont et.al.|[2401.01765](http://arxiv.org/abs/2401.01765)|null|
