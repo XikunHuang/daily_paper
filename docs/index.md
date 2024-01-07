@@ -1034,7 +1034,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143](http://arxiv.org/abs/2401.02143)|null|
+|**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143](http://arxiv.org/abs/2401.02143)|**[link](https://github.com/roytsai27/awesome-gnn4tdl)**|
 |**2024-01-04**|**View-based Explanations for Graph Neural Networks**|Tingyang Chen et.al.|[2401.02086](http://arxiv.org/abs/2401.02086)|**[link](https://github.com/zju-daily/gvex)**|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
 |**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626](http://arxiv.org/abs/2401.01626)|null|
