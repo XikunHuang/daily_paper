@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Unifying Graph Contrastive Learning via Graph Message Augmentation**|Ziyan Zhang et.al.|[2401.03638](http://arxiv.org/abs/2401.03638)|null|
+|**2024-01-06**|**Enhancing Context Through Contrast**|Kshitij Ambilduke et.al.|[2401.03314](http://arxiv.org/abs/2401.03314)|null|
+|**2024-01-06**|**Exploiting Data Hierarchy as a New Modality for Contrastive Learning**|Arjun Bhalla et.al.|[2401.03312](http://arxiv.org/abs/2401.03312)|null|
+|**2024-01-06**|**FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**|Jianqing Zhang et.al.|[2401.03230](http://arxiv.org/abs/2401.03230)|**[link](https://github.com/tsingz0/fedtgp)**|
+|**2024-01-06**|**QoS-Aware Graph Contrastive Learning for Web Service Recommendation**|Jeongwhan Choi et.al.|[2401.03162](http://arxiv.org/abs/2401.03162)|null|
+|**2024-01-06**|**Contrastive linear regression**|Boyang Zhang et.al.|[2401.03106](http://arxiv.org/abs/2401.03106)|null|
+|**2024-01-05**|**Super-Resolution Multi-Contrast Unbiased Eye Atlases With Deep Probabilistic Refinement**|Ho Hin Lee et.al.|[2401.03060](http://arxiv.org/abs/2401.03060)|null|
 |**2024-01-05**|**Multi-Stage Contrastive Regression for Action Quality Assessment**|Qi An et.al.|[2401.02841](http://arxiv.org/abs/2401.02841)|**[link](https://github.com/angel-1999/mcore)**|
 |**2024-01-05**|**Unsupervised hard Negative Augmentation for contrastive learning**|Yuxuan Shu et.al.|[2401.02594](http://arxiv.org/abs/2401.02594)|**[link](https://github.com/claudiashu/una)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
@@ -1044,11 +1051,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Inferring Properties of Graph Neural Networks**|Dat Nguyen et.al.|[2401.03790](http://arxiv.org/abs/2401.03790)|null|
+|**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
+|**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661](http://arxiv.org/abs/2401.03661)|null|
+|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390](http://arxiv.org/abs/2401.03390)|null|
+|**2024-01-07**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph Neural Networks**|Puja Trivedi et.al.|[2401.03350](http://arxiv.org/abs/2401.03350)|null|
 |**2024-01-05**|**PAHD: Perception-Action based Human Decision Making using Explainable Graph Neural Networks on SAR Images**|Sasindu Wijeratne et.al.|[2401.02687](http://arxiv.org/abs/2401.02687)|null|
 |**2024-01-05**|**A backdoor attack against link prediction tasks with graph neural networks**|Jiazhu Dai et.al.|[2401.02663](http://arxiv.org/abs/2401.02663)|null|
 |**2024-01-04**|**A Community Detection and Graph Neural Network Based Link Prediction Approach for Scientific Literature**|Chunjiang Liu et.al.|[2401.02542](http://arxiv.org/abs/2401.02542)|null|
 |**2024-01-04**|**Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions**|Cheng-Te Li et.al.|[2401.02143](http://arxiv.org/abs/2401.02143)|**[link](https://github.com/roytsai27/awesome-gnn4tdl)**|
-|**2024-01-04**|**View-based Explanations for Graph Neural Networks**|Tingyang Chen et.al.|[2401.02086](http://arxiv.org/abs/2401.02086)|**[link](https://github.com/zju-daily/gvex)**|
+|**2024-01-08**|**View-based Explanations for Graph Neural Networks**|Tingyang Chen et.al.|[2401.02086](http://arxiv.org/abs/2401.02086)|**[link](https://github.com/zju-daily/gvex)**|
 |**2024-01-03**|**Graph Neural Networks for Surfactant Multi-Property Prediction**|Christoforos Brozos et.al.|[2401.01874](http://arxiv.org/abs/2401.01874)|**[link](https://github.com/brozosc/graph-neural-networks-for-surfactant-multi-property-prediction)**|
 |**2024-01-03**|**On the Expressive Power of Graph Neural Networks**|Ashwin Nalwade et.al.|[2401.01626](http://arxiv.org/abs/2401.01626)|null|
 |**2024-01-01**|**Strong Transitivity Relations and Graph Neural Networks**|Yassin Mohamadi et.al.|[2401.01384](http://arxiv.org/abs/2401.01384)|**[link](https://github.com/yassinmihemedi/strong-transitivity-relations-and-graph-neural-network)**|
@@ -1628,6 +1640,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**On the infinite time horizon approximation for Lévy-driven McKean-Vlasov SDEs with non-globally Lipschitz continuous and super-linearly growth drift and diffusion coefficients**|Ngoc Khue Tran et.al.|[2401.03977](http://arxiv.org/abs/2401.03977)|null|
+|**2024-01-08**|**scDiffusion: conditional generation of high-quality single-cell data using diffusion model**|Erpai Luo et.al.|[2401.03968](http://arxiv.org/abs/2401.03968)|**[link](https://github.com/eperluo/scdiffusion)**|
+|**2024-01-08**|**Well-balanced convex limiting for finite element discretizations of steady convection-diffusion-reaction equations**|Petr Knobloch et.al.|[2401.03964](http://arxiv.org/abs/2401.03964)|null|
+|**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
+|**2024-01-08**|**Applications of the kinetic theory for a model of a confined quasi-two dimensional granular mixture: Stability analysis and thermal diffusion segregation**|Vicente Garzó et.al.|[2401.03822](http://arxiv.org/abs/2401.03822)|null|
+|**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819](http://arxiv.org/abs/2401.03819)|null|
+|**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788](http://arxiv.org/abs/2401.03788)|null|
+|**2024-01-08**|**Anomalous diffusion of the heavy quarks through the fractional Langevin equation**|Jai Prakash et.al.|[2401.03757](http://arxiv.org/abs/2401.03757)|null|
+|**2024-01-08**|**DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**|Jiaqi Liu et.al.|[2401.03629](http://arxiv.org/abs/2401.03629)|null|
+|**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514](http://arxiv.org/abs/2401.03514)|null|
 |**2024-01-05**|**Uncovering the human motion pattern: Pattern Memory-based Diffusion Model for Trajectory Prediction**|Yuxin Yang et.al.|[2401.02916](http://arxiv.org/abs/2401.02916)|null|
 |**2024-01-05**|**Plug-in Diffusion Model for Sequential Recommendation**|Haokai Ma et.al.|[2401.02913](http://arxiv.org/abs/2401.02913)|null|
 |**2024-01-05**|**Diffbody: Diffusion-based Pose and Shape Editing of Human Images**|Yuta Okuyama et.al.|[2401.02804](http://arxiv.org/abs/2401.02804)|**[link](https://github.com/yutaokuyama/diffbody)**|
