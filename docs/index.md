@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning**|Jiaan Wang et.al.|[2401.04361](http://arxiv.org/abs/2401.04361)|**[link](https://github.com/kxinwang2023/enco)**|
+|**2024-01-08**|**Attention versus Contrastive Learning of Tabular Data -- A Data-centric Benchmarking**|Shourav B. Rabbani et.al.|[2401.04266](http://arxiv.org/abs/2401.04266)|null|
+|**2024-01-08**|**Two-stream joint matching method based on contrastive learning for few-shot action recognition**|Long Deng et.al.|[2401.04150](http://arxiv.org/abs/2401.04150)|null|
+|**2024-01-08**|**Imágenes de Resonancia Magnética con Contraste en el Cáncer de Mama**|Virginia del Campo et.al.|[2401.04149](http://arxiv.org/abs/2401.04149)|null|
 |**2024-01-08**|**Unifying Graph Contrastive Learning via Graph Message Augmentation**|Ziyan Zhang et.al.|[2401.03638](http://arxiv.org/abs/2401.03638)|null|
 |**2024-01-06**|**Enhancing Context Through Contrast**|Kshitij Ambilduke et.al.|[2401.03314](http://arxiv.org/abs/2401.03314)|null|
 |**2024-01-06**|**Exploiting Data Hierarchy as a New Modality for Contrastive Learning**|Arjun Bhalla et.al.|[2401.03312](http://arxiv.org/abs/2401.03312)|null|
@@ -1044,6 +1048,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Coupling Graph Neural Networks with Fractional Order Continuous Dynamics: A Robustness Study**|Qiyu Kang et.al.|[2401.04331](http://arxiv.org/abs/2401.04331)|null|
 |**2024-01-08**|**Inferring Properties of Graph Neural Networks**|Dat Nguyen et.al.|[2401.03790](http://arxiv.org/abs/2401.03790)|null|
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
 |**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661](http://arxiv.org/abs/2401.03661)|null|
@@ -1631,6 +1636,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728](http://arxiv.org/abs/2401.04728)|null|
+|**2024-01-09**|**Efficient estimation for ergodic diffusion processes sampled at high frequency**|Michael Sørensen et.al.|[2401.04689](http://arxiv.org/abs/2401.04689)|null|
+|**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
+|**2024-01-09**|**Enhanced Distribution Alignment for Post-Training Quantization of Diffusion Models**|Xuewen Liu et.al.|[2401.04585](http://arxiv.org/abs/2401.04585)|null|
+|**2024-01-09**|**Probing the dipole of the diffuse gamma-ray background**|A. Kashlinsky et.al.|[2401.04564](http://arxiv.org/abs/2401.04564)|null|
+|**2024-01-09**|**D3AD: Dynamic Denoising Diffusion Probabilistic Model for Anomaly Detection**|Justin Tebbe et.al.|[2401.04463](http://arxiv.org/abs/2401.04463)|null|
+|**2024-01-09**|**Direction dependent calibration with diffuse radio sky models**|Sarod Yatawatta et.al.|[2401.04428](http://arxiv.org/abs/2401.04428)|null|
+|**2024-01-09**|**Stable generative modeling using diffusion maps**|Georg Gottwald et.al.|[2401.04372](http://arxiv.org/abs/2401.04372)|null|
+|**2024-01-09**|**Representative Feature Extraction During Diffusion Process for Sketch Extraction with One Example**|Kwan Yun et.al.|[2401.04362](http://arxiv.org/abs/2401.04362)|null|
+|**2024-01-09**|**Memory-Efficient Personalization using Quantized Diffusion Model**|Hyogon Ryu et.al.|[2401.04339](http://arxiv.org/abs/2401.04339)|null|
 |**2024-01-08**|**On the infinite time horizon approximation for Lévy-driven McKean-Vlasov SDEs with non-globally Lipschitz continuous and super-linearly growth drift and diffusion coefficients**|Ngoc Khue Tran et.al.|[2401.03977](http://arxiv.org/abs/2401.03977)|null|
 |**2024-01-08**|**scDiffusion: conditional generation of high-quality single-cell data using diffusion model**|Erpai Luo et.al.|[2401.03968](http://arxiv.org/abs/2401.03968)|**[link](https://github.com/eperluo/scdiffusion)**|
 |**2024-01-08**|**Well-balanced convex limiting for finite element discretizations of steady convection-diffusion-reaction equations**|Petr Knobloch et.al.|[2401.03964](http://arxiv.org/abs/2401.03964)|null|
