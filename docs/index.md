@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.09
+## Updated on 2024.01.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1047,7 +1047,7 @@ layout: default
 |**2024-01-08**|**Inferring Properties of Graph Neural Networks**|Dat Nguyen et.al.|[2401.03790](http://arxiv.org/abs/2401.03790)|null|
 |**2024-01-08**|**Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling**|Jiawei Lu et.al.|[2401.03692](http://arxiv.org/abs/2401.03692)|null|
 |**2024-01-08**|**GrainGNN: A dynamic graph neural network for predicting 3D grain microstructure**|Yigong Qin et.al.|[2401.03661](http://arxiv.org/abs/2401.03661)|null|
-|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390](http://arxiv.org/abs/2401.03390)|null|
+|**2024-01-07**|**Global Prediction of COVID-19 Variant Emergence Using Dynamics-Informed Graph Neural Networks**|Majd Al Aawar et.al.|[2401.03390](http://arxiv.org/abs/2401.03390)|**[link](https://github.com/itssmutnuri/gnnvariants)**|
 |**2024-01-07**|**Accurate and Scalable Estimation of Epistemic Uncertainty for Graph Neural Networks**|Puja Trivedi et.al.|[2401.03350](http://arxiv.org/abs/2401.03350)|null|
 |**2024-01-05**|**PAHD: Perception-Action based Human Decision Making using Explainable Graph Neural Networks on SAR Images**|Sasindu Wijeratne et.al.|[2401.02687](http://arxiv.org/abs/2401.02687)|null|
 |**2024-01-05**|**A backdoor attack against link prediction tasks with graph neural networks**|Jiazhu Dai et.al.|[2401.02663](http://arxiv.org/abs/2401.02663)|null|
@@ -1637,7 +1637,7 @@ layout: default
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914](http://arxiv.org/abs/2401.03914)|null|
 |**2024-01-08**|**Applications of the kinetic theory for a model of a confined quasi-two dimensional granular mixture: Stability analysis and thermal diffusion segregation**|Vicente Garzó et.al.|[2401.03822](http://arxiv.org/abs/2401.03822)|null|
 |**2024-01-08**|**Active Diffusion of Self-Propelled Particles in Semi-Flexible Polymer Networks**|Yeongjin Kim et.al.|[2401.03819](http://arxiv.org/abs/2401.03819)|null|
-|**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788](http://arxiv.org/abs/2401.03788)|null|
+|**2024-01-08**|**Low-light Image Enhancement via CLIP-Fourier Guided Wavelet Diffusion**|Minglong Xue et.al.|[2401.03788](http://arxiv.org/abs/2401.03788)|**[link](https://github.com/He-Jinhong/CFWD)**|
 |**2024-01-08**|**Anomalous diffusion of the heavy quarks through the fractional Langevin equation**|Jai Prakash et.al.|[2401.03757](http://arxiv.org/abs/2401.03757)|null|
 |**2024-01-08**|**DDM-Lag : A Diffusion-based Decision-making Model for Autonomous Vehicles with Lagrangian Safety Enhancement**|Jiaqi Liu et.al.|[2401.03629](http://arxiv.org/abs/2401.03629)|null|
 |**2024-01-07**|**ROIC-DM: Robust Text Inference and Classification via Diffusion Model**|Shilong Yuan et.al.|[2401.03514](http://arxiv.org/abs/2401.03514)|null|
