@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**JWST-TST High Contrast: Asymmetries, dust populations and hints of a collision in the $β$ Pictoris disk with NIRCam and MIRI**|Isabel Rebollido et.al.|[2401.05271](http://arxiv.org/abs/2401.05271)|null|
+|**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093](http://arxiv.org/abs/2401.05093)|null|
+|**2024-01-10**|**ECC-PolypDet: Enhanced CenterNet with Contrastive Learning for Automatic Polyp Detection**|Yuncheng Jiang et.al.|[2401.04961](http://arxiv.org/abs/2401.04961)|**[link](https://github.com/yuncheng97/ecc-polypdet)**|
+|**2024-01-10**|**Relaxed Contrastive Learning for Federated Learning**|Seonguk Seo et.al.|[2401.04928](http://arxiv.org/abs/2401.04928)|null|
 |**2024-01-09**|**Improving the Robustness of Knowledge-Grounded Dialogue via Contrastive Learning**|Jiaan Wang et.al.|[2401.04361](http://arxiv.org/abs/2401.04361)|**[link](https://github.com/kxinwang2023/enco)**|
 |**2024-01-08**|**Attention versus Contrastive Learning of Tabular Data -- A Data-centric Benchmarking**|Shourav B. Rabbani et.al.|[2401.04266](http://arxiv.org/abs/2401.04266)|null|
 |**2024-01-08**|**Two-stream joint matching method based on contrastive learning for few-shot action recognition**|Long Deng et.al.|[2401.04150](http://arxiv.org/abs/2401.04150)|null|
@@ -1645,6 +1649,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**diffSph: a Python tool to compute diffuse signals from dwarf spheroidal galaxies**|Martin Vollmann et.al.|[2401.05255](http://arxiv.org/abs/2401.05255)|null|
+|**2024-01-10**|**Existence of global weak solutions to a Cahn-Hilliard cross-diffusion system in lymphangiogenesis**|Ansgar Jüngel et.al.|[2401.05180](http://arxiv.org/abs/2401.05180)|null|
+|**2024-01-10**|**Derm-T2IM: Harnessing Synthetic Skin Lesion Data via Stable Diffusion Models for Enhanced Skin Disease Classification using ViT and CNN**|Muhammad Ali Farooq et.al.|[2401.05159](http://arxiv.org/abs/2401.05159)|null|
+|**2024-01-10**|**CrossDiff: Exploring Self-Supervised Representation of Pansharpening via Cross-Predictive Diffusion Model**|Yinghui Xing et.al.|[2401.05153](http://arxiv.org/abs/2401.05153)|null|
+|**2024-01-10**|**SwiMDiff: Scene-wide Matching Contrastive Learning with Diffusion Constraint for Remote Sensing Image**|Jiayuan Tian et.al.|[2401.05093](http://arxiv.org/abs/2401.05093)|null|
+|**2024-01-10**|**Almost Sure Diffusion Approximation in Averaging: Direct Proofs with Rough Paths Flavors**|Yuri Kifer et.al.|[2401.05038](http://arxiv.org/abs/2401.05038)|null|
+|**2024-01-10**|**A novel bond-based nonlocal diffusion model with matrix-valued coefficients in non-divergence form and its collocation discretization**|Lili Ju et.al.|[2401.04973](http://arxiv.org/abs/2401.04973)|null|
+|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921](http://arxiv.org/abs/2401.04921)|null|
+|**2024-01-09**|**Transmission-eigenchannel velocity and diffusion**|Azriel Z. Genack et.al.|[2401.04818](http://arxiv.org/abs/2401.04818)|null|
+|**2024-01-09**|**Null Controllability for Backward Stochastic Parabolic Convection-Diffusion Equations with Dynamic Boundary Conditions**|Mahmoud Baroun et.al.|[2401.04816](http://arxiv.org/abs/2401.04816)|null|
 |**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728](http://arxiv.org/abs/2401.04728)|null|
 |**2024-01-09**|**Efficient estimation for ergodic diffusion processes sampled at high frequency**|Michael Sørensen et.al.|[2401.04689](http://arxiv.org/abs/2401.04689)|null|
 |**2024-01-09**|**EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models**|Jingyuan Yang et.al.|[2401.04608](http://arxiv.org/abs/2401.04608)|null|
