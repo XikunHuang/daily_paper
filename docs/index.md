@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Learning Disentangled Speech Representations with Contrastive Learning and Time-Invariant Retrieval**|Yimin Deng et.al.|[2401.08096](http://arxiv.org/abs/2401.08096)|null|
+|**2024-01-16**|**Adversarial Masking Contrastive Learning for vein recognition**|Huafeng Qin et.al.|[2401.08079](http://arxiv.org/abs/2401.08079)|null|
+|**2024-01-16**|**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation**|Zhixuan Liu et.al.|[2401.08053](http://arxiv.org/abs/2401.08053)|null|
+|**2024-01-15**|**A Contrast Based Feature Selection Algorithm for High-dimensional Data set in Machine Learning**|Chunxu Cao et.al.|[2401.07482](http://arxiv.org/abs/2401.07482)|null|
+|**2024-01-14**|**SpineCLUE: Automatic Vertebrae Identification Using Contrastive Learning and Uncertainty Estimation**|Sheng Zhang et.al.|[2401.07271](http://arxiv.org/abs/2401.07271)|null|
+|**2024-01-14**|**MIMIC: Mask Image Pre-training with Mix Contrastive Fine-tuning for Facial Expression Recognition**|Fan Zhang et.al.|[2401.07245](http://arxiv.org/abs/2401.07245)|null|
+|**2024-01-13**|**Domain Adaptation for Sustainable Soil Management using Causal and Contrastive Constraint Minimization**|Somya Sharma et.al.|[2401.07175](http://arxiv.org/abs/2401.07175)|null|
+|**2024-01-13**|**Parameter-Efficient Detoxification with Contrastive Decoding**|Tong Niu et.al.|[2401.06947](http://arxiv.org/abs/2401.06947)|null|
 |**2024-01-12**|**CCFC: Bridging Federated Clustering and Contrastive Learning**|Jie Yan et.al.|[2401.06634](http://arxiv.org/abs/2401.06634)|null|
 |**2024-01-12**|**TransliCo: A Contrastive Learning Framework to Address the Script Barrier in Multilingual Pretrained Language Models**|Yihong Liu et.al.|[2401.06620](http://arxiv.org/abs/2401.06620)|null|
 |**2024-01-12**|**Contrastive Learning With Audio Discrimination For Customizable Keyword Spotting In Continuous Speech**|Yu Xi et.al.|[2401.06485](http://arxiv.org/abs/2401.06485)|null|
@@ -1063,6 +1071,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220](http://arxiv.org/abs/2401.08220)|null|
 |**2024-01-12**|**A General Benchmark Framework is Dynamic Graph Neural Network Need**|Yusen Zhang et.al.|[2401.06559](http://arxiv.org/abs/2401.06559)|null|
 |**2024-01-11**|**On the Power of Graph Neural Networks and Feature Augmentation Strategies to Classify Social Networks**|Walid Guettala et.al.|[2401.06048](http://arxiv.org/abs/2401.06048)|null|
 |**2024-01-11**|**Use of Graph Neural Networks in Aiding Defensive Cyber Operations**|Shaswata Mitra et.al.|[2401.05680](http://arxiv.org/abs/2401.05680)|null|
@@ -1655,6 +1664,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Large-population asymptotics for the maximum of diffusive particles with mean-field interaction in the noises**|Nikolaos Kolliopoulos et.al.|[2401.08344](http://arxiv.org/abs/2401.08344)|null|
+|**2024-01-16**|**Modeling Spoof Noise by De-spoofing Diffusion and its Application in Face Anti-spoofing**|Bin Zhang et.al.|[2401.08275](http://arxiv.org/abs/2401.08275)|null|
+|**2024-01-16**|**Multi-scale 2D Temporal Map Diffusion Models for Natural Language Video Localization**|Chongzhi Zhang et.al.|[2401.08232](http://arxiv.org/abs/2401.08232)|null|
+|**2024-01-16**|**Photonic Modes Prediction via Multi-Modal Diffusion Model**|Jinyang Sun et.al.|[2401.08199](http://arxiv.org/abs/2401.08199)|null|
+|**2024-01-16**|**Bounded weak solutions for Keller-Segel equations with generalized diffusion and logistic source via an unbalanced Optimal Transport splitting scheme**|Kyungkeun Kang et.al.|[2401.08188](http://arxiv.org/abs/2401.08188)|null|
+|**2024-01-16**|**Key-point Guided Deformable Image Manipulation Using Diffusion Model**|Seok-Hwan Oh et.al.|[2401.08178](http://arxiv.org/abs/2401.08178)|null|
+|**2024-01-16**|**SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting**|Lequan Lin et.al.|[2401.08119](http://arxiv.org/abs/2401.08119)|null|
+|**2024-01-16**|**DIFFRENT: A Diffusion Model for Recording Environment Transfer of Speech**|Jaekwon Im et.al.|[2401.08102](http://arxiv.org/abs/2401.08102)|null|
+|**2024-01-16**|**Mass inversion at the Lifshitz transition in monolayer graphene by diffusive, high-density, on-chip, doping**|Ayse Melis Aygar et.al.|[2401.08051](http://arxiv.org/abs/2401.08051)|null|
+|**2024-01-16**|**EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**|Bingyuan Zhang et.al.|[2401.08049](http://arxiv.org/abs/2401.08049)|null|
 |**2024-01-12**|**Efficient Parallel Algorithms for Inpainting-Based Representations of 4K Images -- Part I: Homogeneous Diffusion Inpainting**|Niklas Kämper et.al.|[2401.06744](http://arxiv.org/abs/2401.06744)|null|
 |**2024-01-12**|**A deep implicit-explicit minimizing movement method for option pricing in jump-diffusion models**|Emmanuil H. Georgoulis et.al.|[2401.06740](http://arxiv.org/abs/2401.06740)|null|
 |**2024-01-12**|**Confinement determines transport of a reaction-diffusion active matter front**|Nicolas Lobato-Dauzier et.al.|[2401.06674](http://arxiv.org/abs/2401.06674)|null|
