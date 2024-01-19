@@ -9,13 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**CPCL: Cross-Modal Prototypical Contrastive Learning for Weakly Supervised Text-based Person Re-Identification**|Yanwei Zheng et.al.|[2401.10011](http://arxiv.org/abs/2401.10011)|**[link](https://github.com/codegallery24/cpcl)**|
+|**2024-01-18**|**HCVP: Leveraging Hierarchical Contrastive Visual Prompt for Domain Generalization**|Guanglin Zhou et.al.|[2401.09716](http://arxiv.org/abs/2401.09716)|null|
 |**2024-01-17**|**CrossVideo: Self-supervised Cross-modal Contrastive Learning for Point Cloud Video Understanding**|Yunze Liu et.al.|[2401.09057](http://arxiv.org/abs/2401.09057)|null|
 |**2024-01-17**|**Controlling ultrafast laser writing in silica glass by pulse temporal contrast**|Yuhao Lei et.al.|[2401.09055](http://arxiv.org/abs/2401.09055)|null|
 |**2024-01-17**|**Partial Diacritization: A Context-Contrastive Inference Approach**|Muhammad ElNokrashy et.al.|[2401.08919](http://arxiv.org/abs/2401.08919)|null|
 |**2024-01-17**|**On the Effect of Data-Augmentation on Local Embedding Properties in the Contrastive Learning of Music Audio Representations**|Matthew C. McCallum et.al.|[2401.08889](http://arxiv.org/abs/2401.08889)|null|
 |**2024-01-16**|**Explaining Time Series via Contrastive and Locally Sparse Perturbations**|Zichuan Liu et.al.|[2401.08552](http://arxiv.org/abs/2401.08552)|null|
 |**2024-01-16**|**Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models**|Tassilo Klein et.al.|[2401.08491](http://arxiv.org/abs/2401.08491)|null|
-|**2024-01-16**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417](http://arxiv.org/abs/2401.08417)|**[link](https://github.com/fe1ixxu/alma)**|
+|**2024-01-18**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417](http://arxiv.org/abs/2401.08417)|**[link](https://github.com/fe1ixxu/alma)**|
 |**2024-01-18**|**Learning Disentangled Speech Representations with Contrastive Learning and Time-Invariant Retrieval**|Yimin Deng et.al.|[2401.08096](http://arxiv.org/abs/2401.08096)|null|
 |**2024-01-16**|**Adversarial Masking Contrastive Learning for vein recognition**|Huafeng Qin et.al.|[2401.08079](http://arxiv.org/abs/2401.08079)|null|
 |**2024-01-16**|**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation**|Zhixuan Liu et.al.|[2401.08053](http://arxiv.org/abs/2401.08053)|null|
@@ -1078,7 +1080,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193](http://arxiv.org/abs/2401.09193)|null|
+|**2024-01-17**|**A novel hybrid time-varying graph neural network for traffic flow forecasting**|Ben Ao Dai et.al.|[2401.10155](http://arxiv.org/abs/2401.10155)|**[link](https://github.com/DaibenaoZSTU/HTVGNN)**|
+|**2024-01-18**|**Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**|Yulin Zhu et.al.|[2401.09754](http://arxiv.org/abs/2401.09754)|null|
+|**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193](http://arxiv.org/abs/2401.09193)|**[link](https://github.com/gdl-unive/histogram-intersection-kernel)**|
 |**2024-01-17**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125](http://arxiv.org/abs/2401.09125)|null|
 |**2024-01-17**|**Rethinking Spectral Graph Neural Networks with Spatially Adaptive Filtering**|Jingwei Guo et.al.|[2401.09071](http://arxiv.org/abs/2401.09071)|null|
 |**2024-01-16**|**Spoofing Detection in the Physical Layer with Graph Neural Networks**|Tien Ngoc Ha et.al.|[2401.08220](http://arxiv.org/abs/2401.08220)|null|
@@ -1674,6 +1678,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
+|**2024-01-18**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
+|**2024-01-18**|**Drift Control with Discretionary Stopping for a Diffusion Process**|Václav E. Beneš et.al.|[2401.10043](http://arxiv.org/abs/2401.10043)|null|
+|**2024-01-18**|**FreGrad: Lightweight and Fast Frequency-aware Diffusion Vocoder**|Tan Dat Nguyen et.al.|[2401.10032](http://arxiv.org/abs/2401.10032)|null|
+|**2024-01-18**|**BlenDA: Domain Adaptive Object Detection through diffusion-based blending**|Tzuhsuan Huang et.al.|[2401.09921](http://arxiv.org/abs/2401.09921)|null|
+|**2024-01-18**|**Well-posedness results for general reaction-diffusion transport of oxygen in encapsulated cells**|Yuma Nakamura et.al.|[2401.09863](http://arxiv.org/abs/2401.09863)|null|
+|**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836](http://arxiv.org/abs/2401.09836)|null|
+|**2024-01-18**|**Wavelet-Guided Acceleration of Text Inversion in Diffusion-Based Image Editing**|Gwanhyeong Koo et.al.|[2401.09794](http://arxiv.org/abs/2401.09794)|null|
+|**2024-01-18**|**Image Translation as Diffusion Visual Programmers**|Cheng Han et.al.|[2401.09742](http://arxiv.org/abs/2401.09742)|null|
+|**2024-01-18**|**Origin and Composition of the Galactic Diffuse X-Ray Emission Spectra by Unresolved X-Ray Sources**|Katsuji Koyama et.al.|[2401.09726](http://arxiv.org/abs/2401.09726)|null|
 |**2024-01-17**|**TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion**|Yu-Ying Yeh et.al.|[2401.09416](http://arxiv.org/abs/2401.09416)|null|
 |**2024-01-17**|**Siamese Meets Diffusion Network: SMDNet for Enhanced Change Detection in High-Resolution RS Imagery**|Jia Jia et.al.|[2401.09325](http://arxiv.org/abs/2401.09325)|null|
 |**2024-01-17**|**Scaled quadratic variation for controlled rough paths and parameter estimation of fractional diffusions**|James Michael Leahy et.al.|[2401.09299](http://arxiv.org/abs/2401.09299)|null|
