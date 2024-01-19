@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -16,7 +16,7 @@ layout: default
 |**2024-01-16**|**Explaining Time Series via Contrastive and Locally Sparse Perturbations**|Zichuan Liu et.al.|[2401.08552](http://arxiv.org/abs/2401.08552)|null|
 |**2024-01-16**|**Contrastive Perplexity for Controlled Generation: An Application in Detoxifying Large Language Models**|Tassilo Klein et.al.|[2401.08491](http://arxiv.org/abs/2401.08491)|null|
 |**2024-01-16**|**Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation**|Haoran Xu et.al.|[2401.08417](http://arxiv.org/abs/2401.08417)|**[link](https://github.com/fe1ixxu/alma)**|
-|**2024-01-16**|**Learning Disentangled Speech Representations with Contrastive Learning and Time-Invariant Retrieval**|Yimin Deng et.al.|[2401.08096](http://arxiv.org/abs/2401.08096)|null|
+|**2024-01-18**|**Learning Disentangled Speech Representations with Contrastive Learning and Time-Invariant Retrieval**|Yimin Deng et.al.|[2401.08096](http://arxiv.org/abs/2401.08096)|null|
 |**2024-01-16**|**Adversarial Masking Contrastive Learning for vein recognition**|Huafeng Qin et.al.|[2401.08079](http://arxiv.org/abs/2401.08079)|null|
 |**2024-01-16**|**SCoFT: Self-Contrastive Fine-Tuning for Equitable Image Generation**|Zhixuan Liu et.al.|[2401.08053](http://arxiv.org/abs/2401.08053)|null|
 |**2024-01-15**|**A Contrast Based Feature Selection Algorithm for High-dimensional Data set in Machine Learning**|Chunxu Cao et.al.|[2401.07482](http://arxiv.org/abs/2401.07482)|null|
