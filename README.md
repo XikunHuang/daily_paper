@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711](http://arxiv.org/abs/2401.10711)|null|
+|**2024-01-19**|**Adversarially Robust Signed Graph Contrastive Learning from Balance Augmentation**|Jialong Zhou et.al.|[2401.10590](http://arxiv.org/abs/2401.10590)|null|
+|**2024-01-19**|**Enhancing medical vision-language contrastive learning via inter-matching relation modelling**|Mingjian Li et.al.|[2401.10501](http://arxiv.org/abs/2401.10501)|null|
+|**2024-01-19**|**Learning Backdoors for Mixed Integer Programs with Contrastive Learning**|Junyang Cai et.al.|[2401.10467](http://arxiv.org/abs/2401.10467)|null|
+|**2024-01-19**|**Contrastive Unlearning: A Contrastive Approach to Machine Unlearning**|Hong kyu Lee et.al.|[2401.10458](http://arxiv.org/abs/2401.10458)|null|
+|**2024-01-18**|**Inverse Problem Based on a Sparse Representation of Contrast-enhanced Ultrasound Data for in vivo Transcranial Imaging**|Paul Xing et.al.|[2401.10389](http://arxiv.org/abs/2401.10389)|null|
+|**2024-01-18**|**Noise Contrastive Estimation-based Matching Framework for Low-resource Security Attack Pattern Recognition**|Tu Nguyen et.al.|[2401.10337](http://arxiv.org/abs/2401.10337)|null|
 |**2024-01-18**|**CPCL: Cross-Modal Prototypical Contrastive Learning for Weakly Supervised Text-based Person Re-Identification**|Yanwei Zheng et.al.|[2401.10011](http://arxiv.org/abs/2401.10011)|**[link](https://github.com/codegallery24/cpcl)**|
 |**2024-01-18**|**HCVP: Leveraging Hierarchical Contrastive Visual Prompt for Domain Generalization**|Guanglin Zhou et.al.|[2401.09716](http://arxiv.org/abs/2401.09716)|null|
 |**2024-01-17**|**CrossVideo: Self-supervised Cross-modal Contrastive Learning for Point Cloud Video Understanding**|Yunze Liu et.al.|[2401.09057](http://arxiv.org/abs/2401.09057)|null|
@@ -1087,7 +1094,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-17**|**A novel hybrid time-varying graph neural network for traffic flow forecasting**|Ben Ao Dai et.al.|[2401.10155](http://arxiv.org/abs/2401.10155)|**[link](https://github.com/DaibenaoZSTU/HTVGNN)**|
+|**2024-01-18**|**Distribution Consistency based Self-Training for Graph Neural Networks with Sparse Labels**|Fali Wang et.al.|[2401.10394](http://arxiv.org/abs/2401.10394)|null|
+|**2024-01-18**|**A rotation-equivariant graph neural network for learning hadronic SMEFT effects**|Suman Chatterjee et.al.|[2401.10323](http://arxiv.org/abs/2401.10323)|null|
+|**2024-01-17**|**A novel hybrid time-varying graph neural network for traffic flow forecasting**|Ben Ao Dai et.al.|[2401.10155](http://arxiv.org/abs/2401.10155)|null|
 |**2024-01-18**|**Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**|Yulin Zhu et.al.|[2401.09754](http://arxiv.org/abs/2401.09754)|null|
 |**2024-01-17**|**GNN-LoFI: a Novel Graph Neural Network through Localized Feature-based Histogram Intersection**|Alessandro Bicciato et.al.|[2401.09193](http://arxiv.org/abs/2401.09193)|**[link](https://github.com/gdl-unive/histogram-intersection-kernel)**|
 |**2024-01-17**|**Understanding Heterophily for Graph Neural Networks**|Junfu Wang et.al.|[2401.09125](http://arxiv.org/abs/2401.09125)|null|
@@ -1687,6 +1696,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**From Market Saturation to Social Reinforcement: Understanding the Impact of Non-Linearity in Information Diffusion Models**|Tobias Friedrich et.al.|[2401.10818](http://arxiv.org/abs/2401.10818)|null|
+|**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
+|**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700](http://arxiv.org/abs/2401.10700)|null|
+|**2024-01-19**|**An Experimental Estimation Method of Diffusion Coefficients in Ternary and Multicomponent Systems from a Single Diffusion Couple Profile**|Suman Sadhu et.al.|[2401.10684](http://arxiv.org/abs/2401.10684)|null|
+|**2024-01-19**|**MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images**|Rui Xu et.al.|[2401.10561](http://arxiv.org/abs/2401.10561)|null|
+|**2024-01-19**|**Diffusive coupling facilitates and impedes noise-induced escape in interacting bistable elements**|Hidemasa Ishii et.al.|[2401.10489](http://arxiv.org/abs/2401.10489)|null|
+|**2024-01-19**|**Diffusion of intrinsically disordered proteins within viscoelastic membraneless droplets**|Fuga Watanabe et.al.|[2401.10438](http://arxiv.org/abs/2401.10438)|null|
+|**2024-01-18**|**Inflation with Diffusion: Efficient Temporal Adaptation for Text-to-Video Super-Resolution**|Xin Yuan et.al.|[2401.10404](http://arxiv.org/abs/2401.10404)|null|
 |**2024-01-18**|**A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting**|Wouter Van Gansbeke et.al.|[2401.10227](http://arxiv.org/abs/2401.10227)|**[link](https://github.com/segments-ai/latent-diffusion-segmentation)**|
 |**2024-01-19**|**Motion-Zero: Zero-Shot Moving Object Control Framework for Diffusion-Based Video Generation**|Changgu Chen et.al.|[2401.10150](http://arxiv.org/abs/2401.10150)|null|
 |**2024-01-18**|**Drift Control with Discretionary Stopping for a Diffusion Process**|Václav E. Beneš et.al.|[2401.10043](http://arxiv.org/abs/2401.10043)|null|
