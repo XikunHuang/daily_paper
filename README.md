@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training**|Vedant Dave et.al.|[2401.12024](http://arxiv.org/abs/2401.12024)|null|
+|**2024-01-22**|**SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning**|Hao Chen et.al.|[2401.11847](http://arxiv.org/abs/2401.11847)|null|
+|**2024-01-22**|**Modern approaches to improving phase contrast electron microscopy**|Jeremy J. Axelrod et.al.|[2401.11678](http://arxiv.org/abs/2401.11678)|null|
+|**2024-01-22**|**Next Visit Diagnosis Prediction via Medical Code-Centric Multimodal Contrastive EHR Modelling with Hierarchical Regularisation**|Heejoon Koo et.al.|[2401.11648](http://arxiv.org/abs/2401.11648)|null|
+|**2024-01-21**|**Visual Imitation Learning with Calibrated Contrastive Representation**|Yunke Wang et.al.|[2401.11396](http://arxiv.org/abs/2401.11396)|null|
+|**2024-01-21**|**Self-supervised Contrastive Learning for 6G UM-MIMO THz Communications: Improving Robustness Under Imperfect CSI**|Rafid Umayer Murshed et.al.|[2401.11376](http://arxiv.org/abs/2401.11376)|null|
+|**2024-01-21**|**PepHarmony: A Multi-View Contrastive Learning Framework for Integrated Sequence and Structure-Based Peptide Encoding**|Ruochi Zhang et.al.|[2401.11360](http://arxiv.org/abs/2401.11360)|null|
+|**2024-01-20**|**Homogenization of high-contrast dielectric elastomer composites**|Thuyen Dang et.al.|[2401.11279](http://arxiv.org/abs/2401.11279)|null|
+|**2024-01-20**|**DACR: Distribution-Augmented Contrastive Reconstruction for Time-Series Anomaly Detection**|Lixu Wang et.al.|[2401.11271](http://arxiv.org/abs/2401.11271)|null|
+|**2024-01-20**|**Unifying Visual and Vision-Language Tracking via Contrastive Learning**|Yinchao Ma et.al.|[2401.11228](http://arxiv.org/abs/2401.11228)|null|
 |**2024-01-19**|**Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**|Haibo Wang et.al.|[2401.10711](http://arxiv.org/abs/2401.10711)|null|
 |**2024-01-19**|**Adversarially Robust Signed Graph Contrastive Learning from Balance Augmentation**|Jialong Zhou et.al.|[2401.10590](http://arxiv.org/abs/2401.10590)|null|
 |**2024-01-19**|**Enhancing medical vision-language contrastive learning via inter-matching relation modelling**|Mingjian Li et.al.|[2401.10501](http://arxiv.org/abs/2401.10501)|null|
@@ -1094,6 +1104,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210](http://arxiv.org/abs/2401.12210)|null|
+|**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007](http://arxiv.org/abs/2401.12007)|null|
+|**2024-01-22**|**ADA-GNN: Atom-Distance-Angle Graph Neural Network for Crystal Material Property Prediction**|Jiao Huang et.al.|[2401.11768](http://arxiv.org/abs/2401.11768)|null|
+|**2024-01-20**|**On The Temporal Domain of Differential Equation Inspired Graph Neural Networks**|Moshe Eliasof et.al.|[2401.11074](http://arxiv.org/abs/2401.11074)|null|
 |**2024-01-18**|**Distribution Consistency based Self-Training for Graph Neural Networks with Sparse Labels**|Fali Wang et.al.|[2401.10394](http://arxiv.org/abs/2401.10394)|null|
 |**2024-01-18**|**A rotation-equivariant graph neural network for learning hadronic SMEFT effects**|Suman Chatterjee et.al.|[2401.10323](http://arxiv.org/abs/2401.10323)|null|
 |**2024-01-17**|**A novel hybrid time-varying graph neural network for traffic flow forecasting**|Ben Ao Dai et.al.|[2401.10155](http://arxiv.org/abs/2401.10155)|null|
@@ -1696,6 +1710,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179](http://arxiv.org/abs/2401.12179)|null|
+|**2024-01-22**|**ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**|Yi-Chiao Wu et.al.|[2401.12160](http://arxiv.org/abs/2401.12160)|null|
+|**2024-01-22**|**Weak second-order quantum state diffusion unraveling of the Lindblad master equation**|Sayak Adhikari et.al.|[2401.12109](http://arxiv.org/abs/2401.12109)|null|
+|**2024-01-22**|**Feature Denoising Diffusion Model for Blind Image Quality Assessment**|Xudong Li et.al.|[2401.11949](http://arxiv.org/abs/2401.11949)|null|
+|**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
+|**2024-01-22**|**EmerDiff: Emerging Pixel-level Semantic Knowledge in Diffusion Models**|Koichi Namekata et.al.|[2401.11739](http://arxiv.org/abs/2401.11739)|null|
+|**2024-01-22**|**Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs**|Ling Yang et.al.|[2401.11708](http://arxiv.org/abs/2401.11708)|**[link](https://github.com/yangling0818/rpg-diffusionmaster)**|
+|**2024-01-21**|**Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**|Katherine Crowson et.al.|[2401.11605](http://arxiv.org/abs/2401.11605)|null|
+|**2024-01-21**|**Connectivity of the diffuse interface and fine structure of minimizers in the Allen-Cahn theory of phase transitions**|Giorgio Fusco et.al.|[2401.11575](http://arxiv.org/abs/2401.11575)|null|
+|**2024-01-21**|**Controlling the Misinformation Diffusion in Social Media by the Effect of Different Classes of Agents**|Ali Khodabandeh Yalabadi et.al.|[2401.11524](http://arxiv.org/abs/2401.11524)|null|
 |**2024-01-19**|**From Market Saturation to Social Reinforcement: Understanding the Impact of Non-Linearity in Information Diffusion Models**|Tobias Friedrich et.al.|[2401.10818](http://arxiv.org/abs/2401.10818)|null|
 |**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
 |**2024-01-19**|**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**|Yinan Zheng et.al.|[2401.10700](http://arxiv.org/abs/2401.10700)|null|
