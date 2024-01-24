@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition**|Yan Zhao et.al.|[2401.12925](http://arxiv.org/abs/2401.12925)|null|
+|**2024-01-23**|**Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning**|Zhishuai Li et.al.|[2401.12681](http://arxiv.org/abs/2401.12681)|null|
+|**2024-01-23**|**Consistency Enhancement-Based Deep Multiview Clustering via Contrastive Learning**|Hao Yang et.al.|[2401.12648](http://arxiv.org/abs/2401.12648)|null|
+|**2024-01-23**|**Graph Contrastive Invariant Learning from the Causal Perspective**|Yanhu Mo et.al.|[2401.12564](http://arxiv.org/abs/2401.12564)|null|
+|**2024-01-23**|**Contrastive Learning in Distilled Models**|Valerie Lim et.al.|[2401.12472](http://arxiv.org/abs/2401.12472)|null|
+|**2024-01-22**|**Contrastive Learning and Cycle Consistency-based Transductive Transfer Learning for Target Annotation**|Shoaib Meraj Sami et.al.|[2401.12340](http://arxiv.org/abs/2401.12340)|null|
 |**2024-01-22**|**Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training**|Vedant Dave et.al.|[2401.12024](http://arxiv.org/abs/2401.12024)|null|
 |**2024-01-22**|**SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning**|Hao Chen et.al.|[2401.11847](http://arxiv.org/abs/2401.11847)|null|
 |**2024-01-22**|**Modern approaches to improving phase contrast electron microscopy**|Jeremy J. Axelrod et.al.|[2401.11678](http://arxiv.org/abs/2401.11678)|null|
@@ -1097,6 +1103,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920](http://arxiv.org/abs/2401.12920)|null|
+|**2024-01-23**|**MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage**|Ying Song et.al.|[2401.12824](http://arxiv.org/abs/2401.12824)|null|
+|**2024-01-22**|**VC dimension of Graph Neural Networks with Pfaffian activation functions**|Giuseppe Alessio D'Inverno et.al.|[2401.12362](http://arxiv.org/abs/2401.12362)|null|
 |**2024-01-22**|**Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition**|Haz Sameen Shahgir et.al.|[2401.12210](http://arxiv.org/abs/2401.12210)|null|
 |**2024-01-22**|**Tensor-view Topological Graph Neural Network**|Tao Wen et.al.|[2401.12007](http://arxiv.org/abs/2401.12007)|null|
 |**2024-01-22**|**ADA-GNN: Atom-Distance-Angle Graph Neural Network for Crystal Material Property Prediction**|Jiao Huang et.al.|[2401.11768](http://arxiv.org/abs/2401.11768)|null|
@@ -1701,6 +1710,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
+|**2024-01-23**|**Propagation reversal on trees in the large diffusion regime**|Hermen Jan Hupkes et.al.|[2401.12899](http://arxiv.org/abs/2401.12899)|null|
+|**2024-01-23**|**An Efficient Algorithm for Spatial-Spectral Partial Volume Compartment Mapping with Applications to Multicomponent Diffusion and Relaxation MRI**|Yunsong Liu et.al.|[2401.12890](http://arxiv.org/abs/2401.12890)|null|
+|**2024-01-23**|**Optimal Stopping of Branching Diffusion Processes**|Idris Kharroubi et.al.|[2401.12811](http://arxiv.org/abs/2401.12811)|null|
+|**2024-01-23**|**Boosting macroscopic diffusion with local resetting**|Henry Alston et.al.|[2401.12772](http://arxiv.org/abs/2401.12772)|null|
+|**2024-01-23**|**Wasserstein Diffusion on Multidimensional Spaces**|Karl-Theodor Sturm et.al.|[2401.12721](http://arxiv.org/abs/2401.12721)|null|
+|**2024-01-23**|**ToDA: Target-oriented Diffusion Attacker against Recommendation System**|Xiaohao Liu et.al.|[2401.12578](http://arxiv.org/abs/2401.12578)|null|
+|**2024-01-23**|**DDMI: Domain-Agnostic Latent Diffusion Models for Synthesizing High-Quality Implicit Neural Representations**|Dogyun Park et.al.|[2401.12517](http://arxiv.org/abs/2401.12517)|null|
+|**2024-01-22**|**Multi-energy diffuse neutrino fluxes originating from core-collapse supernovae**|Yosuke Ashida et.al.|[2401.12403](http://arxiv.org/abs/2401.12403)|null|
 |**2024-01-22**|**DITTO: Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2401.12179](http://arxiv.org/abs/2401.12179)|null|
 |**2024-01-22**|**ScoreDec: A Phase-preserving High-Fidelity Audio Codec with A Generalized Score-based Diffusion Post-filter**|Yi-Chiao Wu et.al.|[2401.12160](http://arxiv.org/abs/2401.12160)|null|
 |**2024-01-22**|**Weak second-order quantum state diffusion unraveling of the Lindblad master equation**|Sayak Adhikari et.al.|[2401.12109](http://arxiv.org/abs/2401.12109)|null|
