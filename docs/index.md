@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.24
+## Updated on 2024.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -18,7 +18,7 @@ layout: default
 |**2024-01-22**|**Multimodal Visual-Tactile Representation Learning through Self-Supervised Contrastive Pre-Training**|Vedant Dave et.al.|[2401.12024](http://arxiv.org/abs/2401.12024)|null|
 |**2024-01-22**|**SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning**|Hao Chen et.al.|[2401.11847](http://arxiv.org/abs/2401.11847)|null|
 |**2024-01-22**|**Modern approaches to improving phase contrast electron microscopy**|Jeremy J. Axelrod et.al.|[2401.11678](http://arxiv.org/abs/2401.11678)|null|
-|**2024-01-22**|**Next Visit Diagnosis Prediction via Medical Code-Centric Multimodal Contrastive EHR Modelling with Hierarchical Regularisation**|Heejoon Koo et.al.|[2401.11648](http://arxiv.org/abs/2401.11648)|null|
+|**2024-01-24**|**Next Visit Diagnosis Prediction via Medical Code-Centric Multimodal Contrastive EHR Modelling with Hierarchical Regularisation**|Heejoon Koo et.al.|[2401.11648](http://arxiv.org/abs/2401.11648)|null|
 |**2024-01-21**|**Visual Imitation Learning with Calibrated Contrastive Representation**|Yunke Wang et.al.|[2401.11396](http://arxiv.org/abs/2401.11396)|null|
 |**2024-01-21**|**Self-supervised Contrastive Learning for 6G UM-MIMO THz Communications: Improving Robustness Under Imperfect CSI**|Rafid Umayer Murshed et.al.|[2401.11376](http://arxiv.org/abs/2401.11376)|null|
 |**2024-01-21**|**PepHarmony: A Multi-View Contrastive Learning Framework for Integrated Sequence and Structure-Based Peptide Encoding**|Ruochi Zhang et.al.|[2401.11360](http://arxiv.org/abs/2401.11360)|null|
