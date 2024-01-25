@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**DDI-CoCo: A Dataset For Understanding The Effect Of Color Contrast In Machine-Assisted Skin Disease Detection**|Ming-Chang Chiu et.al.|[2401.13280](http://arxiv.org/abs/2401.13280)|**[link](https://github.com/charismaticchiu/ddi-coco)**|
+|**2024-01-24**|**Enhancing cross-domain detection: adaptive class-aware contrastive transformer**|Ziru Zeng et.al.|[2401.13264](http://arxiv.org/abs/2401.13264)|null|
+|**2024-01-23**|**Bartholomew's trend test -- approximated by a multiple contrast test**|Ludwig A. Hothorn et.al.|[2401.13010](http://arxiv.org/abs/2401.13010)|null|
 |**2024-01-23**|**Emotion-Aware Contrastive Adaptation Network for Source-Free Cross-Corpus Speech Emotion Recognition**|Yan Zhao et.al.|[2401.12925](http://arxiv.org/abs/2401.12925)|null|
 |**2024-01-23**|**Non-Neighbors Also Matter to Kriging: A New Contrastive-Prototypical Learning**|Zhishuai Li et.al.|[2401.12681](http://arxiv.org/abs/2401.12681)|null|
 |**2024-01-23**|**Consistency Enhancement-Based Deep Multiview Clustering via Contrastive Learning**|Hao Yang et.al.|[2401.12648](http://arxiv.org/abs/2401.12648)|null|
@@ -1110,6 +1113,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Probabilistic Demand Forecasting with Graph Neural Networks**|Nikita Kozodoi et.al.|[2401.13096](http://arxiv.org/abs/2401.13096)|null|
 |**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920](http://arxiv.org/abs/2401.12920)|null|
 |**2024-01-23**|**MAPPING: Debiasing Graph Neural Networks for Fair Node Classification with Limited Sensitive Information Leakage**|Ying Song et.al.|[2401.12824](http://arxiv.org/abs/2401.12824)|null|
 |**2024-01-22**|**VC dimension of Graph Neural Networks with Pfaffian activation functions**|Giuseppe Alessio D'Inverno et.al.|[2401.12362](http://arxiv.org/abs/2401.12362)|null|
@@ -1719,6 +1723,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Gaseous Diffusion as a Correlated Random Walk**|Santos Bravo Yuste et.al.|[2401.13571](http://arxiv.org/abs/2401.13571)|null|
+|**2024-01-24**|**Guided Diffusion for Fast Inverse Design of Density-based Mechanical Metamaterials**|Yanyan Yang et.al.|[2401.13570](http://arxiv.org/abs/2401.13570)|null|
+|**2024-01-24**|**Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting**|Hounsu Kim et.al.|[2401.13498](http://arxiv.org/abs/2401.13498)|null|
+|**2024-01-24**|**Diffusion of an Active Particle Bound to a Generalized Elastic Model: Fractional Langevin Equation**|Alessandro Taloni et.al.|[2401.13457](http://arxiv.org/abs/2401.13457)|null|
+|**2024-01-24**|**Numerical Approximations and Convergence Analysis of Piecewise Diffusion Markov Processes, with Application to Glioma Cell Migration**|Evelyn Buckwar et.al.|[2401.13428](http://arxiv.org/abs/2401.13428)|null|
+|**2024-01-24**|**Tracer diffusion beyond Gaussian behavior: explicit results for general single-file systems**|Aurélien Grabsch et.al.|[2401.13409](http://arxiv.org/abs/2401.13409)|null|
+|**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388](http://arxiv.org/abs/2401.13388)|null|
+|**2024-01-24**|**Generative Video Diffusion for Unseen Cross-Domain Video Moment Retrieval**|Dezhao Luo et.al.|[2401.13329](http://arxiv.org/abs/2401.13329)|null|
+|**2024-01-24**|**Semblance study of force-field and convection-diffusion solutions with observations of solar magnetic phenomena**|Miguel Enríquez-Vargas et.al.|[2401.13241](http://arxiv.org/abs/2401.13241)|null|
+|**2024-01-24**|**Generative Design of Crystal Structures by Point Cloud Representations and Diffusion Model**|Zhelin Li et.al.|[2401.13192](http://arxiv.org/abs/2401.13192)|null|
 |**2024-01-23**|**Lumiere: A Space-Time Diffusion Model for Video Generation**|Omer Bar-Tal et.al.|[2401.12945](http://arxiv.org/abs/2401.12945)|null|
 |**2024-01-23**|**Propagation reversal on trees in the large diffusion regime**|Hermen Jan Hupkes et.al.|[2401.12899](http://arxiv.org/abs/2401.12899)|null|
 |**2024-01-23**|**An Efficient Algorithm for Spatial-Spectral Partial Volume Compartment Mapping with Applications to Multicomponent Diffusion and Relaxation MRI**|Yunsong Liu et.al.|[2401.12890](http://arxiv.org/abs/2401.12890)|null|
