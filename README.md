@@ -1733,7 +1733,7 @@
 |**2024-01-25**|**Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models**|Rameshwar Mishra et.al.|[2401.14111](http://arxiv.org/abs/2401.14111)|null|
 |**2024-01-25**|**Diffusion of light in structurally anisotropic media with uniaxial symmetry**|Ernesto Pini et.al.|[2401.14068](http://arxiv.org/abs/2401.14068)|null|
 |**2024-01-25**|**CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion**|Nisha Huang et.al.|[2401.14066](http://arxiv.org/abs/2401.14066)|**[link](https://github.com/haha-lisa/creativesynth)**|
-|**2024-01-25**|**Deep Clustering with Diffused Sampling and Hardness-aware Self-distillation**|Hai-Xin Zhang et.al.|[2401.14038](http://arxiv.org/abs/2401.14038)|null|
+|**2024-01-25**|**Deep Clustering with Diffused Sampling and Hardness-aware Self-distillation**|Hai-Xin Zhang et.al.|[2401.14038](http://arxiv.org/abs/2401.14038)|**[link](https://github.com/regan-zhang/hadis)**|
 |**2024-01-25**|**Diffusion-based Data Augmentation for Object Counting Problems**|Zhen Wang et.al.|[2401.13992](http://arxiv.org/abs/2401.13992)|null|
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974](http://arxiv.org/abs/2401.13974)|null|
 |**2024-01-24**|**Gaseous Diffusion as a Correlated Random Walk**|Santos Bravo Yuste et.al.|[2401.13571](http://arxiv.org/abs/2401.13571)|null|
