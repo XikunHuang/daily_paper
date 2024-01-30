@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**ConFit: Improving Resume-Job Matching using Data Augmentation and Contrastive Learning**|Xiao Yu et.al.|[2401.16349](http://arxiv.org/abs/2401.16349)|null|
+|**2024-01-29**|**PICL: Physics Informed Contrastive Learning for Partial Differential Equations**|Cooper Lorsung et.al.|[2401.16327](http://arxiv.org/abs/2401.16327)|null|
+|**2024-01-29**|**GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling**|Wei Ju et.al.|[2401.16011](http://arxiv.org/abs/2401.16011)|null|
+|**2024-01-29**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935](http://arxiv.org/abs/2401.15935)|null|
+|**2024-01-28**|**Contrastive Learning and Mixture of Experts Enables Precise Vector Embeddings**|Rohan Kapur et.al.|[2401.15713](http://arxiv.org/abs/2401.15713)|null|
+|**2024-01-28**|**Discovery of two warm mini-Neptunes with contrasting densities orbiting the young K3V star TOI-815**|Angelica Psaridi et.al.|[2401.15709](http://arxiv.org/abs/2401.15709)|null|
+|**2024-01-28**|**RecDCL: Dual Contrastive Learning for Recommendation**|Dan Zhang et.al.|[2401.15635](http://arxiv.org/abs/2401.15635)|null|
+|**2024-01-27**|**Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval**|Ayush Dubey et.al.|[2401.15362](http://arxiv.org/abs/2401.15362)|null|
+|**2024-01-27**|**UNSEE: Unsupervised Non-contrastive Sentence Embeddings**|Ömer Veysel Çağatan et.al.|[2401.15316](http://arxiv.org/abs/2401.15316)|null|
+|**2024-01-25**|**Improving Fairness of Automated Chest X-ray Diagnosis by Contrastive Learning**|Mingquan Lin et.al.|[2401.15111](http://arxiv.org/abs/2401.15111)|null|
 |**2024-01-25**|**MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**|Tao Guo et.al.|[2401.13934](http://arxiv.org/abs/2401.13934)|**[link](https://github.com/guo-stone/mambamorph)**|
 |**2024-01-24**|**DDI-CoCo: A Dataset For Understanding The Effect Of Color Contrast In Machine-Assisted Skin Disease Detection**|Ming-Chang Chiu et.al.|[2401.13280](http://arxiv.org/abs/2401.13280)|**[link](https://github.com/charismaticchiu/ddi-coco)**|
 |**2024-01-24**|**Enhancing cross-domain detection: adaptive class-aware contrastive transformer**|Ziru Zeng et.al.|[2401.13264](http://arxiv.org/abs/2401.13264)|null|
@@ -1107,6 +1117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275](http://arxiv.org/abs/2401.16275)|null|
+|**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271](http://arxiv.org/abs/2401.16271)|null|
+|**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187](http://arxiv.org/abs/2401.16187)|null|
+|**2024-01-29**|**Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction**|Zhixin Huang et.al.|[2401.15964](http://arxiv.org/abs/2401.15964)|null|
+|**2024-01-28**|**Improving Expressive Power of Spectral Graph Neural Networks with Eigenvalue Correction**|Kangkang Lu et.al.|[2401.15603](http://arxiv.org/abs/2401.15603)|null|
+|**2024-01-28**|**DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations**|Jinlu Wang et.al.|[2401.15584](http://arxiv.org/abs/2401.15584)|null|
+|**2024-01-27**|**Application of Graph Neural Networks in Dark Photon Search with Visible Decays at Future Beam Dump Experiment**|Zejia Lu et.al.|[2401.15477](http://arxiv.org/abs/2401.15477)|null|
+|**2024-01-27**|**Towards Causal Classification: A Comprehensive Study on Graph Neural Networks**|Simi Job et.al.|[2401.15444](http://arxiv.org/abs/2401.15444)|null|
+|**2024-01-27**|**Neutrino Reconstruction in TRIDENT Based on Graph Neural Network**|Cen Mo et.al.|[2401.15324](http://arxiv.org/abs/2401.15324)|null|
+|**2024-01-27**|**Adaptive Least Mean Squares Graph Neural Networks and Online Graph Signal Estimation**|Yi Yan et.al.|[2401.15304](http://arxiv.org/abs/2401.15304)|null|
 |**2024-01-26**|**Macro Graph Neural Networks for Online Billion-Scale Recommender Systems**|Hao Chen et.al.|[2401.14939](http://arxiv.org/abs/2401.14939)|null|
 |**2024-01-26**|**Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems**|Sicong Cao et.al.|[2401.14886](http://arxiv.org/abs/2401.14886)|null|
 |**2024-01-26**|**PepGB: Facilitating peptide drug discovery via graph neural networks**|Yipin Lei et.al.|[2401.14665](http://arxiv.org/abs/2401.14665)|null|
@@ -1722,6 +1742,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Dual-adatom diffusion-limited growth model for compound nanowires: Application to InAs nanowires**|Danylo Mosiiets et.al.|[2401.16269](http://arxiv.org/abs/2401.16269)|null|
+|**2024-01-29**|**Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model**|Qiyao Peng et.al.|[2401.16261](http://arxiv.org/abs/2401.16261)|null|
+|**2024-01-29**|**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**|Zhongjie Duan et.al.|[2401.16224](http://arxiv.org/abs/2401.16224)|null|
+|**2024-01-29**|**Acoustic Screens based on Sonic Crystals with high Diffusion properties**|M. P. Peiró-Torres et.al.|[2401.16074](http://arxiv.org/abs/2401.16074)|null|
+|**2024-01-29**|**DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems**|Youcheng Zeng et.al.|[2401.16017](http://arxiv.org/abs/2401.16017)|null|
+|**2024-01-29**|**High order conservative LDG-IMEX methods for the degenerate nonlinear non-equilibrium radiation diffusion problems**|Shaoqin Zheng et.al.|[2401.15941](http://arxiv.org/abs/2401.15941)|null|
+|**2024-01-29**|**EmoDM: A Diffusion Model for Evolutionary Multi-objective Optimization**|Xueming Yan et.al.|[2401.15931](http://arxiv.org/abs/2401.15931)|null|
+|**2024-01-29**|**Accurate detection of diffusion anisotropy from an individual short particle trajectory**|Kaito Takanami et.al.|[2401.15909](http://arxiv.org/abs/2401.15909)|null|
+|**2024-01-29**|**Diffusion Facial Forgery Detection**|Harry Cheng et.al.|[2401.15859](http://arxiv.org/abs/2401.15859)|null|
+|**2024-01-28**|**HII regions and diffuse ionized gas in the AMUSING++ Compilation: I. Catalogue presentation**|A. Z. Lugo-Aranda et.al.|[2401.15807](http://arxiv.org/abs/2401.15807)|null|
 |**2024-01-26**|**DAM: Diffusion Activation Maximization for 3D Global Explanations**|Hanxiao Tan et.al.|[2401.14938](http://arxiv.org/abs/2401.14938)|null|
 |**2024-01-26**|**Advanced iontronic spiking modes with multiscale diffusive dynamics in a fluidic circuit**|T. M. Kamsma et.al.|[2401.14921](http://arxiv.org/abs/2401.14921)|null|
 |**2024-01-26**|**Text Image Inpainting via Global Structure-Guided Diffusion Models**|Shipeng Zhu et.al.|[2401.14832](http://arxiv.org/abs/2401.14832)|null|
