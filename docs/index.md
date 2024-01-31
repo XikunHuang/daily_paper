@@ -9,12 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Morality is Non-Binary: Building a Pluralist Moral Sentence Embedding Space using Contrastive Learning**|Jeongwoo Park et.al.|[2401.17228](http://arxiv.org/abs/2401.17228)|**[link](https://github.com/jeongwoopark0514/morality-is-non-binary)**|
+|**2024-01-30**|**Scattering of ultrashort electron wave packets: optical theorem, differential phase contrast and angular asymmetries**|Yuya Morimoto et.al.|[2401.16799](http://arxiv.org/abs/2401.16799)|null|
+|**2024-01-30**|**Detection and Recovery Against Deep Neural Network Fault Injection Attacks Based on Contrastive Learning**|Chenan Wang et.al.|[2401.16766](http://arxiv.org/abs/2401.16766)|null|
+|**2024-01-29**|**Supervised Contrastive Learning based Dual-Mixer Model for Remaining Useful Life Prediction**|En Fu et.al.|[2401.16462](http://arxiv.org/abs/2401.16462)|**[link](https://github.com/fuen1590/phmdeeplearningprojects)**|
 |**2024-01-29**|**ConFit: Improving Resume-Job Matching using Data Augmentation and Contrastive Learning**|Xiao Yu et.al.|[2401.16349](http://arxiv.org/abs/2401.16349)|null|
 |**2024-01-29**|**PICL: Physics Informed Contrastive Learning for Partial Differential Equations**|Cooper Lorsung et.al.|[2401.16327](http://arxiv.org/abs/2401.16327)|null|
 |**2024-01-29**|**GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling**|Wei Ju et.al.|[2401.16011](http://arxiv.org/abs/2401.16011)|null|
-|**2024-01-29**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935](http://arxiv.org/abs/2401.15935)|null|
+|**2024-01-30**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935](http://arxiv.org/abs/2401.15935)|**[link](https://github.com/vityavitalich/mlem)**|
 |**2024-01-28**|**Contrastive Learning and Mixture of Experts Enables Precise Vector Embeddings**|Rohan Kapur et.al.|[2401.15713](http://arxiv.org/abs/2401.15713)|null|
-|**2024-01-28**|**Discovery of two warm mini-Neptunes with contrasting densities orbiting the young K3V star TOI-815**|Angelica Psaridi et.al.|[2401.15709](http://arxiv.org/abs/2401.15709)|null|
+|**2024-01-30**|**Discovery of two warm mini-Neptunes with contrasting densities orbiting the young K3V star TOI-815**|Angelica Psaridi et.al.|[2401.15709](http://arxiv.org/abs/2401.15709)|null|
 |**2024-01-28**|**RecDCL: Dual Contrastive Learning for Recommendation**|Dan Zhang et.al.|[2401.15635](http://arxiv.org/abs/2401.15635)|null|
 |**2024-01-27**|**Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval**|Ayush Dubey et.al.|[2401.15362](http://arxiv.org/abs/2401.15362)|null|
 |**2024-01-27**|**UNSEE: Unsupervised Non-contrastive Sentence Embeddings**|Ömer Veysel Çağatan et.al.|[2401.15316](http://arxiv.org/abs/2401.15316)|null|
@@ -1117,6 +1121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Towards Accurate Prediction of Configurational Disorder Properties in Materials using Graph Neural Networks**|Zhenyao Fang et.al.|[2401.16565](http://arxiv.org/abs/2401.16565)|null|
 |**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275](http://arxiv.org/abs/2401.16275)|null|
 |**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271](http://arxiv.org/abs/2401.16271)|null|
 |**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187](http://arxiv.org/abs/2401.16187)|null|
@@ -1742,6 +1747,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291](http://arxiv.org/abs/2401.17291)|null|
+|**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258](http://arxiv.org/abs/2401.17258)|null|
+|**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
+|**2024-01-30**|**Local modification of subdiffusion by initial Fickian diffusion: Multiscale modeling, analysis and computation**|Xiangcheng Zheng et.al.|[2401.16885](http://arxiv.org/abs/2401.16885)|null|
+|**2024-01-30**|**Enhancing EEG Signal-Based Emotion Recognition with Synthetic Data: Diffusion Modeel Approach**|Gourav Siddhad et.al.|[2401.16878](http://arxiv.org/abs/2401.16878)|null|
+|**2024-01-30**|**Sticky-reflecting diffusion as a Wasserstein gradient flow**|Jean-Baptiste Casteras et.al.|[2401.16842](http://arxiv.org/abs/2401.16842)|null|
+|**2024-01-30**|**The Gâteaux derivative of the curvilinear boundary crossing probability of diffusion processes**|Vincent Liang et.al.|[2401.16787](http://arxiv.org/abs/2401.16787)|null|
+|**2024-01-30**|**BoostDream: Efficient Refining for High-Quality Text-to-3D Generation from Multi-View Diffusion**|Yonghao Yu et.al.|[2401.16764](http://arxiv.org/abs/2401.16764)|null|
+|**2024-01-30**|**Diffusion model for relational inference**|Shuhan Zheng et.al.|[2401.16755](http://arxiv.org/abs/2401.16755)|null|
 |**2024-01-29**|**Dual-adatom diffusion-limited growth model for compound nanowires: Application to InAs nanowires**|Danylo Mosiiets et.al.|[2401.16269](http://arxiv.org/abs/2401.16269)|null|
 |**2024-01-29**|**Using multiple Dirac delta points to describe inhomogeneous flux density over a cell boundary in a single-cell diffusion model**|Qiyao Peng et.al.|[2401.16261](http://arxiv.org/abs/2401.16261)|null|
 |**2024-01-29**|**Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models**|Zhongjie Duan et.al.|[2401.16224](http://arxiv.org/abs/2401.16224)|null|
