@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Rank Supervised Contrastive Learning for Time Series Classification**|Qianying Ren et.al.|[2401.18057](http://arxiv.org/abs/2401.18057)|null|
+|**2024-01-31**|**Optimizing contrastive learning for cortical folding pattern detection**|Aymeric Gaudin et.al.|[2401.18035](http://arxiv.org/abs/2401.18035)|null|
+|**2024-01-31**|**Distillation Enhanced Time Series Forecasting Network with Momentum Contrastive Learning**|Haozhi Gao et.al.|[2401.17802](http://arxiv.org/abs/2401.17802)|null|
+|**2024-01-31**|**Double InfoGAN for Contrastive Analysis**|Florence Carton et.al.|[2401.17776](http://arxiv.org/abs/2401.17776)|**[link](https://github.com/florence-c/double_infogan)**|
+|**2024-01-31**|**COMET: Contrastive Mean Teacher for Online Source-Free Universal Domain Adaptation**|Pascal Schlachter et.al.|[2401.17728](http://arxiv.org/abs/2401.17728)|**[link](https://github.com/pascalschlachter/comet)**|
+|**2024-01-31**|**Graph Contrastive Learning with Cohesive Subgraph Awareness**|Yucheng Wu et.al.|[2401.17580](http://arxiv.org/abs/2401.17580)|**[link](https://github.com/wuyucheng2002/ctaug)**|
+|**2024-01-31**|**A high contrast and resolution reconstruction algorithm in quantitative photoacoustic tomography**|Anwesa Dey et.al.|[2401.17569](http://arxiv.org/abs/2401.17569)|null|
+|**2024-01-30**|**Customizing Language Model Responses with Contrastive In-Context Learning**|Xiang Gao et.al.|[2401.17390](http://arxiv.org/abs/2401.17390)|null|
 |**2024-01-30**|**Morality is Non-Binary: Building a Pluralist Moral Sentence Embedding Space using Contrastive Learning**|Jeongwoo Park et.al.|[2401.17228](http://arxiv.org/abs/2401.17228)|**[link](https://github.com/jeongwoopark0514/morality-is-non-binary)**|
 |**2024-01-30**|**Scattering of ultrashort electron wave packets: optical theorem, differential phase contrast and angular asymmetries**|Yuya Morimoto et.al.|[2401.16799](http://arxiv.org/abs/2401.16799)|null|
 |**2024-01-30**|**Detection and Recovery Against Deep Neural Network Fault Injection Attacks Based on Contrastive Learning**|Chenan Wang et.al.|[2401.16766](http://arxiv.org/abs/2401.16766)|null|
@@ -1756,6 +1764,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
+|**2024-01-31**|**Convergence Analysis for General Probability Flow ODEs of Diffusion Models in Wasserstein Distances**|Xuefeng Gao et.al.|[2401.17958](http://arxiv.org/abs/2401.17958)|null|
+|**2024-01-31**|**AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error**|Jonas Ricker et.al.|[2401.17879](http://arxiv.org/abs/2401.17879)|null|
+|**2024-01-31**|**Drift Diffusion Model to understand (mis)information sharing dynamic in complex networks**|Lucila G. Alvarez-Zuzek et.al.|[2401.17846](http://arxiv.org/abs/2401.17846)|null|
+|**2024-01-31**|**Evolving privacy: drift parameter estimation for discretely observed i.i.d. diffusion processes under LDP**|Chiara Amorino et.al.|[2401.17829](http://arxiv.org/abs/2401.17829)|null|
+|**2024-01-31**|**Dance-to-Music Generation with Encoder-based Textual Inversion of Diffusion Models**|Sifei Li et.al.|[2401.17800](http://arxiv.org/abs/2401.17800)|null|
+|**2024-01-31**|**Spark Plasma Sintering for high-speed diffusion welding of the ultrafine grained near-a Ti-5Al-2V alloy with high strength and corrosion resistance for nuclear engineering**|Vladimir Chuvil'deev et.al.|[2401.17718](http://arxiv.org/abs/2401.17718)|null|
+|**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629](http://arxiv.org/abs/2401.17629)|null|
+|**2024-01-31**|**Estimating Diffusion Degree on Graph Streams**|Vinit Ramesh Gore et.al.|[2401.17611](http://arxiv.org/abs/2401.17611)|null|
+|**2024-01-31**|**Topology-Aware Latent Diffusion for 3D Shape Generation**|Jiangbei Hu et.al.|[2401.17603](http://arxiv.org/abs/2401.17603)|null|
 |**2024-01-30**|**Discovery of the Goat Horn complex: a $\sim 1000$ deg$^2$ diffuse X-ray source connected to radio loop XII**|Nicola Locatelli et.al.|[2401.17291](http://arxiv.org/abs/2401.17291)|null|
 |**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258](http://arxiv.org/abs/2401.17258)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
