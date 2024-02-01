@@ -1,4 +1,4 @@
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-01-29**|**PICL: Physics Informed Contrastive Learning for Partial Differential Equations**|Cooper Lorsung et.al.|[2401.16327](http://arxiv.org/abs/2401.16327)|null|
 |**2024-01-29**|**GPS: Graph Contrastive Learning via Multi-scale Augmented Views from Adversarial Pooling**|Wei Ju et.al.|[2401.16011](http://arxiv.org/abs/2401.16011)|null|
 |**2024-01-30**|**Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning**|Viktor Moskvoretskii et.al.|[2401.15935](http://arxiv.org/abs/2401.15935)|**[link](https://github.com/vityavitalich/mlem)**|
-|**2024-01-28**|**Contrastive Learning and Mixture of Experts Enables Precise Vector Embeddings**|Rohan Kapur et.al.|[2401.15713](http://arxiv.org/abs/2401.15713)|null|
+|**2024-01-28**|**Contrastive Learning and Mixture of Experts Enables Precise Vector Embeddings**|Rohan Kapur et.al.|[2401.15713](http://arxiv.org/abs/2401.15713)|**[link](https://github.com/lhallee/mixture-of-experts-sentence-similarity)**|
 |**2024-01-30**|**Discovery of two warm mini-Neptunes with contrasting densities orbiting the young K3V star TOI-815**|Angelica Psaridi et.al.|[2401.15709](http://arxiv.org/abs/2401.15709)|null|
 |**2024-01-28**|**RecDCL: Dual Contrastive Learning for Recommendation**|Dan Zhang et.al.|[2401.15635](http://arxiv.org/abs/2401.15635)|null|
 |**2024-01-27**|**Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval**|Ayush Dubey et.al.|[2401.15362](http://arxiv.org/abs/2401.15362)|null|
@@ -1122,7 +1122,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
 
 ## GNN
 
@@ -1134,7 +1134,7 @@
 |**2024-01-29**|**Graph Neural Network-based Joint Equalization and Decoding**|Jannis Clausius et.al.|[2401.16187](http://arxiv.org/abs/2401.16187)|null|
 |**2024-01-29**|**Spatio-Temporal Attention Graph Neural Network for Remaining Useful Life Prediction**|Zhixin Huang et.al.|[2401.15964](http://arxiv.org/abs/2401.15964)|null|
 |**2024-01-28**|**Improving Expressive Power of Spectral Graph Neural Networks with Eigenvalue Correction**|Kangkang Lu et.al.|[2401.15603](http://arxiv.org/abs/2401.15603)|null|
-|**2024-01-28**|**DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations**|Jinlu Wang et.al.|[2401.15584](http://arxiv.org/abs/2401.15584)|null|
+|**2024-01-28**|**DGNN: Decoupled Graph Neural Networks with Structural Consistency between Attribute and Graph Embedding Representations**|Jinlu Wang et.al.|[2401.15584](http://arxiv.org/abs/2401.15584)|**[link](https://github.com/jinluwang1002/dgnn)**|
 |**2024-01-27**|**Application of Graph Neural Networks in Dark Photon Search with Visible Decays at Future Beam Dump Experiment**|Zejia Lu et.al.|[2401.15477](http://arxiv.org/abs/2401.15477)|null|
 |**2024-01-27**|**Towards Causal Classification: A Comprehensive Study on Graph Neural Networks**|Simi Job et.al.|[2401.15444](http://arxiv.org/abs/2401.15444)|null|
 |**2024-01-27**|**Neutrino Reconstruction in TRIDENT Based on Graph Neural Network**|Cen Mo et.al.|[2401.15324](http://arxiv.org/abs/2401.15324)|null|
@@ -1750,7 +1750,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
 
 ## Diffusion
 
@@ -3411,5 +3411,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240201>back to top</a>)</p>
 
