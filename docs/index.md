@@ -9,9 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Improving Dialog Safety using Socially Aware Contrastive Learning**|Souvik Das et.al.|[2402.00446](http://arxiv.org/abs/2402.00446)|null|
+|**2024-02-01**|**Does \textsc{DetectGPT} Fully Utilize Perturbation? Selective Perturbation on Model-Based Contrastive Learning Detector would be Better**|Shengchao Liu et.al.|[2402.00263](http://arxiv.org/abs/2402.00263)|null|
+|**2024-01-31**|**Learning Label Hierarchy with Supervised Contrastive Learning**|Ruixue Lian et.al.|[2402.00232](http://arxiv.org/abs/2402.00232)|**[link](https://github.com/rxlian/la-scl)**|
 |**2024-01-31**|**Rank Supervised Contrastive Learning for Time Series Classification**|Qianying Ren et.al.|[2401.18057](http://arxiv.org/abs/2401.18057)|null|
-|**2024-01-31**|**Optimizing contrastive learning for cortical folding pattern detection**|Aymeric Gaudin et.al.|[2401.18035](http://arxiv.org/abs/2401.18035)|null|
-|**2024-01-31**|**Distillation Enhanced Time Series Forecasting Network with Momentum Contrastive Learning**|Haozhi Gao et.al.|[2401.17802](http://arxiv.org/abs/2401.17802)|null|
+|**2024-01-31**|**Optimizing contrastive learning for cortical folding pattern detection**|Aymeric Gaudin et.al.|[2401.18035](http://arxiv.org/abs/2401.18035)|**[link](https://github.com/neurospin-projects/2022_jchavas_cingulate_inhibitory_control)**|
+|**2024-01-31**|**Distillation Enhanced Time Series Forecasting Network with Momentum Contrastive Learning**|Haozhi Gao et.al.|[2401.17802](http://arxiv.org/abs/2401.17802)|**[link](https://github.com/gaohaozhi/DE-TSMCL)**|
 |**2024-01-31**|**Double InfoGAN for Contrastive Analysis**|Florence Carton et.al.|[2401.17776](http://arxiv.org/abs/2401.17776)|**[link](https://github.com/florence-c/double_infogan)**|
 |**2024-01-31**|**COMET: Contrastive Mean Teacher for Online Source-Free Universal Domain Adaptation**|Pascal Schlachter et.al.|[2401.17728](http://arxiv.org/abs/2401.17728)|**[link](https://github.com/pascalschlachter/comet)**|
 |**2024-01-31**|**Graph Contrastive Learning with Cohesive Subgraph Awareness**|Yucheng Wu et.al.|[2401.17580](http://arxiv.org/abs/2401.17580)|**[link](https://github.com/wuyucheng2002/ctaug)**|
@@ -1129,6 +1132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction**|Sahab Zandi et.al.|[2402.00299](http://arxiv.org/abs/2402.00299)|null|
 |**2024-01-29**|**Towards Accurate Prediction of Configurational Disorder Properties in Materials using Graph Neural Networks**|Zhenyao Fang et.al.|[2401.16565](http://arxiv.org/abs/2401.16565)|null|
 |**2024-01-29**|**Graph Neural Networks: Theory for Estimation with Application on Network Heterogeneity**|Yike Wang et.al.|[2401.16275](http://arxiv.org/abs/2401.16275)|null|
 |**2024-01-29**|**AnisoGNN: graph neural networks generalizing to anisotropic properties of polycrystals**|Guangyu Hu et.al.|[2401.16271](http://arxiv.org/abs/2401.16271)|null|
@@ -1755,6 +1759,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**AToM: Amortized Text-to-Mesh using 2D Diffusion**|Guocheng Qian et.al.|[2402.00867](http://arxiv.org/abs/2402.00867)|null|
+|**2024-02-01**|**An Analysis of the Variance of Diffusion-based Speech Enhancement**|Bunlong Lay et.al.|[2402.00811](http://arxiv.org/abs/2402.00811)|null|
+|**2024-02-01**|**Distilling Conditional Diffusion Models for Offline Reinforcement Learning through Trajectory Stitching**|Shangzhe Li et.al.|[2402.00807](http://arxiv.org/abs/2402.00807)|null|
+|**2024-02-01**|**AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning**|Fu-Yun Wang et.al.|[2402.00769](http://arxiv.org/abs/2402.00769)|**[link](https://github.com/g-u-n/animatelcm)**|
+|**2024-02-01**|**Neutral carbon in diffuse interstellar medium: abundance matching with H2 for DLAs at high redshifts**|Sergei Balashev et.al.|[2402.00714](http://arxiv.org/abs/2402.00714)|null|
+|**2024-02-01**|**Cylindrically symmetric diffusion model for relativistic heavy-ion collisions**|Johannes Hoelck et.al.|[2402.00628](http://arxiv.org/abs/2402.00628)|null|
+|**2024-02-01**|**Diffusion-based Light Field Synthesis**|Ruisheng Gao et.al.|[2402.00575](http://arxiv.org/abs/2402.00575)|null|
+|**2024-02-01**|**Masked Conditional Diffusion Model for Enhancing Deepfake Detection**|Tiewen Chen et.al.|[2402.00541](http://arxiv.org/abs/2402.00541)|null|
+|**2024-02-01**|**Inverse problems for a generalized fractional diffusion equation with unknown history**|Jaan Janno et.al.|[2402.00482](http://arxiv.org/abs/2402.00482)|null|
+|**2024-02-01**|**Supernova burst and Diffuse Supernova Neutrino Background simulator for Water Cherenkov Detectors**|Fumi Nakanishi et.al.|[2402.00283](http://arxiv.org/abs/2402.00283)|null|
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085](http://arxiv.org/abs/2401.18085)|null|
 |**2024-01-31**|**Convergence Analysis for General Probability Flow ODEs of Diffusion Models in Wasserstein Distances**|Xuefeng Gao et.al.|[2401.17958](http://arxiv.org/abs/2401.17958)|null|
 |**2024-01-31**|**AEROBLADE: Training-Free Detection of Latent Diffusion Images Using Autoencoder Reconstruction Error**|Jonas Ricker et.al.|[2401.17879](http://arxiv.org/abs/2401.17879)|null|
