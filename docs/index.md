@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning**|Yixiang Shan et.al.|[2402.02772](http://arxiv.org/abs/2402.02772)|null|
+|**2024-02-04**|**Deep Supervision by Gaussian Pseudo-label-based Morphological Attention for Abdominal Aorta Segmentation in Non-Contrast CTs**|Qixiang Ma et.al.|[2402.02514](http://arxiv.org/abs/2402.02514)|null|
+|**2024-02-04**|**Full-body deep learning-based automated contouring of contrast-enhanced murine organs for small animal irradiator CBCT**|Ethan Cramer et.al.|[2402.02469](http://arxiv.org/abs/2402.02469)|null|
+|**2024-02-04**|**AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art**|Faizan Farooq Khan et.al.|[2402.02453](http://arxiv.org/abs/2402.02453)|**[link](https://github.com/faixan-khan/artneuralconstellation)**|
+|**2024-02-04**|**BECLR: Batch Enhanced Contrastive Few-Shot Learning**|Stylianos Poulakakis-Daktylidis et.al.|[2402.02444](http://arxiv.org/abs/2402.02444)|**[link](https://github.com/stypoumic/beclr)**|
+|**2024-02-03**|**Contrasting twisted bilayer graphene and transition metal dichalcogenides for fractional Chern insulators: an emergent gauge picture**|Heqiu Li et.al.|[2402.02251](http://arxiv.org/abs/2402.02251)|null|
+|**2024-02-03**|**Wavelet-Decoupling Contrastive Enhancement Network for Fine-Grained Skeleton-Based Action Recognition**|Haochen Chang et.al.|[2402.02210](http://arxiv.org/abs/2402.02210)|null|
+|**2024-02-03**|**Prototypical Contrastive Learning through Alignment and Uniformity for Recommendation**|Yangxun Ou et.al.|[2402.02079](http://arxiv.org/abs/2402.02079)|null|
+|**2024-02-03**|**Multiple-Crop Human Mesh Recovery with Contrastive Learning and Camera Consistency in A Single Image**|Yongwei Nie et.al.|[2402.02074](http://arxiv.org/abs/2402.02074)|null|
+|**2024-02-03**|**Variance Alignment Score: A Simple But Tough-to-Beat Data Selection Method for Multimodal Contrastive Learning**|Yiping Wang et.al.|[2402.02055](http://arxiv.org/abs/2402.02055)|null|
 |**2024-02-01**|**Self-Supervised Contrastive Pre-Training for Multivariate Point Processes**|Xiao Shou et.al.|[2402.00987](http://arxiv.org/abs/2402.00987)|null|
 |**2024-02-01**|**FairEHR-CLP: Towards Fairness-Aware Clinical Predictions with Contrastive Learning in Multimodal Electronic Health Records**|Yuqing Wang et.al.|[2402.00955](http://arxiv.org/abs/2402.00955)|null|
 |**2024-02-01**|**Improving Dialog Safety using Socially Aware Contrastive Learning**|Souvik Das et.al.|[2402.00446](http://arxiv.org/abs/2402.00446)|null|
@@ -1134,6 +1144,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827](http://arxiv.org/abs/2402.02827)|null|
+|**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692](http://arxiv.org/abs/2402.02692)|null|
+|**2024-02-03**|**Interpreting Graph Neural Networks with In-Distributed Proxies**|Zhuomin Chen et.al.|[2402.02036](http://arxiv.org/abs/2402.02036)|null|
+|**2024-02-02**|**PhenoLinker: Phenotype-Gene Link Prediction and Explanation using Heterogeneous Graph Neural Networks**|Jose L. Mellina Andreu et.al.|[2402.01809](http://arxiv.org/abs/2402.01809)|null|
 |**2024-02-02**|**Graph Neural Networks in EEG-based Emotion Recognition: A Survey**|Chenyu Liu et.al.|[2402.01138](http://arxiv.org/abs/2402.01138)|null|
 |**2024-02-02**|**DoseGNN: Improving the Performance of Deep Learning Models in Adaptive Dose-Volume Histogram Prediction through Graph Neural Networks**|Zehao Dong et.al.|[2402.01076](http://arxiv.org/abs/2402.01076)|null|
 |**2024-02-01**|**Attention-based Dynamic Multilayer Graph Neural Networks for Loan Default Prediction**|Sahab Zandi et.al.|[2402.00299](http://arxiv.org/abs/2402.00299)|null|
@@ -1763,6 +1777,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
+|**2024-02-05**|**Estimating position-dependent and anisotropic diffusivity tensors from molecular dynamics trajectories: Existing methods and future outlook**|Tiago Domingues et.al.|[2402.03285](http://arxiv.org/abs/2402.03285)|null|
+|**2024-02-05**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214](http://arxiv.org/abs/2402.03214)|null|
+|**2024-02-05**|**Guidance with Spherical Gaussian Constraint for Conditional Diffusion**|Lingxiao Yang et.al.|[2402.03201](http://arxiv.org/abs/2402.03201)|null|
+|**2024-02-05**|**DARTS: Diffusion Approximated Residual Time Sampling for Low Variance Time-of-flight Rendering in Homogeneous Scattering Medium**|Qianyue He et.al.|[2402.03106](http://arxiv.org/abs/2402.03106)|null|
+|**2024-02-05**|**Energy transport in diffusive waveguides**|Kevin J. Mitchell et.al.|[2402.03064](http://arxiv.org/abs/2402.03064)|null|
+|**2024-02-05**|**Geometry controls diffusive target encounters and escape in tubular structures**|Junyeong L. Kim et.al.|[2402.03059](http://arxiv.org/abs/2402.03059)|null|
+|**2024-02-05**|**PFDM: Parser-Free Virtual Try-on via Diffusion Model**|Yunfang Niu et.al.|[2402.03047](http://arxiv.org/abs/2402.03047)|null|
+|**2024-02-05**|**Lévy areas, Wong Zakai anomalies in diffusive limits of Deterministic Lagrangian Multi-Time Dynamics**|Theo Diamantakis et.al.|[2402.03026](http://arxiv.org/abs/2402.03026)|null|
+|**2024-02-05**|**Diffusive Gibbs Sampling**|Wenlin Chen et.al.|[2402.03008](http://arxiv.org/abs/2402.03008)|null|
 |**2024-02-02**|**Resolution dependence of most probable pathways with state-dependent diffusivity**|Alice L. Thorneywork et.al.|[2402.01559](http://arxiv.org/abs/2402.01559)|null|
 |**2024-02-02**|**Cross-view Masked Diffusion Transformers for Person Image Synthesis**|Trung X. Pham et.al.|[2402.01516](http://arxiv.org/abs/2402.01516)|null|
 |**2024-02-02**|**SVI solutions to stochastic nonlinear diffusion equations on general measure spaces**|Benjamin Gess et.al.|[2402.01479](http://arxiv.org/abs/2402.01479)|null|
