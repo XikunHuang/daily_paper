@@ -14,7 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-05**|**Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning**|Yixiang Shan et.al.|[2402.02772](http://arxiv.org/abs/2402.02772)|null|
+|**2024-02-06**|**Efficient Availability Attacks against Supervised and Contrastive Learning Simultaneously**|Yihan Wang et.al.|[2402.04010](http://arxiv.org/abs/2402.04010)|null|
+|**2024-02-06**|**BotSSCL: Social Bot Detection with Self-Supervised Contrastive Learning**|Mohammad Majid Akhtar et.al.|[2402.03740](http://arxiv.org/abs/2402.03740)|null|
+|**2024-02-06**|**CAMBranch: Contrastive Learning with Augmented MILPs for Branching**|Jiacheng Lin et.al.|[2402.03647](http://arxiv.org/abs/2402.03647)|null|
+|**2024-02-05**|**Beyond Strong labels: Weakly-supervised Learning Based on Gaussian Pseudo Labels for The Segmentation of Ellipse-like Vascular Structures in Non-contrast CTs**|Qixiang Ma et.al.|[2402.03492](http://arxiv.org/abs/2402.03492)|null|
+|**2024-02-05**|**Constrained Multiview Representation for Self-supervised Contrastive Learning**|Siyuan Dai et.al.|[2402.03456](http://arxiv.org/abs/2402.03456)|null|
+|**2024-02-06**|**Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning**|Yixiang Shan et.al.|[2402.02772](http://arxiv.org/abs/2402.02772)|null|
 |**2024-02-04**|**Deep Supervision by Gaussian Pseudo-label-based Morphological Attention for Abdominal Aorta Segmentation in Non-Contrast CTs**|Qixiang Ma et.al.|[2402.02514](http://arxiv.org/abs/2402.02514)|null|
 |**2024-02-04**|**Full-body deep learning-based automated contouring of contrast-enhanced murine organs for small animal irradiator CBCT**|Ethan Cramer et.al.|[2402.02469](http://arxiv.org/abs/2402.02469)|null|
 |**2024-02-04**|**AI Art Neural Constellation: Revealing the Collective and Contrastive State of AI-Generated and Human Art**|Faizan Farooq Khan et.al.|[2402.02453](http://arxiv.org/abs/2402.02453)|**[link](https://github.com/faixan-khan/artneuralconstellation)**|
@@ -1151,6 +1156,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**LIPSTICK: Corruptibility-Aware and Explainable Graph Neural Network-based Oracle-Less Attack on Logic Locking**|Yeganeh Aghamohammadi et.al.|[2402.04235](http://arxiv.org/abs/2402.04235)|null|
+|**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
+|**2024-02-06**|**Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations**|Yutack Park et.al.|[2402.03789](http://arxiv.org/abs/2402.03789)|null|
+|**2024-02-05**|**Path Signatures and Graph Neural Networks for Slow Earthquake Analysis: Better Together?**|Hans Riess et.al.|[2402.03558](http://arxiv.org/abs/2402.03558)|null|
+|**2024-02-05**|**Physics-Encoded Graph Neural Networks for Deformation Prediction under Contact**|Mahdi Saleh et.al.|[2402.03466](http://arxiv.org/abs/2402.03466)|null|
 |**2024-02-05**|**PowerGraph: A power grid benchmark dataset for graph neural networks**|Anna Varbella et.al.|[2402.02827](http://arxiv.org/abs/2402.02827)|null|
 |**2024-02-05**|**Statistical Guarantees for Link Prediction using Graph Neural Networks**|Alan Chung et.al.|[2402.02692](http://arxiv.org/abs/2402.02692)|null|
 |**2024-02-03**|**Interpreting Graph Neural Networks with In-Distributed Proxies**|Zhuomin Chen et.al.|[2402.02036](http://arxiv.org/abs/2402.02036)|null|
@@ -1786,6 +1796,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Entropy-regularized Diffusion Policy with Q-Ensembles for Offline Reinforcement Learning**|Ruoqi Zhang et.al.|[2402.04080](http://arxiv.org/abs/2402.04080)|null|
+|**2024-02-06**|**Generative Modeling of Graphs via Joint Diffusion of Node and Edge Attributes**|Nimrod Berman et.al.|[2402.04046](http://arxiv.org/abs/2402.04046)|null|
+|**2024-02-06**|**Polyp-DDPM: Diffusion-Based Semantic Polyp Synthesis for Enhanced Segmentation**|Zolnamar Dorjsembe et.al.|[2402.04031](http://arxiv.org/abs/2402.04031)|**[link](https://github.com/mobaidoctor/polyp-ddpm)**|
+|**2024-02-06**|**Controllable Diverse Sampling for Diffusion Based Motion Behavior Forecasting**|Yiming Xu et.al.|[2402.03981](http://arxiv.org/abs/2402.03981)|null|
+|**2024-02-06**|**On gauge freedom, conservativity and intrinsic dimensionality estimation in diffusion models**|Christian Horvat et.al.|[2402.03845](http://arxiv.org/abs/2402.03845)|null|
+|**2024-02-06**|**A Unified Model for Non-Fickian Diffusion and Anomalous Swelling of Glassy Polymers**|Peihan Lyu et.al.|[2402.03844](http://arxiv.org/abs/2402.03844)|null|
+|**2024-02-06**|**SDEMG: Score-based Diffusion Model for Surface Electromyographic Signal Denoising**|Yu-Tung Liu et.al.|[2402.03808](http://arxiv.org/abs/2402.03808)|**[link](https://github.com/tonyliu0910/sdemg)**|
+|**2024-02-06**|**Improving and Unifying Discrete&Continuous-time Discrete Denoising Diffusion**|Lingxiao Zhao et.al.|[2402.03701](http://arxiv.org/abs/2402.03701)|null|
+|**2024-02-06**|**Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation**|Lingxiao Zhao et.al.|[2402.03687](http://arxiv.org/abs/2402.03687)|null|
+|**2024-02-06**|**QuEST: Low-bit Diffusion Model Quantization via Efficient Selective Finetuning**|Haoxuan Wang et.al.|[2402.03666](http://arxiv.org/abs/2402.03666)|null|
 |**2024-02-05**|**Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?**|Qiyao Liang et.al.|[2402.03305](http://arxiv.org/abs/2402.03305)|null|
 |**2024-02-05**|**Estimating position-dependent and anisotropic diffusivity tensors from molecular dynamics trajectories: Existing methods and future outlook**|Tiago Domingues et.al.|[2402.03285](http://arxiv.org/abs/2402.03285)|null|
 |**2024-02-05**|**Organic or Diffused: Can We Distinguish Human Art from AI-generated Images?**|Anna Yoo Jeong Ha et.al.|[2402.03214](http://arxiv.org/abs/2402.03214)|null|
