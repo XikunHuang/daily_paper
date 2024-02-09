@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Using YOLO v7 to Detect Kidney in Magnetic Resonance Imaging: A Supervised Contrastive Learning**|Pouria Yazdian Anari et.al.|[2402.05817](http://arxiv.org/abs/2402.05817)|null|
+|**2024-02-08**|**CounterCLR: Counterfactual Contrastive Learning with Non-random Missing Data in Recommendation**|Jun Wang et.al.|[2402.05740](http://arxiv.org/abs/2402.05740)|null|
+|**2024-02-08**|**Joint End-to-End Image Compression and Denoising: Leveraging Contrastive Learning and Multi-Scale Self-ONNs**|Yuxin Xie et.al.|[2402.05582](http://arxiv.org/abs/2402.05582)|null|
+|**2024-02-08**|**Noise Contrastive Alignment of Language Models with Explicit Rewards**|Huayu Chen et.al.|[2402.05369](http://arxiv.org/abs/2402.05369)|**[link](https://github.com/thu-ml/noise-contrastive-alignment)**|
 |**2024-02-07**|**Boundary-aware Contrastive Learning for Semi-supervised Nuclei Instance Segmentation**|Ye Zhang et.al.|[2402.04756](http://arxiv.org/abs/2402.04756)|null|
 |**2024-02-07**|**A Psychological Study: Importance of Contrast and Luminance in Color to Grayscale Mapping**|Prasoon Ambalathankandy et.al.|[2402.04583](http://arxiv.org/abs/2402.04583)|null|
 |**2024-02-06**|**Efficient Availability Attacks against Supervised and Contrastive Learning Simultaneously**|Yihan Wang et.al.|[2402.04010](http://arxiv.org/abs/2402.04010)|null|
@@ -1151,6 +1155,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894](http://arxiv.org/abs/2402.05894)|null|
+|**2024-02-08**|**Hypergraph Node Classification With Graph Neural Networks**|Bohan Tang et.al.|[2402.05569](http://arxiv.org/abs/2402.05569)|null|
+|**2024-02-08**|**Graph Neural Networks for Physical-Layer Security in Multi-User Flexible-Duplex Networks**|Tharaka Perera et.al.|[2402.05378](http://arxiv.org/abs/2402.05378)|null|
+|**2024-02-07**|**Graph Neural Networks as Fast and High-fidelity Emulators for Finite-Element Ice Sheet Modeling**|Maryam Rahnemoonfar et.al.|[2402.05291](http://arxiv.org/abs/2402.05291)|null|
 |**2024-02-07**|**Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Graph Neural Networks**|Jiahua Rao et.al.|[2402.04710](http://arxiv.org/abs/2402.04710)|null|
 |**2024-02-06**|**PreGIP: Watermarking the Pretraining of Graph Neural Networks for Deep Intellectual Property Protection**|Enyan Dai et.al.|[2402.04435](http://arxiv.org/abs/2402.04435)|null|
 |**2024-02-06**|**PRES: Toward Scalable Memory-Based Dynamic Graph Neural Networks**|Junwei Su et.al.|[2402.04284](http://arxiv.org/abs/2402.04284)|null|
@@ -1792,6 +1800,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-08**|**Time Series Diffusion in the Frequency Domain**|Jonathan Crabbé et.al.|[2402.05933](http://arxiv.org/abs/2402.05933)|null|
+|**2024-02-08**|**First operation of a multi-channel Q-Pix prototype: measuring transverse electron diffusion in a gas time projection chamber**|Nora Hoch et.al.|[2402.05734](http://arxiv.org/abs/2402.05734)|null|
+|**2024-02-08**|**DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**|Zhiyuan Ma et.al.|[2402.05712](http://arxiv.org/abs/2402.05712)|**[link](https://github.com/theericma/diffspeaker)**|
+|**2024-02-08**|**Scalable Diffusion Models with State Space Backbone**|Zhengcong Fei et.al.|[2402.05608](http://arxiv.org/abs/2402.05608)|**[link](https://github.com/feizc/dis)**|
+|**2024-02-08**|**Asynchronous Diffusion Learning with Agent Subsampling and Local Updates**|Elsa Rizk et.al.|[2402.05529](http://arxiv.org/abs/2402.05529)|null|
+|**2024-02-08**|**Implicit Diffusion: Efficient Optimization through Stochastic Sampling**|Pierre Marion et.al.|[2402.05468](http://arxiv.org/abs/2402.05468)|null|
+|**2024-02-08**|**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**|Senmao Li et.al.|[2402.05375](http://arxiv.org/abs/2402.05375)|**[link](https://github.com/sen-mao/suppresseot)**|
+|**2024-02-08**|**Descanning: From Scanned to the Original Images with a Color Correction Diffusion Model**|Junghun Cha et.al.|[2402.05350](http://arxiv.org/abs/2402.05350)|null|
+|**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235](http://arxiv.org/abs/2402.05235)|null|
+|**2024-02-07**|**Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models**|Nicholas Konz et.al.|[2402.05210](http://arxiv.org/abs/2402.05210)|**[link](https://github.com/mazurowski-lab/segmentation-guided-diffusion)**|
 |**2024-02-07**|**Nature of the diffuse emission sources in the H I supershell in the galaxy IC 1613**|Anastasiya D. Yarovova et.al.|[2402.05107](http://arxiv.org/abs/2402.05107)|null|
 |**2024-02-07**|**On diffusion models for amortized inference: Benchmarking and improving stochastic control and sampling**|Marcin Sendera et.al.|[2402.05098](http://arxiv.org/abs/2402.05098)|null|
 |**2024-02-07**|**Interacting particle approximation of cross-diffusion systems**|Jose Antonio Carrillo et.al.|[2402.05094](http://arxiv.org/abs/2402.05094)|null|
