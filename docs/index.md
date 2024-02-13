@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Injecting Wiktionary to improve token-level contextual representations using contrastive learning**|Anna Mosolova et.al.|[2402.07817](http://arxiv.org/abs/2402.07817)|null|
+|**2024-02-12**|**Contrastive Multiple Instance Learning for Weakly Supervised Person ReID**|Jacob Tyo et.al.|[2402.07685](http://arxiv.org/abs/2402.07685)|null|
+|**2024-02-12**|**Topic Modeling as Multi-Objective Contrastive Optimization**|Thong Nguyen et.al.|[2402.07577](http://arxiv.org/abs/2402.07577)|null|
+|**2024-02-12**|**One Train for Two Tasks: An Encrypted Traffic Classification Framework Using Supervised Contrastive Learning**|Haozhen Zhang et.al.|[2402.07501](http://arxiv.org/abs/2402.07501)|**[link](https://github.com/viktoraxelsen/cle-tfe)**|
+|**2024-02-12**|**A Closer Look at the Robustness of Contrastive Language-Image Pre-Training (CLIP)**|Weijie Tu et.al.|[2402.07410](http://arxiv.org/abs/2402.07410)|null|
+|**2024-02-11**|**Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation**|Ziyang Wang et.al.|[2402.07245](http://arxiv.org/abs/2402.07245)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-11**|**Enhancing Multi-field B2B Cloud Solution Matching via Contrastive Pre-training**|Haonan Chen et.al.|[2402.07076](http://arxiv.org/abs/2402.07076)|null|
+|**2024-02-10**|**Cacophony: An Improved Contrastive Audio-Text Model**|Ge Zhu et.al.|[2402.06986](http://arxiv.org/abs/2402.06986)|null|
+|**2024-02-10**|**CochCeps-Augment: A Novel Self-Supervised Contrastive Learning Using Cochlear Cepstrum-based Masking for Speech Emotion Recognition**|Ioannis Ziogas et.al.|[2402.06923](http://arxiv.org/abs/2402.06923)|null|
+|**2024-02-09**|**High-contrast periodic random jumps in continuum and limit Markov process**|Andrey Piatnitski et.al.|[2402.06769](http://arxiv.org/abs/2402.06769)|null|
 |**2024-02-09**|**Revealing Multimodal Contrastive Representation Learning through Latent Partial Causal Models**|Yuhang Liu et.al.|[2402.06223](http://arxiv.org/abs/2402.06223)|null|
 |**2024-02-09**|**GS-CLIP: Gaussian Splatting for Contrastive Language-Image-3D Pretraining from Real-World Data**|Haoyuan Li et.al.|[2402.06198](http://arxiv.org/abs/2402.06198)|null|
 |**2024-02-09**|**Premier-TACO: Pretraining Multitask Representation via Temporal Action-Driven Contrastive Loss**|Ruijie Zheng et.al.|[2402.06187](http://arxiv.org/abs/2402.06187)|null|
@@ -1161,6 +1171,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Random Geometric Graph Alignment with Graph Neural Networks**|Suqi Liu et.al.|[2402.07340](http://arxiv.org/abs/2402.07340)|null|
+|**2024-02-11**|**Explainable Global Wildfire Prediction Models using Graph Neural Networks**|Dayou Chen et.al.|[2402.07152](http://arxiv.org/abs/2402.07152)|**[link](https://github.com/dl-wg/gcn-lstm-wildfire)**|
+|**2024-02-11**|**Rethinking the Capacity of Graph Neural Networks for Branching Strategy**|Ziang Chen et.al.|[2402.07099](http://arxiv.org/abs/2402.07099)|null|
+|**2024-02-10**|**Generalization Error of Graph Neural Networks in the Mean-field Regime**|Gholamali Aminian et.al.|[2402.07025](http://arxiv.org/abs/2402.07025)|null|
+|**2024-02-10**|**Topological Neural Networks: Mitigating the Bottlenecks of Graph Neural Networks via Higher-Order Interactions**|Lorenzo Giusti et.al.|[2402.06908](http://arxiv.org/abs/2402.06908)|null|
 |**2024-02-09**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural Networks**|Michael Y. Fatemi et.al.|[2402.06552](http://arxiv.org/abs/2402.06552)|**[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)**|
 |**2024-02-09**|**N-1 Reduced Optimal Power Flow Using Augmented Hierarchical Graph Neural Network**|Thuan Pham et.al.|[2402.06226](http://arxiv.org/abs/2402.06226)|null|
 |**2024-02-08**|**Game-theoretic Counterfactual Explanation for Graph Neural Networks**|Chirag Chhablani et.al.|[2402.06030](http://arxiv.org/abs/2402.06030)|null|
@@ -1809,6 +1824,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Towards a mathematical theory for consistency training in diffusion models**|Gen Li et.al.|[2402.07802](http://arxiv.org/abs/2402.07802)|null|
+|**2024-02-12**|**Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models**|Jiacheng Ye et.al.|[2402.07754](http://arxiv.org/abs/2402.07754)|null|
+|**2024-02-12**|**Trustworthy SR: Resolving Ambiguity in Image Super-resolution via Diffusion Models and Human Feedback**|Cansu Korkmaz et.al.|[2402.07597](http://arxiv.org/abs/2402.07597)|null|
+|**2024-02-12**|**$\mathcal{R}^2$ curvature-squared corrections on Langevin diffusion coefficients**|Qi Zhou et.al.|[2402.07541](http://arxiv.org/abs/2402.07541)|null|
+|**2024-02-12**|**Score-based Diffusion Models via Stochastic Differential Equations -- a Technical Tutorial**|Wenpin Tang et.al.|[2402.07487](http://arxiv.org/abs/2402.07487)|null|
+|**2024-02-12**|**Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation**|Tonglong Wei et.al.|[2402.07369](http://arxiv.org/abs/2402.07369)|null|
+|**2024-02-12**|**Re-DiffiNet: Modeling discrepancies in tumor segmentation using diffusion**|Tianyi Ren et.al.|[2402.07354](http://arxiv.org/abs/2402.07354)|null|
+|**2024-02-11**|**Stitching Sub-Trajectories with Conditional Diffusion Model for Goal-Conditioned Offline RL**|Sungyoon Kim et.al.|[2402.07226](http://arxiv.org/abs/2402.07226)|**[link](https://github.com/rlatjddbs/ssd)**|
+|**2024-02-11**|**Towards Fast Stochastic Sampling in Diffusion Generative Models**|Kushagra Pandey et.al.|[2402.07211](http://arxiv.org/abs/2402.07211)|null|
+|**2024-02-11**|**An attempt to generate new bridge types from latent space of denoising diffusion Implicit model**|Hongjun Zhang et.al.|[2402.07129](http://arxiv.org/abs/2402.07129)|**[link](https://github.com/QQ583304953/Bridge-DDIM)**|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
 |**2024-02-09**|**ControlUDA: Controllable Diffusion-assisted Unsupervised Domain Adaptation for Cross-Weather Semantic Segmentation**|Fengyi Shen et.al.|[2402.06446](http://arxiv.org/abs/2402.06446)|null|
 |**2024-02-09**|**Improving 2D-3D Dense Correspondences with Diffusion Models for 6D Object Pose Estimation**|Peter Hönig et.al.|[2402.06436](http://arxiv.org/abs/2402.06436)|null|
