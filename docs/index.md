@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**|Xinchi Qiu et.al.|[2402.10191](http://arxiv.org/abs/2402.10191)|null|
+|**2024-02-15**|**$f$ -MICL: Understanding and Generalizing InfoNCE-based Contrastive Learning**|Yiwei Lu et.al.|[2402.10150](http://arxiv.org/abs/2402.10150)|null|
+|**2024-02-15**|**MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations**|Benedikt Alkin et.al.|[2402.10093](http://arxiv.org/abs/2402.10093)|**[link](https://github.com/ml-jku/MIM-Refiner)**|
+|**2024-02-15**|**Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention**|Hansol Jung et.al.|[2402.09784](http://arxiv.org/abs/2402.09784)|null|
+|**2024-02-14**|**Low-Rank Graph Contrastive Learning for Node Classification**|Yancheng Wang et.al.|[2402.09600](http://arxiv.org/abs/2402.09600)|null|
+|**2024-02-14**|**Domain Adaptation for Contrastive Audio-Language Models**|Soham Deshmukh et.al.|[2402.09585](http://arxiv.org/abs/2402.09585)|null|
+|**2024-02-14**|**Automated Plaque Detection and Agatston Score Estimation on Non-Contrast CT Scans: A Multicenter Study**|Andrew M. Nguyen et.al.|[2402.09569](http://arxiv.org/abs/2402.09569)|null|
 |**2024-02-14**|**Comment-aided Video-Language Alignment via Contrastive Pre-training for Short-form Video Humor Detection**|Yang Liu et.al.|[2402.09055](http://arxiv.org/abs/2402.09055)|null|
 |**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
 |**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427](http://arxiv.org/abs/2402.08427)|null|
@@ -1176,11 +1183,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074](http://arxiv.org/abs/2402.10074)|null|
+|**2024-02-15**|**Approximate Message Passing-Enhanced Graph Neural Network for OTFS Data Detection**|Wenhao Zhuang et.al.|[2402.10071](http://arxiv.org/abs/2402.10071)|null|
+|**2024-02-15**|**Graph Neural Network-based Tracking as a Service**|Haoran Zhao et.al.|[2402.09633](http://arxiv.org/abs/2402.09633)|null|
 |**2024-02-14**|**DisGNet: A Distance Graph Neural Network for Forward Kinematics Learning of Gough-Stewart Platform**|Huizhi Zhu et.al.|[2402.09077](http://arxiv.org/abs/2402.09077)|null|
 |**2024-02-14**|**Multiscale graph neural networks with adaptive mesh refinement for accelerating mesh-based simulations**|Roberto Perera et.al.|[2402.08863](http://arxiv.org/abs/2402.08863)|null|
 |**2024-02-13**|**Disambiguated Node Classification with Graph Neural Networks**|Tianxiang Zhao et.al.|[2402.08824](http://arxiv.org/abs/2402.08824)|**[link](https://github.com/tianxiangzhao/disambiguatedgnn)**|
 |**2024-02-13**|**SAGMAN: Stability Analysis of Graph Neural Networks on the Manifolds**|Wuxinlin Cheng et.al.|[2402.08653](http://arxiv.org/abs/2402.08653)|null|
-|**2024-02-13**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595](http://arxiv.org/abs/2402.08595)|null|
+|**2024-02-15**|**Homomorphism Counts for Graph Neural Networks: All About That Basis**|Emily Jin et.al.|[2402.08595](http://arxiv.org/abs/2402.08595)|null|
 |**2024-02-13**|**Learning time-dependent PDE via graph neural networks and deep operator network for robust accuracy on irregular grids**|Sung Woong Cho et.al.|[2402.08187](http://arxiv.org/abs/2402.08187)|null|
 |**2024-02-12**|**Random Geometric Graph Alignment with Graph Neural Networks**|Suqi Liu et.al.|[2402.07340](http://arxiv.org/abs/2402.07340)|null|
 |**2024-02-11**|**Explainable Global Wildfire Prediction Models using Graph Neural Networks**|Dayou Chen et.al.|[2402.07152](http://arxiv.org/abs/2402.07152)|**[link](https://github.com/dl-wg/gcn-lstm-wildfire)**|
@@ -1835,6 +1845,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
+|**2024-02-15**|**Radio-astronomical Image Reconstruction with Conditional Denoising Diffusion Model**|Mariia Drozdova et.al.|[2402.10204](http://arxiv.org/abs/2402.10204)|**[link](https://github.com/mariiadrozdova/diffusion-for-sources-characterisation)**|
+|**2024-02-15**|**Collision efficiency of droplets across diffusive, electrostatic and inertial regimes**|Florian Poydenot et.al.|[2402.10117](http://arxiv.org/abs/2402.10117)|null|
+|**2024-02-15**|**Quantized Embedding Vectors for Controllable Diffusion Language Models**|Cheng Kang et.al.|[2402.10107](http://arxiv.org/abs/2402.10107)|null|
+|**2024-02-15**|**Classification Diffusion Models**|Shahar Yadin et.al.|[2402.10095](http://arxiv.org/abs/2402.10095)|null|
+|**2024-02-15**|**Diffusion Models Meet Contextual Bandits with Large Action Spaces**|Imad Aouali et.al.|[2402.10028](http://arxiv.org/abs/2402.10028)|null|
+|**2024-02-15**|**Accelerating Parallel Sampling of Diffusion Models**|Zhiwei Tang et.al.|[2402.09970](http://arxiv.org/abs/2402.09970)|null|
+|**2024-02-15**|**Space-resolved dynamic light scattering within a millimetric drop: from Brownian diffusion to the swelling of hydrogel beads**|Matteo Milani et.al.|[2402.09875](http://arxiv.org/abs/2402.09875)|null|
+|**2024-02-15**|**Diffusion Models for Audio Restoration**|Jean-Marie Lemercier et.al.|[2402.09821](http://arxiv.org/abs/2402.09821)|null|
+|**2024-02-15**|**A Péclet-robust discontinuous Galerkin method for nonlinear diffusion with advection**|Lourenço Beirão da Veiga et.al.|[2402.09814](http://arxiv.org/abs/2402.09814)|null|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|null|
 |**2024-02-14**|**Investigation of Ga interstitial and vacancy diffusion in $β$-Ga$_2$O$_3$ via split defects: a direct approach via master diffusion equations**|Channyung Lee et.al.|[2402.09354](http://arxiv.org/abs/2402.09354)|null|
 |**2024-02-14**|**On the system size dependence of the diffusion coefficients in MD simulations: A simple correction formula for pure dense fluids**|Sergey Khrapak et.al.|[2402.09348](http://arxiv.org/abs/2402.09348)|null|
