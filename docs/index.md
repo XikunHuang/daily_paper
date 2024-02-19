@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -16,7 +16,7 @@ layout: default
 |**2024-02-14**|**Low-Rank Graph Contrastive Learning for Node Classification**|Yancheng Wang et.al.|[2402.09600](http://arxiv.org/abs/2402.09600)|null|
 |**2024-02-14**|**Domain Adaptation for Contrastive Audio-Language Models**|Soham Deshmukh et.al.|[2402.09585](http://arxiv.org/abs/2402.09585)|null|
 |**2024-02-14**|**Automated Plaque Detection and Agatston Score Estimation on Non-Contrast CT Scans: A Multicenter Study**|Andrew M. Nguyen et.al.|[2402.09569](http://arxiv.org/abs/2402.09569)|null|
-|**2024-02-14**|**Comment-aided Video-Language Alignment via Contrastive Pre-training for Short-form Video Humor Detection**|Yang Liu et.al.|[2402.09055](http://arxiv.org/abs/2402.09055)|null|
+|**2024-02-14**|**Comment-aided Video-Language Alignment via Contrastive Pre-training for Short-form Video Humor Detection**|Yang Liu et.al.|[2402.09055](http://arxiv.org/abs/2402.09055)|**[link](https://github.com/yliu-cs/cvla)**|
 |**2024-02-13**|**Two Tales of Single-Phase Contrastive Hebbian Learning**|Rasmus Kjær Høier et.al.|[2402.08573](http://arxiv.org/abs/2402.08573)|null|
 |**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427](http://arxiv.org/abs/2402.08427)|null|
 |**2024-02-13**|**Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs**|Hengnian Gu et.al.|[2402.08256](http://arxiv.org/abs/2402.08256)|null|
