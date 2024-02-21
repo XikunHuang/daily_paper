@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Generating Context-Aware Contrastive Explanations in Rule-based Systems**|Lars Herbold et.al.|[2402.13000](http://arxiv.org/abs/2402.13000)|null|
+|**2024-02-20**|**MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**|Tongxu Luo et.al.|[2402.12851](http://arxiv.org/abs/2402.12851)|null|
+|**2024-02-20**|**ConVQG: Contrastive Visual Question Generation with Multimodal Guidance**|Li Mi et.al.|[2402.12846](http://arxiv.org/abs/2402.12846)|null|
+|**2024-02-20**|**Guiding the underwater acoustic target recognition with interpretable contrastive learning**|Yuan Xie et.al.|[2402.12658](http://arxiv.org/abs/2402.12658)|null|
+|**2024-02-20**|**Analysis of Using Sigmoid Loss for Contrastive Learning**|Chungpa Lee et.al.|[2402.12613](http://arxiv.org/abs/2402.12613)|null|
 |**2024-02-19**|**Separating common from salient patterns with Contrastive Representation Learning**|Robin Louiset et.al.|[2402.11928](http://arxiv.org/abs/2402.11928)|**[link](https://github.com/neurospin-projects/2024_rlouiset_sep_clr)**|
 |**2024-02-19**|**Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation**|Aiwei Liu et.al.|[2402.11907](http://arxiv.org/abs/2402.11907)|null|
 |**2024-02-19**|**ROSE Doesn't Do That: Boosting the Safety of Instruction-Tuned Large Language Models with Reverse Prompt Contrastive Decoding**|Qihuang Zhong et.al.|[2402.11889](http://arxiv.org/abs/2402.11889)|null|
@@ -1198,6 +1203,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**A Microstructure-based Graph Neural Network for Accelerating Multiscale Simulations**|J. Storm et.al.|[2402.13101](http://arxiv.org/abs/2402.13101)|**[link](https://github.com/joepstorm/microscale-gnn-surrogate)**|
+|**2024-02-20**|**A unifying primary framework for quantum graph neural networks from quantum graph states**|Ammar Daskin et.al.|[2402.13001](http://arxiv.org/abs/2402.13001)|null|
+|**2024-02-20**|**GRAPHGINI: Fostering Individual and Group Fairness in Graph Neural Networks**|Anuj Kumar Sirohi et.al.|[2402.12937](http://arxiv.org/abs/2402.12937)|null|
+|**2024-02-19**|**Attacks on Node Attributes in Graph Neural Networks**|Ying Xu et.al.|[2402.12426](http://arxiv.org/abs/2402.12426)|null|
 |**2024-02-18**|**GNNavi: Navigating the Information Flow in Large Language Models by Graph Neural Network**|Shuzhou Yuan et.al.|[2402.11709](http://arxiv.org/abs/2402.11709)|null|
 |**2024-02-17**|**Graph Neural Networks for Predicting Solubility in Diverse Solvents using MolMerger incorporating Solute-solvent Interactions**|Vansh Ramani et.al.|[2402.11340](http://arxiv.org/abs/2402.11340)|null|
 |**2024-02-17**|**LiGNN: Graph Neural Networks at LinkedIn**|Fedor Borisyuk et.al.|[2402.11139](http://arxiv.org/abs/2402.11139)|null|
@@ -1864,6 +1873,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Neural Network Diffusion**|Kai Wang et.al.|[2402.13144](http://arxiv.org/abs/2402.13144)|**[link](https://github.com/nus-hpc-ai-lab/neural-network-diffusion)**|
+|**2024-02-20**|**Text-Guided Molecule Generation with Diffusion Language Model**|Haisong Gong et.al.|[2402.13040](http://arxiv.org/abs/2402.13040)|**[link](https://github.com/deno-v/tgm-dlm)**|
+|**2024-02-20**|**RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models**|Xinchen Zhang et.al.|[2402.12908](http://arxiv.org/abs/2402.12908)|**[link](https://github.com/yangling0818/realcompo)**|
+|**2024-02-20**|**Stochastic Graph Heat Modelling for Diffusion-based Connectivity Retrieval**|Stephan Goerttler et.al.|[2402.12785](http://arxiv.org/abs/2402.12785)|null|
+|**2024-02-20**|**Two-stage Rainfall-Forecasting Diffusion Model**|XuDong Ling et.al.|[2402.12779](http://arxiv.org/abs/2402.12779)|**[link](https://github.com/clearlyzerolxd/trdm)**|
+|**2024-02-20**|**MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion**|Sen Li et.al.|[2402.12741](http://arxiv.org/abs/2402.12741)|**[link](https://github.com/measure-infinity/mulan-code)**|
+|**2024-02-20**|**Diffusion Posterior Sampling is Computationally Intractable**|Shivam Gupta et.al.|[2402.12727](http://arxiv.org/abs/2402.12727)|null|
+|**2024-02-20**|**MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction**|Shitao Tang et.al.|[2402.12712](http://arxiv.org/abs/2402.12712)|null|
+|**2024-02-20**|**Quantum diffusion and large primordial perturbations from inflation**|Vincent Vennin et.al.|[2402.12672](http://arxiv.org/abs/2402.12672)|null|
+|**2024-02-20**|**Lax-Wendroff Flux Reconstruction for advection-diffusion equations with error-based time stepping**|Arpit Babbar et.al.|[2402.12669](http://arxiv.org/abs/2402.12669)|null|
 |**2024-02-19**|**FiT: Flexible Vision Transformer for Diffusion Model**|Zeyu Lu et.al.|[2402.12376](http://arxiv.org/abs/2402.12376)|**[link](https://github.com/whlzy/fit)**|
 |**2024-02-19**|**Synthetic location trajectory generation using categorical diffusion models**|Simon Dirmeier et.al.|[2402.12242](http://arxiv.org/abs/2402.12242)|null|
 |**2024-02-19**|**Diffusion Tempering Improves Parameter Estimation with Probabilistic Integrators for Ordinary Differential Equations**|Jonas Beck et.al.|[2402.12231](http://arxiv.org/abs/2402.12231)|**[link](https://github.com/jnsbck/hhdifftemp)**|
