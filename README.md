@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Overcoming Dimensional Collapse in Self-supervised Contrastive Learning for Medical Image Segmentation**|Jamshid Hassanpour et.al.|[2402.14611](http://arxiv.org/abs/2402.14611)|null|
+|**2024-02-22**|**CLCE: An Approach to Refining Cross-Entropy and Contrastive Learning for Optimized Learning Fusion**|Zijun Long et.al.|[2402.14551](http://arxiv.org/abs/2402.14551)|null|
+|**2024-02-22**|**CCPA: Long-term Person Re-Identification via Contrastive Clothing and Pose Augmentation**|Vuong D. Nguyen et.al.|[2402.14454](http://arxiv.org/abs/2402.14454)|null|
+|**2024-02-22**|**Contrastive Learning of Shared Spatiotemporal EEG Representations Across Individuals for Naturalistic Neuroscience**|Xinke Shen et.al.|[2402.14213](http://arxiv.org/abs/2402.14213)|null|
+|**2024-02-21**|**Multi-organ Self-supervised Contrastive Learning for Breast Lesion Segmentation**|Hugo Figueiras et.al.|[2402.14114](http://arxiv.org/abs/2402.14114)|null|
 |**2024-02-21**|**The Effect of Batch Size on Contrastive Self-Supervised Speech Representation Learning**|Nik Vaessen et.al.|[2402.13723](http://arxiv.org/abs/2402.13723)|**[link](https://github.com/nikvaessen/w2v2-batch-size)**|
 |**2024-02-21**|**Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models**|Chen Wu et.al.|[2402.13490](http://arxiv.org/abs/2402.13490)|null|
 |**2024-02-21**|**Unsupervised learning based object detection using Contrastive Learning**|Chandan Kumar et.al.|[2402.13465](http://arxiv.org/abs/2402.13465)|null|
@@ -1214,6 +1219,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802](http://arxiv.org/abs/2402.14802)|null|
+|**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708](http://arxiv.org/abs/2402.14708)|null|
+|**2024-02-22**|**Velocity recostruction with graph neural networks**|Hideki Tanimura et.al.|[2402.14239](http://arxiv.org/abs/2402.14239)|null|
+|**2024-02-21**|**Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO**|Haoqi He et.al.|[2402.14036](http://arxiv.org/abs/2402.14036)|null|
 |**2024-02-21**|**A Simple and Yet Fairly Effective Defense for Graph Neural Networks**|Sofiane Ennadir et.al.|[2402.13987](http://arxiv.org/abs/2402.13987)|**[link](https://github.com/sennadir/noisygnn)**|
 |**2024-02-21**|**Linear-Time Graph Neural Networks for Scalable Recommendations**|Jiahao Zhang et.al.|[2402.13973](http://arxiv.org/abs/2402.13973)|**[link](https://github.com/qwq2000/thewebconf24-ltgnn-pytorch)**|
 |**2024-02-21**|**Reasoning Algorithmically in Graph Neural Networks**|Danilo Numeroso et.al.|[2402.13744](http://arxiv.org/abs/2402.13744)|null|
@@ -1891,6 +1900,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
+|**2024-02-22**|**GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion**|Xueyi Liu et.al.|[2402.14810](http://arxiv.org/abs/2402.14810)|**[link](https://github.com/meowuu7/geneoh-diffusion)**|
+|**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/abs/2402.14780)|null|
+|**2024-02-22**|**PeriodGrad: Towards Pitch-Controllable Neural Vocoder Based on a Diffusion Probabilistic Model**|Yukiya Hono et.al.|[2402.14692](http://arxiv.org/abs/2402.14692)|null|
+|**2024-02-22**|**Error Estimates for First- and Second-Order Lagrange-Galerkin Moving Mesh Schemes for the One-Dimensional Convection-Diffusion Equation**|Kharisma Surya Putri et.al.|[2402.14691](http://arxiv.org/abs/2402.14691)|null|
+|**2024-02-22**|**Debiasing Text-to-Image Diffusion Models**|Ruifei He et.al.|[2402.14577](http://arxiv.org/abs/2402.14577)|null|
+|**2024-02-22**|**Model-Based Reinforcement Learning Control of Reaction-Diffusion Problems**|Christina Schenk et.al.|[2402.14446](http://arxiv.org/abs/2402.14446)|null|
+|**2024-02-22**|**Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning**|Haoran He et.al.|[2402.14407](http://arxiv.org/abs/2402.14407)|null|
+|**2024-02-22**|**Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment**|Zhaoyang Wang et.al.|[2402.14401](http://arxiv.org/abs/2402.14401)|null|
+|**2024-02-22**|**Typographic Text Generation with Off-the-Shelf Diffusion Model**|KhayTze Peong et.al.|[2402.14314](http://arxiv.org/abs/2402.14314)|null|
 |**2024-02-21**|**SDXL-Lightning: Progressive Adversarial Diffusion Distillation**|Shanchuan Lin et.al.|[2402.13929](http://arxiv.org/abs/2402.13929)|null|
 |**2024-02-21**|**Non-asymptotic Convergence of Discrete-time Diffusion Models: New Approach and Improved Rate**|Yuchen Liang et.al.|[2402.13901](http://arxiv.org/abs/2402.13901)|null|
 |**2024-02-21**|**The influence of thermal pressure gradients and ionization (im)balance on the ambipolar diffusion and charge-neutral drifts**|M. M. Gómez-Míguez et.al.|[2402.13813](http://arxiv.org/abs/2402.13813)|null|
