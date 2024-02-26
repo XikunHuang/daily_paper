@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**Smoothed Graph Contrastive Learning via Seamless Proximity Integration**|Maysam Behmanesh et.al.|[2402.15270](http://arxiv.org/abs/2402.15270)|null|
+|**2024-02-23**|**GS-EMA: Integrating Gradient Surgery Exponential Moving Average with Boundary-Aware Contrastive Learning for Enhanced Domain Generalization in Aneurysm Segmentation**|Fengming Lin et.al.|[2402.15239](http://arxiv.org/abs/2402.15239)|**[link](https://github.com/fmlinks/domain)**|
+|**2024-02-23**|**Unsupervised Domain Adaptation for Brain Vessel Segmentation through Transwarp Contrastive Learning**|Fengming Lin et.al.|[2402.15237](http://arxiv.org/abs/2402.15237)|**[link](https://github.com/fmlinks/domain)**|
+|**2024-02-23**|**Self-Adaptive Reconstruction with Contrastive Learning for Unsupervised Sentence Embeddings**|Junlong Liu et.al.|[2402.15153](http://arxiv.org/abs/2402.15153)|null|
+|**2024-02-22**|**CLoVe: Encoding Compositional Language in Contrastive Vision-Language Models**|Santiago Castro et.al.|[2402.15021](http://arxiv.org/abs/2402.15021)|null|
 |**2024-02-22**|**Overcoming Dimensional Collapse in Self-supervised Contrastive Learning for Medical Image Segmentation**|Jamshid Hassanpour et.al.|[2402.14611](http://arxiv.org/abs/2402.14611)|null|
 |**2024-02-22**|**CLCE: An Approach to Refining Cross-Entropy and Contrastive Learning for Optimized Learning Fusion**|Zijun Long et.al.|[2402.14551](http://arxiv.org/abs/2402.14551)|null|
 |**2024-02-22**|**CCPA: Long-term Person Re-Identification via Contrastive Clothing and Pose Augmentation**|Vuong D. Nguyen et.al.|[2402.14454](http://arxiv.org/abs/2402.14454)|null|
@@ -1219,6 +1224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-21**|**CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks**|Hyeon-Ju Jeon et.al.|[2402.14861](http://arxiv.org/abs/2402.14861)|null|
 |**2024-02-22**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802](http://arxiv.org/abs/2402.14802)|null|
 |**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708](http://arxiv.org/abs/2402.14708)|null|
 |**2024-02-22**|**Velocity recostruction with graph neural networks**|Hideki Tanimura et.al.|[2402.14239](http://arxiv.org/abs/2402.14239)|null|
@@ -1900,6 +1906,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
+|**2024-02-23**|**Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory**|Weichen Zhao et.al.|[2402.15326](http://arxiv.org/abs/2402.15326)|null|
+|**2024-02-23**|**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**|Shunyu Liu et.al.|[2402.15289](http://arxiv.org/abs/2402.15289)|**[link](https://github.com/qlb6x/diffusionabsa)**|
+|**2024-02-23**|**Quasi-likelihood analysis for adaptive estimation of a degenerate diffusion process**|Arnaud Gloter et.al.|[2402.15256](http://arxiv.org/abs/2402.15256)|null|
+|**2024-02-23**|**Ballistic vs. diffusive transport in metals**|Yonatan Sivan et.al.|[2402.15226](http://arxiv.org/abs/2402.15226)|null|
+|**2024-02-23**|**Weak Reproductive Solutions for a Convection-Diffusion Model Describing a Binary Alloy Solidification Processes**|Blanca Climent-Ezquerra et.al.|[2402.15221](http://arxiv.org/abs/2402.15221)|null|
+|**2024-02-23**|**Label-efficient Multi-organ Segmentation Method with Diffusion Model**|Yongzhi Huang et.al.|[2402.15216](http://arxiv.org/abs/2402.15216)|null|
+|**2024-02-23**|**Fine-Tuning of Continuous-Time Diffusion Models as Entropy-Regularized Control**|Masatoshi Uehara et.al.|[2402.15194](http://arxiv.org/abs/2402.15194)|null|
+|**2024-02-23**|**The Surprising Effectiveness of Skip-Tuning in Diffusion Sampling**|Jiajun Ma et.al.|[2402.15170](http://arxiv.org/abs/2402.15170)|null|
+|**2024-02-23**|**Diffusion Processes on $p$ -Wasserstein Space over Banach Space**|Panpan Ren et.al.|[2402.15130](http://arxiv.org/abs/2402.15130)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817](http://arxiv.org/abs/2402.14817)|null|
 |**2024-02-22**|**GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion**|Xueyi Liu et.al.|[2402.14810](http://arxiv.org/abs/2402.14810)|**[link](https://github.com/meowuu7/geneoh-diffusion)**|
 |**2024-02-22**|**Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models**|Yixuan Ren et.al.|[2402.14780](http://arxiv.org/abs/2402.14780)|null|
