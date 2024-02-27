@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Impression-CLIP: Contrastive Shape-Impression Embedding for Fonts**|Yugo Kubota et.al.|[2402.16350](http://arxiv.org/abs/2402.16350)|null|
+|**2024-02-26**|**High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs**|Peiyan Zhang et.al.|[2402.16240](http://arxiv.org/abs/2402.16240)|null|
+|**2024-02-25**|**Deep Contrastive Graph Learning with Clustering-Oriented Guidance**|Mulin Chen et.al.|[2402.16012](http://arxiv.org/abs/2402.16012)|null|
+|**2024-02-24**|**Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification**|Ashfiqun Mustari et.al.|[2402.15905](http://arxiv.org/abs/2402.15905)|**[link](https://github.com/isha-67/cervicalcancerstudy)**|
+|**2024-02-24**|**IRConStyle: Image Restoration Framework Using Contrastive Learning and Style Transfer**|Dongqi Fan et.al.|[2402.15784](http://arxiv.org/abs/2402.15784)|**[link](https://github.com/dongqi-fan/irconstyle)**|
+|**2024-02-24**|**Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks**|Qian Ma et.al.|[2402.15680](http://arxiv.org/abs/2402.15680)|null|
 |**2024-02-23**|**Smoothed Graph Contrastive Learning via Seamless Proximity Integration**|Maysam Behmanesh et.al.|[2402.15270](http://arxiv.org/abs/2402.15270)|null|
 |**2024-02-23**|**GS-EMA: Integrating Gradient Surgery Exponential Moving Average with Boundary-Aware Contrastive Learning for Enhanced Domain Generalization in Aneurysm Segmentation**|Fengming Lin et.al.|[2402.15239](http://arxiv.org/abs/2402.15239)|**[link](https://github.com/fmlinks/domain)**|
 |**2024-02-23**|**Unsupervised Domain Adaptation for Brain Vessel Segmentation through Transwarp Contrastive Learning**|Fengming Lin et.al.|[2402.15237](http://arxiv.org/abs/2402.15237)|**[link](https://github.com/fmlinks/domain)**|
@@ -1897,6 +1903,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
+|**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
+|**2024-02-26**|**Entropy production for diffusion processes across a semipermeable interface**|Paul C Bressloff et.al.|[2402.16403](http://arxiv.org/abs/2402.16403)|null|
+|**2024-02-26**|**Feedback Efficient Online Fine-Tuning of Diffusion Models**|Masatoshi Uehara et.al.|[2402.16359](http://arxiv.org/abs/2402.16359)|null|
+|**2024-02-26**|**Graph Diffusion Policy Optimization**|Yijing Liu et.al.|[2402.16302](http://arxiv.org/abs/2402.16302)|**[link](https://github.com/sail-sg/gdpo)**|
+|**2024-02-25**|**Photon-counting CT using a Conditional Diffusion Model for Super-resolution and Texture-preservation**|Christopher Wiedeman et.al.|[2402.16212](http://arxiv.org/abs/2402.16212)|null|
+|**2024-02-25**|**Towards Efficient Quantum Hybrid Diffusion Models**|Francesca De Falco et.al.|[2402.16147](http://arxiv.org/abs/2402.16147)|null|
+|**2024-02-25**|**Cinematographic Camera Diffusion Model**|Hongda Jiang et.al.|[2402.16143](http://arxiv.org/abs/2402.16143)|null|
+|**2024-02-25**|**Behavioral Refinement via Interpolant-based Policy Diffusion**|Kaiqi Chen et.al.|[2402.16075](http://arxiv.org/abs/2402.16075)|null|
+|**2024-02-25**|**Global Existence, Regularity, and Dissipativity of Reaction-diffusion Equations with State-dependent Delay and Supercritical Nonlinearities**|Ruijing Wang et.al.|[2402.15996](http://arxiv.org/abs/2402.15996)|null|
 |**2024-02-23**|**ProTIP: Probabilistic Robustness Verification on Text-to-Image Diffusion Models against Stochastic Perturbation**|Yi Zhang et.al.|[2402.15429](http://arxiv.org/abs/2402.15429)|**[link](https://github.com/wellzline/protip)**|
 |**2024-02-23**|**Understanding Oversmoothing in Diffusion-Based GNNs From the Perspective of Operator Semigroup Theory**|Weichen Zhao et.al.|[2402.15326](http://arxiv.org/abs/2402.15326)|null|
 |**2024-02-23**|**Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models**|Shunyu Liu et.al.|[2402.15289](http://arxiv.org/abs/2402.15289)|**[link](https://github.com/qlb6x/diffusionabsa)**|
