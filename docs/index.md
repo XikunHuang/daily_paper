@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Analyzing Regional Organization of the Human Hippocampus in 3D-PLI Using Contrastive Learning and Geometric Unfolding**|Alexander Oberstrass et.al.|[2402.17744](http://arxiv.org/abs/2402.17744)|null|
+|**2024-02-27**|**PLReMix: Combating Noisy Labels with Pseudo-Label Relaxed Contrastive Representation Learning**|Xiaoyu Liu et.al.|[2402.17589](http://arxiv.org/abs/2402.17589)|null|
+|**2024-02-27**|**CLAPSep: Leveraging Contrastive Pre-trained Models for Multi-Modal Query-Conditioned Target Sound Extraction**|Hao Ma et.al.|[2402.17455](http://arxiv.org/abs/2402.17455)|null|
+|**2024-02-27**|**Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder**|Jiaqi Wang et.al.|[2402.17433](http://arxiv.org/abs/2402.17433)|null|
+|**2024-02-27**|**LocalGCL: Local-aware Contrastive Learning for Graphs**|Haojun Jiang et.al.|[2402.17345](http://arxiv.org/abs/2402.17345)|null|
+|**2024-02-27**|**VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis**|Linshan Wu et.al.|[2402.17300](http://arxiv.org/abs/2402.17300)|null|
+|**2024-02-26**|**Multi-Task Contrastive Learning for 8192-Token Bilingual Text Embeddings**|Isabelle Mohr et.al.|[2402.17016](http://arxiv.org/abs/2402.17016)|null|
+|**2024-02-26**|**On the connection between Noise-Contrastive Estimation and Contrastive Divergence**|Amanda Olmin et.al.|[2402.16688](http://arxiv.org/abs/2402.16688)|null|
 |**2024-02-26**|**Impression-CLIP: Contrastive Shape-Impression Embedding for Fonts**|Yugo Kubota et.al.|[2402.16350](http://arxiv.org/abs/2402.16350)|null|
 |**2024-02-26**|**High-Frequency-aware Hierarchical Contrastive Selective Coding for Representation Learning on Text-attributed Graphs**|Peiyan Zhang et.al.|[2402.16240](http://arxiv.org/abs/2402.16240)|null|
 |**2024-02-25**|**Deep Contrastive Graph Learning with Clustering-Oriented Guidance**|Mulin Chen et.al.|[2402.16012](http://arxiv.org/abs/2402.16012)|null|
@@ -1223,6 +1231,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**A case study of sending graph neural networks back to the test bench for applications in high-energy particle physics**|Emanuel Pfeffer et.al.|[2402.17386](http://arxiv.org/abs/2402.17386)|null|
+|**2024-02-27**|**A new graph-neural-network flavor tagger for Belle II and measurement of $\sin2φ_1$ in $B^0 \to J/ψK^0_\text{S}$ decays**|Belle II Collaboration et.al.|[2402.17260](http://arxiv.org/abs/2402.17260)|null|
+|**2024-02-26**|**Minimize Control Inputs for Strong Structural Controllability Using Reinforcement Learning with Graph Neural Network**|Mengbang Zou et.al.|[2402.16925](http://arxiv.org/abs/2402.16925)|null|
+|**2024-02-26**|**Accelerating Graph Neural Networks on Real Processing-In-Memory Systems**|Christina Giannoula et.al.|[2402.16731](http://arxiv.org/abs/2402.16731)|null|
 |**2024-02-21**|**CloudNine: Analyzing Meteorological Observation Impact on Weather Prediction Using Explainable Graph Neural Networks**|Hyeon-Ju Jeon et.al.|[2402.14861](http://arxiv.org/abs/2402.14861)|null|
 |**2024-02-22**|**Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach**|Andrea Giuseppe Di Francesco et.al.|[2402.14802](http://arxiv.org/abs/2402.14802)|null|
 |**2024-02-22**|**CaT-GNN: Enhancing Credit Card Fraud Detection via Causal Temporal Graph Neural Networks**|Yifan Duan et.al.|[2402.14708](http://arxiv.org/abs/2402.14708)|null|
@@ -1903,6 +1915,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
+|**2024-02-27**|**Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners**|Yazhou Xing et.al.|[2402.17723](http://arxiv.org/abs/2402.17723)|null|
+|**2024-02-27**|**Structure-Guided Adversarial Training of Diffusion Models**|Ling Yang et.al.|[2402.17563](http://arxiv.org/abs/2402.17563)|null|
+|**2024-02-27**|**Fast Lithium Ion Diffusion in Brownmillerite $\mathrm{Li}_{x}\mathrm{{Sr}_{2}{Co}_{2}{O}_{5}}$**|Xin Chen et.al.|[2402.17557](http://arxiv.org/abs/2402.17557)|null|
+|**2024-02-27**|**Forming 1D Periodic J-aggregates by Mechanical Bending of BNNTs: Evidence of Activated Molecular Diffusion**|J. -B. Marceau et.al.|[2402.17537](http://arxiv.org/abs/2402.17537)|null|
+|**2024-02-27**|**Diffusion Model-Based Image Editing: A Survey**|Yi Huang et.al.|[2402.17525](http://arxiv.org/abs/2402.17525)|**[link](https://github.com/siatmmlab/awesome-diffusion-model-based-image-editing-methods)**|
+|**2024-02-27**|**Label-Noise Robust Diffusion Models**|Byeonghu Na et.al.|[2402.17517](http://arxiv.org/abs/2402.17517)|**[link](https://github.com/byeonghu-na/tdsm)**|
+|**2024-02-27**|**EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**|Linrui Tian et.al.|[2402.17485](http://arxiv.org/abs/2402.17485)|null|
+|**2024-02-27**|**Field, frequency and temperature dependence of the surface resistance of nitrogen diffused niobium superconducting radio frequency cavities**|P. Dhakal et.al.|[2402.17458](http://arxiv.org/abs/2402.17458)|null|
+|**2024-02-27**|**DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model**|Shyam Marjit et.al.|[2402.17412](http://arxiv.org/abs/2402.17412)|null|
 |**2024-02-26**|**Stochastic Conditional Diffusion Models for Semantic Image Synthesis**|Juyeon Ko et.al.|[2402.16506](http://arxiv.org/abs/2402.16506)|null|
 |**2024-02-26**|**Outline-Guided Object Inpainting with Diffusion Models**|Markus Pobitzer et.al.|[2402.16421](http://arxiv.org/abs/2402.16421)|null|
 |**2024-02-26**|**Entropy production for diffusion processes across a semipermeable interface**|Paul C Bressloff et.al.|[2402.16403](http://arxiv.org/abs/2402.16403)|null|
