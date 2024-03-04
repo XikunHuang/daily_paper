@@ -1938,7 +1938,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|**[link](https://github.com/mit-han-lab/distrifuser)**|
+|**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|null|
 |**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455](http://arxiv.org/abs/2402.19455)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
 |**2024-02-29**|**Structure Preserving Diffusion Models**|Haoye Lu et.al.|[2402.19369](http://arxiv.org/abs/2402.19369)|null|
 |**2024-02-29**|**A new analytical model of the cosmic-ray energy flux for Galactic diffuse radio emission**|Andrea Bracco et.al.|[2402.19367](http://arxiv.org/abs/2402.19367)|null|
