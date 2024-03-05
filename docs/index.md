@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-01**|**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**|Zhaorun Chen et.al.|[2403.00425](http://arxiv.org/abs/2403.00425)|**[link](https://github.com/billchan226/halc)**|
 |**2024-02-29**|**Progressive Contrastive Learning with Multi-Prototype for Unsupervised Visible-Infrared Person Re-identification**|Jiangming Shi et.al.|[2402.19026](http://arxiv.org/abs/2402.19026)|null|
 |**2024-02-29**|**Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models**|Xin Li et.al.|[2402.19014](http://arxiv.org/abs/2402.19014)|null|
 |**2024-02-29**|**COFT-AD: COntrastive Fine-Tuning for Few-Shot Anomaly Detection**|Jingyi Liao et.al.|[2402.18998](http://arxiv.org/abs/2402.18998)|null|
@@ -1239,6 +1240,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091](http://arxiv.org/abs/2403.01091)|null|
+|**2024-03-04**|**Toward Autonomous Cooperation in Heterogeneous Nanosatellite Constellations Using Dynamic Graph Neural Networks**|Guillem Casadesus-Vila et.al.|[2403.00692](http://arxiv.org/abs/2403.00692)|null|
+|**2024-03-01**|**A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications**|Jiaqi Han et.al.|[2403.00485](http://arxiv.org/abs/2403.00485)|null|
+|**2024-03-01**|**Nonlinear Sheaf Diffusion in Graph Neural Networks**|Olga Zaghen et.al.|[2403.00337](http://arxiv.org/abs/2403.00337)|null|
 |**2024-02-29**|**Loss-aware Curriculum Learning for Heterogeneous Graph Neural Networks**|Zhen Hao Wong et.al.|[2402.18875](http://arxiv.org/abs/2402.18875)|**[link](https://github.com/lars-research/clgnn)**|
 |**2024-02-28**|**GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks**|Amir Jalalirad et.al.|[2402.18630](http://arxiv.org/abs/2402.18630)|null|
 |**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](http://arxiv.org/abs/2402.18246)|null|
@@ -1929,6 +1934,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
+|**2024-03-02**|**Longtime behavior of semilinear multi-term fractional in time diffusion**|Nataliya Vasylyeva et.al.|[2403.01302](http://arxiv.org/abs/2403.01302)|null|
+|**2024-03-02**|**Anomalous mass dependency in Hydra endoderm cell cluster diffusion**|Aline Lütz et.al.|[2403.01294](http://arxiv.org/abs/2403.01294)|null|
+|**2024-03-02**|**On the Arnold diffusion mechanism in Medium Earth Orbit**|Elisa Maria Alessi et.al.|[2403.01283](http://arxiv.org/abs/2403.01283)|null|
+|**2024-03-02**|**Rigidity results for group von Neumann algebras with diffuse center**|Ionuţ Chifan et.al.|[2403.01280](http://arxiv.org/abs/2403.01280)|null|
+|**2024-03-02**|**DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction**|Junwen Xiong et.al.|[2403.01226](http://arxiv.org/abs/2403.01226)|null|
+|**2024-03-02**|**TCIG: Two-Stage Controlled Image Generation with Quality Enhancement through Diffusion**|Salaheldin Mohamed et.al.|[2403.01212](http://arxiv.org/abs/2403.01212)|null|
+|**2024-03-02**|**Training Unbiased Diffusion Models From Biased Dataset**|Yeongmin Kim et.al.|[2403.01189](http://arxiv.org/abs/2403.01189)|**[link](https://github.com/alsdudrla10/tiw-dsm)**|
+|**2024-03-02**|**Volume diffusion modelling of a sheared granular gas**|Duncan Dockar et.al.|[2403.01188](http://arxiv.org/abs/2403.01188)|null|
+|**2024-03-02**|**Face Swap via Diffusion Model**|Feifei Wang et.al.|[2403.01108](http://arxiv.org/abs/2403.01108)|null|
 |**2024-02-29**|**DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models**|Muyang Li et.al.|[2402.19481](http://arxiv.org/abs/2402.19481)|null|
 |**2024-02-29**|**Listening to the Noise: Blind Denoising with Gibbs Diffusion**|David Heurtel-Depeiges et.al.|[2402.19455](http://arxiv.org/abs/2402.19455)|**[link](https://github.com/rubenohana/gibbs-diffusion)**|
 |**2024-02-29**|**Structure Preserving Diffusion Models**|Haoye Lu et.al.|[2402.19369](http://arxiv.org/abs/2402.19369)|null|
