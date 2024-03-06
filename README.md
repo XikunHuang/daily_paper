@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Zero-Shot Cross-Lingual Document-Level Event Causality Identification with Heterogeneous Graph Contrastive Transfer Learning**|Zhitao He et.al.|[2403.02893](http://arxiv.org/abs/2403.02893)|null|
+|**2024-03-05**|**Enhancing Conceptual Understanding in Multimodal Contrastive Learning through Hard Negative Samples**|Philipp J. Rösch et.al.|[2403.02875](http://arxiv.org/abs/2403.02875)|null|
+|**2024-03-05**|**FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models**|Younghan Lee et.al.|[2403.02846](http://arxiv.org/abs/2403.02846)|**[link](https://github.com/201younghanlee/flguard)**|
+|**2024-03-05**|**Contrastive Pre-training for Deep Session Data Understanding**|Zixuan Li et.al.|[2403.02825](http://arxiv.org/abs/2403.02825)|null|
+|**2024-03-05**|**Rehabilitation Exercise Quality Assessment through Supervised Contrastive Learning with Hard and Soft Negatives**|Mark Karlov et.al.|[2403.02772](http://arxiv.org/abs/2403.02772)|null|
+|**2024-03-05**|**Multi-Scale Subgraph Contrastive Learning**|Yanbei Liu et.al.|[2403.02719](http://arxiv.org/abs/2403.02719)|null|
+|**2024-03-05**|**DP-CRE: Continual Relation Extraction via Decoupled Contrastive Learning and Memory Structure Preservation**|Mengyi Huang et.al.|[2403.02718](http://arxiv.org/abs/2403.02718)|null|
+|**2024-03-05**|**A Unified Framework for Microscopy Defocus Deblur with Multi-Pyramid Transformer and Contrastive Learning**|Yuelin Zhang et.al.|[2403.02611](http://arxiv.org/abs/2403.02611)|null|
+|**2024-03-04**|**Coronary artery segmentation in non-contrast calcium scoring CT images using deep learning**|Mariusz Bujny et.al.|[2403.02544](http://arxiv.org/abs/2403.02544)|null|
+|**2024-03-04**|**Contrastive Region Guidance: Improving Grounding in Vision-Language Models without Training**|David Wan et.al.|[2403.02325](http://arxiv.org/abs/2403.02325)|null|
 |**2024-03-01**|**HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding**|Zhaorun Chen et.al.|[2403.00425](http://arxiv.org/abs/2403.00425)|**[link](https://github.com/billchan226/halc)**|
 |**2024-02-29**|**Progressive Contrastive Learning with Multi-Prototype for Unsupervised Visible-Infrared Person Re-identification**|Jiangming Shi et.al.|[2402.19026](http://arxiv.org/abs/2402.19026)|null|
 |**2024-02-29**|**Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models**|Xin Li et.al.|[2402.19014](http://arxiv.org/abs/2402.19014)|null|
@@ -1247,10 +1257,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**Minimum Topology Attacks for Graph Neural Networks**|Mengmei Zhang et.al.|[2403.02723](http://arxiv.org/abs/2403.02723)|null|
+|**2024-03-04**|**Graph neural network for in-network placement of real-time metaverse tasks in next-generation network**|Sulaiman Muhammad Rashid et.al.|[2403.01780](http://arxiv.org/abs/2403.01780)|null|
+|**2024-03-03**|**Applying Self-supervised Learning to Network Intrusion Detection for Network Flows with Graph Neural Network**|Renjie Xu et.al.|[2403.01501](http://arxiv.org/abs/2403.01501)|**[link](https://github.com/renj-xu/negsc)**|
 |**2024-03-02**|**COOL: A Conjoint Perspective on Spatio-Temporal Graph Neural Network for Traffic Forecasting**|Wei Ju et.al.|[2403.01091](http://arxiv.org/abs/2403.01091)|null|
 |**2024-03-04**|**Toward Autonomous Cooperation in Heterogeneous Nanosatellite Constellations Using Dynamic Graph Neural Networks**|Guillem Casadesus-Vila et.al.|[2403.00692](http://arxiv.org/abs/2403.00692)|null|
 |**2024-03-01**|**A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications**|Jiaqi Han et.al.|[2403.00485](http://arxiv.org/abs/2403.00485)|null|
 |**2024-03-01**|**Nonlinear Sheaf Diffusion in Graph Neural Networks**|Olga Zaghen et.al.|[2403.00337](http://arxiv.org/abs/2403.00337)|null|
+|**2024-03-04**|**Identification of Craving Maps among Marijuana Users via Analysis of Functional Brain Networks with High-Order Attention Graph Neural Networks**|Jun-En Ding et.al.|[2403.00033](http://arxiv.org/abs/2403.00033)|null|
 |**2024-02-29**|**Loss-aware Curriculum Learning for Heterogeneous Graph Neural Networks**|Zhen Hao Wong et.al.|[2402.18875](http://arxiv.org/abs/2402.18875)|**[link](https://github.com/lars-research/clgnn)**|
 |**2024-02-28**|**GNSS Positioning using Cost Function Regulated Multilateration and Graph Neural Networks**|Amir Jalalirad et.al.|[2402.18630](http://arxiv.org/abs/2402.18630)|null|
 |**2024-02-28**|**Reinforcement Learning and Graph Neural Networks for Probabilistic Risk Assessment**|Joachim Grimstad et.al.|[2402.18246](http://arxiv.org/abs/2402.18246)|null|
@@ -1943,6 +1957,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-05**|**On dynamics of gasless combustion in slowly varying periodic media: periodic fronts, their stability and propagation-extinction-diffusion-reignition pattern**|Amanda Matson et.al.|[2403.03144](http://arxiv.org/abs/2403.03144)|null|
+|**2024-03-05**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100](http://arxiv.org/abs/2403.03100)|null|
+|**2024-03-05**|**Mesoscale simulations of diffusion and sedimentation in shape-anisotropic nanoparticle suspensions**|Yashraj M. Wani et.al.|[2403.03009](http://arxiv.org/abs/2403.03009)|null|
+|**2024-03-05**|**On the Asymptotic Mean Square Error Optimality of Diffusion Probabilistic Models**|Benedikt Fesl et.al.|[2403.02957](http://arxiv.org/abs/2403.02957)|**[link](https://github.com/benediktfesl/diffusion_mse)**|
+|**2024-03-05**|**MMoFusion: Multi-modal Co-Speech Motion Generation with Diffusion Model**|Sen Wang et.al.|[2403.02905](http://arxiv.org/abs/2403.02905)|null|
+|**2024-03-05**|**Enhancing the Rate-Distortion-Perception Flexibility of Learned Image Codecs with Conditional Diffusion Decoders**|Daniele Mari et.al.|[2403.02887](http://arxiv.org/abs/2403.02887)|null|
+|**2024-03-05**|**Zero-LED: Zero-Reference Lighting Estimation Diffusion Model for Low-Light Image Enhancement**|Jinhong He et.al.|[2403.02879](http://arxiv.org/abs/2403.02879)|null|
+|**2024-03-05**|**Scalable Continuous-time Diffusion Framework for Network Inference and Influence Estimation**|Keke Huang et.al.|[2403.02867](http://arxiv.org/abs/2403.02867)|null|
+|**2024-03-05**|**Impact of (magneto-)thermoelectric effect on diffusion of conserved charges in hot and dense hadronic matter**|He-Xia Zhang et.al.|[2403.02705](http://arxiv.org/abs/2403.02705)|null|
+|**2024-03-05**|**Elemental abundances in the diffuse ISM from joint FUV and X-ray spectroscopy: iron, oxygen, carbon and sulfur**|I. Psaradaki et.al.|[2403.02664](http://arxiv.org/abs/2403.02664)|null|
 |**2024-03-02**|**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**|Neta Shaul et.al.|[2403.01329](http://arxiv.org/abs/2403.01329)|null|
 |**2024-03-02**|**Longtime behavior of semilinear multi-term fractional in time diffusion**|Nataliya Vasylyeva et.al.|[2403.01302](http://arxiv.org/abs/2403.01302)|null|
 |**2024-03-02**|**Anomalous mass dependency in Hydra endoderm cell cluster diffusion**|Aline Lütz et.al.|[2403.01294](http://arxiv.org/abs/2403.01294)|null|
