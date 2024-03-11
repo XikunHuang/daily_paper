@@ -1,4 +1,4 @@
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1260,15 +1260,15 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240311>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747](http://arxiv.org/abs/2403.04747)|null|
-|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636](http://arxiv.org/abs/2403.04636)|**[link](https://github.com/oliver-lemke/entropy_aware_message_passing)**|
-|**2024-03-07**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605](http://arxiv.org/abs/2403.04605)|null|
+|**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747](http://arxiv.org/abs/2403.04747)|**[link](https://github.com/ml-jku/gnn-vpa)**|
+|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636](http://arxiv.org/abs/2403.04636)|null|
+|**2024-03-08**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605](http://arxiv.org/abs/2403.04605)|null|
 |**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521](http://arxiv.org/abs/2403.04521)|null|
 |**2024-03-07**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph Neural Networks**|Jaehyun Lee et.al.|[2403.04504](http://arxiv.org/abs/2403.04504)|null|
 |**2024-03-07**|**On the Topology Awareness and Generalization Performance of Graph Neural Networks**|Junwei Su et.al.|[2403.04482](http://arxiv.org/abs/2403.04482)|null|
@@ -1970,7 +1970,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240311>back to top</a>)</p>
 
 ## Diffusion
 
@@ -1978,7 +1978,7 @@
 |---|---|---|---|---|
 |**2024-03-07**|**Quantum-enhanced joint estimation of phase and phase diffusion**|Jayanth Jayakumar et.al.|[2403.04722](http://arxiv.org/abs/2403.04722)|null|
 |**2024-03-07**|**PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation**|Junsong Chen et.al.|[2403.04692](http://arxiv.org/abs/2403.04692)|null|
-|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
+|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634](http://arxiv.org/abs/2403.04634)|null|
 |**2024-03-07**|**A Domain Translation Framework with an Adversarial Denoising Diffusion Model to Generate Synthetic Datasets of Echocardiography Images**|Cristiana Tiago et.al.|[2403.04612](http://arxiv.org/abs/2403.04612)|null|
 |**2024-03-07**|**Anatomy-Guided Surface Diffusion Model for Alzheimer's Disease Normative Modeling**|Jianwei Zhang et.al.|[2403.04531](http://arxiv.org/abs/2403.04531)|null|
 |**2024-03-07**|**Effect of turbulent diffusion in modeling anaerobic digestion**|Jeremy Z. Yan et.al.|[2403.04457](http://arxiv.org/abs/2403.04457)|null|
@@ -3891,5 +3891,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240311>back to top</a>)</p>
 
