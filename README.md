@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**LeOCLR: Leveraging Original Images for Contrastive Learning of Visual Representations**|Mohammad Alkhalefi et.al.|[2403.06813](http://arxiv.org/abs/2403.06813)|null|
+|**2024-03-11**|**Probabilistic Contrastive Learning for Long-Tailed Visual Recognition**|Chaoqun Du et.al.|[2403.06726](http://arxiv.org/abs/2403.06726)|null|
+|**2024-03-11**|**Multi-modal Semantic Understanding with Contrastive Cross-modal Feature Alignment**|Ming Zhang et.al.|[2403.06355](http://arxiv.org/abs/2403.06355)|null|
+|**2024-03-10**|**Understanding and Mitigating Human-Labelling Errors in Supervised Contrastive Learning**|Zijun Long et.al.|[2403.06289](http://arxiv.org/abs/2403.06289)|null|
+|**2024-03-10**|**On the Echogenicity of Natural Starch-Based Blood Mimicking Fluids for Contrast Enhanced Ultrasound Imaging: Preliminary In-vitro Experiments**|V. Arun Kumar et.al.|[2403.06237](http://arxiv.org/abs/2403.06237)|null|
+|**2024-03-10**|**Decoupled Contrastive Learning for Long-Tailed Recognition**|Shiyu Xuan et.al.|[2403.06151](http://arxiv.org/abs/2403.06151)|**[link](https://github.com/sy-xuan/dscl)**|
+|**2024-03-10**|**Style Blind Domain Generalized Semantic Segmentation via Covariance Alignment and Semantic Consistence Contrastive Learning**|Woo-Jin Ahn et.al.|[2403.06122](http://arxiv.org/abs/2403.06122)|**[link](https://github.com/root0yang/blindnet)**|
+|**2024-03-10**|**Bit-mask Robust Contrastive Knowledge Distillation for Unsupervised Semantic Hashing**|Liyang He et.al.|[2403.06071](http://arxiv.org/abs/2403.06071)|**[link](https://github.com/hly1998/brcd)**|
+|**2024-03-09**|**Towards Deviation-Robust Agent Navigation via Perturbation-Aware Contrastive Learning**|Bingqian Lin et.al.|[2403.05770](http://arxiv.org/abs/2403.05770)|null|
+|**2024-03-09**|**Deep Contrastive Multi-view Clustering under Semantic Feature Guidance**|Siwen Liu et.al.|[2403.05768](http://arxiv.org/abs/2403.05768)|null|
 |**2024-03-08**|**Poly-View Contrastive Learning**|Amitis Shidani et.al.|[2403.05490](http://arxiv.org/abs/2403.05490)|null|
 |**2024-03-08**|**ContrastDiagnosis: Enhancing Interpretability in Lung Nodule Diagnosis Using Contrastive Learning**|Chenglong Wang et.al.|[2403.05280](http://arxiv.org/abs/2403.05280)|null|
 |**2024-03-08**|**DuDoUniNeXt: Dual-domain unified hybrid model for single and multi-contrast undersampled MRI reconstruction**|Ziqi Gao et.al.|[2403.05256](http://arxiv.org/abs/2403.05256)|null|
@@ -1271,11 +1281,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687](http://arxiv.org/abs/2403.06687)|null|
+|**2024-03-11**|**Graph Neural Network with Two Uplift Estimators for Label-Scarcity Individual Uplift Modeling**|Dingyuan Zhu et.al.|[2403.06489](http://arxiv.org/abs/2403.06489)|null|
+|**2024-03-11**|**Financial Default Prediction via Motif-preserving Graph Neural Network with Curriculum Learning**|Daixin Wang et.al.|[2403.06482](http://arxiv.org/abs/2403.06482)|null|
+|**2024-03-10**|**Local Vertex Colouring Graph Neural Networks**|Shouheng Li et.al.|[2403.06080](http://arxiv.org/abs/2403.06080)|**[link](https://github.com/seanli3/lvc)**|
+|**2024-03-10**|**Generalization of Graph Neural Networks through the Lens of Homomorphism**|Shouheng Li et.al.|[2403.06079](http://arxiv.org/abs/2403.06079)|null|
 |**2024-03-08**|**Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks**|Marco De Nadai et.al.|[2403.05185](http://arxiv.org/abs/2403.05185)|null|
 |**2024-03-08**|**Jet Discrimination with Quantum Complete Graph Neural Network**|Yi-An Chen et.al.|[2403.04990](http://arxiv.org/abs/2403.04990)|null|
 |**2024-03-08**|**Node Centrality Approximation For Large Networks Based On Inductive Graph Neural Networks**|Yiwei Zou et.al.|[2403.04977](http://arxiv.org/abs/2403.04977)|null|
 |**2024-03-07**|**GNN-VPA: A Variance-Preserving Aggregation Strategy for Graph Neural Networks**|Lisa Schneckenreiter et.al.|[2403.04747](http://arxiv.org/abs/2403.04747)|**[link](https://github.com/ml-jku/gnn-vpa)**|
-|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636](http://arxiv.org/abs/2403.04636)|null|
+|**2024-03-07**|**Entropy Aware Message Passing in Graph Neural Networks**|Philipp Nazari et.al.|[2403.04636](http://arxiv.org/abs/2403.04636)|**[link](https://github.com/oliver-lemke/entropy_aware_message_passing)**|
 |**2024-03-08**|**In-n-Out: Calibrating Graph Neural Networks for Link Prediction**|Erik Nascimento et.al.|[2403.04605](http://arxiv.org/abs/2403.04605)|null|
 |**2024-03-07**|**Uncertainty-Aware Relational Graph Neural Network for Few-Shot Knowledge Graph Completion**|Qian Li et.al.|[2403.04521](http://arxiv.org/abs/2403.04521)|null|
 |**2024-03-07**|**Improving Matrix Completion by Exploiting Rating Ordinality in Graph Neural Networks**|Jaehyun Lee et.al.|[2403.04504](http://arxiv.org/abs/2403.04504)|null|
@@ -1984,6 +1999,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion**|Xuan Ju et.al.|[2403.06976](http://arxiv.org/abs/2403.06976)|null|
+|**2024-03-11**|**Bayesian Diffusion Models for 3D Shape Reconstruction**|Haiyang Xu et.al.|[2403.06973](http://arxiv.org/abs/2403.06973)|null|
+|**2024-03-11**|**DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations**|Tianhao Qi et.al.|[2403.06951](http://arxiv.org/abs/2403.06951)|null|
+|**2024-03-11**|**Conditional Score-Based Diffusion Model for Cortical Thickness Trajectory Prediction**|Qing Xiao et.al.|[2403.06940](http://arxiv.org/abs/2403.06940)|null|
+|**2024-03-11**|**Estimation of parameters and local times in a discretely observed threshold diffusion model**|Sara Mazzonetto et.al.|[2403.06858](http://arxiv.org/abs/2403.06858)|null|
+|**2024-03-11**|**Dirichlet heat kernel estimates of subordinate diffusions with continuous components in $C^{1, α}$ open sets**|Jie-Ming Wang et.al.|[2403.06791](http://arxiv.org/abs/2403.06791)|null|
+|**2024-03-11**|**Distribution-Aware Data Expansion with Diffusion Models**|Haowei Zhu et.al.|[2403.06741](http://arxiv.org/abs/2403.06741)|**[link](https://github.com/haoweiz23/distdiff)**|
+|**2024-03-11**|**V3D: Video Diffusion Models are Effective 3D Generators**|Zilong Chen et.al.|[2403.06738](http://arxiv.org/abs/2403.06738)|**[link](https://github.com/heheyas/v3d)**|
+|**2024-03-11**|**Dynamic minimisation of the commute time for a one-dimensional diffusion**|Ma. Elena Hernández-Hernández et.al.|[2403.06715](http://arxiv.org/abs/2403.06715)|null|
+|**2024-03-11**|**PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**|Mert Gulsen et.al.|[2403.06698](http://arxiv.org/abs/2403.06698)|**[link](https://github.com/batuceng/diffusion-layer-robustness-pc)**|
 |**2024-03-08**|**VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models**|Yabo Zhang et.al.|[2403.05438](http://arxiv.org/abs/2403.05438)|**[link](https://github.com/ybybzhang/videoelevator)**|
 |**2024-03-08**|**Simulating conditioned diffusions on manifolds**|Marc Corstanje et.al.|[2403.05409](http://arxiv.org/abs/2403.05409)|null|
 |**2024-03-08**|**DiffSF: Diffusion Models for Scene Flow Estimation**|Yushan Zhang et.al.|[2403.05327](http://arxiv.org/abs/2403.05327)|null|
