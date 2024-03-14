@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**When can we Approximate Wide Contrastive Models with Neural Tangent Kernels and Principal Component Analysis?**|Gautham Govind Anil et.al.|[2403.08673](http://arxiv.org/abs/2403.08673)|null|
+|**2024-03-13**|**Large Language Models are Contrastive Reasoners**|Liang Yao et.al.|[2403.08211](http://arxiv.org/abs/2403.08211)|**[link](https://github.com/yao8839836/cp)**|
+|**2024-03-12**|**CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**|Shuang Guo et.al.|[2403.08119](http://arxiv.org/abs/2403.08119)|null|
 |**2024-03-12**|**Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards**|Wei Shen et.al.|[2403.07708](http://arxiv.org/abs/2403.07708)|null|
 |**2024-03-12**|**Uncertainty-guided Contrastive Learning for Single Source Domain Generalisation**|Anastasios Arsenos et.al.|[2403.07514](http://arxiv.org/abs/2403.07514)|null|
 |**2024-03-12**|**Rethinking ASTE: A Minimalist Tagging Scheme Alongside Contrastive Learning**|Qiao Sun et.al.|[2403.07342](http://arxiv.org/abs/2403.07342)|null|
@@ -1281,6 +1284,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**Reproducibility and Geometric Intrinsic Dimensionality: An Investigation on Graph Neural Network Research**|Tobias Hille et.al.|[2403.08438](http://arxiv.org/abs/2403.08438)|null|
+|**2024-03-13**|**Causal Graph Neural Networks for Wildfire Danger Prediction**|Shan Zhao et.al.|[2403.08414](http://arxiv.org/abs/2403.08414)|null|
+|**2024-03-13**|**BG-HGNN: Toward Scalable and Efficient Heterogeneous Graph Neural Network**|Junwei Su et.al.|[2403.08207](http://arxiv.org/abs/2403.08207)|null|
 |**2024-03-12**|**Iterative Graph Neural Network Enhancement via Frequent Subgraph Mining of Explanations**|Harish G. Naik et.al.|[2403.07849](http://arxiv.org/abs/2403.07849)|null|
 |**2024-03-11**|**Uncertainty in Graph Neural Networks: A Survey**|Fangxin Wang et.al.|[2403.07185](http://arxiv.org/abs/2403.07185)|null|
 |**2024-03-11**|**All in One: Multi-Task Prompting for Graph Neural Networks (Extended Abstract)**|Xiangguo Sun et.al.|[2403.07040](http://arxiv.org/abs/2403.07040)|null|
@@ -2001,6 +2007,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
+|**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758](http://arxiv.org/abs/2403.08758)|null|
+|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
+|**2024-03-13**|**Sticky-threshold diffusions, local time approximation and parameter estimation**|Alexis Anagnostakis et.al.|[2403.08754](http://arxiv.org/abs/2403.08754)|null|
+|**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749](http://arxiv.org/abs/2403.08749)|null|
+|**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
+|**2024-03-13**|**Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**|Paraskevas Pegios et.al.|[2403.08700](http://arxiv.org/abs/2403.08700)|null|
+|**2024-03-13**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609](http://arxiv.org/abs/2403.08609)|null|
+|**2024-03-13**|**ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos**|Lei Shi et.al.|[2403.08591](http://arxiv.org/abs/2403.08591)|null|
+|**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554](http://arxiv.org/abs/2403.08554)|null|
 |**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
 |**2024-03-13**|**SemCity: Semantic Scene Generation with Triplane Diffusion**|Jumin Lee et.al.|[2403.07773](http://arxiv.org/abs/2403.07773)|**[link](https://github.com/zoomin-lee/semcity)**|
 |**2024-03-12**|**Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model**|Yuxuan Zhang et.al.|[2403.07764](http://arxiv.org/abs/2403.07764)|null|
