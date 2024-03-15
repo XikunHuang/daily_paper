@@ -1,4 +1,4 @@
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 |**2024-03-13**|**When can we Approximate Wide Contrastive Models with Neural Tangent Kernels and Principal Component Analysis?**|Gautham Govind Anil et.al.|[2403.08673](http://arxiv.org/abs/2403.08673)|null|
 |**2024-03-13**|**Large Language Models are Contrastive Reasoners**|Liang Yao et.al.|[2403.08211](http://arxiv.org/abs/2403.08211)|**[link](https://github.com/yao8839836/cp)**|
 |**2024-03-12**|**CMax-SLAM: Event-based Rotational-Motion Bundle Adjustment and SLAM System using Contrast Maximization**|Shuang Guo et.al.|[2403.08119](http://arxiv.org/abs/2403.08119)|null|
-|**2024-03-12**|**Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards**|Wei Shen et.al.|[2403.07708](http://arxiv.org/abs/2403.07708)|null|
+|**2024-03-14**|**Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards**|Wei Shen et.al.|[2403.07708](http://arxiv.org/abs/2403.07708)|null|
 |**2024-03-12**|**Uncertainty-guided Contrastive Learning for Single Source Domain Generalisation**|Anastasios Arsenos et.al.|[2403.07514](http://arxiv.org/abs/2403.07514)|null|
 |**2024-03-12**|**Rethinking ASTE: A Minimalist Tagging Scheme Alongside Contrastive Learning**|Qiao Sun et.al.|[2403.07342](http://arxiv.org/abs/2403.07342)|null|
 |**2024-03-12**|**A Question-centric Multi-experts Contrastive Learning Framework for Improving the Accuracy and Interpretability of Deep Sequential Knowledge Tracing Models**|Hengyuan Zhang et.al.|[2403.07322](http://arxiv.org/abs/2403.07322)|null|
@@ -1285,7 +1285,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
 ## GNN
 
@@ -2010,7 +2010,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2018,12 +2018,12 @@
 |---|---|---|---|---|
 |**2024-03-13**|**VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis**|Enric Corona et.al.|[2403.08764](http://arxiv.org/abs/2403.08764)|null|
 |**2024-03-13**|**Spatiotemporal Diffusion Model with Paired Sampling for Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08758](http://arxiv.org/abs/2403.08758)|null|
-|**2024-03-13**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
+|**2024-03-14**|**Efficient Combinatorial Optimization via Heat Diffusion**|Hengyuan Ma et.al.|[2403.08757](http://arxiv.org/abs/2403.08757)|null|
 |**2024-03-13**|**Sticky-threshold diffusions, local time approximation and parameter estimation**|Alexis Anagnostakis et.al.|[2403.08754](http://arxiv.org/abs/2403.08754)|null|
 |**2024-03-13**|**Clinically Feasible Diffusion Reconstruction for Highly-Accelerated Cardiac Cine MRI**|Shihan Qiu et.al.|[2403.08749](http://arxiv.org/abs/2403.08749)|null|
 |**2024-03-13**|**Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data**|Asad Aali et.al.|[2403.08728](http://arxiv.org/abs/2403.08728)|**[link](https://github.com/utcsilab/ambient-diffusion-mri)**|
 |**2024-03-13**|**Diffusion-based Iterative Counterfactual Explanations for Fetal Ultrasound Image Quality Assessment**|Paraskevas Pegios et.al.|[2403.08700](http://arxiv.org/abs/2403.08700)|null|
-|**2024-03-13**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609](http://arxiv.org/abs/2403.08609)|null|
+|**2024-03-14**|**On the Convergence of Locally Adaptive and Scalable Diffusion-Based Sampling Methods for Deep Bayesian Neural Network Posteriors**|Tim Rensmeyer et.al.|[2403.08609](http://arxiv.org/abs/2403.08609)|null|
 |**2024-03-13**|**ActionDiffusion: An Action-aware Diffusion Model for Procedure Planning in Instructional Videos**|Lei Shi et.al.|[2403.08591](http://arxiv.org/abs/2403.08591)|null|
 |**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554](http://arxiv.org/abs/2403.08554)|null|
 |**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
@@ -3971,5 +3971,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240314>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240315>back to top</a>)</p>
 
