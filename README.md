@@ -1,4 +1,4 @@
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1289,7 +1289,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240317>back to top</a>)</p>
 
 ## GNN
 
@@ -2016,7 +2016,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240317>back to top</a>)</p>
 
 ## Diffusion
 
@@ -2028,7 +2028,7 @@
 |**2024-03-14**|**Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk**|Zhangheng Li et.al.|[2403.09450](http://arxiv.org/abs/2403.09450)|null|
 |**2024-03-14**|**Mitigating Data Consistency Induced Discrepancy in Cascaded Diffusion Models for Sparse-view CT Reconstruction**|Hanyu Chen et.al.|[2403.09355](http://arxiv.org/abs/2403.09355)|null|
 |**2024-03-14**|**Video Editing via Factorized Diffusion Distillation**|Uriel Singer et.al.|[2403.09334](http://arxiv.org/abs/2403.09334)|null|
-|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|null|
+|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|**[link](https://github.com/r-j96/stainfuser)**|
 |**2024-03-14**|**Regularity and trend to equilibrium for a non-local advection-diffusion model of active particles**|Luca Alasio et.al.|[2403.09282](http://arxiv.org/abs/2403.09282)|null|
 |**2024-03-14**|**On the speed of propagation in Turing patterns for reaction-diffusion systems**|Václav Klika et.al.|[2403.09247](http://arxiv.org/abs/2403.09247)|null|
 |**2024-03-14**|**Electronic diffusion in a normal state of high-Tc cuprate YBa $_2$Cu$_3$O$_{6+x}$**|Jure Kokalj et.al.|[2403.09241](http://arxiv.org/abs/2403.09241)|null|
@@ -3987,5 +3987,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240317>back to top</a>)</p>
 

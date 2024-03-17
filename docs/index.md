@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -2019,7 +2019,7 @@ layout: default
 |**2024-03-14**|**Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk**|Zhangheng Li et.al.|[2403.09450](http://arxiv.org/abs/2403.09450)|null|
 |**2024-03-14**|**Mitigating Data Consistency Induced Discrepancy in Cascaded Diffusion Models for Sparse-view CT Reconstruction**|Hanyu Chen et.al.|[2403.09355](http://arxiv.org/abs/2403.09355)|null|
 |**2024-03-14**|**Video Editing via Factorized Diffusion Distillation**|Uriel Singer et.al.|[2403.09334](http://arxiv.org/abs/2403.09334)|null|
-|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|null|
+|**2024-03-14**|**StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images**|Robert Jewsbury et.al.|[2403.09302](http://arxiv.org/abs/2403.09302)|**[link](https://github.com/r-j96/stainfuser)**|
 |**2024-03-14**|**Regularity and trend to equilibrium for a non-local advection-diffusion model of active particles**|Luca Alasio et.al.|[2403.09282](http://arxiv.org/abs/2403.09282)|null|
 |**2024-03-14**|**On the speed of propagation in Turing patterns for reaction-diffusion systems**|Václav Klika et.al.|[2403.09247](http://arxiv.org/abs/2403.09247)|null|
 |**2024-03-14**|**Electronic diffusion in a normal state of high-Tc cuprate YBa $_2$Cu$_3$O$_{6+x}$**|Jure Kokalj et.al.|[2403.09241](http://arxiv.org/abs/2403.09241)|null|
