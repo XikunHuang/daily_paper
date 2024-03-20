@@ -9,6 +9,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**N-Modal Contrastive Losses with Applications to Social Media Data in Trimodal Space**|William Theisen et.al.|[2403.12747](http://arxiv.org/abs/2403.12747)|null|
+|**2024-03-19**|**Automated Contrastive Learning Strategy Search for Time Series**|Baoyu Jing et.al.|[2403.12641](http://arxiv.org/abs/2403.12641)|null|
+|**2024-03-19**|**Non-negative Contrastive Learning**|Yifei Wang et.al.|[2403.12459](http://arxiv.org/abs/2403.12459)|**[link](https://github.com/pku-ml/non_neg)**|
+|**2024-03-19**|**Do Generated Data Always Help Contrastive Learning?**|Yifei Wang et.al.|[2403.12448](http://arxiv.org/abs/2403.12448)|**[link](https://github.com/pku-ml/adainf)**|
+|**2024-03-18**|**Data-Efficient Contrastive Language-Image Pretraining: Prioritizing Data Quality over Quantity**|Siddharth Joshi et.al.|[2403.12267](http://arxiv.org/abs/2403.12267)|**[link](https://github.com/bigml-cs-ucla/clipcov-data-efficient-clip)**|
+|**2024-03-18**|**CO3: Low-resource Contrastive Co-training for Generative Conversational Query Rewrite**|Yifei Yuan et.al.|[2403.11873](http://arxiv.org/abs/2403.11873)|null|
 |**2024-03-17**|**Greater than five-order-of-magnitude post-compression temporal contrast improvement with an ionization plasma grating**|Matthew R. Edwards et.al.|[2403.11275](http://arxiv.org/abs/2403.11275)|null|
 |**2024-03-17**|**CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**|Xiaoyu Wu et.al.|[2403.11162](http://arxiv.org/abs/2403.11162)|null|
 |**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136](http://arxiv.org/abs/2403.11136)|null|
@@ -1298,6 +1304,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474](http://arxiv.org/abs/2403.12474)|null|
+|**2024-03-18**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
+|**2024-03-19**|**Leveraging Spatial and Semantic Feature Extraction for Skin Cancer Diagnosis with Capsule Networks and Graph Neural Networks**|K. P. Santoso et.al.|[2403.12009](http://arxiv.org/abs/2403.12009)|null|
+|**2024-03-18**|**CASPER: Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation**|Baoyu Jing et.al.|[2403.11960](http://arxiv.org/abs/2403.11960)|null|
+|**2024-03-18**|**NuGraph2: A Graph Neural Network for Neutrino Physics Event Reconstruction**|V Hewes et.al.|[2403.11872](http://arxiv.org/abs/2403.11872)|null|
+|**2024-03-18**|**Problem space structural adversarial attacks for Network Intrusion Detection Systems based on Graph Neural Networks**|Andrea Venturi et.al.|[2403.11830](http://arxiv.org/abs/2403.11830)|null|
 |**2024-03-18**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
 |**2024-03-18**|**Layer-diverse Negative Sampling for Graph Neural Networks**|Wei Duan et.al.|[2403.11408](http://arxiv.org/abs/2403.11408)|null|
 |**2024-03-19**|**DynamicGlue: Epipolar and Time-Informed Data Association in Dynamic Environments using Graph Neural Networks**|Theresa Huber et.al.|[2403.11370](http://arxiv.org/abs/2403.11370)|null|
@@ -2033,6 +2045,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs**|Yihong Luo et.al.|[2403.12931](http://arxiv.org/abs/2403.12931)|**[link](https://github.com/luo-yihong/yoso)**|
+|**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
+|**2024-03-19**|**D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation**|Jun Yamada et.al.|[2403.12861](http://arxiv.org/abs/2403.12861)|null|
+|**2024-03-19**|**DreamDA: Generative Data Augmentation with Diffusion Models**|Yunxiang Fu et.al.|[2403.12803](http://arxiv.org/abs/2403.12803)|**[link](https://github.com/yunxiangfu2001/dreamda)**|
+|**2024-03-19**|**Towards Controllable Face Generation with Semantic Latent Diffusion Models**|Alex Ergasti et.al.|[2403.12743](http://arxiv.org/abs/2403.12743)|**[link](https://github.com/ergastialex/ldm-diffusion-sem)**|
+|**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728](http://arxiv.org/abs/2403.12728)|**[link](https://github.com/s-jingtao/self-srpe)**|
+|**2024-03-19**|**AnimateDiff-Lightning: Cross-Model Diffusion Distillation**|Shanchuan Lin et.al.|[2403.12706](http://arxiv.org/abs/2403.12706)|null|
+|**2024-03-19**|**Diffusion, viscosity and linear rheology of valence-limited disordered fluids**|Samuel S. Gomez et.al.|[2403.12665](http://arxiv.org/abs/2403.12665)|null|
+|**2024-03-19**|**SC-Diff: 3D Shape Completion with Latent Diffusion Models**|Juan D. Galvis et.al.|[2403.12470](http://arxiv.org/abs/2403.12470)|null|
+|**2024-03-19**|**UniDexFPM: Universal Dexterous Functional Pre-grasp Manipulation Via Diffusion Policy**|Tianhao Wu et.al.|[2403.12421](http://arxiv.org/abs/2403.12421)|null|
 |**2024-03-18**|**Generalized Multi-Source Inference for Text Conditioned Music Diffusion Models**|Emilian Postolache et.al.|[2403.11706](http://arxiv.org/abs/2403.11706)|**[link](https://github.com/gladia-research-group/gmsdi)**|
 |**2024-03-19**|**Urban Scene Diffusion through Semantic Occupancy Map**|Junge Zhang et.al.|[2403.11697](http://arxiv.org/abs/2403.11697)|null|
 |**2024-03-18**|**Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection**|Julia Wolleb et.al.|[2403.11667](http://arxiv.org/abs/2403.11667)|null|
