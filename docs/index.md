@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -13,7 +13,7 @@ layout: default
 |**2024-03-19**|**Automated Contrastive Learning Strategy Search for Time Series**|Baoyu Jing et.al.|[2403.12641](http://arxiv.org/abs/2403.12641)|null|
 |**2024-03-19**|**Non-negative Contrastive Learning**|Yifei Wang et.al.|[2403.12459](http://arxiv.org/abs/2403.12459)|**[link](https://github.com/pku-ml/non_neg)**|
 |**2024-03-19**|**Do Generated Data Always Help Contrastive Learning?**|Yifei Wang et.al.|[2403.12448](http://arxiv.org/abs/2403.12448)|**[link](https://github.com/pku-ml/adainf)**|
-|**2024-03-18**|**Data-Efficient Contrastive Language-Image Pretraining: Prioritizing Data Quality over Quantity**|Siddharth Joshi et.al.|[2403.12267](http://arxiv.org/abs/2403.12267)|**[link](https://github.com/bigml-cs-ucla/clipcov-data-efficient-clip)**|
+|**2024-03-20**|**Data-Efficient Contrastive Language-Image Pretraining: Prioritizing Data Quality over Quantity**|Siddharth Joshi et.al.|[2403.12267](http://arxiv.org/abs/2403.12267)|**[link](https://github.com/bigml-cs-ucla/clipcov-data-efficient-clip)**|
 |**2024-03-18**|**CO3: Low-resource Contrastive Co-training for Generative Conversational Query Rewrite**|Yifei Yuan et.al.|[2403.11873](http://arxiv.org/abs/2403.11873)|null|
 |**2024-03-17**|**Greater than five-order-of-magnitude post-compression temporal contrast improvement with an ionization plasma grating**|Matthew R. Edwards et.al.|[2403.11275](http://arxiv.org/abs/2403.11275)|null|
 |**2024-03-17**|**CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**|Xiaoyu Wu et.al.|[2403.11162](http://arxiv.org/abs/2403.11162)|null|
@@ -1305,7 +1305,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474](http://arxiv.org/abs/2403.12474)|null|
-|**2024-03-18**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
+|**2024-03-20**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-19**|**Leveraging Spatial and Semantic Feature Extraction for Skin Cancer Diagnosis with Capsule Networks and Graph Neural Networks**|K. P. Santoso et.al.|[2403.12009](http://arxiv.org/abs/2403.12009)|null|
 |**2024-03-18**|**CASPER: Causality-Aware Spatiotemporal Graph Neural Networks for Spatiotemporal Time Series Imputation**|Baoyu Jing et.al.|[2403.11960](http://arxiv.org/abs/2403.11960)|null|
 |**2024-03-18**|**NuGraph2: A Graph Neural Network for Neutrino Physics Event Reconstruction**|V Hewes et.al.|[2403.11872](http://arxiv.org/abs/2403.11872)|null|
