@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**|Jiawei Zhou et.al.|[2403.13375](http://arxiv.org/abs/2403.13375)|null|
 |**2024-03-18**|**N-Modal Contrastive Losses with Applications to Social Media Data in Trimodal Space**|William Theisen et.al.|[2403.12747](http://arxiv.org/abs/2403.12747)|null|
 |**2024-03-19**|**Automated Contrastive Learning Strategy Search for Time Series**|Baoyu Jing et.al.|[2403.12641](http://arxiv.org/abs/2403.12641)|null|
 |**2024-03-19**|**Non-negative Contrastive Learning**|Yifei Wang et.al.|[2403.12459](http://arxiv.org/abs/2403.12459)|**[link](https://github.com/pku-ml/non_neg)**|
@@ -17,7 +18,7 @@ layout: default
 |**2024-03-18**|**CO3: Low-resource Contrastive Co-training for Generative Conversational Query Rewrite**|Yifei Yuan et.al.|[2403.11873](http://arxiv.org/abs/2403.11873)|null|
 |**2024-03-17**|**Greater than five-order-of-magnitude post-compression temporal contrast improvement with an ionization plasma grating**|Matthew R. Edwards et.al.|[2403.11275](http://arxiv.org/abs/2403.11275)|null|
 |**2024-03-17**|**CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**|Xiaoyu Wu et.al.|[2403.11162](http://arxiv.org/abs/2403.11162)|null|
-|**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136](http://arxiv.org/abs/2403.11136)|null|
+|**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136](http://arxiv.org/abs/2403.11136)|**[link](https://github.com/aim-se/da4rec)**|
 |**2024-03-17**|**RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning**|Javad Rafiei Asl et.al.|[2403.11082](http://arxiv.org/abs/2403.11082)|null|
 |**2024-03-16**|**Improving the Robustness of Dense Retrievers Against Typos via Multi-Positive Contrastive Learning**|Georgios Sidiropoulos et.al.|[2403.10939](http://arxiv.org/abs/2403.10939)|**[link](https://github.com/gsidiropoulos/typo-robust-multi-positive-dr)**|
 |**2024-03-16**|**Time Series Representation Learning with Supervised Contrastive Temporal Transformer**|Yuansan Liu et.al.|[2403.10787](http://arxiv.org/abs/2403.10787)|null|
@@ -1304,6 +1305,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network**|Ningyi Liao et.al.|[2403.13268](http://arxiv.org/abs/2403.13268)|null|
+|**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|null|
 |**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474](http://arxiv.org/abs/2403.12474)|null|
 |**2024-03-20**|**Graph Neural Networks for Learning Equivariant Representations of Neural Networks**|Miltiadis Kofinas et.al.|[2403.12143](http://arxiv.org/abs/2403.12143)|**[link](https://github.com/mkofinas/neural-graphs)**|
 |**2024-03-19**|**Leveraging Spatial and Semantic Feature Extraction for Skin Cancer Diagnosis with Capsule Networks and Graph Neural Networks**|K. P. Santoso et.al.|[2403.12009](http://arxiv.org/abs/2403.12009)|null|
@@ -2045,6 +2048,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807](http://arxiv.org/abs/2403.13807)|null|
+|**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|null|
+|**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800](http://arxiv.org/abs/2403.13800)|null|
+|**2024-03-20**|**Anomalous diffusion in polydisperse granular gases: Monte Carlo simulations**|Anna S. Bodrova et.al.|[2403.13772](http://arxiv.org/abs/2403.13772)|null|
+|**2024-03-20**|**Step-Calibrated Diffusion for Biomedical Optical Image Restoration**|Yiwei Lyu et.al.|[2403.13680](http://arxiv.org/abs/2403.13680)|null|
+|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652](http://arxiv.org/abs/2403.13652)|null|
+|**2024-03-20**|**Antithetic Multilevel Methods for Elliptic and Hypo-Elliptic Diffusions with Applications**|Yuga Iguchi et.al.|[2403.13489](http://arxiv.org/abs/2403.13489)|null|
+|**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
+|**2024-03-20**|**S2DM: Sector-Shaped Diffusion Models for Video Generation**|Haoran Lang et.al.|[2403.13408](http://arxiv.org/abs/2403.13408)|null|
+|**2024-03-20**|**IIDM: Image-to-Image Diffusion Model for Semantic Image Synthesis**|Feng Liu et.al.|[2403.13378](http://arxiv.org/abs/2403.13378)|null|
 |**2024-03-19**|**You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs**|Yihong Luo et.al.|[2403.12931](http://arxiv.org/abs/2403.12931)|**[link](https://github.com/luo-yihong/yoso)**|
 |**2024-03-19**|**Ultra-High-Resolution Image Synthesis with Pyramid Diffusion Model**|Jiajie Yang et.al.|[2403.12915](http://arxiv.org/abs/2403.12915)|**[link](https://github.com/rando11199/pyramid-diffusion)**|
 |**2024-03-19**|**D-Cubed: Latent Diffusion Trajectory Optimisation for Dexterous Deformable Manipulation**|Jun Yamada et.al.|[2403.12861](http://arxiv.org/abs/2403.12861)|null|
