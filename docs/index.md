@@ -9,6 +9,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589](http://arxiv.org/abs/2403.14589)|null|
+|**2024-03-21**|**Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling**|Chengxu Zhuang et.al.|[2403.14551](http://arxiv.org/abs/2403.14551)|null|
+|**2024-03-21**|**GLC++: Source-Free Universal Domain Adaptation through Global-Local Clustering and Contrastive Affinity Learning**|Sanqing Qu et.al.|[2403.14410](http://arxiv.org/abs/2403.14410)|**[link](https://github.com/ispc-lab/glc-plus)**|
+|**2024-03-21**|**Contrastive Balancing Representation Learning for Heterogeneous Dose-Response Curves Estimation**|Minqin Zhu et.al.|[2403.14232](http://arxiv.org/abs/2403.14232)|null|
+|**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890](http://arxiv.org/abs/2403.13890)|null|
 |**2024-03-20**|**Few-shot Oriented Object Detection with Memorable Contrastive Learning in Remote Sensing Images**|Jiawei Zhou et.al.|[2403.13375](http://arxiv.org/abs/2403.13375)|null|
 |**2024-03-18**|**N-Modal Contrastive Losses with Applications to Social Media Data in Trimodal Space**|William Theisen et.al.|[2403.12747](http://arxiv.org/abs/2403.12747)|null|
 |**2024-03-19**|**Automated Contrastive Learning Strategy Search for Time Series**|Baoyu Jing et.al.|[2403.12641](http://arxiv.org/abs/2403.12641)|null|
@@ -1305,6 +1310,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Graph Neural Network for Crawling Target Nodes in Social Networks**|Kirill Lukyanov et.al.|[2403.13865](http://arxiv.org/abs/2403.13865)|null|
+|**2024-03-18**|**Graphs Unveiled: Graph Neural Networks and Graph Generation**|László Kovács et.al.|[2403.13849](http://arxiv.org/abs/2403.13849)|null|
 |**2024-03-20**|**Unifews: Unified Entry-Wise Sparsification for Efficient Graph Neural Network**|Ningyi Liao et.al.|[2403.13268](http://arxiv.org/abs/2403.13268)|null|
 |**2024-03-19**|**Graph Neural Network-based Multi-agent Reinforcement Learning for Resilient Distributed Coordination of Multi-Robot Systems**|Anthony Goeckner et.al.|[2403.13093](http://arxiv.org/abs/2403.13093)|null|
 |**2024-03-19**|**FairSIN: Achieving Fairness in Graph Neural Networks through Sensitive Information Neutralization**|Cheng Yang et.al.|[2403.12474](http://arxiv.org/abs/2403.12474)|null|
@@ -2048,6 +2055,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Simplified Diffusion Schrödinger Bridge**|Zhicong Tang et.al.|[2403.14623](http://arxiv.org/abs/2403.14623)|null|
+|**2024-03-21**|**Videoshop: Localized Semantic Video Editing with Noise-Extrapolated Diffusion Inversion**|Xiang Fan et.al.|[2403.14617](http://arxiv.org/abs/2403.14617)|null|
+|**2024-03-21**|**Click to Grasp: Zero-Shot Precise Manipulation via Visual Diffusion Descriptors**|Nikolaos Tsagkas et.al.|[2403.14526](http://arxiv.org/abs/2403.14526)|null|
+|**2024-03-21**|**Denoising Diffusion Models for 3D Healthy Brain Tissue Inpainting**|Alicia Durrer et.al.|[2403.14499](http://arxiv.org/abs/2403.14499)|null|
+|**2024-03-21**|**Analysing Diffusion Segmentation for Medical Images**|Mathias Öttl et.al.|[2403.14440](http://arxiv.org/abs/2403.14440)|null|
+|**2024-03-21**|**Style-Extracting Diffusion Models for Semi-Supervised Histopathology Segmentation**|Mathias Öttl et.al.|[2403.14429](http://arxiv.org/abs/2403.14429)|null|
+|**2024-03-21**|**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**|Jonathan Lebensold et.al.|[2403.14421](http://arxiv.org/abs/2403.14421)|null|
+|**2024-03-21**|**Physics-Informed Diffusion Models**|Jan-Hendrik Bastek et.al.|[2403.14404](http://arxiv.org/abs/2403.14404)|null|
+|**2024-03-21**|**SyncTweedies: A General Generative Framework Based on Synchronized Diffusions**|Jaihoon Kim et.al.|[2403.14370](http://arxiv.org/abs/2403.14370)|null|
+|**2024-03-21**|**Open-Vocabulary Attention Maps with Token Optimization for Semantic Segmentation in Diffusion Models**|Pablo Marcos-Manchón et.al.|[2403.14291](http://arxiv.org/abs/2403.14291)|**[link](https://github.com/vpulab/ovam)**|
 |**2024-03-20**|**Editing Massive Concepts in Text-to-Image Diffusion Models**|Tianwei Xiong et.al.|[2403.13807](http://arxiv.org/abs/2403.13807)|null|
 |**2024-03-20**|**ZigMa: Zigzag Mamba Diffusion Model**|Vincent Tao Hu et.al.|[2403.13802](http://arxiv.org/abs/2403.13802)|null|
 |**2024-03-20**|**TimeRewind: Rewinding Time with Image-and-Events Video Diffusion**|Jingxi Chen et.al.|[2403.13800](http://arxiv.org/abs/2403.13800)|null|
