@@ -9,6 +9,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|null|
+|**2024-03-25**|**Efficient Information Extraction in Few-Shot Relation Classification through Contrastive Representation Learning**|Philipp Borchert et.al.|[2403.16543](http://arxiv.org/abs/2403.16543)|**[link](https://github.com/pnborchert/multirep)**|
+|**2024-03-25**|**CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification**|Guangqian Yang et.al.|[2403.16520](http://arxiv.org/abs/2403.16520)|null|
+|**2024-03-24**|**Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning**|Siyuan Liang et.al.|[2403.16257](http://arxiv.org/abs/2403.16257)|null|
+|**2024-03-23**|**Intersubband polaritonic metasurfaces for high-contrast ultra-fast power limiting and optical switching**|Michele Cotrufo et.al.|[2403.15911](http://arxiv.org/abs/2403.15911)|null|
+|**2024-03-23**|**The First High-Contrast Images of Near High-Mass X-Ray Binaries with Keck/NIRC2**|M. Prasow-Émond et.al.|[2403.15845](http://arxiv.org/abs/2403.15845)|null|
+|**2024-03-22**|**GTC: GNN-Transformer Co-contrastive Learning for Self-supervised Heterogeneous Graph Representation**|Yundong Sun et.al.|[2403.15520](http://arxiv.org/abs/2403.15520)|**[link](https://github.com/phd-lanyu/gtc)**|
 |**2024-03-22**|**Scaling limit of fluctuations for high contrast stochastic homogenization of the Helmholtz equation: second order moments**|Olivier Pinaud et.al.|[2403.15359](http://arxiv.org/abs/2403.15359)|null|
 |**2024-03-22**|**SYNCS: Synthetic Data and Contrastive Self-Supervised Training for Central Sulcus Segmentation**|Vladyslav Zalevskyi et.al.|[2403.15121](http://arxiv.org/abs/2403.15121)|null|
 |**2024-03-22**|**Bilateral Unsymmetrical Graph Contrastive Learning for Recommendation**|Jiaheng Yu et.al.|[2403.15075](http://arxiv.org/abs/2403.15075)|null|
@@ -1314,6 +1321,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-24**|**Rumor Detection with a novel graph neural network approach**|Tianrui Liu et.al.|[2403.16206](http://arxiv.org/abs/2403.16206)|null|
 |**2024-03-22**|**Cascading Blackout Severity Prediction with Statistically-Augmented Graph Neural Networks**|Joe Gorka et.al.|[2403.15363](http://arxiv.org/abs/2403.15363)|null|
 |**2024-03-22**|**Graph neural network coarse-grain force field for the molecular crystal RDX**|Brian H. Lee et.al.|[2403.15266](http://arxiv.org/abs/2403.15266)|null|
 |**2024-03-21**|**iSpLib: A Library for Accelerating Graph Neural Networks using Auto-tuned Sparse Operations**|Md Saidul Hoque Anik et.al.|[2403.14853](http://arxiv.org/abs/2403.14853)|null|
@@ -2063,6 +2071,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**The Directionality of Gravitational and Thermal Diffusive Transport in Geologic Fluid Storage**|Anna Herring et.al.|[2403.16659](http://arxiv.org/abs/2403.16659)|null|
+|**2024-03-25**|**Self-Adaptive Reality-Guided Diffusion for Artifact-Free Super-Resolution**|Qingping Zheng et.al.|[2403.16643](http://arxiv.org/abs/2403.16643)|null|
+|**2024-03-25**|**SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions**|Yuda Song et.al.|[2403.16627](http://arxiv.org/abs/2403.16627)|null|
+|**2024-03-25**|**SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation**|Aysim Toker et.al.|[2403.16605](http://arxiv.org/abs/2403.16605)|null|
+|**2024-03-25**|**An Intermediate Fusion ViT Enables Efficient Text-Image Alignment in Diffusion Models**|Zizhao Hu et.al.|[2403.16530](http://arxiv.org/abs/2403.16530)|null|
+|**2024-03-25**|**Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**|Ziyao Huang et.al.|[2403.16510](http://arxiv.org/abs/2403.16510)|**[link](https://github.com/ictmcg/make-your-anchor)**|
+|**2024-03-25**|**Real-Time Recognition of Vortex Beams Modes Through Random Diffusive at the Speed of Light**|Tong Fu et.al.|[2403.16420](http://arxiv.org/abs/2403.16420)|null|
+|**2024-03-25**|**FlashEval: Towards Fast and Accurate Evaluation of Text-to-image Diffusion Generative Models**|Lin Zhao et.al.|[2403.16379](http://arxiv.org/abs/2403.16379)|null|
+|**2024-03-25**|**Generating Potent Poisons and Backdoors from Scratch with Guided Diffusion**|Hossein Souri et.al.|[2403.16365](http://arxiv.org/abs/2403.16365)|**[link](https://github.com/hsouri/gdp)**|
+|**2024-03-24**|**Diffusion Model is a Good Pose Estimator from 3D RF-Vision**|Junqiao Fan et.al.|[2403.16198](http://arxiv.org/abs/2403.16198)|null|
 |**2024-03-22**|**DiffusionMTL: Learning Multi-Task Denoising Diffusion Model from Partially Annotated Data**|Hanrong Ye et.al.|[2403.15389](http://arxiv.org/abs/2403.15389)|null|
 |**2024-03-22**|**Energy-dependent Boosted Dark Matter from Diffuse Supernova Neutrino Background**|Anirban Das et.al.|[2403.15367](http://arxiv.org/abs/2403.15367)|null|
 |**2024-03-22**|**Ultrasound Imaging based on the Variance of a Diffusion Restoration Model**|Yuxin Zhang et.al.|[2403.15316](http://arxiv.org/abs/2403.15316)|null|
