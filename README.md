@@ -14,7 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-26**|**Quasar Island - Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903](http://arxiv.org/abs/2403.17903)|null|
+|**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
+|**2024-03-27**|**Contrastive Learning with Orthonormal Anchors (CLOA)**|Huanran Li et.al.|[2403.18699](http://arxiv.org/abs/2403.18699)|null|
+|**2024-03-27**|**TransFusion: Contrastive Learning with Transformers**|Huanran Li et.al.|[2403.18681](http://arxiv.org/abs/2403.18681)|null|
+|**2024-03-27**|**Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users**|Yejin Kim et.al.|[2403.18667](http://arxiv.org/abs/2403.18667)|null|
+|**2024-03-27**|**Debiasing Sentence Embedders through Contrastive Word Pairs**|Philip Kenneweg et.al.|[2403.18555](http://arxiv.org/abs/2403.18555)|null|
+|**2024-03-27**|**OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning**|Noor Ahmed et.al.|[2403.18550](http://arxiv.org/abs/2403.18550)|null|
+|**2024-03-27**|**Multi-Modal Contrastive Learning for Online Clinical Time-Series Applications**|Fabian Baldenweg et.al.|[2403.18316](http://arxiv.org/abs/2403.18316)|null|
+|**2024-03-26**|**Quasar Island -- Three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning**|Xander Byrne et.al.|[2403.17903](http://arxiv.org/abs/2403.17903)|null|
 |**2024-03-26**|**KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning**|Cong-Duy Nguyen et.al.|[2403.17486](http://arxiv.org/abs/2403.17486)|**[link](https://github.com/duyngtr16061999/kdmcse)**|
 |**2024-03-26**|**HILL: Hierarchy-aware Information Lossless Contrastive Learning for Hierarchical Text Classification**|He Zhu et.al.|[2403.17307](http://arxiv.org/abs/2403.17307)|**[link](https://github.com/rooooyy/hill)**|
 |**2024-03-25**|**Multi-Convergence-Angle Ptychography with Simultaneous Strong Contrast and High Resolution**|Wei Mao et.al.|[2403.16902](http://arxiv.org/abs/2403.16902)|null|
@@ -1333,10 +1340,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
+|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|null|
+|**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296](http://arxiv.org/abs/2403.18296)|null|
+|**2024-03-26**|**HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2403.18142](http://arxiv.org/abs/2403.18142)|null|
 |**2024-03-26**|**Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation**|Hyeon-Ju Jeon et.al.|[2403.17384](http://arxiv.org/abs/2403.17384)|null|
 |**2024-03-26**|**Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network**|Yilun Zheng et.al.|[2403.17351](http://arxiv.org/abs/2403.17351)|null|
 |**2024-03-25**|**Manufacturing Service Capability Prediction with Graph Neural Networks**|Yunqing Li et.al.|[2403.17239](http://arxiv.org/abs/2403.17239)|null|
-|**2024-03-25**|**Less Is More - On the Importance of Sparsification for Transformers and Graph Neural Networks for TSP**|Attila Lischka et.al.|[2403.17159](http://arxiv.org/abs/2403.17159)|null|
+|**2024-03-25**|**Less Is More -- On the Importance of Sparsification for Transformers and Graph Neural Networks for TSP**|Attila Lischka et.al.|[2403.17159](http://arxiv.org/abs/2403.17159)|null|
 |**2024-03-26**|**Rumor Detection with a novel graph neural network approach**|Tianrui Liu et.al.|[2403.16206](http://arxiv.org/abs/2403.16206)|null|
 |**2024-03-22**|**Cascading Blackout Severity Prediction with Statistically-Augmented Graph Neural Networks**|Joe Gorka et.al.|[2403.15363](http://arxiv.org/abs/2403.15363)|null|
 |**2024-03-22**|**Graph neural network coarse-grain force field for the molecular crystal RDX**|Brian H. Lee et.al.|[2403.15266](http://arxiv.org/abs/2403.15266)|null|
@@ -2089,6 +2100,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
+|**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791](http://arxiv.org/abs/2403.18791)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
+|**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775](http://arxiv.org/abs/2403.18775)|**[link](https://github.com/chenshuang-zhang/imagenet_d)**|
+|**2024-03-27**|**A Diffusion-Based Generative Equalizer for Music Restoration**|Eloi Moliner et.al.|[2403.18636](http://arxiv.org/abs/2403.18636)|null|
+|**2024-03-27**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
+|**2024-03-27**|**Uphill drift in the absence of current in single-file diffusion**|Benjamin Sorkin et.al.|[2403.18538](http://arxiv.org/abs/2403.18538)|null|
+|**2024-03-27**|**Learning in PINNs: Phase transition, total diffusion, and generalization**|Sokratis J. Anagnostopoulos et.al.|[2403.18494](http://arxiv.org/abs/2403.18494)|null|
+|**2024-03-27**|**Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models**|Guido Klein et.al.|[2403.18486](http://arxiv.org/abs/2403.18486)|null|
+|**2024-03-27**|**DiffusionFace: Towards a Comprehensive Dataset for Diffusion-Based Face Forgery Analysis**|Zhongxi Chen et.al.|[2403.18471](http://arxiv.org/abs/2403.18471)|**[link](https://github.com/rapisurazurite/diffface)**|
+|**2024-03-27**|**DiffStyler: Diffusion-based Localized Image Style Transfer**|Shaoxu Li et.al.|[2403.18461](http://arxiv.org/abs/2403.18461)|null|
 |**2024-03-26**|**ConvoFusion: Multi-Modal Conversational Diffusion for Co-Speech Gesture Synthesis**|Muhammad Hamza Mughal et.al.|[2403.17936](http://arxiv.org/abs/2403.17936)|null|
 |**2024-03-26**|**AID: Attention Interpolation of Text-to-Image Diffusion**|Qiyuan He et.al.|[2403.17924](http://arxiv.org/abs/2403.17924)|**[link](https://github.com/qy-h00/attention-interpolation-diffusion)**|
 |**2024-03-26**|**Boosting Diffusion Models with Moving Average Sampling in Frequency Domain**|Yurui Qian et.al.|[2403.17870](http://arxiv.org/abs/2403.17870)|null|
