@@ -1,4 +1,4 @@
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1334,14 +1334,14 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-27**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
-|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|null|
+|**2024-03-28**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
+|**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
 |**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296](http://arxiv.org/abs/2403.18296)|null|
 |**2024-03-26**|**HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks**|Yongyi Yang et.al.|[2403.18142](http://arxiv.org/abs/2403.18142)|null|
 |**2024-03-26**|**Explainable Graph Neural Networks for Observation Impact Analysis in Atmospheric State Estimation**|Hyeon-Ju Jeon et.al.|[2403.17384](http://arxiv.org/abs/2403.17384)|null|
@@ -2094,17 +2094,17 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
+|**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791](http://arxiv.org/abs/2403.18791)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
 |**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775](http://arxiv.org/abs/2403.18775)|**[link](https://github.com/chenshuang-zhang/imagenet_d)**|
 |**2024-03-27**|**A Diffusion-Based Generative Equalizer for Music Restoration**|Eloi Moliner et.al.|[2403.18636](http://arxiv.org/abs/2403.18636)|null|
-|**2024-03-27**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
+|**2024-03-28**|**FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing**|Trong-Tung Nguyen et.al.|[2403.18605](http://arxiv.org/abs/2403.18605)|null|
 |**2024-03-27**|**Uphill drift in the absence of current in single-file diffusion**|Benjamin Sorkin et.al.|[2403.18538](http://arxiv.org/abs/2403.18538)|null|
 |**2024-03-27**|**Learning in PINNs: Phase transition, total diffusion, and generalization**|Sokratis J. Anagnostopoulos et.al.|[2403.18494](http://arxiv.org/abs/2403.18494)|null|
 |**2024-03-27**|**Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models**|Guido Klein et.al.|[2403.18486](http://arxiv.org/abs/2403.18486)|null|
@@ -4147,5 +4147,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240328>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240329>back to top</a>)</p>
 
