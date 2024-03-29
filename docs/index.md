@@ -9,6 +9,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**A robust two-level overlapping preconditioner for Darcy flow in high-contrast media**|Changqing Ye et.al.|[2403.19356](http://arxiv.org/abs/2403.19356)|null|
+|**2024-03-28**|**An efficient multiscale multigrid preconditioner for Darcy flow in high-contrast media**|Changqing Ye et.al.|[2403.19342](http://arxiv.org/abs/2403.19342)|null|
+|**2024-03-28**|**PoCo: A Self-Supervised Approach via Polar Transformation Based Progressive Contrastive Learning for Ophthalmic Disease Diagnosis**|Jinhong Wang et.al.|[2403.19124](http://arxiv.org/abs/2403.19124)|null|
+|**2024-03-27**|**Increasing the raw contrast of VLT/SPHERE with dark hole techniques III. Broadband reference differential imaging of HR\,4796 using a four-quadrant phase mask**|Raphael Galicher et.al.|[2403.18939](http://arxiv.org/abs/2403.18939)|null|
 |**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
 |**2024-03-27**|**Contrastive Learning with Orthonormal Anchors (CLOA)**|Huanran Li et.al.|[2403.18699](http://arxiv.org/abs/2403.18699)|null|
 |**2024-03-27**|**TransFusion: Contrastive Learning with Transformers**|Huanran Li et.al.|[2403.18681](http://arxiv.org/abs/2403.18681)|null|
@@ -1333,6 +1337,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Graph Neural Networks for Treatment Effect Prediction**|George Panagopoulos et.al.|[2403.19289](http://arxiv.org/abs/2403.19289)|null|
+|**2024-03-28**|**Tiny Graph Neural Networks for Radio Resource Management**|Ahmad Ghasemi et.al.|[2403.19143](http://arxiv.org/abs/2403.19143)|null|
 |**2024-03-28**|**FluxGAT: Integrating Flux Sampling with Graph Neural Networks for Unbiased Gene Essentiality Classification**|Kieren Sharma et.al.|[2403.18666](http://arxiv.org/abs/2403.18666)|null|
 |**2024-03-27**|**Physics-Informed Graph Neural Networks for Water Distribution Systems**|Inaam Ashraf et.al.|[2403.18570](http://arxiv.org/abs/2403.18570)|**[link](https://github.com/HammerLabML/physics_informed_gnns_for_wds)**|
 |**2024-03-27**|**GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm**|Chunhang Zheng et.al.|[2403.18296](http://arxiv.org/abs/2403.18296)|null|
@@ -2091,6 +2097,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond**|Katherine Xu et.al.|[2403.19653](http://arxiv.org/abs/2403.19653)|**[link](https://github.com/k8xu/imageattribution)**|
+|**2024-03-28**|**GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models**|Yusuf Dalva et.al.|[2403.19645](http://arxiv.org/abs/2403.19645)|null|
+|**2024-03-28**|**Generalisation of the Spectral Difference scheme for the diffused-interface five equation model**|Niccolò Tonicello et.al.|[2403.19623](http://arxiv.org/abs/2403.19623)|null|
+|**2024-03-28**|**Enhance Image Classification via Inter-Class Image Mixup with Diffusion Model**|Zhicai Wang et.al.|[2403.19600](http://arxiv.org/abs/2403.19600)|null|
+|**2024-03-28**|**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**|Aimon Rahman et.al.|[2403.19593](http://arxiv.org/abs/2403.19593)|null|
+|**2024-03-28**|**Debiasing Cardiac Imaging with Controlled Latent Diffusion Models**|Grzegorz Skorupko et.al.|[2403.19508](http://arxiv.org/abs/2403.19508)|null|
+|**2024-03-28**|**Burst Super-Resolution with Diffusion Models for Improving Perceptual Quality**|Kyotaro Tokoro et.al.|[2403.19428](http://arxiv.org/abs/2403.19428)|**[link](https://github.com/placerkyo/bsrd)**|
+|**2024-03-28**|**Towards a sensing model using random laser combined with diffuse reflectance spectroscopy**|Dongqin Ni et.al.|[2403.19349](http://arxiv.org/abs/2403.19349)|null|
+|**2024-03-28**|**Imperceptible Protection against Style Imitation from Diffusion Models**|Namhyuk Ahn et.al.|[2403.19254](http://arxiv.org/abs/2403.19254)|null|
+|**2024-03-28**|**DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation**|Haonan Lin et.al.|[2403.19235](http://arxiv.org/abs/2403.19235)|null|
 |**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791](http://arxiv.org/abs/2403.18791)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
 |**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775](http://arxiv.org/abs/2403.18775)|**[link](https://github.com/chenshuang-zhang/imagenet_d)**|
