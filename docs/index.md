@@ -16,9 +16,9 @@ layout: default
 |**2024-04-03**|**Representation Alignment Contrastive Regularization for Multi-Object Tracking**|Shujie Chen et.al.|[2404.02562](http://arxiv.org/abs/2404.02562)|null|
 |**2024-04-03**|**Imaging transformer for MRI denoising with the SNR unit training: enabling generalization across field-strengths, imaging contrasts, and anatomy**|Hui Xue et.al.|[2404.02382](http://arxiv.org/abs/2404.02382)|null|
 |**2024-04-02**|**CHOSEN: Contrastive Hypothesis Selection for Multi-View Depth Refinement**|Di Qiu et.al.|[2404.02225](http://arxiv.org/abs/2404.02225)|null|
-|**2024-04-02**|**ImageNot: A contrast with ImageNet preserves model rankings**|Olawale Salaudeen et.al.|[2404.02112](http://arxiv.org/abs/2404.02112)|null|
+|**2024-04-02**|**ImageNot: A contrast with ImageNet preserves model rankings**|Olawale Salaudeen et.al.|[2404.02112](http://arxiv.org/abs/2404.02112)|**[link](https://github.com/olawalesalaudeen/imagenot)**|
 |**2024-04-02**|**DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning**|Mengfei Du et.al.|[2404.01994](http://arxiv.org/abs/2404.01994)|**[link](https://github.com/mengfeidu/delan)**|
-|**2024-04-02**|**A Universal Knowledge Embedded Contrastive Learning Framework for Hyperspectral Image Classification**|Quanwei Liu et.al.|[2404.01673](http://arxiv.org/abs/2404.01673)|null|
+|**2024-04-02**|**A Universal Knowledge Embedded Contrastive Learning Framework for Hyperspectral Image Classification**|Quanwei Liu et.al.|[2404.01673](http://arxiv.org/abs/2404.01673)|**[link](https://github.com/quanweiliu/knowcl)**|
 |**2024-04-02**|**ContrastCAD: Contrastive Learning-based Representation Learning for Computer-Aided Design Models**|Minseop Jung et.al.|[2404.01645](http://arxiv.org/abs/2404.01645)|**[link](https://github.com/cm8908/contrastcad)**|
 |**2024-04-02**|**Evaluating Large Language Models Using Contrast Sets: An Experimental Approach**|Manish Sanwal et.al.|[2404.01569](http://arxiv.org/abs/2404.01569)|null|
 |**2024-04-01**|**SentiCSE: A Sentiment-aware Contrastive Sentence Embedding Framework with Sentiment-guided Textual Similarity**|Jaemin Kim et.al.|[2404.01104](http://arxiv.org/abs/2404.01104)|**[link](https://github.com/nayohan/senticse)**|
