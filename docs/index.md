@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Phonon Induced Contrast in Matter Wave Interferometer**|Qian Xiang et.al.|[2404.04210](http://arxiv.org/abs/2404.04210)|null|
+|**2024-04-04**|**Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer**|Qinji Yu et.al.|[2404.03819](http://arxiv.org/abs/2404.03819)|null|
+|**2024-04-04**|**Personalized Federated Learning for Spatio-Temporal Forecasting: A Dual Semantic Alignment-Based Contrastive Approach**|Qingxiang Liu et.al.|[2404.03702](http://arxiv.org/abs/2404.03702)|null|
 |**2024-04-04**|**Sparse Concept Bottleneck Models: Gumbel Tricks in Contrastive Learning**|Andrei Semenov et.al.|[2404.03323](http://arxiv.org/abs/2404.03323)|**[link](https://github.com/andron00e/sparsecbm)**|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256](http://arxiv.org/abs/2404.03256)|null|
 |**2024-04-04**|**FACTUAL: A Novel Framework for Contrastive Learning Based Robust SAR Image Classification**|Xu Wang et.al.|[2404.03225](http://arxiv.org/abs/2404.03225)|null|
@@ -2132,6 +2135,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**A posteriori error analysis of a space-time hybridizable discontinuous Galerkin method for the advection-diffusion problem**|Yuan Wang et.al.|[2404.04130](http://arxiv.org/abs/2404.04130)|null|
+|**2024-04-05**|**Score identity Distillation: Exponentially Fast Distillation of Pretrained Diffusion Models for One-Step Generation**|Mingyuan Zhou et.al.|[2404.04057](http://arxiv.org/abs/2404.04057)|null|
+|**2024-04-05**|**Highly efficient NURBS-based isogeometric analysis for coupled nonlinear diffusion-reaction equations with and without advection**|Ilham Asmouh et.al.|[2404.04017](http://arxiv.org/abs/2404.04017)|null|
+|**2024-04-05**|**Bell Instability-Mediated Diffusive Shock Acceleration at Supernova Blast Wave Shock Propagating in the ISM**|Tsuyoshi Inoue et.al.|[2404.03903](http://arxiv.org/abs/2404.03903)|null|
+|**2024-04-04**|**Microscopic derivation of non-local models with anomalous diffusions from stochastic particle systems**|Christian Olivera et.al.|[2404.03772](http://arxiv.org/abs/2404.03772)|null|
 |**2024-04-04**|**CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching**|Dongzhi Jiang et.al.|[2404.03653](http://arxiv.org/abs/2404.03653)|**[link](https://github.com/Karine-Huang/T2I-CompBench)**|
 |**2024-04-04**|**DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior**|Yiming Zhang et.al.|[2404.03642](http://arxiv.org/abs/2404.03642)|null|
 |**2024-04-04**|**DiffDet4SAR: Diffusion-based Aircraft Target Detection Network for SAR Images**|Zhou Jie et.al.|[2404.03595](http://arxiv.org/abs/2404.03595)|**[link](https://github.com/JoyeZLearning/DiffDet4SAR)**|
