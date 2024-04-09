@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.08
+## Updated on 2024.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1366,7 +1366,7 @@ layout: default
 |**2024-04-04**|**Decentralized Learning Strategies for Estimation Error Minimization with Graph Neural Networks**|Xingran Chen et.al.|[2404.03227](http://arxiv.org/abs/2404.03227)|null|
 |**2024-04-04**|**Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks**|Arjun Subramonian et.al.|[2404.03139](http://arxiv.org/abs/2404.03139)|**[link](https://github.com/arjunsubramonian/degree-bias-exploration)**|
 |**2024-04-03**|**First-order PDES for Graph Neural Networks: Advection And Burgers Equation Models**|Yifan Qu et.al.|[2404.03081](http://arxiv.org/abs/2404.03081)|null|
-|**2024-04-03**|**GeoT: Tensor Centric Library for Graph Neural Network via Efficient Segment Reduction on GPU**|Zhongming Yu et.al.|[2404.03019](http://arxiv.org/abs/2404.03019)|**[link](https://github.com/fishmingyu/geot)**|
+|**2024-04-08**|**GeoT: Tensor Centric Library for Graph Neural Network via Efficient Segment Reduction on GPU**|Zhongming Yu et.al.|[2404.03019](http://arxiv.org/abs/2404.03019)|**[link](https://github.com/fishmingyu/geot)**|
 |**2024-04-03**|**Generative-Contrastive Heterogeneous Graph Neural Network**|Yu Wang et.al.|[2404.02810](http://arxiv.org/abs/2404.02810)|null|
 |**2024-04-02**|**Unmasking Correlations in Nuclear Cross Sections with Graph Neural Networks**|Sinjini Mitra et.al.|[2404.02332](http://arxiv.org/abs/2404.02332)|null|
 |**2024-04-02**|**Virtual Sensor for Real-Time Bearing Load Prediction Using Heterogeneous Temporal Graph Neural Networks**|Mengjie Zhao et.al.|[2404.02304](http://arxiv.org/abs/2404.02304)|null|
