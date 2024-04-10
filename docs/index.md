@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.09
+## Updated on 2024.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -2149,7 +2149,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-08**|**NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**|Giordano Cicchetti et.al.|[2404.05669](http://arxiv.org/abs/2404.05669)|**[link](https://github.com/ispamm/naf-dpm)**|
 |**2024-04-08**|**BinaryDM: Towards Accurate Binarization of Diffusion Model**|Xingyu Zheng et.al.|[2404.05662](http://arxiv.org/abs/2404.05662)|null|
-|**2024-04-08**|**The persistence of high altitude non-equilibrium diffuse ionized gas in simulations of star forming galaxies**|Lewis McCallum et.al.|[2404.05651](http://arxiv.org/abs/2404.05651)|null|
+|**2024-04-09**|**The persistence of high altitude non-equilibrium diffuse ionized gas in simulations of star forming galaxies**|Lewis McCallum et.al.|[2404.05651](http://arxiv.org/abs/2404.05651)|null|
 |**2024-04-08**|**Resistive Memory-based Neural Differential Equation Solver for Score-based Diffusion Model**|Jichang Yang et.al.|[2404.05648](http://arxiv.org/abs/2404.05648)|null|
 |**2024-04-08**|**A Training-Free Plug-and-Play Watermark Framework for Stable Diffusion**|Guokai Zhang et.al.|[2404.05607](http://arxiv.org/abs/2404.05607)|null|
 |**2024-04-08**|**UniFL: Improve Stable Diffusion via Unified Feedback Learning**|Jiacheng Zhang et.al.|[2404.05595](http://arxiv.org/abs/2404.05595)|null|
