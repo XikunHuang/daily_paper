@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-09**|**Fair Graph Neural Network with Supervised Contrastive Regularization**|Mahdi Tavassoli Kejani et.al.|[2404.06090](http://arxiv.org/abs/2404.06090)|null|
-|**2024-04-08**|**Anatomical Conditioning for Contrastive Unpaired Image-to-Image Translation of Optical Coherence Tomography Images**|Marc S. Seibel et.al.|[2404.05409](http://arxiv.org/abs/2404.05409)|null|
+|**2024-04-08**|**Anatomical Conditioning for Contrastive Unpaired Image-to-Image Translation of Optical Coherence Tomography Images**|Marc S. Seibel et.al.|[2404.05409](http://arxiv.org/abs/2404.05409)|**[link](https://github.com/msseibel/accut)**|
 |**2024-04-08**|**Comparative Analysis of Image Enhancement Techniques for Brain Tumor Segmentation: Contrast, Histogram, and Hybrid Approaches**|Shoffan Saifullah et.al.|[2404.05341](http://arxiv.org/abs/2404.05341)|null|
 |**2024-04-08**|**Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering**|Jingxin Wang et.al.|[2404.05211](http://arxiv.org/abs/2404.05211)|null|
 |**2024-04-07**|**TimeCSL: Unsupervised Contrastive Learning of General Shapelets for Explorable Time Series Analysis**|Zhiyu Liang et.al.|[2404.05057](http://arxiv.org/abs/2404.05057)|null|
@@ -2150,7 +2150,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
-|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|null|
+|**2024-04-09**|**Policy-Guided Diffusion**|Matthew Thomas Jackson et.al.|[2404.06356](http://arxiv.org/abs/2404.06356)|**[link](https://github.com/emptyjackson/policy-guided-diffusion)**|
 |**2024-04-09**|**Quantum State Generation with Structure-Preserving Diffusion Model**|Yuchen Zhu et.al.|[2404.06336](http://arxiv.org/abs/2404.06336)|null|
 |**2024-04-09**|**scRDiT: Generating single-cell RNA-seq data by diffusion transformers and accelerating sampling**|Shengze Dong et.al.|[2404.06153](http://arxiv.org/abs/2404.06153)|**[link](https://github.com/dongshengze/scrdit)**|
 |**2024-04-09**|**DiffHarmony: Latent Diffusion Model Meets Image Harmonization**|Pengfei Zhou et.al.|[2404.06139](http://arxiv.org/abs/2404.06139)|null|
