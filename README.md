@@ -1,4 +1,4 @@
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,8 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Generalized Contrastive Learning for Multi-Modal Retrieval and Ranking**|Tianyu Zhu et.al.|[2404.08535](http://arxiv.org/abs/2404.08535)|null|
+|**2024-04-12**|**NC-TTT: A Noise Contrastive Approach for Test-Time Training**|David Osowiechi et.al.|[2404.08392](http://arxiv.org/abs/2404.08392)|null|
+|**2024-04-12**|**HCL-MTSAD: Hierarchical Contrastive Consistency Learning for Accurate Detection of Industrial Multivariate Time Series Anomalies**|Haili Sun et.al.|[2404.08224](http://arxiv.org/abs/2404.08224)|null|
 |**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
-|**2024-04-11**|**Backdoor Contrastive Learning via Bi-level Trigger Optimization**|Weiyu Sun et.al.|[2404.07863](http://arxiv.org/abs/2404.07863)|null|
+|**2024-04-11**|**Backdoor Contrastive Learning via Bi-level Trigger Optimization**|Weiyu Sun et.al.|[2404.07863](http://arxiv.org/abs/2404.07863)|**[link](https://github.com/swy666/ssl-backdoor-blto)**|
 |**2024-04-11**|**Contrastive-Based Deep Embeddings for Label Noise-Resilient Histopathology Image Classification**|Lucas Dedieu et.al.|[2404.07605](http://arxiv.org/abs/2404.07605)|**[link](https://github.com/lucasdedieu/noiseresilienthistopathology)**|
 |**2024-04-11**|**CAT: Contrastive Adapter Training for Personalized Image Generation**|Jae Wan Park et.al.|[2404.07554](http://arxiv.org/abs/2404.07554)|**[link](https://github.com/OnomaAi101/CAT)**|
 |**2024-04-10**|**Hybrid Multi-stage Decoding for Few-shot NER with Entity-aware Contrastive Learning**|Peipei Liu et.al.|[2404.06970](http://arxiv.org/abs/2404.06970)|null|
@@ -1379,12 +1382,13 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## GNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial Internet of Things**|Keivan Faghih Niresi et.al.|[2404.08061](http://arxiv.org/abs/2404.08061)|null|
 |**2024-04-10**|**Gaze-Guided Graph Neural Network for Action Anticipation Conditioned on Intention**|Suleyman Ozdel et.al.|[2404.07347](http://arxiv.org/abs/2404.07347)|null|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
 |**2024-04-10**|**Fast System Technology Co-Optimization Framework for Emerging Technology Based on Graph Neural Networks**|Tianliang Ma et.al.|[2404.06939](http://arxiv.org/abs/2404.06939)|null|
@@ -2162,12 +2166,17 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
+|**2024-04-12**|**PiRD: Physics-informed Residual Diffusion for Flow Field Reconstruction**|Siming Shan et.al.|[2404.08412](http://arxiv.org/abs/2404.08412)|null|
+|**2024-04-12**|**Struggle with Adversarial Defense? Try Diffusion**|Yujie Li et.al.|[2404.08273](http://arxiv.org/abs/2404.08273)|null|
+|**2024-04-12**|**Balanced Mixed-Type Tabular Data Synthesis with Diffusion Models**|Zeyu Yang et.al.|[2404.08254](http://arxiv.org/abs/2404.08254)|null|
+|**2024-04-12**|**Wellposedness of the Master Equation for Mean Field Games with Grushin Type Diffusion**|Yiming Jiang et.al.|[2404.08192](http://arxiv.org/abs/2404.08192)|null|
 |**2024-04-11**|**View Selection for 3D Captioning via Diffusion Ranking**|Tiange Luo et.al.|[2404.07984](http://arxiv.org/abs/2404.07984)|null|
 |**2024-04-11**|**Taming Stable Diffusion for Text to 360° Panorama Image Generation**|Cheng Zhang et.al.|[2404.07949](http://arxiv.org/abs/2404.07949)|**[link](https://github.com/chengzhag/panfusion)**|
 |**2024-04-11**|**An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization**|Minshuo Chen et.al.|[2404.07771](http://arxiv.org/abs/2404.07771)|null|
@@ -4308,5 +4317,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240415>back to top</a>)</p>
 
