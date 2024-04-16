@@ -14,6 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Real-world Instance-specific Image Goal Navigation for Service Robots: Bridging the Domain Gap with Contrastive Learning**|Taichi Sakaguchi et.al.|[2404.09645](http://arxiv.org/abs/2404.09645)|null|
+|**2024-04-15**|**Joint Contrastive Learning with Feature Alignment for Cross-Corpus EEG-based Emotion Recognition**|Qile Liu et.al.|[2404.09559](http://arxiv.org/abs/2404.09559)|null|
+|**2024-04-15**|**Contrastive Mean-Shift Learning for Generalized Category Discovery**|Sua Choi et.al.|[2404.09451](http://arxiv.org/abs/2404.09451)|null|
+|**2024-04-14**|**FedCCL: Federated Dual-Clustered Feature Contrast Under Domain Heterogeneity**|Yu Qiao et.al.|[2404.09259](http://arxiv.org/abs/2404.09259)|null|
+|**2024-04-14**|**Prior-agnostic Multi-scale Contrastive Text-Audio Pre-training for Parallelized TTS Frontend Modeling**|Quanxiu Wang et.al.|[2404.09192](http://arxiv.org/abs/2404.09192)|null|
+|**2024-04-13**|**Explanations of MTF discrepancy in grating-based X-ray differential phase contrast CT imaging**|Yuhang Tan et.al.|[2404.08882](http://arxiv.org/abs/2404.08882)|null|
+|**2024-04-12**|**Exploring Contrastive Learning for Long-Tailed Multi-Label Text Classification**|Alexandre Audibert et.al.|[2404.08720](http://arxiv.org/abs/2404.08720)|null|
 |**2024-04-12**|**Generalized Contrastive Learning for Multi-Modal Retrieval and Ranking**|Tianyu Zhu et.al.|[2404.08535](http://arxiv.org/abs/2404.08535)|null|
 |**2024-04-12**|**NC-TTT: A Noise Contrastive Approach for Test-Time Training**|David Osowiechi et.al.|[2404.08392](http://arxiv.org/abs/2404.08392)|null|
 |**2024-04-12**|**HCL-MTSAD: Hierarchical Contrastive Consistency Learning for Accurate Detection of Industrial Multivariate Time Series Anomalies**|Haili Sun et.al.|[2404.08224](http://arxiv.org/abs/2404.08224)|null|
@@ -1388,6 +1395,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**GNNavigator: Towards Adaptive Training of Graph Neural Networks via Automatic Guideline Exploration**|Tong Qiao et.al.|[2404.09544](http://arxiv.org/abs/2404.09544)|null|
+|**2024-04-14**|**DEGNN: Dual Experts Graph Neural Network Handling Both Edge and Node Feature Noise**|Tai Hasegawa et.al.|[2404.09207](http://arxiv.org/abs/2404.09207)|**[link](https://github.com/taihasegawa/degnn)**|
+|**2024-04-12**|**Phase transitions of correlated systems from graph neural networks with quantum embedding techniques**|Rishi Rao et.al.|[2404.08782](http://arxiv.org/abs/2404.08782)|null|
 |**2024-04-11**|**Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial Internet of Things**|Keivan Faghih Niresi et.al.|[2404.08061](http://arxiv.org/abs/2404.08061)|null|
 |**2024-04-10**|**Gaze-Guided Graph Neural Network for Action Anticipation Conditioned on Intention**|Suleyman Ozdel et.al.|[2404.07347](http://arxiv.org/abs/2404.07347)|null|
 |**2024-04-10**|**VN-EGNN: E(3)-Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification**|Florian Sestak et.al.|[2404.07194](http://arxiv.org/abs/2404.07194)|**[link](https://github.com/ml-jku/vnegnn)**|
@@ -2172,6 +2182,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**Equipping Diffusion Models with Differentiable Spatial Entropy for Low-Light Image Enhancement**|Wenyi Lian et.al.|[2404.09735](http://arxiv.org/abs/2404.09735)|**[link](https://github.com/shermanlian/spatial-entropy-loss)**|
+|**2024-04-15**|**Branching diffusion processes and spectral properties of Feynman-Kac semigroup**|Pierre Collet et.al.|[2404.09568](http://arxiv.org/abs/2404.09568)|null|
+|**2024-04-15**|**Entropy on the Path Space and Application to Singular Diffusions and Mean-field Models**|Patrick Cattiaux et.al.|[2404.09552](http://arxiv.org/abs/2404.09552)|null|
+|**2024-04-15**|**TMPQ-DM: Joint Timestep Reduction and Quantization Precision Selection for Efficient Diffusion Models**|Haojun Sun et.al.|[2404.09532](http://arxiv.org/abs/2404.09532)|null|
+|**2024-04-15**|**Data-driven identification of reaction-diffusion dynamics from finitely many non-local noisy measurements by exponential fitting**|Rami Katz et.al.|[2404.09503](http://arxiv.org/abs/2404.09503)|null|
+|**2024-04-15**|**FEASTS Combined with Interferometry (I): Overall Properties of Diffuse HI and Implications for Gas Accretion in Nearby Galaxies**|Jing Wang et.al.|[2404.09422](http://arxiv.org/abs/2404.09422)|null|
+|**2024-04-15**|**Neural McKean-Vlasov Processes: Distributional Dependence in Diffusion Processes**|Haoming Yang et.al.|[2404.09402](http://arxiv.org/abs/2404.09402)|null|
+|**2024-04-15**|**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**|Peifei Zhu et.al.|[2404.09401](http://arxiv.org/abs/2404.09401)|null|
+|**2024-04-14**|**Threshold Current Density for Diffusion-controlled Stability of Electrolytic Surface Nanobubbles**|Yixin Zhang et.al.|[2404.09344](http://arxiv.org/abs/2404.09344)|null|
+|**2024-04-14**|**RoofDiffusion: Constructing Roofs from Severely Corrupted Point Data via Diffusion**|Kyle Shih-Huang Lo et.al.|[2404.09290](http://arxiv.org/abs/2404.09290)|**[link](https://github.com/kylelo/roofdiffusion)**|
 |**2024-04-12**|**Lossy Image Compression with Foundation Diffusion Models**|Lucas Relic et.al.|[2404.08580](http://arxiv.org/abs/2404.08580)|null|
 |**2024-04-12**|**PiRD: Physics-informed Residual Diffusion for Flow Field Reconstruction**|Siming Shan et.al.|[2404.08412](http://arxiv.org/abs/2404.08412)|null|
 |**2024-04-12**|**Struggle with Adversarial Defense? Try Diffusion**|Yujie Li et.al.|[2404.08273](http://arxiv.org/abs/2404.08273)|null|
