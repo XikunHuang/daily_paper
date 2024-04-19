@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation**|Shunpan Liang et.al.|[2404.11993](http://arxiv.org/abs/2404.11993)|null|
+|**2024-04-17**|**Review of speckle-tracking algorithms for x-ray phase contrast imaging: low dose applications**|Rafael Celestre et.al.|[2404.11633](http://arxiv.org/abs/2404.11633)|null|
 |**2024-04-17**|**Convergence rate and uniform Lipschitz estimate in periodic homogenization of high-contrast elliptic systems**|Xin Fu et.al.|[2404.11396](http://arxiv.org/abs/2404.11396)|null|
 |**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
 |**2024-04-17**|**DACAD: Domain Adaptation Contrastive Learning for Anomaly Detection in Multivariate Time Series**|Zahra Zamanzadeh Darban et.al.|[2404.11269](http://arxiv.org/abs/2404.11269)|null|
@@ -1398,9 +1400,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
 |**2024-04-17**|**You do not have to train Graph Neural Networks at all on text-attributed graphs**|Kaiwen Dong et.al.|[2404.11019](http://arxiv.org/abs/2404.11019)|null|
 |**2024-04-16**|**Advancing Network Intrusion Detection: Integrating Graph Neural Networks with Scattering Transform and Node2Vec for Enhanced Anomaly Detection**|Abdeljalil Zoubir et.al.|[2404.10800](http://arxiv.org/abs/2404.10800)|null|
-|**2024-04-16**|**Graph Neural Networks for Protein-Protein Interactions - A Short Survey**|Mingda Xu et.al.|[2404.10450](http://arxiv.org/abs/2404.10450)|null|
+|**2024-04-16**|**Graph Neural Networks for Protein-Protein Interactions -- A Short Survey**|Mingda Xu et.al.|[2404.10450](http://arxiv.org/abs/2404.10450)|null|
 |**2024-04-16**|**Graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks**|Zhiyu Zhang et.al.|[2404.10324](http://arxiv.org/abs/2404.10324)|**[link](https://github.com/Zhiyu014/GNN-UDS)**|
 |**2024-04-16**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks**|Joshua Melton et.al.|[2404.10228](http://arxiv.org/abs/2404.10228)|null|
 |**2024-04-15**|**Solving the Tree Containment Problem Using Graph Neural Networks**|Arkadiy Dushatskiy et.al.|[2404.09812](http://arxiv.org/abs/2404.09812)|null|
@@ -2189,6 +2192,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Lazy Diffusion Transformer for Interactive Image Editing**|Yotam Nitzan et.al.|[2404.12382](http://arxiv.org/abs/2404.12382)|null|
+|**2024-04-18**|**Learning the Domain Specific Inverse NUFFT for Accelerated Spiral MRI using Diffusion Models**|Trevor J. Chan et.al.|[2404.12361](http://arxiv.org/abs/2404.12361)|null|
+|**2024-04-18**|**Customizing Text-to-Image Diffusion with Camera Viewpoint Control**|Nupur Kumari et.al.|[2404.12333](http://arxiv.org/abs/2404.12333)|null|
+|**2024-04-18**|**Guided Discrete Diffusion for Electronic Health Record Generation**|Zixiang Chen et.al.|[2404.12314](http://arxiv.org/abs/2404.12314)|null|
+|**2024-04-18**|**Anomalous diffusion and effective shear modulus in a semi-solid membrane**|Vikash Pandey et.al.|[2404.12211](http://arxiv.org/abs/2404.12211)|null|
+|**2024-04-18**|**Estimation of the invariant measure of a multidimensional diffusion from noisy observations**|Raphaël Maillet et.al.|[2404.12181](http://arxiv.org/abs/2404.12181)|null|
+|**2024-04-18**|**Optimizing the diffusion of overdamped Langevin dynamics**|Tony Lelièvre et.al.|[2404.12087](http://arxiv.org/abs/2404.12087)|null|
+|**2024-04-18**|**Multi-Agent Relative Investment Games in a Jump Diffusion Market with Deep Reinforcement Learning Algorithm**|Liwei Lu et.al.|[2404.11967](http://arxiv.org/abs/2404.11967)|null|
+|**2024-04-18**|**Sketch-guided Image Inpainting with Partial Discrete Diffusion Process**|Nakul Sharma et.al.|[2404.11949](http://arxiv.org/abs/2404.11949)|**[link](https://github.com/vl2g/sketch-inpainting)**|
+|**2024-04-18**|**LD-Pruner: Efficient Pruning of Latent Diffusion Models using Task-Agnostic Insights**|Thibault Castells et.al.|[2404.11936](http://arxiv.org/abs/2404.11936)|null|
 |**2024-04-17**|**Factorized Diffusion: Perceptual Illusions by Noise Decomposition**|Daniel Geng et.al.|[2404.11615](http://arxiv.org/abs/2404.11615)|null|
 |**2024-04-17**|**InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior**|Zhiheng Liu et.al.|[2404.11613](http://arxiv.org/abs/2404.11613)|null|
 |**2024-04-17**|**IntrinsicAnything: Learning Diffusion Priors for Inverse Rendering Under Unknown Illumination**|Xi Chen et.al.|[2404.11593](http://arxiv.org/abs/2404.11593)|null|
