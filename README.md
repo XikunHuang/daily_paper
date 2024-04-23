@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
+|**2024-04-22**|**Noise contrastive estimation with soft targets for conditional models**|Johannes Hugger et.al.|[2404.14076](http://arxiv.org/abs/2404.14076)|null|
+|**2024-04-22**|**Unlocking Insights: Enhanced Analysis of Covariance in General Factorial Designs through Multiple Contrast Tests under Variance Heteroscedasticity**|Matthias Becher et.al.|[2404.13939](http://arxiv.org/abs/2404.13939)|null|
+|**2024-04-22**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878](http://arxiv.org/abs/2404.13878)|**[link](https://github.com/lalunex/msdccl)**|
+|**2024-04-21**|**Rethink Arbitrary Style Transfer with Transformer and Contrastive Learning**|Zhanjie Zhang et.al.|[2404.13584](http://arxiv.org/abs/2404.13584)|null|
 |**2024-04-19**|**Improving Pediatric Pneumonia Diagnosis with Adult Chest X-ray Images Utilizing Contrastive Learning and Embedding Similarity**|Mohammad Zunaed et.al.|[2404.12958](http://arxiv.org/abs/2404.12958)|null|
 |**2024-04-19**|**Contrastive Gaussian Clustering: Weakly Supervised 3D Scene Segmentation**|Myrna C. Silva et.al.|[2404.12784](http://arxiv.org/abs/2404.12784)|null|
 |**2024-04-19**|**Auto-Formula: Recommend Formulas in Spreadsheets using Contrastive Learning for Table Representations**|Sibei Chen et.al.|[2404.12608](http://arxiv.org/abs/2404.12608)|**[link](https://github.com/microsoft/auto-formula)**|
@@ -1411,6 +1416,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-21**|**Graph4GUI: Graph Neural Networks for Representing Graphical User Interfaces**|Yue Jiang et.al.|[2404.13521](http://arxiv.org/abs/2404.13521)|null|
+|**2024-04-20**|**GRANOLA: Adaptive Normalization for Graph Neural Networks**|Moshe Eliasof et.al.|[2404.13344](http://arxiv.org/abs/2404.13344)|null|
 |**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
 |**2024-04-17**|**You do not have to train Graph Neural Networks at all on text-attributed graphs**|Kaiwen Dong et.al.|[2404.11019](http://arxiv.org/abs/2404.11019)|null|
 |**2024-04-19**|**Advancing Network Intrusion Detection: Integrating Graph Neural Networks with Scattering Transform and Node2Vec for Enhanced Anomaly Detection**|Abdeljalil Zoubir et.al.|[2404.10800](http://arxiv.org/abs/2404.10800)|null|
@@ -2205,6 +2212,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
+|**2024-04-22**|**Observational characterisation of large-scale transport and horizontal turbulent diffusivity in the quiet Sun**|F. Rincon et.al.|[2404.14383](http://arxiv.org/abs/2404.14383)|null|
+|**2024-04-22**|**Full Event Particle-Level Unfolding with Variable-Length Latent Variational Diffusion**|Alexander Shmakov et.al.|[2404.14332](http://arxiv.org/abs/2404.14332)|null|
+|**2024-04-22**|**Towards Better Adversarial Purification via Adversarial Denoising Diffusion Training**|Yiming Liu et.al.|[2404.14309](http://arxiv.org/abs/2404.14309)|null|
+|**2024-04-22**|**Collaborative Filtering Based on Diffusion Models: Unveiling the Potential of High-Order Connectivity**|Yu Hou et.al.|[2404.14240](http://arxiv.org/abs/2404.14240)|null|
+|**2024-04-22**|**FLDM-VTON: Faithful Latent Diffusion Model for Virtual Try-on**|Chenhui Wang et.al.|[2404.14162](http://arxiv.org/abs/2404.14162)|null|
+|**2024-04-22**|**Logarithmic convexity of non-symmetric time-fractional diffusion equations**|S. E. Chorfi et.al.|[2404.14046](http://arxiv.org/abs/2404.14046)|null|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|
+|**2024-04-22**|**Infusion: Preventing Customized Text-to-Image Diffusion from Overfitting**|Weili Zeng et.al.|[2404.14007](http://arxiv.org/abs/2404.14007)|null|
+|**2024-04-22**|**Finite element analysis of a spectral problem on curved meshes occurring in diffusion with high order boundary conditions**|Fabien Caubet et.al.|[2404.13994](http://arxiv.org/abs/2404.13994)|null|
 |**2024-04-19**|**RadRotator: 3D Rotation of Radiographs with Diffusion Models**|Pouria Rouzrokh et.al.|[2404.13000](http://arxiv.org/abs/2404.13000)|null|
 |**2024-04-19**|**Cross-modal Diffusion Modelling for Super-resolved Spatial Transcriptomics**|Xiaofei Wang et.al.|[2404.12973](http://arxiv.org/abs/2404.12973)|null|
 |**2024-04-19**|**Robust hybrid finite element methods for reaction-dominated diffusion problems**|Thomas Führer et.al.|[2404.12956](http://arxiv.org/abs/2404.12956)|null|
