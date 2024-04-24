@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
 |**2024-04-22**|**Noise contrastive estimation with soft targets for conditional models**|Johannes Hugger et.al.|[2404.14076](http://arxiv.org/abs/2404.14076)|null|
-|**2024-04-22**|**Unlocking Insights: Enhanced Analysis of Covariance in General Factorial Designs through Multiple Contrast Tests under Variance Heteroscedasticity**|Matthias Becher et.al.|[2404.13939](http://arxiv.org/abs/2404.13939)|null|
+|**2024-04-23**|**Unlocking Insights: Enhanced Analysis of Covariance in General Factorial Designs through Multiple Contrast Tests under Variance Heteroscedasticity**|Matthias Becher et.al.|[2404.13939](http://arxiv.org/abs/2404.13939)|null|
 |**2024-04-22**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878](http://arxiv.org/abs/2404.13878)|**[link](https://github.com/lalunex/msdccl)**|
 |**2024-04-21**|**Rethink Arbitrary Style Transfer with Transformer and Contrastive Learning**|Zhanjie Zhang et.al.|[2404.13584](http://arxiv.org/abs/2404.13584)|null|
 |**2024-04-19**|**Improving Pediatric Pneumonia Diagnosis with Adult Chest X-ray Images Utilizing Contrastive Learning and Embedding Similarity**|Mohammad Zunaed et.al.|[2404.12958](http://arxiv.org/abs/2404.12958)|null|

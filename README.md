@@ -1,4 +1,4 @@
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 |**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
 |**2024-04-22**|**Noise contrastive estimation with soft targets for conditional models**|Johannes Hugger et.al.|[2404.14076](http://arxiv.org/abs/2404.14076)|null|
-|**2024-04-22**|**Unlocking Insights: Enhanced Analysis of Covariance in General Factorial Designs through Multiple Contrast Tests under Variance Heteroscedasticity**|Matthias Becher et.al.|[2404.13939](http://arxiv.org/abs/2404.13939)|null|
+|**2024-04-23**|**Unlocking Insights: Enhanced Analysis of Covariance in General Factorial Designs through Multiple Contrast Tests under Variance Heteroscedasticity**|Matthias Becher et.al.|[2404.13939](http://arxiv.org/abs/2404.13939)|null|
 |**2024-04-22**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878](http://arxiv.org/abs/2404.13878)|**[link](https://github.com/lalunex/msdccl)**|
 |**2024-04-21**|**Rethink Arbitrary Style Transfer with Transformer and Contrastive Learning**|Zhanjie Zhang et.al.|[2404.13584](http://arxiv.org/abs/2404.13584)|null|
 |**2024-04-19**|**Improving Pediatric Pneumonia Diagnosis with Adult Chest X-ray Images Utilizing Contrastive Learning and Embedding Similarity**|Mohammad Zunaed et.al.|[2404.12958](http://arxiv.org/abs/2404.12958)|null|
@@ -1410,7 +1410,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## GNN
 
@@ -2206,7 +2206,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4417,5 +4417,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
