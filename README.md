@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Additive Margin in Contrastive Self-Supervised Frameworks to Learn Discriminative Speaker Representations**|Theo Lepage et.al.|[2404.14913](http://arxiv.org/abs/2404.14913)|null|
+|**2024-04-23**|**Contrastive Quantization based Semantic Code for Generative Recommendation**|Mengqun Jin et.al.|[2404.14774](http://arxiv.org/abs/2404.14774)|null|
 |**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
 |**2024-04-22**|**Noise contrastive estimation with soft targets for conditional models**|Johannes Hugger et.al.|[2404.14076](http://arxiv.org/abs/2404.14076)|null|
 |**2024-04-23**|**Unlocking Insights: Enhanced Analysis of Covariance in General Factorial Designs through Multiple Contrast Tests under Variance Heteroscedasticity**|Matthias Becher et.al.|[2404.13939](http://arxiv.org/abs/2404.13939)|null|
@@ -1416,6 +1418,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Delayed Bottlenecking: Alleviating Forgetting in Pre-trained Graph Neural Networks**|Zhe Zhao et.al.|[2404.14941](http://arxiv.org/abs/2404.14941)|null|
 |**2024-04-21**|**Graph4GUI: Graph Neural Networks for Representing Graphical User Interfaces**|Yue Jiang et.al.|[2404.13521](http://arxiv.org/abs/2404.13521)|null|
 |**2024-04-20**|**GRANOLA: Adaptive Normalization for Graph Neural Networks**|Moshe Eliasof et.al.|[2404.13344](http://arxiv.org/abs/2404.13344)|null|
 |**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
@@ -2212,6 +2215,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Signature of Particle Diffusion on the X-ray Spectra of the blazar Mkn 421**|C. Baheeja et.al.|[2404.15171](http://arxiv.org/abs/2404.15171)|null|
+|**2024-04-23**|**A general multi-wave quasi-resonance theory for lattice energy diffusion**|Wei Lin et.al.|[2404.15147](http://arxiv.org/abs/2404.15147)|null|
+|**2024-04-23**|**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method**|Mingbao Lin et.al.|[2404.15141](http://arxiv.org/abs/2404.15141)|**[link](https://github.com/lmbxmu/cutdiffusion)**|
+|**2024-04-23**|**Taming Diffusion Probabilistic Models for Character Control**|Rui Chen et.al.|[2404.15121](http://arxiv.org/abs/2404.15121)|null|
+|**2024-04-23**|**Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**|Jingyao Xu et.al.|[2404.15081](http://arxiv.org/abs/2404.15081)|null|
+|**2024-04-23**|**Music Style Transfer With Diffusion Model**|Hong Huang et.al.|[2404.14771](http://arxiv.org/abs/2404.14771)|null|
+|**2024-04-23**|**Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion**|Hongyu Chen et.al.|[2404.14768](http://arxiv.org/abs/2404.14768)|null|
+|**2024-04-23**|**Gradient Guidance for Diffusion Models: An Optimization Perspective**|Yingqing Guo et.al.|[2404.14743](http://arxiv.org/abs/2404.14743)|null|
+|**2024-04-23**|**Source Localization for Cross Network Information Diffusion**|Chen Ling et.al.|[2404.14668](http://arxiv.org/abs/2404.14668)|null|
+|**2024-04-22**|**Align Your Steps: Optimizing Sampling Schedules in Diffusion Models**|Amirmojtaba Sabour et.al.|[2404.14507](http://arxiv.org/abs/2404.14507)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403](http://arxiv.org/abs/2404.14403)|null|
 |**2024-04-22**|**Observational characterisation of large-scale transport and horizontal turbulent diffusivity in the quiet Sun**|F. Rincon et.al.|[2404.14383](http://arxiv.org/abs/2404.14383)|null|
 |**2024-04-22**|**Full Event Particle-Level Unfolding with Variable-Length Latent Variational Diffusion**|Alexander Shmakov et.al.|[2404.14332](http://arxiv.org/abs/2404.14332)|null|
