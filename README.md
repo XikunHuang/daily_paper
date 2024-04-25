@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**DyGCL: Dynamic Graph Contrastive Learning For Event Prediction**|Muhammed Ifte Khairul Islam et.al.|[2404.15612](http://arxiv.org/abs/2404.15612)|null|
+|**2024-04-23**|**CASPR: Automated Evaluation Metric for Contrastive Summarization**|Nirupan Ananthamurugan et.al.|[2404.15565](http://arxiv.org/abs/2404.15565)|**[link](https://github.com/niru-umass-dev/caspr)**|
+|**2024-04-23**|**High Contrast, High Angular Resolution Optical Speckle Imaging: Uncovering Hidden Stellar Companions**|Steve B. Howell et.al.|[2404.15528](http://arxiv.org/abs/2404.15528)|null|
+|**2024-04-23**|**Feature Distribution Shift Mitigation with Contrastive Pretraining for Intrusion Detection**|Weixing Wang et.al.|[2404.15382](http://arxiv.org/abs/2404.15382)|null|
 |**2024-04-23**|**Additive Margin in Contrastive Self-Supervised Frameworks to Learn Discriminative Speaker Representations**|Theo Lepage et.al.|[2404.14913](http://arxiv.org/abs/2404.14913)|null|
 |**2024-04-23**|**Contrastive Quantization based Semantic Code for Generative Recommendation**|Mengqun Jin et.al.|[2404.14774](http://arxiv.org/abs/2404.14774)|null|
 |**2024-04-22**|**CKD: Contrastive Knowledge Distillation from A Sample-wise Perspective**|Wencheng Zhu et.al.|[2404.14109](http://arxiv.org/abs/2404.14109)|null|
@@ -1423,7 +1427,7 @@
 |**2024-04-20**|**GRANOLA: Adaptive Normalization for Graph Neural Networks**|Moshe Eliasof et.al.|[2404.13344](http://arxiv.org/abs/2404.13344)|null|
 |**2024-04-18**|**Graph Neural Networks for Wireless Networks: Graph Representation, Architecture and Evaluation**|Yang Lu et.al.|[2404.11858](http://arxiv.org/abs/2404.11858)|null|
 |**2024-04-17**|**You do not have to train Graph Neural Networks at all on text-attributed graphs**|Kaiwen Dong et.al.|[2404.11019](http://arxiv.org/abs/2404.11019)|null|
-|**2024-04-19**|**Advancing Network Intrusion Detection: Integrating Graph Neural Networks with Scattering Transform and Node2Vec for Enhanced Anomaly Detection**|Abdeljalil Zoubir et.al.|[2404.10800](http://arxiv.org/abs/2404.10800)|null|
+|**2024-04-24**|**Integrating Graph Neural Networks with Scattering Transform for Anomaly Detection**|Abdeljalil Zoubir et.al.|[2404.10800](http://arxiv.org/abs/2404.10800)|null|
 |**2024-04-16**|**Graph Neural Networks for Protein-Protein Interactions -- A Short Survey**|Mingda Xu et.al.|[2404.10450](http://arxiv.org/abs/2404.10450)|null|
 |**2024-04-16**|**Graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks**|Zhiyu Zhang et.al.|[2404.10324](http://arxiv.org/abs/2404.10324)|**[link](https://github.com/Zhiyu014/GNN-UDS)**|
 |**2024-04-16**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks**|Joshua Melton et.al.|[2404.10228](http://arxiv.org/abs/2404.10228)|null|
@@ -2215,6 +2219,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Optimizing OOD Detection in Molecular Graphs: A Novel Approach with Diffusion Models**|Xu Shen et.al.|[2404.15625](http://arxiv.org/abs/2404.15625)|null|
+|**2024-04-23**|**ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model**|Yuanshao Zhu et.al.|[2404.15380](http://arxiv.org/abs/2404.15380)|null|
 |**2024-04-23**|**Signature of Particle Diffusion on the X-ray Spectra of the blazar Mkn 421**|C. Baheeja et.al.|[2404.15171](http://arxiv.org/abs/2404.15171)|null|
 |**2024-04-23**|**A general multi-wave quasi-resonance theory for lattice energy diffusion**|Wei Lin et.al.|[2404.15147](http://arxiv.org/abs/2404.15147)|null|
 |**2024-04-23**|**CutDiffusion: A Simple, Fast, Cheap, and Strong Diffusion Extrapolation Method**|Mingbao Lin et.al.|[2404.15141](http://arxiv.org/abs/2404.15141)|**[link](https://github.com/lmbxmu/cutdiffusion)**|
