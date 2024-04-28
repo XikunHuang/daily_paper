@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-04-25**|**ConKeD++ -- Improving descriptor learning for retinal image registration: A comprehensive study of contrastive losses**|David Rivas-Villar et.al.|[2404.16773](http://arxiv.org/abs/2404.16773)|null|
-|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|null|
+|**2024-04-25**|**Global Concept Explanations for Graphs by Contrastive Learning**|Jonas Teufel et.al.|[2404.16532](http://arxiv.org/abs/2404.16532)|**[link](https://github.com/aimat-lab/megan_global_explanations)**|
 |**2024-04-24**|**PuLID: Pure and Lightning ID Customization via Contrastive Alignment**|Zinan Guo et.al.|[2404.16022](http://arxiv.org/abs/2404.16022)|null|
 |**2024-04-24**|**Mixed Supervised Graph Contrastive Learning for Recommendation**|Weizhi Zhang et.al.|[2404.15954](http://arxiv.org/abs/2404.15954)|null|
 |**2024-04-24**|**Mammo-CLIP: Leveraging Contrastive Language-Image Pre-training (CLIP) for Enhanced Breast Cancer Diagnosis with Multi-view Mammography**|Xuxin Chen et.al.|[2404.15946](http://arxiv.org/abs/2404.15946)|null|
