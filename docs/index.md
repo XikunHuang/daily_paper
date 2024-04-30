@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**ConPro: Learning Severity Representation for Medical Images using Contrastive Learning and Preference Optimization**|Hong Nguyen et.al.|[2404.18831](http://arxiv.org/abs/2404.18831)|null|
+|**2024-04-29**|**Enhanced and Robust Contrast in CEST MRI: Saturation Pulse Shape Design via Optimal Control**|Clemens Stilianu et.al.|[2404.18764](http://arxiv.org/abs/2404.18764)|null|
+|**2024-04-29**|**Self-supervised contrastive learning of radio data for source detection, classification and peculiar object discovery**|S. Riggi et.al.|[2404.18462](http://arxiv.org/abs/2404.18462)|null|
+|**2024-04-28**|**Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement**|Zeyu Hu et.al.|[2404.18214](http://arxiv.org/abs/2404.18214)|null|
+|**2024-04-27**|**FedCRL: Personalized Federated Learning with Contrastive Shared Representations for Label Heterogeneity in Non-IID Data**|Chenghao Huang et.al.|[2404.17916](http://arxiv.org/abs/2404.17916)|null|
+|**2024-04-27**|**PromptCL: Improving Event Representation via Prompt Template and Contrastive Learning**|Yubo Feng et.al.|[2404.17877](http://arxiv.org/abs/2404.17877)|**[link](https://github.com/yubofeng2023/promptcl)**|
+|**2024-04-27**|**Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection**|Yizhou Chen et.al.|[2404.17839](http://arxiv.org/abs/2404.17839)|null|
+|**2024-04-27**|**ODCR: Orthogonal Decoupling Contrastive Regularization for Unpaired Image Dehazing**|Zhongze Wang et.al.|[2404.17825](http://arxiv.org/abs/2404.17825)|null|
+|**2024-04-27**|**T-CLAP: Temporal-Enhanced Contrastive Language-Audio Pretraining**|Yi Yuan et.al.|[2404.17806](http://arxiv.org/abs/2404.17806)|null|
 |**2024-04-26**|**Tabular Data Contrastive Learning via Class-Conditioned and Feature-Correlation Based Augmentation**|Wei Cui et.al.|[2404.17489](http://arxiv.org/abs/2404.17489)|**[link](https://github.com/willtop/tabular-class-conditioned-ssl)**|
 |**2024-04-26**|**A Unified Label-Aware Contrastive Learning Framework for Few-Shot Named Entity Recognition**|Haojie Zhang et.al.|[2404.17178](http://arxiv.org/abs/2404.17178)|null|
 |**2024-04-26**|**Bound state in the continuum and polarization-insensitive electric mirror in low-contrast metasurface**|Hao Song et.al.|[2404.17132](http://arxiv.org/abs/2404.17132)|null|
@@ -1426,6 +1435,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**Multi-stage Attack Detection and Prediction Using Graph Neural Networks: An IoT Feasibility Study**|Hamdi Friji et.al.|[2404.18328](http://arxiv.org/abs/2404.18328)|null|
+|**2024-04-28**|**A survey of dynamic graph neural networks**|Yanping Zheng et.al.|[2404.18211](http://arxiv.org/abs/2404.18211)|null|
+|**2024-04-28**|**Decidability of Graph Neural Networks via Logical Characterizations**|Michael Benedikt et.al.|[2404.18151](http://arxiv.org/abs/2404.18151)|null|
+|**2024-04-27**|**Bounding the Expected Robustness of Graph Neural Networks Subject to Node Feature Attacks**|Yassine Abbahaddou et.al.|[2404.17947](http://arxiv.org/abs/2404.17947)|**[link](https://github.com/sennadir/gcorn)**|
 |**2024-04-26**|**Bridging the Fairness Divide: Achieving Group and Individual Fairness in Graph Neural Networks**|Duna Zhan et.al.|[2404.17511](http://arxiv.org/abs/2404.17511)|null|
 |**2024-04-26**|**Similarity Equivariant Graph Neural Networks for Homogenization of Metamaterials**|Fleur Hendriks et.al.|[2404.17365](http://arxiv.org/abs/2404.17365)|null|
 |**2024-04-26**|**Sub-6GHz Assisted mmWave Hybrid Beamforming with Heterogeneous Graph Neural Network**|Zhaohui Huang et.al.|[2404.17138](http://arxiv.org/abs/2404.17138)|null|
@@ -2230,6 +2243,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Stylus: Automatic Adapter Selection for Diffusion Models**|Michael Luo et.al.|[2404.18928](http://arxiv.org/abs/2404.18928)|null|
+|**2024-04-29**|**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data**|Yiyuan Yang et.al.|[2404.18886](http://arxiv.org/abs/2404.18886)|null|
+|**2024-04-29**|**Learning Mixtures of Gaussians Using Diffusion Models**|Khashayar Gatmiry et.al.|[2404.18869](http://arxiv.org/abs/2404.18869)|null|
+|**2024-04-29**|**Towards Extreme Image Compression with Latent Feature Guidance and Diffusion Prior**|Zhiyuan Li et.al.|[2404.18820](http://arxiv.org/abs/2404.18820)|null|
+|**2024-04-29**|**Spectral measures and iterative bounds for effective diffusivity of steady and space-time periodic flows**|N. B. Murphy et.al.|[2404.18754](http://arxiv.org/abs/2404.18754)|null|
+|**2024-04-29**|**Diffuse scattering from dynamically compressed single-crystal zirconium following the pressure-induced $α\toω$ phase transition**|P. G. Heighway et.al.|[2404.18740](http://arxiv.org/abs/2404.18740)|null|
+|**2024-04-29**|**Diffusion coefficient matrix for multiple conserved charges: a Kubo approach**|Sourav Dey et.al.|[2404.18718](http://arxiv.org/abs/2404.18718)|null|
+|**2024-04-29**|**Analysis for Implicit and Implicit-Explicit ADER and DeC Methods for Ordinary Differential Equations, Advection-Diffusion and Advection-Dispersion Equations**|Philipp Öffner et.al.|[2404.18626](http://arxiv.org/abs/2404.18626)|null|
+|**2024-04-29**|**Efficient bound preserving and asymptotic preserving semi-implicit schemes for the fast reaction-diffusion system**|Yu Zhao et.al.|[2404.18463](http://arxiv.org/abs/2404.18463)|null|
+|**2024-04-29**|**U-Nets as Belief Propagation: Efficient Classification, Denoising, and Diffusion in Generative Hierarchical Models**|Song Mei et.al.|[2404.18444](http://arxiv.org/abs/2404.18444)|null|
 |**2024-04-26**|**Multi-view Image Prompted Multi-view Diffusion for Improved 3D Generation**|Seungwook Kim et.al.|[2404.17419](http://arxiv.org/abs/2404.17419)|null|
 |**2024-04-26**|**Ultrafast Optical Control of Exciton Diffusion in WSe $_2$ /Graphene Heterostructures Revealed by Heterodyne Transient Grating Spectroscopy**|Lukas Rieland et.al.|[2404.17416](http://arxiv.org/abs/2404.17416)|null|
 |**2024-04-26**|**Individual particle approach to the diffusive shock acceleration. Effect of the non-uniform flow velocity downstream of the shock**|O. Petruk et.al.|[2404.17397](http://arxiv.org/abs/2404.17397)|null|
