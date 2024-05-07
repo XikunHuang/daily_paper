@@ -9,6 +9,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**CICA: Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification**|Sankalp Sinha et.al.|[2405.03660](http://arxiv.org/abs/2405.03660)|null|
+|**2024-05-06**|**Classification of Breast Cancer Histopathology Images using a Modified Supervised Contrastive Learning Method**|Matina Mahdizadeh Sani et.al.|[2405.03642](http://arxiv.org/abs/2405.03642)|null|
+|**2024-05-06**|**Improved Forward-Forward Contrastive Learning**|Gananath R et.al.|[2405.03432](http://arxiv.org/abs/2405.03432)|null|
+|**2024-05-06**|**On the Theory of Cross-Modality Distillation with Contrastive Learning**|Hangyu Lin et.al.|[2405.03355](http://arxiv.org/abs/2405.03355)|null|
+|**2024-05-06**|**GeoContrastNet: Contrastive Key-Value Edge Learning for Language-Agnostic Document Understanding**|Nil Biescas et.al.|[2405.03104](http://arxiv.org/abs/2405.03104)|null|
+|**2024-05-05**|**A Two-Stage Prediction-Aware Contrastive Learning Framework for Multi-Intent NLU**|Guanhua Chen et.al.|[2405.02925](http://arxiv.org/abs/2405.02925)|null|
+|**2024-05-04**|**Enhancing Contextual Understanding in Large Language Models through Contrastive Decoding**|Zheng Zhao et.al.|[2405.02750](http://arxiv.org/abs/2405.02750)|**[link](https://github.com/amazon-science/contextualunderstanding-contrastivedecoding)**|
+|**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|null|
+|**2024-05-03**|**CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation**|Yaoyiran Li et.al.|[2405.02429](http://arxiv.org/abs/2405.02429)|null|
 |**2024-05-03**|**A Mutual Information Perspective on Federated Contrastive Learning**|Christos Louizos et.al.|[2405.02081](http://arxiv.org/abs/2405.02081)|null|
 |**2024-05-03**|**Enhancing Micro Gesture Recognition for Emotion Understanding via Context-aware Visual-Text Contrastive Learning**|Deng Li et.al.|[2405.01885](http://arxiv.org/abs/2405.01885)|**[link](https://github.com/linuxsino/visual-text-mg)**|
 |**2024-05-03**|**SoftMCL: Soft Momentum Contrastive Learning for Fine-grained Sentiment-aware Pre-training**|Jin Wang et.al.|[2405.01827](http://arxiv.org/abs/2405.01827)|null|
@@ -1448,6 +1457,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised Classification**|Xin Zhang et.al.|[2405.03401](http://arxiv.org/abs/2405.03401)|null|
+|**2024-05-06**|**Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction**|Giuseppe Costantino et.al.|[2405.03320](http://arxiv.org/abs/2405.03320)|null|
+|**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|null|
 |**2024-05-03**|**CatTSunami: Accelerating Transition State Energy Calculations with Pre-trained Graph Neural Networks**|Brook Wander et.al.|[2405.02078](http://arxiv.org/abs/2405.02078)|null|
 |**2024-05-03**|**Graph Neural Network based Active and Passive Beamforming for Distributed STAR-RIS-Assisted Multi-User MISO Systems**|Ha An Le et.al.|[2405.01979](http://arxiv.org/abs/2405.01979)|null|
 |**2024-05-03**|**Conservative semi-lagrangian finite difference scheme for transport simulations using graph neural networks**|Yongsheng Chen et.al.|[2405.01938](http://arxiv.org/abs/2405.01938)|null|
@@ -2271,6 +2283,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Field-of-View Extension for Diffusion MRI via Deep Generative Models**|Chenyu Gao et.al.|[2405.03652](http://arxiv.org/abs/2405.03652)|null|
+|**2024-05-06**|**Cosine Annealing Optimized Denoising Diffusion Error Correction Codes**|Congyang Ou et.al.|[2405.03638](http://arxiv.org/abs/2405.03638)|null|
+|**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
+|**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
+|**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
+|**2024-05-06**|**Enhancing Spatiotemporal Disease Progression Models via Latent Diffusion and Prior Knowledge**|Lemuel Puglisi et.al.|[2405.03328](http://arxiv.org/abs/2405.03328)|null|
+|**2024-05-06**|**Exploring the Frontiers of Softmax: Provable Optimization, Applications in Diffusion Model, and Beyond**|Jiuxiang Gu et.al.|[2405.03251](http://arxiv.org/abs/2405.03251)|null|
+|**2024-05-06**|**Mind the Gap Between Synthetic and Real: Utilizing Transfer Learning to Probe the Boundaries of Stable Diffusion Generated Data**|Leonhard Hennicke et.al.|[2405.03243](http://arxiv.org/abs/2405.03243)|null|
+|**2024-05-06**|**Hyperbolic Geometric Latent Diffusion Model for Graph Generation**|Xingcheng Fu et.al.|[2405.03188](http://arxiv.org/abs/2405.03188)|null|
+|**2024-05-06**|**Video Diffusion Models: A Survey**|Andrew Melnik et.al.|[2405.03150](http://arxiv.org/abs/2405.03150)|null|
 |**2024-05-03**|**Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving**|Haicheng Liao et.al.|[2405.02145](http://arxiv.org/abs/2405.02145)|null|
 |**2024-05-03**|**Multi-grid reaction-diffusion master equation: applications to morphogen gradient modelling**|Radek Erban et.al.|[2405.02117](http://arxiv.org/abs/2405.02117)|null|
 |**2024-05-03**|**DiffMap: Enhancing Map Segmentation with Map Prior Using Diffusion Model**|Peijin Jia et.al.|[2405.02008](http://arxiv.org/abs/2405.02008)|null|
