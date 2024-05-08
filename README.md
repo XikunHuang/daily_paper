@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**SCExAO/CHARIS Multi-Wavelength, High-Contrast Imaging of the BD+45 $^\circ$ 598 Debris Disk**|Maria Vincent et.al.|[2405.04521](http://arxiv.org/abs/2405.04521)|null|
+|**2024-05-07**|**Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction**|Nematollah Saeidi et.al.|[2405.04211](http://arxiv.org/abs/2405.04211)|null|
+|**2024-05-07**|**FedSC: Provable Federated Self-supervised Learning with Spectral Contrastive Objective over Non-i.i.d. Data**|Shusen Jing et.al.|[2405.03949](http://arxiv.org/abs/2405.03949)|null|
 |**2024-05-06**|**CICA: Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification**|Sankalp Sinha et.al.|[2405.03660](http://arxiv.org/abs/2405.03660)|null|
 |**2024-05-06**|**Classification of Breast Cancer Histopathology Images using a Modified Supervised Contrastive Learning Method**|Matina Mahdizadeh Sani et.al.|[2405.03642](http://arxiv.org/abs/2405.03642)|**[link](https://github.com/matinamehdizadeh/Breast-Cancer-Detection)**|
 |**2024-05-06**|**Improved Forward-Forward Contrastive Learning**|Gananath R et.al.|[2405.03432](http://arxiv.org/abs/2405.03432)|null|
@@ -1464,6 +1467,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Temporal and Heterogeneous Graph Neural Network for Remaining Useful Life Prediction**|Zhihao Wen et.al.|[2405.04336](http://arxiv.org/abs/2405.04336)|null|
+|**2024-05-07**|**Adaptive Least Mean pth Power Graph Neural Networks**|Changran Peng et.al.|[2405.04111](http://arxiv.org/abs/2405.04111)|null|
+|**2024-05-07**|**ESIHGNN: Event-State Interactions Infused Heterogeneous Graph Neural Network for Conversational Emotion Recognition**|Xupeng Zha et.al.|[2405.03960](http://arxiv.org/abs/2405.03960)|null|
+|**2024-05-07**|**Relating-Up: Advancing Graph Neural Networks through Inter-Graph Relationships**|Qi Zou et.al.|[2405.03950](http://arxiv.org/abs/2405.03950)|null|
 |**2024-05-06**|**E2GNN: Efficient Graph Neural Network Ensembles for Semi-Supervised Classification**|Xin Zhang et.al.|[2405.03401](http://arxiv.org/abs/2405.03401)|null|
 |**2024-05-06**|**Denoising of Geodetic Time Series Using Spatiotemporal Graph Neural Networks: Application to Slow Slip Event Extraction**|Giuseppe Costantino et.al.|[2405.03320](http://arxiv.org/abs/2405.03320)|null|
 |**2024-05-04**|**Contrastive Dual-Interaction Graph Neural Network for Molecular Property Prediction**|Zexing Zhao et.al.|[2405.02628](http://arxiv.org/abs/2405.02628)|null|
@@ -2292,6 +2299,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Edit-Your-Motion: Space-Time Diffusion Decoupling Learning for Video Motion Editing**|Yi Zuo et.al.|[2405.04496](http://arxiv.org/abs/2405.04496)|null|
+|**2024-05-07**|**CloudDiff: Super-resolution ensemble retrieval of cloud properties for all day using the generative diffusion model**|Haixia Xiao et.al.|[2405.04483](http://arxiv.org/abs/2405.04483)|null|
+|**2024-05-07**|**Derivation of kinetic and diffusion equations from a hard-sphere Rayleigh gas using collision trees and semigroups**|Karsten Matthies et.al.|[2405.04449](http://arxiv.org/abs/2405.04449)|null|
+|**2024-05-07**|**Josephson threshold detector in the phase diffusion regime**|Dmitry A. Ladeynov et.al.|[2405.04426](http://arxiv.org/abs/2405.04426)|null|
+|**2024-05-07**|**Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos**|Junyi Ma et.al.|[2405.04370](http://arxiv.org/abs/2405.04370)|null|
+|**2024-05-07**|**Diffusion-driven GAN Inversion for Multi-Modal Face Image Generation**|Jihyun Kim et.al.|[2405.04356](http://arxiv.org/abs/2405.04356)|null|
+|**2024-05-07**|**Inf-DiT: Upsampling Any-Resolution Image with Memory-Efficient Diffusion Transformer**|Zhuoyi Yang et.al.|[2405.04312](http://arxiv.org/abs/2405.04312)|**[link](https://github.com/thudm/inf-dit)**|
+|**2024-05-07**|**BUDDy: Single-Channel Blind Unsupervised Dereverberation with Diffusion Models**|Eloi Moliner et.al.|[2405.04272](http://arxiv.org/abs/2405.04272)|null|
+|**2024-05-07**|**LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-based Planning**|Zeyu Feng et.al.|[2405.04235](http://arxiv.org/abs/2405.04235)|**[link](https://github.com/clear-nus/ltldog)**|
+|**2024-05-07**|**Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models**|Fan Bao et.al.|[2405.04233](http://arxiv.org/abs/2405.04233)|null|
 |**2024-05-06**|**Field-of-View Extension for Diffusion MRI via Deep Generative Models**|Chenyu Gao et.al.|[2405.03652](http://arxiv.org/abs/2405.03652)|null|
 |**2024-05-06**|**Cosine Annealing Optimized Denoising Diffusion Error Correction Codes**|Congyang Ou et.al.|[2405.03638](http://arxiv.org/abs/2405.03638)|null|
 |**2024-05-06**|**Bridging discrete and continuous state spaces: Exploring the Ehrenfest process in time-continuous diffusion models**|Ludwig Winkler et.al.|[2405.03549](http://arxiv.org/abs/2405.03549)|null|
