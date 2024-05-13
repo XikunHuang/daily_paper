@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**PCLMix: Weakly Supervised Medical Image Segmentation via Pixel-Level Contrastive Learning and Dynamic Mix Augmentation**|Yu Lei et.al.|[2405.06288](http://arxiv.org/abs/2405.06288)|**[link](https://github.com/torpedo2648/pclmix)**|
+|**2024-05-10**|**HC $^2$ L: Hybrid and Cooperative Contrastive Learning for Cross-lingual Spoken Language Understanding**|Bowen Xing et.al.|[2405.06204](http://arxiv.org/abs/2405.06204)|null|
+|**2024-05-10**|**Contrastive Representation for Data Filtering in Cross-Domain Offline Reinforcement Learning**|Xiaoyu Wen et.al.|[2405.06192](http://arxiv.org/abs/2405.06192)|**[link](https://github.com/battlewen/igdf)**|
 |**2024-05-09**|**Optical contrast analysis of α-RuCl $_3$ nanoflakes on oxidized silicon wafers**|Tatyana V. Ivanova et.al.|[2405.05880](http://arxiv.org/abs/2405.05880)|null|
 |**2024-05-08**|**Joint semi-supervised and contrastive learning enables zero-shot domain-adaptation and multi-domain segmentation**|Alvaro Gomariz et.al.|[2405.05336](http://arxiv.org/abs/2405.05336)|null|
 |**2024-05-08**|**Weakly-supervised Semantic Segmentation via Dual-stream Contrastive Learning of Cross-image Contextual Information**|Qi Lai et.al.|[2405.04913](http://arxiv.org/abs/2405.04913)|null|
@@ -1470,6 +1473,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Heterogeneous Graph Neural Networks with Loss-decrease-aware Curriculum Learning**|Yili Wang et.al.|[2405.06522](http://arxiv.org/abs/2405.06522)|**[link](https://github.com/wangyili00/ldhgnn)**|
+|**2024-05-09**|**UnSegGNet: Unsupervised Image Segmentation using Graph Neural Networks**|Kovvuri Sai Gopal Reddy et.al.|[2405.06057](http://arxiv.org/abs/2405.06057)|**[link](https://github.com/ksgr5566/unseggnet)**|
 |**2024-05-09**|**Deploying Graph Neural Networks in Wireless Networks: A Link Stability Viewpoint**|Jun Li et.al.|[2405.05802](http://arxiv.org/abs/2405.05802)|null|
 |**2024-05-09**|**Link Stealing Attacks Against Inductive Graph Neural Networks**|Yixin Wu et.al.|[2405.05784](http://arxiv.org/abs/2405.05784)|**[link](https://github.com/yxoh/link_steal_pets2024)**|
 |**2024-05-08**|**Hybrid Quantum Graph Neural Network for Molecular Property Prediction**|Michael Vitz et.al.|[2405.05205](http://arxiv.org/abs/2405.05205)|null|
@@ -2308,6 +2313,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**A universal phenomenology of charge-spin interconversion and dynamics in diffusive systems with spin-orbit coupling**|Tim Kokkeler et.al.|[2405.06334](http://arxiv.org/abs/2405.06334)|null|
+|**2024-05-10**|**Prior-guided Diffusion Model for Cell Segmentation in Quantitative Phase Imaging**|Zhuchen Shao et.al.|[2405.06175](http://arxiv.org/abs/2405.06175)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967](http://arxiv.org/abs/2405.05967)|null|
 |**2024-05-09**|**Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask**|Zineb Senane et.al.|[2405.05959](http://arxiv.org/abs/2405.05959)|**[link](https://github.com/eqtpartners/tsde)**|
 |**2024-05-09**|**Frame Interpolation with Consecutive Brownian Bridge Diffusion**|Zonglin Lyu et.al.|[2405.05953](http://arxiv.org/abs/2405.05953)|null|
