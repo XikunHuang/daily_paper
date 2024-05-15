@@ -9,6 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**ALMol: Aligned Language-Molecule Translation LLMs through Offline Preference Contrastive Optimisation**|Dimitris Gkoumas et.al.|[2405.08619](http://arxiv.org/abs/2405.08619)|null|
+|**2024-05-14**|**Self-supervised contrastive learning unveils cortical folding pattern linked to prematurity**|Julien Laval et.al.|[2405.08397](http://arxiv.org/abs/2405.08397)|null|
+|**2024-05-14**|**Automatic Segmentation of the Kidneys and Cystic Renal Lesions on Non-Contrast CT Using a Convolutional Neural Network**|Lucas Aronson et.al.|[2405.08282](http://arxiv.org/abs/2405.08282)|null|
 |**2024-05-12**|**Machine Unlearning in Contrastive Learning**|Zixin Wang et.al.|[2405.07317](http://arxiv.org/abs/2405.07317)|null|
 |**2024-05-12**|**A Supervised Information Enhanced Multi-Granularity Contrastive Learning Framework for EEG Based Emotion Recognition**|Xiang Li et.al.|[2405.07260](http://arxiv.org/abs/2405.07260)|**[link](https://github.com/muzixiang/si-cleer)**|
 |**2024-05-12**|**CoViews: Adaptive Augmentation Using Cooperative Views for Enhanced Contrastive Learning**|Nazim Bendib et.al.|[2405.07116](http://arxiv.org/abs/2405.07116)|null|
@@ -1469,6 +1472,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks**|Killian Sheriff et.al.|[2405.08628](http://arxiv.org/abs/2405.08628)|null|
+|**2024-05-13**|**Graph Neural Networks for Parameterized Quantum Circuits Expressibility Estimation**|Shamminuj Aktar et.al.|[2405.08100](http://arxiv.org/abs/2405.08100)|null|
 |**2024-05-13**|**Discovery of highly anisotropic dielectric crystals with equivariant graph neural networks**|Yuchen Lou et.al.|[2405.07915](http://arxiv.org/abs/2405.07915)|null|
 |**2024-05-12**|**Graph neural networks for power grid operational risk assessment under evolving grid topology**|Yadong Zhang et.al.|[2405.07343](http://arxiv.org/abs/2405.07343)|null|
 |**2024-05-11**|**Design Requirements for Human-Centered Graph Neural Network Explanations**|Pantea Habibi et.al.|[2405.06917](http://arxiv.org/abs/2405.06917)|null|
@@ -2310,6 +2315,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Hunyuan-DiT: A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding**|Zhimin Li et.al.|[2405.08748](http://arxiv.org/abs/2405.08748)|**[link](https://github.com/tencent/hunyuandit)**|
+|**2024-05-14**|**Dimensionality reduction in bulk-boundary reaction-diffusion systems**|Tom Burkart et.al.|[2405.08728](http://arxiv.org/abs/2405.08728)|null|
+|**2024-05-14**|**Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models**|Bingdong Li et.al.|[2405.08674](http://arxiv.org/abs/2405.08674)|null|
+|**2024-05-14**|**Real time observation of oxygen diffusion in CGO thin films using spatially resolved Isotope Exchange Raman Spectroscopy**|Alexander Stangl et.al.|[2405.08462](http://arxiv.org/abs/2405.08462)|null|
+|**2024-05-14**|**Regions of suppressed diffusion around supernova remnants?**|Yiwei Bao et.al.|[2405.08385](http://arxiv.org/abs/2405.08385)|null|
+|**2024-05-14**|**A generic approach to homogenization of a diffusion driven by growing incompressible drift**|Brice Franke et.al.|[2405.08369](http://arxiv.org/abs/2405.08369)|null|
+|**2024-05-14**|**Towards Multi-Task Generative-AI Edge Services with an Attention-based Diffusion DRL Approach**|Yaju Liu et.al.|[2405.08328](http://arxiv.org/abs/2405.08328)|null|
+|**2024-05-13**|**Infinite Texture: Text-guided High Resolution Diffusion Texture Synthesis**|Yifan Wang et.al.|[2405.08210](http://arxiv.org/abs/2405.08210)|null|
+|**2024-05-13**|**Formation channels of the diffuse lights in the groups and clusters over time**|Kyungwon Chun et.al.|[2405.08061](http://arxiv.org/abs/2405.08061)|null|
+|**2024-05-13**|**DiffTF++: 3D-aware Diffusion Transformer for Large-Vocabulary 3D Generation**|Ziang Cao et.al.|[2405.08055](http://arxiv.org/abs/2405.08055)|null|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**Improving Breast Cancer Grade Prediction with Multiparametric MRI Created Using Optimized Synthetic Correlated Diffusion Imaging**|Chi-en Amy Tai et.al.|[2405.07861](http://arxiv.org/abs/2405.07861)|null|
 |**2024-05-13**|**Using Multiparametric MRI with Optimized Synthetic Correlated Diffusion Imaging to Enhance Breast Cancer Pathologic Complete Response Prediction**|Chi-en Amy Tai et.al.|[2405.07854](http://arxiv.org/abs/2405.07854)|null|
