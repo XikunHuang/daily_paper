@@ -1,4 +1,4 @@
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
-|**2024-05-16**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
+|**2024-05-17**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
 |**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
 |**2024-05-16**|**Scenarios for the appearance of strange attractors in a model of three interacting microbubble contrast agents**|Ivan Garashchuk et.al.|[2405.09479](http://arxiv.org/abs/2405.09479)|null|
 |**2024-05-15**|**Time-Equivariant Contrastive Learning for Degenerative Disease Progression in Retinal OCT**|Taha Emre et.al.|[2405.09404](http://arxiv.org/abs/2405.09404)|null|
@@ -1481,7 +1481,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
 ## GNN
 
@@ -2328,7 +2328,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4698,5 +4698,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
 

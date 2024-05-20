@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
-|**2024-05-16**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
+|**2024-05-17**|**AsCL: An Asymmetry-sensitive Contrastive Learning Method for Image-Text Retrieval with Cross-Modal Fusion**|Ziyu Gong et.al.|[2405.10029](http://arxiv.org/abs/2405.10029)|null|
 |**2024-05-15**|**Learning Generalized Medical Image Representations through Image-Graph Contrastive Pretraining**|Sameer Khanna et.al.|[2405.09594](http://arxiv.org/abs/2405.09594)|null|
 |**2024-05-16**|**Scenarios for the appearance of strange attractors in a model of three interacting microbubble contrast agents**|Ivan Garashchuk et.al.|[2405.09479](http://arxiv.org/abs/2405.09479)|null|
 |**2024-05-15**|**Time-Equivariant Contrastive Learning for Degenerative Disease Progression in Retinal OCT**|Taha Emre et.al.|[2405.09404](http://arxiv.org/abs/2405.09404)|null|
