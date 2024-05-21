@@ -1,4 +1,4 @@
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,7 +15,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-17**|**Renormalization group and elliptic homogenization in high contrast**|Scott Armstrong et.al.|[2405.10732](http://arxiv.org/abs/2405.10732)|null|
-|**2024-05-17**|**CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing**|Faegheh Sardari et.al.|[2405.10690](http://arxiv.org/abs/2405.10690)|null|
+|**2024-05-20**|**CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing**|Faegheh Sardari et.al.|[2405.10690](http://arxiv.org/abs/2405.10690)|null|
 |**2024-05-17**|**UniCL: A Universal Contrastive Learning Framework for Large Time Series Models**|Jiawei Li et.al.|[2405.10597](http://arxiv.org/abs/2405.10597)|null|
 |**2024-05-17**|**CACL: Community-Aware Heterogeneous Graph Contrastive Learning for Social Media Bot Detection**|Sirry Chen et.al.|[2405.10558](http://arxiv.org/abs/2405.10558)|null|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
@@ -1487,7 +1487,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
 
 ## GNN
 
@@ -2337,7 +2337,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4714,5 +4714,5 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240521>back to top</a>)</p>
 

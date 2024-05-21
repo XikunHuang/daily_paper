@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -10,7 +10,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-17**|**Renormalization group and elliptic homogenization in high contrast**|Scott Armstrong et.al.|[2405.10732](http://arxiv.org/abs/2405.10732)|null|
-|**2024-05-17**|**CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing**|Faegheh Sardari et.al.|[2405.10690](http://arxiv.org/abs/2405.10690)|null|
+|**2024-05-20**|**CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing**|Faegheh Sardari et.al.|[2405.10690](http://arxiv.org/abs/2405.10690)|null|
 |**2024-05-17**|**UniCL: A Universal Contrastive Learning Framework for Large Time Series Models**|Jiawei Li et.al.|[2405.10597](http://arxiv.org/abs/2405.10597)|null|
 |**2024-05-17**|**CACL: Community-Aware Heterogeneous Graph Contrastive Learning for Social Media Bot Detection**|Sirry Chen et.al.|[2405.10558](http://arxiv.org/abs/2405.10558)|null|
 |**2024-05-17**|**In-context Contrastive Learning for Event Causality Identification**|Chao Liang et.al.|[2405.10512](http://arxiv.org/abs/2405.10512)|null|
