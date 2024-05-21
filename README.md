@@ -14,6 +14,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Towards Graph Contrastive Learning: A Survey and Beyond**|Wei Ju et.al.|[2405.11868](http://arxiv.org/abs/2405.11868)|null|
+|**2024-05-20**|**CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**|Yanran Tang et.al.|[2405.11791](http://arxiv.org/abs/2405.11791)|**[link](https://github.com/yanran-tang/casegnn)**|
+|**2024-05-19**|**Contrasting chaotic and stochastic forcing: tipping windows and attractor crises**|Peter Ashwin et.al.|[2405.11680](http://arxiv.org/abs/2405.11680)|null|
+|**2024-05-19**|**Decoding by Contrasting Knowledge: Enhancing LLMs' Confidence on Edited Facts**|Baolong Bi et.al.|[2405.11613](http://arxiv.org/abs/2405.11613)|null|
+|**2024-05-19**|**Simple-Sampling and Hard-Mixup with Prototypes to Rebalance Contrastive Learning for Text Classification**|Mengyu Li et.al.|[2405.11524](http://arxiv.org/abs/2405.11524)|null|
+|**2024-05-18**|**Improved Content Understanding With Effective Use of Multi-task Contrastive Learning**|Akanksha Bindal et.al.|[2405.11344](http://arxiv.org/abs/2405.11344)|null|
+|**2024-05-18**|**SeBot: Structural Entropy Guided Multi-View Contrastive Learning for Social Bot Detection**|Yingguang Yang et.al.|[2405.11225](http://arxiv.org/abs/2405.11225)|**[link](https://github.com/846468230/sebot)**|
+|**2024-05-17**|**Bayesian Learning-driven Prototypical Contrastive Loss for Class-Incremental Learning**|Nisha L. Raichur et.al.|[2405.11067](http://arxiv.org/abs/2405.11067)|null|
 |**2024-05-17**|**Renormalization group and elliptic homogenization in high contrast**|Scott Armstrong et.al.|[2405.10732](http://arxiv.org/abs/2405.10732)|null|
 |**2024-05-20**|**CoLeaF: A Contrastive-Collaborative Learning Framework for Weakly Supervised Audio-Visual Video Parsing**|Faegheh Sardari et.al.|[2405.10690](http://arxiv.org/abs/2405.10690)|null|
 |**2024-05-17**|**UniCL: A Universal Contrastive Learning Framework for Large Time Series Models**|Jiawei Li et.al.|[2405.10597](http://arxiv.org/abs/2405.10597)|null|
@@ -1493,6 +1501,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Conditional Shift-Robust Conformal Prediction for Graph Neural Network**|S. Akansha et.al.|[2405.11968](http://arxiv.org/abs/2405.11968)|null|
+|**2024-05-19**|**CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction**|Zijian Du et.al.|[2405.11502](http://arxiv.org/abs/2405.11502)|null|
+|**2024-05-18**|**Detecting Complex Multi-step Attacks with Explainable Graph Neural Network**|Wei Liu et.al.|[2405.11335](http://arxiv.org/abs/2405.11335)|null|
+|**2024-05-17**|**GraSS: Combining Graph Neural Networks with Expert Knowledge for SAT Solver Selection**|Zhanguang Zhang et.al.|[2405.11024](http://arxiv.org/abs/2405.11024)|null|
+|**2024-05-16**|**Physics-incorporated Graph Neural Network for Multivariate Time Series Imputation**|Guojun Liang et.al.|[2405.10995](http://arxiv.org/abs/2405.10995)|**[link](https://github.com/gorgen2020/hspgnn)**|
 |**2024-05-17**|**Harnessing Collective Structure Knowledge in Data Augmentation for Graph Neural Networks**|Rongrong Ma et.al.|[2405.10633](http://arxiv.org/abs/2405.10633)|null|
 |**2024-05-17**|**Multi-Evidence based Fact Verification via A Confidential Graph Neural Network**|Yuqing Lan et.al.|[2405.10481](http://arxiv.org/abs/2405.10481)|null|
 |**2024-05-16**|**Physics-Informed Heterogeneous Graph Neural Networks for DC Blocker Placement**|Hongwei Jin et.al.|[2405.10389](http://arxiv.org/abs/2405.10389)|null|
@@ -2343,6 +2356,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
+|**2024-05-20**|**Cosmic Ray Diffusion in the Turbulent Interstellar Medium: Effects of Mirror Diffusion and Pitch Angle Scattering**|Lucas Barreto-Mota et.al.|[2405.12146](http://arxiv.org/abs/2405.12146)|null|
+|**2024-05-20**|**An effective advection induced by oscillating microstructure in a diffusion equation**|David Wiedemann et.al.|[2405.12108](http://arxiv.org/abs/2405.12108)|null|
+|**2024-05-20**|**Sobolev regularity theory for stochastic reaction-diffusion-advection equations with spatially homogeneous colored noises and variable-order nonlocal operators**|Jae-Hwan Choi et.al.|[2405.11969](http://arxiv.org/abs/2405.11969)|null|
+|**2024-05-20**|**Optimal balanced-norm error estimate of the LDG method for reaction-diffusion problems II: the two-dimensional case with layer-upwind flux**|Yao Cheng et.al.|[2405.11939](http://arxiv.org/abs/2405.11939)|null|
+|**2024-05-20**|**Nonequilbrium physics of generative diffusion models**|Zhendong Yu et.al.|[2405.11932](http://arxiv.org/abs/2405.11932)|null|
+|**2024-05-20**|**Diff-BGM: A Diffusion Model for Video Background Music Generation**|Sizhe Li et.al.|[2405.11913](http://arxiv.org/abs/2405.11913)|null|
+|**2024-05-20**|**Influence of preferential diffusion on the distribution of species in lean H2-air laminar premixed flames at different equivalence ratios**|Frederick W Young et.al.|[2405.11910](http://arxiv.org/abs/2405.11910)|null|
+|**2024-05-20**|**Out-of-Distribution Detection with a Single Unconditional Diffusion Model**|Alvin Heng et.al.|[2405.11881](http://arxiv.org/abs/2405.11881)|**[link](https://github.com/clear-nus/diffpath)**|
+|**2024-05-20**|**Evolving Storytelling: Benchmarks and Methods for New Character Customization with Diffusion Models**|Xiyu Wang et.al.|[2405.11852](http://arxiv.org/abs/2405.11852)|null|
 |**2024-05-17**|**Limitations of the rate-distribution formalism in describing luminescence quenching in the presence of diffusion**|Jakub Jędrak et.al.|[2405.10903](http://arxiv.org/abs/2405.10903)|null|
 |**2024-05-17**|**Diffusion Geometry**|Iolo Jones et.al.|[2405.10858](http://arxiv.org/abs/2405.10858)|null|
 |**2024-05-17**|**Some remarks on a mathematical model for water flow in porous media with competition between transport and diffusion**|Judita Runcziková et.al.|[2405.10751](http://arxiv.org/abs/2405.10751)|null|
