@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning**|Ji Ma et.al.|[2405.12752](http://arxiv.org/abs/2405.12752)|null|
+|**2024-05-20**|**DCE-Qnet: Deep Network Quantification of Dynamic Contrast Enhanced (DCE) MRI**|Ouri Cohen et.al.|[2405.12360](http://arxiv.org/abs/2405.12360)|null|
 |**2024-05-20**|**Towards Graph Contrastive Learning: A Survey and Beyond**|Wei Ju et.al.|[2405.11868](http://arxiv.org/abs/2405.11868)|null|
 |**2024-05-20**|**CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation**|Yanran Tang et.al.|[2405.11791](http://arxiv.org/abs/2405.11791)|**[link](https://github.com/yanran-tang/casegnn)**|
 |**2024-05-19**|**Contrasting chaotic and stochastic forcing: tipping windows and attractor crises**|Peter Ashwin et.al.|[2405.11680](http://arxiv.org/abs/2405.11680)|null|
@@ -1494,6 +1496,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Utilizing Description Logics for Global Explanations of Heterogeneous Graph Neural Networks**|Dominik Köhler et.al.|[2405.12654](http://arxiv.org/abs/2405.12654)|null|
+|**2024-05-21**|**Unleash Graph Neural Networks from Heavy Tuning**|Lequan Lin et.al.|[2405.12521](http://arxiv.org/abs/2405.12521)|null|
+|**2024-05-21**|**MAGE: Model-Level Graph Neural Networks Explanations via Motif-based Graph Generation**|Zhaoning Yu et.al.|[2405.12519](http://arxiv.org/abs/2405.12519)|null|
+|**2024-05-21**|**How Universal Polynomial Bases Enhance Spectral Graph Neural Networks: Heterophily, Over-smoothing, and Over-squashing**|Keke Huang et.al.|[2405.12474](http://arxiv.org/abs/2405.12474)|**[link](https://github.com/kkhuang81/UniFilter)**|
+|**2024-05-20**|**Efficient Model-Stealing Attacks Against Inductive Graph Neural Networks**|Marcin Podhajski et.al.|[2405.12295](http://arxiv.org/abs/2405.12295)|null|
 |**2024-05-20**|**Conditional Shift-Robust Conformal Prediction for Graph Neural Network**|S. Akansha et.al.|[2405.11968](http://arxiv.org/abs/2405.11968)|null|
 |**2024-05-19**|**CTGNN: Crystal Transformer Graph Neural Network for Crystal Material Property Prediction**|Zijian Du et.al.|[2405.11502](http://arxiv.org/abs/2405.11502)|null|
 |**2024-05-18**|**Detecting Complex Multi-step Attacks with Explainable Graph Neural Network**|Wei Liu et.al.|[2405.11335](http://arxiv.org/abs/2405.11335)|null|
@@ -2347,6 +2354,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**|Yue Han et.al.|[2405.12970](http://arxiv.org/abs/2405.12970)|null|
+|**2024-05-21**|**Learning the Infinitesimal Generator of Stochastic Diffusion Processes**|Vladimir R. Kostic et.al.|[2405.12940](http://arxiv.org/abs/2405.12940)|null|
+|**2024-05-21**|**Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra**|Álvaro Tovar-Pardo et.al.|[2405.12918](http://arxiv.org/abs/2405.12918)|null|
+|**2024-05-21**|**Diffusion of brightened dark excitons in a high-angle incommensurate Moiré homobilayer**|Arnab Barman Ray et.al.|[2405.12901](http://arxiv.org/abs/2405.12901)|null|
+|**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
+|**2024-05-21**|**SYMPLEX: Controllable Symbolic Music Generation using Simplex Diffusion with Vocabulary Priors**|Nicolas Jonason et.al.|[2405.12666](http://arxiv.org/abs/2405.12666)|null|
+|**2024-05-21**|**Trend to equilibrium for degenerate reaction-diffusion systems coming out of chemistry**|Laurent Desvillettes et.al.|[2405.12578](http://arxiv.org/abs/2405.12578)|null|
+|**2024-05-21**|**CustomText: Customized Textual Image Generation using Diffusion Models**|Shubham Paliwal et.al.|[2405.12531](http://arxiv.org/abs/2405.12531)|null|
+|**2024-05-20**|**Diffusion for World Modeling: Visual Details Matter in Atari**|Eloi Alonso et.al.|[2405.12399](http://arxiv.org/abs/2405.12399)|**[link](https://github.com/eloialonso/diamond)**|
+|**2024-05-20**|**Cascade-based Randomization for Inferring Causal Effects under Diffusion Interference**|Zahra Fatemi et.al.|[2405.12340](http://arxiv.org/abs/2405.12340)|null|
 |**2024-05-20**|**Slicedit: Zero-Shot Video Editing With Text-to-Image Diffusion Models Using Spatio-Temporal Slices**|Nathaniel Cohen et.al.|[2405.12211](http://arxiv.org/abs/2405.12211)|null|
 |**2024-05-20**|**Cosmic Ray Diffusion in the Turbulent Interstellar Medium: Effects of Mirror Diffusion and Pitch Angle Scattering**|Lucas Barreto-Mota et.al.|[2405.12146](http://arxiv.org/abs/2405.12146)|null|
 |**2024-05-20**|**An effective advection induced by oscillating microstructure in a diffusion equation**|David Wiedemann et.al.|[2405.12108](http://arxiv.org/abs/2405.12108)|null|
