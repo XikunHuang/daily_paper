@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226](http://arxiv.org/abs/2405.19226)|null|
+|**2024-05-29**|**Contrastive-Adversarial and Diffusion: Exploring pre-training and fine-tuning strategies for sulcal identification**|Michail Mamalakis et.al.|[2405.19204](http://arxiv.org/abs/2405.19204)|null|
+|**2024-05-29**|**Supervised Contrastive Learning for Snapshot Spectral Imaging Face Anti-Spoofing**|Chuanbiao Song et.al.|[2405.18853](http://arxiv.org/abs/2405.18853)|null|
+|**2024-05-29**|**Anomaly Detection by Context Contrasting**|Alain Ryser et.al.|[2405.18848](http://arxiv.org/abs/2405.18848)|null|
+|**2024-05-29**|**Provable Contrastive Continual Learning**|Yichen Wen et.al.|[2405.18756](http://arxiv.org/abs/2405.18756)|null|
+|**2024-05-28**|**Lifelong Learning and Selective Forgetting via Contrastive Strategy**|Lianlei Shan et.al.|[2405.18663](http://arxiv.org/abs/2405.18663)|null|
+|**2024-05-28**|**Mitigating Object Hallucination via Data Augmented Contrastive Tuning**|Pritam Sarkar et.al.|[2405.18654](http://arxiv.org/abs/2405.18654)|null|
+|**2024-05-28**|**Its Not a Modality Gap: Characterizing and Addressing the Contrastive Gap**|Abrar Fahim et.al.|[2405.18570](http://arxiv.org/abs/2405.18570)|null|
+|**2024-05-28**|**Aligning in a Compact Space: Contrastive Knowledge Distillation between Heterogeneous Architectures**|Hongjun Wu et.al.|[2405.18524](http://arxiv.org/abs/2405.18524)|null|
 |**2024-05-28**|**JWST-TST High Contrast: JWST/NIRCam observations of the young giant planet $β$ Pic b**|Jens Kammerer et.al.|[2405.18422](http://arxiv.org/abs/2405.18422)|null|
 |**2024-05-28**|**Bridging Mini-Batch and Asymptotic Analysis in Contrastive Learning: From InfoNCE to Kernel-Based Losses**|Panagiotis Koromilas et.al.|[2405.18045](http://arxiv.org/abs/2405.18045)|**[link](https://github.com/pakoromilas/dhel-kcl)**|
 |**2024-05-28**|**Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion**|Xiaobao Wu et.al.|[2405.17957](http://arxiv.org/abs/2405.17957)|**[link](https://github.com/bobxwu/cfdtm)**|
@@ -1529,6 +1538,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Spatio-Spectral Graph Neural Networks**|Simon Geisler et.al.|[2405.19121](http://arxiv.org/abs/2405.19121)|null|
+|**2024-05-29**|**SIG: Efficient Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs**|Lanting Fang et.al.|[2405.19062](http://arxiv.org/abs/2405.19062)|**[link](https://github.com/2024sig/sig)**|
+|**2024-05-29**|**LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification**|Yufei Zhaoa et.al.|[2405.18933](http://arxiv.org/abs/2405.18933)|**[link](https://github.com/liuhua811/lspia)**|
+|**2024-05-29**|**Inverse Design of Promising Alloys for Electrocatalytic CO $_2$ Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm**|Zhilong Song et.al.|[2405.18891](http://arxiv.org/abs/2405.18891)|null|
+|**2024-05-29**|**Continuous Product Graph Neural Networks**|Aref Einizade et.al.|[2405.18877](http://arxiv.org/abs/2405.18877)|null|
+|**2024-05-29**|**Node Injection Attack Based on Label Propagation Against Graph Neural Network**|Peican Zhu et.al.|[2405.18824](http://arxiv.org/abs/2405.18824)|null|
+|**2024-05-29**|**DeepHGNN: Study of Graph Neural Network based Forecasting Methods for Hierarchically Related Multivariate Time Series**|Abishek Sriramulu et.al.|[2405.18693](http://arxiv.org/abs/2405.18693)|null|
+|**2024-05-28**|**Injecting Hierarchical Biological Priors into Graph Neural Networks for Flow Cytometry Prediction**|Fatemeh Nassajian Mojarrad et.al.|[2405.18507](http://arxiv.org/abs/2405.18507)|null|
 |**2024-05-28**|**A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation**|Weijiang Lai et.al.|[2405.18260](http://arxiv.org/abs/2405.18260)|null|
 |**2024-05-28**|**ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks**|Wanlin Cai et.al.|[2405.18036](http://arxiv.org/abs/2405.18036)|null|
 |**2024-05-28**|**Revisiting the Message Passing in Heterophilous Graph Neural Networks**|Zhuonan Zheng et.al.|[2405.17768](http://arxiv.org/abs/2405.17768)|null|
@@ -2410,6 +2427,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Hilbert Space Diffusion in Systems with Approximate Symmetries**|Rahel L. Baumgartner et.al.|[2405.19260](http://arxiv.org/abs/2405.19260)|null|
+|**2024-05-29**|**ConceptPrune: Concept Editing in Diffusion Models via Skilled Neuron Pruning**|Ruchika Chavhan et.al.|[2405.19237](http://arxiv.org/abs/2405.19237)|**[link](https://github.com/ruchikachavhan/concept-prune)**|
+|**2024-05-29**|**DiPPeST: Diffusion-based Path Planner for Synthesizing Trajectories Applied on Quadruped Robots**|Maria Stamatopoulou et.al.|[2405.19232](http://arxiv.org/abs/2405.19232)|null|
+|**2024-05-29**|**Contrastive-Adversarial and Diffusion: Exploring pre-training and fine-tuning strategies for sulcal identification**|Michail Mamalakis et.al.|[2405.19204](http://arxiv.org/abs/2405.19204)|null|
+|**2024-05-29**|**Diffusion-based Dynamics Models for Long-Horizon Rollout in Offline Reinforcement Learning**|Hanye Zhao et.al.|[2405.19189](http://arxiv.org/abs/2405.19189)|null|
+|**2024-05-29**|**Fractional diffusion as the limit of a short range potential Rayleigh gas**|Karsten Matthies et.al.|[2405.19025](http://arxiv.org/abs/2405.19025)|null|
+|**2024-05-29**|**Mechanism and kinetics of sodium diffusion in Na-feldspar from neural network based atomistic simulations**|Alexander Gorfer et.al.|[2405.19008](http://arxiv.org/abs/2405.19008)|null|
+|**2024-05-29**|**A structure-preserving scheme for computing effective diffusivity and anomalous diffusion phenomena of random flows**|Tan Zhang et.al.|[2405.19003](http://arxiv.org/abs/2405.19003)|null|
+|**2024-05-29**|**Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization**|Zhiwei Tang et.al.|[2405.18881](http://arxiv.org/abs/2405.18881)|null|
+|**2024-05-29**|**Principled Probabilistic Imaging using Diffusion Models as Plug-and-Play Priors**|Zihui Wu et.al.|[2405.18782](http://arxiv.org/abs/2405.18782)|null|
 |**2024-05-28**|**DiG: Scalable and Efficient Diffusion Models with Gated Linear Attention**|Lianghui Zhu et.al.|[2405.18428](http://arxiv.org/abs/2405.18428)|**[link](https://github.com/hustvl/dig)**|
 |**2024-05-28**|**Simulating infinite-dimensional nonlinear diffusion bridges**|Gefan Yang et.al.|[2405.18353](http://arxiv.org/abs/2405.18353)|null|
 |**2024-05-28**|**VITON-DiT: Learning In-the-Wild Video Try-On from Human Dance Videos via Diffusion Transformers**|Jun Zheng et.al.|[2405.18326](http://arxiv.org/abs/2405.18326)|null|
