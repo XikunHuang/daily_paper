@@ -9,6 +9,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Towards Spoken Language Understanding via Multi-level Multi-grained Contrastive Learning**|Xuxin Cheng et.al.|[2405.20852](http://arxiv.org/abs/2405.20852)|null|
+|**2024-05-31**|**Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models**|A. Bavaresco et.al.|[2405.20846](http://arxiv.org/abs/2405.20846)|null|
+|**2024-05-31**|**GANcrop: A Contrastive Defense Against Backdoor Attacks in Federated Learning**|Xiaoyun Gan et.al.|[2405.20727](http://arxiv.org/abs/2405.20727)|null|
+|**2024-05-31**|**Popularity-Aware Alignment and Contrast for Mitigating Popularity Bias**|Miaomiao Cai et.al.|[2405.20718](http://arxiv.org/abs/2405.20718)|**[link](https://github.com/miaomiao-cai2/kdd2024-paac)**|
+|**2024-05-31**|**Self-degraded contrastive domain adaptation for industrial fault diagnosis with bi-imbalanced data**|Gecheng Chen et.al.|[2405.20700](http://arxiv.org/abs/2405.20700)|null|
+|**2024-05-31**|**Improving Paratope and Epitope Prediction by Multi-Modal Contrastive Learning and Interaction Informativeness Estimation**|Zhiwei Wang et.al.|[2405.20668](http://arxiv.org/abs/2405.20668)|null|
+|**2024-05-31**|**LInK: Learning Joint Representations of Design and Performance Spaces through Contrastive Learning for Mechanism Synthesis**|Amin Heyrani Nobari et.al.|[2405.20592](http://arxiv.org/abs/2405.20592)|null|
+|**2024-05-30**|**Multi-Label Guided Soft Contrastive Learning for Efficient Earth Observation Pretraining**|Yi Wang et.al.|[2405.20462](http://arxiv.org/abs/2405.20462)|null|
 |**2024-05-30**|**Do spectral cues matter in contrast-based graph self-supervised learning?**|Xiangru Jian et.al.|[2405.19600](http://arxiv.org/abs/2405.19600)|null|
 |**2024-05-29**|**CLIPLoss and Norm-Based Data Selection Methods for Multimodal Contrastive Learning**|Yiping Wang et.al.|[2405.19547](http://arxiv.org/abs/2405.19547)|null|
 |**2024-05-29**|**Contrasting Multiple Representations with the Multi-Marginal Matching Gap**|Zoe Piran et.al.|[2405.19532](http://arxiv.org/abs/2405.19532)|null|
@@ -1535,6 +1543,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
+|**2024-05-31**|**Heterophilous Distribution Propagation for Graph Neural Networks**|Zhuonan Zheng et.al.|[2405.20640](http://arxiv.org/abs/2405.20640)|null|
 |**2024-05-30**|**Flexible SE(2) graph neural networks with applications to PDE surrogates**|Maria Bånkestad et.al.|[2405.20287](http://arxiv.org/abs/2405.20287)|**[link](https://github.com/mariabankestad/se2-gnn)**|
 |**2024-05-30**|**Combining physics-informed graph neural network and finite difference for solving forward and inverse spatiotemporal PDEs**|Hao Zhang et.al.|[2405.20000](http://arxiv.org/abs/2405.20000)|null|
 |**2024-05-29**|**Spatio-Spectral Graph Neural Networks**|Simon Geisler et.al.|[2405.19121](http://arxiv.org/abs/2405.19121)|null|
@@ -2424,6 +2434,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Mixed Diffusion for 3D Indoor Scene Synthesis**|Siyi Hu et.al.|[2405.21066](http://arxiv.org/abs/2405.21066)|null|
+|**2024-05-31**|**Unified Directly Denoising for Both Variance Preserving and Variance Exploding Diffusion Models**|Jingjing Wang et.al.|[2405.21059](http://arxiv.org/abs/2405.21059)|null|
+|**2024-05-31**|**Spectrum-Aware Parameter Efficient Fine-Tuning for Diffusion Models**|Xinxi Zhang et.al.|[2405.21050](http://arxiv.org/abs/2405.21050)|null|
+|**2024-05-31**|**Kaleido Diffusion: Improving Conditional Diffusion Models with Autoregressive Latent Modeling**|Jiatao Gu et.al.|[2405.21048](http://arxiv.org/abs/2405.21048)|null|
+|**2024-05-31**|**Amortizing intractable inference in diffusion models for vision, language, and control**|Siddarth Venkatraman et.al.|[2405.20971](http://arxiv.org/abs/2405.20971)|**[link](https://github.com/gfnorg/diffusion-finetuning)**|
+|**2024-05-31**|**Unusual Diffusivity in Strongly Disordered Quantum Lattices: Random Dimer Model**|Ilia Tutunnikov et.al.|[2405.20813](http://arxiv.org/abs/2405.20813)|null|
+|**2024-05-31**|**Diffusion Models Are Innate One-Step Generators**|Bowen Zheng et.al.|[2405.20750](http://arxiv.org/abs/2405.20750)|**[link](https://github.com/Zyriix/GDD)**|
+|**2024-05-31**|**Upscaled equations for the Fokker-Planck diffusion through arrays of permeable and of impermeable inclusions**|M. Amar et.al.|[2405.20741](http://arxiv.org/abs/2405.20741)|null|
+|**2024-05-31**|**Unleashing the Potential of Diffusion Models for Incomplete Data Imputation**|Hengrui Zhang et.al.|[2405.20690](http://arxiv.org/abs/2405.20690)|null|
+|**2024-05-31**|**Adv-KD: Adversarial Knowledge Distillation for Faster Diffusion Sampling**|Kidist Amde Mekonnen et.al.|[2405.20675](http://arxiv.org/abs/2405.20675)|**[link](https://github.com/kidist-amde/adv-kd)**|
 |**2024-05-30**|**MotionFollower: Editing Video Motion via Lightweight Score-Guided Diffusion**|Shuyuan Tu et.al.|[2405.20325](http://arxiv.org/abs/2405.20325)|null|
 |**2024-05-30**|**Don't drop your samples! Coherence-aware training benefits Conditional diffusion**|Nicolas Dufour et.al.|[2405.20324](http://arxiv.org/abs/2405.20324)|null|
 |**2024-05-30**|**DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music Generation**|Zachary Novack et.al.|[2405.20289](http://arxiv.org/abs/2405.20289)|null|
