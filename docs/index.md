@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -1539,7 +1539,7 @@ layout: default
 |**2024-05-30**|**Combining physics-informed graph neural network and finite difference for solving forward and inverse spatiotemporal PDEs**|Hao Zhang et.al.|[2405.20000](http://arxiv.org/abs/2405.20000)|null|
 |**2024-05-29**|**Spatio-Spectral Graph Neural Networks**|Simon Geisler et.al.|[2405.19121](http://arxiv.org/abs/2405.19121)|null|
 |**2024-05-29**|**SIG: Efficient Self-Interpretable Graph Neural Network for Continuous-time Dynamic Graphs**|Lanting Fang et.al.|[2405.19062](http://arxiv.org/abs/2405.19062)|**[link](https://github.com/2024sig/sig)**|
-|**2024-05-29**|**LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification**|Yufei Zhaoa et.al.|[2405.18933](http://arxiv.org/abs/2405.18933)|**[link](https://github.com/liuhua811/lspia)**|
+|**2024-05-31**|**LSPI: Heterogeneous Graph Neural Network Classification Aggregation Algorithm Based on Size Neighbor Path Identification**|Yufei Zhao et.al.|[2405.18933](http://arxiv.org/abs/2405.18933)|**[link](https://github.com/liuhua811/lspia)**|
 |**2024-05-29**|**Inverse Design of Promising Alloys for Electrocatalytic CO $_2$ Reduction via Generative Graph Neural Networks Combined with Bird Swarm Algorithm**|Zhilong Song et.al.|[2405.18891](http://arxiv.org/abs/2405.18891)|null|
 |**2024-05-29**|**Continuous Product Graph Neural Networks**|Aref Einizade et.al.|[2405.18877](http://arxiv.org/abs/2405.18877)|null|
 |**2024-05-29**|**Node Injection Attack Based on Label Propagation Against Graph Neural Network**|Peican Zhu et.al.|[2405.18824](http://arxiv.org/abs/2405.18824)|null|
@@ -2430,7 +2430,7 @@ layout: default
 |**2024-05-30**|**MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model**|Muyao Niu et.al.|[2405.20222](http://arxiv.org/abs/2405.20222)|null|
 |**2024-05-30**|**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models**|Lukas Uzolas et.al.|[2405.20155](http://arxiv.org/abs/2405.20155)|null|
 |**2024-05-30**|**Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion**|Jiangkai Wu et.al.|[2405.20032](http://arxiv.org/abs/2405.20032)|null|
-|**2024-05-30**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
+|**2024-05-31**|**DP-IQA: Utilizing Diffusion Prior for Blind Image Quality Assessment in the Wild**|Honghao Fu et.al.|[2405.19996](http://arxiv.org/abs/2405.19996)|**[link](https://github.com/RomGai/DP-IQA)**|
 |**2024-05-30**|**DiffPhysBA: Diffusion-based Physical Backdoor Attack against Person Re-Identification in Real-World**|Wenli Sun et.al.|[2405.19990](http://arxiv.org/abs/2405.19990)|null|
 |**2024-05-30**|**Exploring Diffusion Models' Corruption Stage in Few-Shot Fine-tuning and Mitigating with Bayesian Neural Networks**|Xiaoyu Wu et.al.|[2405.19931](http://arxiv.org/abs/2405.19931)|null|
 |**2024-05-30**|**Learning from Random Demonstrations: Offline Reinforcement Learning with Importance-Sampled Diffusion Models**|Zeyu Fang et.al.|[2405.19878](http://arxiv.org/abs/2405.19878)|null|
