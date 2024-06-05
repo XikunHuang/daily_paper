@@ -23,8 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Diffusion":
-        filters: ["diffusion"]
-    "SSL":
-        filters: ["contrastive"]
-    "GNN":
-        filters: ["graph neural network", "GNN"]
+        filters: ["diffusion", "flow"]
+    "Graph":
+        filters: ["graph generation", "graph neural network"]
