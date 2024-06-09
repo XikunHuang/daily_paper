@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4899,10 +4899,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|null|
+|**2024-06-06**|**On the Expressive Power of Spectral Invariant Graph Neural Networks**|Bohang Zhang et.al.|[2406.04336](http://arxiv.org/abs/2406.04336)|**[link](https://github.com/LingxiaoShawn/EPNN-Experiments)**|
 |**2024-06-06**|**NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise**|Zhonghao Wang et.al.|[2406.04299](http://arxiv.org/abs/2406.04299)|**[link](https://github.com/eaglelab-zju/noisygl)**|
 |**2024-06-06**|**Transformers need glasses! Information over-squashing in language tasks**|Federico Barbero et.al.|[2406.04267](http://arxiv.org/abs/2406.04267)|null|
-|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|null|
+|**2024-06-06**|**Multivector Neurons: Better and Faster O(n)-Equivariant Clifford Graph Neural Networks**|Cong Liu et.al.|[2406.04052](http://arxiv.org/abs/2406.04052)|**[link](https://github.com/congliuUvA/Multivector-Neurons)**|
 |**2024-06-06**|**Energy-based Epistemic Uncertainty for Graph Neural Networks**|Dominik Fuchsgruber et.al.|[2406.04043](http://arxiv.org/abs/2406.04043)|null|
 |**2024-06-06**|**Exploiting Global Graph Homophily for Generalized Defense in Graph Neural Networks**|Duanyu Li et.al.|[2406.03833](http://arxiv.org/abs/2406.03833)|null|
 |**2024-06-06**|**BindGPT: A Scalable Framework for 3D Molecular Design via Language Modeling and Reinforcement Learning**|Artem Zholus et.al.|[2406.03686](http://arxiv.org/abs/2406.03686)|null|
