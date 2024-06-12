@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4902,7 +4902,7 @@ layout: default
 |**2024-06-10**|**Spatiotemporal Graph Neural Network Modelling Perfusion MRI**|Ruodan Yan et.al.|[2406.06434](http://arxiv.org/abs/2406.06434)|null|
 |**2024-06-10**|**Explainable Graph Neural Networks Under Fire**|Zhong Li et.al.|[2406.06417](http://arxiv.org/abs/2406.06417)|null|
 |**2024-06-10**|**Learning Physical Simulation with Message Passing Transformer**|Zeyi Xu et.al.|[2406.06060](http://arxiv.org/abs/2406.06060)|null|
-|**2024-06-10**|**MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation**|Alexandre Hayderi et.al.|[2406.05959](http://arxiv.org/abs/2406.05959)|null|
+|**2024-06-10**|**MAGNOLIA: Matching Algorithms via GNNs for Online Value-to-go Approximation**|Alexandre Hayderi et.al.|[2406.05959](http://arxiv.org/abs/2406.05959)|**[link](https://github.com/anders-wikum/GNN-OBM)**|
 |**2024-06-09**|**Expressive Power of Graph Neural Networks for (Mixed-Integer) Quadratic Programs**|Ziang Chen et.al.|[2406.05938](http://arxiv.org/abs/2406.05938)|null|
 |**2024-06-09**|**Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models**|Aidan Z. H. Yang et.al.|[2406.05892](http://arxiv.org/abs/2406.05892)|null|
 |**2024-06-09**|**Scaling Graph Convolutions for Mobile Vision**|William Avery et.al.|[2406.05850](http://arxiv.org/abs/2406.05850)|**[link](https://github.com/sldgroup/mobilevigv2)**|
