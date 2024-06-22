@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4900,7 +4900,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-20**|**Graph Representation Learning Strategies for Omics Data: A Case Study on Parkinson's Disease**|Elisa Gómez de Lope et.al.|[2406.14442](http://arxiv.org/abs/2406.14442)|null|
-|**2024-06-20**|**Iterative Sizing Field Prediction for Adaptive Mesh Generation From Expert Demonstrations**|Niklas Freymuth et.al.|[2406.14161](http://arxiv.org/abs/2406.14161)|null|
+|**2024-06-20**|**Iterative Sizing Field Prediction for Adaptive Mesh Generation From Expert Demonstrations**|Niklas Freymuth et.al.|[2406.14161](http://arxiv.org/abs/2406.14161)|**[link](https://github.com/NiklasFreymuth/AMBER)**|
 |**2024-06-20**|**Geometric Self-Supervised Pretraining on 3D Protein Structures using Subgraphs**|Michail Chatzianastasis et.al.|[2406.14142](http://arxiv.org/abs/2406.14142)|null|
 |**2024-06-20**|**Graph Neural Networks for Job Shop Scheduling Problems: A Survey**|Igor G. Smit et.al.|[2406.14096](http://arxiv.org/abs/2406.14096)|null|
 |**2024-06-20**|**HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment**|Yongqiang Chen et.al.|[2406.14021](http://arxiv.org/abs/2406.14021)|null|
