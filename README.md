@@ -1,4 +1,4 @@
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1545,7 +1545,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## GNN
 
@@ -2438,7 +2438,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4905,18 +4905,22 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Predicting dark matter halo masses from simulated galaxy images and environments**|Austin J. Larson et.al.|[2407.13735](http://arxiv.org/abs/2407.13735)|null|
+|**2024-07-18**|**Exploring End-to-end Differentiable Neural Charged Particle Tracking -- A Loss Landscape Perspective**|Tobias Kortus et.al.|[2407.13420](http://arxiv.org/abs/2407.13420)|null|
+|**2024-07-18**|**HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning**|Qiuyu Zhu et.al.|[2407.13158](http://arxiv.org/abs/2407.13158)|null|
+|**2024-07-18**|**Krait: A Backdoor Attack Against Graph Prompt Tuning**|Ying Song et.al.|[2407.13068](http://arxiv.org/abs/2407.13068)|null|
 |**2024-07-17**|**GraphMuse: A Library for Symbolic Music Graph Processing**|Emmanouil Karystinaios et.al.|[2407.12671](http://arxiv.org/abs/2407.12671)|**[link](https://github.com/manoskary/graphmuse)**|
 |**2024-07-17**|**Fusion Flow-enhanced Graph Pooling Residual Networks for Unmanned Aerial Vehicles Surveillance in Day and Night Dual Visions**|Alam Noor et.al.|[2407.12647](http://arxiv.org/abs/2407.12647)|null|
 |**2024-07-17**|**A Brief Review of Quantum Machine Learning for Financial Services**|Mina Doosti et.al.|[2407.12618](http://arxiv.org/abs/2407.12618)|null|
 |**2024-07-17**|**SENC: Handling Self-collision in Neural Cloth Simulation**|Zhouyingcheng Liao et.al.|[2407.12479](http://arxiv.org/abs/2407.12479)|null|
-|**2024-07-17**|**SafePowerGraph: Safety-aware Evaluation of Graph Neural Networks for Transmission Power Grids**|Salah Ghamizi et.al.|[2407.12421](http://arxiv.org/abs/2407.12421)|null|
-|**2024-07-17**|**Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive Long-Range Graph Predictions**|Christian Nauck et.al.|[2407.12419](http://arxiv.org/abs/2407.12419)|null|
+|**2024-07-17**|**SafePowerGraph: Safety-aware Evaluation of Graph Neural Networks for Transmission Power Grids**|Salah Ghamizi et.al.|[2407.12421](http://arxiv.org/abs/2407.12421)|**[link](https://github.com/yamizi/safepowergraph)**|
+|**2024-07-17**|**Dirac--Bianconi Graph Neural Networks -- Enabling Non-Diffusive Long-Range Graph Predictions**|Christian Nauck et.al.|[2407.12419](http://arxiv.org/abs/2407.12419)|**[link](https://github.com/PIK-ICoNe/DBGNN_paper-companion)**|
 |**2024-07-17**|**Urban Traffic Forecasting with Integrated Travel Time and Data Availability in a Conformal Graph Neural Network Framework**|Mayur Patil et.al.|[2407.12238](http://arxiv.org/abs/2407.12238)|null|
 |**2024-07-16**|**Molecular Topological Profile (MOLTOP) -- Simple and Strong Baseline for Molecular Graph Classification**|Jakub Adamczyk et.al.|[2407.12136](http://arxiv.org/abs/2407.12136)|null|
 |**2024-07-16**|**Graph Neural Network-Based Track Finding in the LHCb Vertex Detector**|Anthony Correia et.al.|[2407.12119](http://arxiv.org/abs/2407.12119)|null|
@@ -5155,5 +5159,5 @@
 |**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
