@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4899,7 +4899,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-19**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490](http://arxiv.org/abs/2407.14490)|null|
+|**2024-07-22**|**Red-QAOA: Efficient Variational Optimization through Circuit Reduction**|Meng Wang et.al.|[2407.14490](http://arxiv.org/abs/2407.14490)|null|
 |**2024-07-19**|**PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer**|Jiahong Ma et.al.|[2407.14459](http://arxiv.org/abs/2407.14459)|**[link](https://github.com/air029/polyformer)**|
 |**2024-07-19**|**L^2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering**|Xinzhou Jin et.al.|[2407.14266](http://arxiv.org/abs/2407.14266)|**[link](https://github.com/downeykking/l2cl)**|
 |**2024-07-19**|**Comparing and Contrasting Deep Learning Weather Prediction Backbones on Navier-Stokes and Atmospheric Dynamics**|Matthias Karlbauer et.al.|[2407.14129](http://arxiv.org/abs/2407.14129)|null|
