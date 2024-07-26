@@ -4911,6 +4911,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-25**|**AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction**|Chunan Liu et.al.|[2407.18184](http://arxiv.org/abs/2407.18184)|**[link](https://github.com/biochunan/asep-dataset)**|
+|**2024-07-25**|**Gene Regulatory Network Inference from Pre-trained Single-Cell Transcriptomics Transformer with Joint Graph Learning**|Sindhura Kommu et.al.|[2407.18181](http://arxiv.org/abs/2407.18181)|null|
+|**2024-07-25**|**RIDA: A Robust Attack Framework on Incomplete Graphs**|Jianke Yu et.al.|[2407.18170](http://arxiv.org/abs/2407.18170)|null|
+|**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[2407.17980](http://arxiv.org/abs/2407.17980)|null|
+|**2024-07-25**|**RDFGraphGen: A Synthetic RDF Graph Generator based on SHACL Constraints**|Marija Vecovska et.al.|[2407.17941](http://arxiv.org/abs/2407.17941)|null|
+|**2024-07-25**|**Mew: Multiplexed Immunofluorescence Image Analysis through an Efficient Multiplex Network**|Sukwon Yun et.al.|[2407.17857](http://arxiv.org/abs/2407.17857)|null|
+|**2024-07-25**|**Your Graph Recommender is Provably a Single-view Graph Contrastive Learning**|Wenjie Yang et.al.|[2407.17723](http://arxiv.org/abs/2407.17723)|null|
+|**2024-07-25**|**Context-aware knowledge graph framework for traffic speed forecasting using graph neural network**|Yatao Zhang et.al.|[2407.17703](http://arxiv.org/abs/2407.17703)|null|
 |**2024-07-24**|**Systematic Reasoning About Relational Domains With Graph Neural Networks**|Irtaza Khalid et.al.|[2407.17396](http://arxiv.org/abs/2407.17396)|**[link](https://github.com/erg0dic/gnn-sg)**|
 |**2024-07-24**|**Global and Local Confidence Based Fraud Detection Graph Neural Network**|Jiaxun Liu et.al.|[2407.17333](http://arxiv.org/abs/2407.17333)|null|
 |**2024-07-24**|**Graph Neural Networks: A suitable Alternative to MLPs in Latent 3D Medical Image Classification?**|Johannes Kiechle et.al.|[2407.17219](http://arxiv.org/abs/2407.17219)|**[link](https://github.com/compai-lab/2024-miccai-grail-kiechle)**|
