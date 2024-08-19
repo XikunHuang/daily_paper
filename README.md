@@ -4911,6 +4911,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Neighbor Overlay-Induced Graph Attention Network**|Tiqiao Wei et.al.|[2408.08788](http://arxiv.org/abs/2408.08788)|null|
+|**2024-08-16**|**SE-SGformer: A Self-Explainable Signed Graph Transformer for Link Sign Prediction**|Lu Li et.al.|[2408.08754](http://arxiv.org/abs/2408.08754)|null|
+|**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685](http://arxiv.org/abs/2408.08685)|null|
+|**2024-08-16**|**GrassNet: State Space Model Meets Graph Neural Network**|Gongpei Zhao et.al.|[2408.08583](http://arxiv.org/abs/2408.08583)|null|
+|**2024-08-16**|**Mitigating Degree Bias in Signed Graph Neural Networks**|Fang He et.al.|[2408.08508](http://arxiv.org/abs/2408.08508)|null|
+|**2024-08-16**|**Accelerating Mini-batch HGNN Training by Reducing CUDA Kernels**|Meng Wu et.al.|[2408.08490](http://arxiv.org/abs/2408.08490)|null|
+|**2024-08-16**|**An Unsupervised Learning Framework Combined with Heuristics for the Maximum Minimal Cut Problem**|Huaiyuan Liu et.al.|[2408.08484](http://arxiv.org/abs/2408.08484)|**[link](https://github.com/luckyseasalt/pioneer)**|
 |**2024-08-14**|**Graph neural network surrogate for strategic transport planning**|Nikita Makarov et.al.|[2408.07726](http://arxiv.org/abs/2408.07726)|**[link](https://github.com/nikita6187/transportplanningdataset)**|
 |**2024-08-14**|**Interpretable Graph Neural Networks for Heterogeneous Tabular Data**|Amr Alkhatib et.al.|[2408.07661](http://arxiv.org/abs/2408.07661)|null|
 |**2024-08-14**|**Multi-task Heterogeneous Graph Learning on Electronic Health Records**|Tsai Hor Chan et.al.|[2408.07569](http://arxiv.org/abs/2408.07569)|null|
