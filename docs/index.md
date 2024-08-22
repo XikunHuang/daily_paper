@@ -4899,6 +4899,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**A Novel Evaluation Perspective on GNNs-based Recommender Systems through the Topology of the User-Item Graph**|Daniele Malitesta et.al.|[2408.11762](http://arxiv.org/abs/2408.11762)|**[link](https://github.com/sisinflab/topology-graph-collaborative-filtering)**|
+|**2024-08-21**|**Optimizing Federated Graph Learning with Inherent Structural Knowledge and Dual-Densely Connected GNNs**|Longwen Wang et.al.|[2408.11662](http://arxiv.org/abs/2408.11662)|null|
+|**2024-08-21**|**Slicing Input Features to Accelerate Deep Learning: A Case Study with Graph Neural Networks**|Zhengjia Xu et.al.|[2408.11500](http://arxiv.org/abs/2408.11500)|null|
+|**2024-08-21**|**Estimating Peer Direct and Indirect Effects in Observational Network Data**|Xiaojing Du et.al.|[2408.11492](http://arxiv.org/abs/2408.11492)|null|
+|**2024-08-21**|**Graph Classification via Reference Distribution Learning: Theory and Practice**|Zixiao Wang et.al.|[2408.11370](http://arxiv.org/abs/2408.11370)|null|
+|**2024-08-21**|**Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation**|Fieke Hillerstrom et.al.|[2408.11367](http://arxiv.org/abs/2408.11367)|null|
+|**2024-08-21**|**Modeling Reference-dependent Choices with Graph Neural Networks**|Liang Zhang et.al.|[2408.11302](http://arxiv.org/abs/2408.11302)|null|
+|**2024-08-20**|**Multi-User Continuous-Aperture Array Communications: How to Learn Current Distribution?**|Jia Guo et.al.|[2408.11230](http://arxiv.org/abs/2408.11230)|null|
+|**2024-08-20**|**Public Health in Disaster: Emotional Health and Life Incidents Extraction during Hurricane Harvey**|Thomas Hoang et.al.|[2408.11133](http://arxiv.org/abs/2408.11133)|null|
 |**2024-08-20**|**GAIM: Attacking Graph Neural Networks via Adversarial Influence Maximization**|Xiaodong Yang et.al.|[2408.10948](http://arxiv.org/abs/2408.10948)|null|
 |**2024-08-19**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436](http://arxiv.org/abs/2408.10436)|null|
 |**2024-08-19**|**Expressive Power of Temporal Message Passing**|Przemysław Andrzej Wałęga et.al.|[2408.09918](http://arxiv.org/abs/2408.09918)|null|
