@@ -4899,6 +4899,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**IFH: a Diffusion Framework for Flexible Design of Graph Generative Models**|Samuel Cognolato et.al.|[2408.13194](http://arxiv.org/abs/2408.13194)|null|
+|**2024-08-23**|**Multivariate Time-Series Anomaly Detection based on Enhancing Graph Attention Networks with Topological Analysis**|Zhe Liu et.al.|[2408.13082](http://arxiv.org/abs/2408.13082)|**[link](https://github.com/ljj-cyber/topogdn)**|
+|**2024-08-23**|**Disentangling, Amplifying, and Debiasing: Learning Disentangled Representations for Fair Graph Neural Networks**|Yeon-Chang Lee et.al.|[2408.12875](http://arxiv.org/abs/2408.12875)|null|
+|**2024-08-23**|**HGNAS: Hardware-Aware Graph Neural Architecture Search for Edge Devices**|Ao Zhou et.al.|[2408.12840](http://arxiv.org/abs/2408.12840)|null|
+|**2024-08-23**|**SIMPNet: Spatial-Informed Motion Planning Network**|Davood Soleymanzadeh et.al.|[2408.12831](http://arxiv.org/abs/2408.12831)|null|
+|**2024-08-23**|**Data-Driven Parametrization of Molecular Mechanics Force Fields for Expansive Chemical Space Coverage**|Tianze Zheng et.al.|[2408.12817](http://arxiv.org/abs/2408.12817)|null|
 |**2024-08-23**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
 |**2024-08-22**|**Advanced atom-level representations for protein flexibility prediction utilizing graph neural networks**|Sina Sarparast et.al.|[2408.12519](http://arxiv.org/abs/2408.12519)|null|
 |**2024-08-22**|**Enhanced Expressivity in Graph Neural Networks with Lanczos-Based Linear Constraints**|Niloofar Azizi et.al.|[2408.12334](http://arxiv.org/abs/2408.12334)|null|
