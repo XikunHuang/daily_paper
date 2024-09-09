@@ -4911,6 +4911,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**Accelerating Training with Neuron Interaction and Nowcasting Networks**|Boris Knyazev et.al.|[2409.04434](http://arxiv.org/abs/2409.04434)|**[link](https://github.com/samsungsailmontreal/nino)**|
+|**2024-09-06**|**GALLa: Graph Aligned Large Language Models for Improved Source Code Understanding**|Ziyin Zhang et.al.|[2409.04183](http://arxiv.org/abs/2409.04183)|null|
+|**2024-09-06**|**CUQ-GNN: Committee-based Graph Uncertainty Quantification using Posterior Networks**|Clemens Damke et.al.|[2409.04159](http://arxiv.org/abs/2409.04159)|null|
 |**2024-09-05**|**Characterizing Massive Activations of Attention Mechanism in Graph Neural Networks**|Lorenzo Bini et.al.|[2409.03463](http://arxiv.org/abs/2409.03463)|**[link](https://github.com/msorbi/gnn-ma)**|
 |**2024-09-05**|**Efficient prediction of potential energy surface and physical properties with Kolmogorov-Arnold Networks**|Rui Wang et.al.|[2409.03430](http://arxiv.org/abs/2409.03430)|null|
 |**2024-09-04**|**Do We Trust What They Say or What They Do? A Multimodal User Embedding Provides Personalized Explanations**|Zhicheng Ren et.al.|[2409.02965](http://arxiv.org/abs/2409.02965)|null|
