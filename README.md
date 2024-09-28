@@ -1,4 +1,4 @@
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1545,7 +1545,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240928>back to top</a>)</p>
 
 ## GNN
 
@@ -2438,7 +2438,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240928>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4905,12 +4905,20 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240928>back to top</a>)</p>
 
 ## Graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Spatiotemporal Learning on Cell-embedded Graphs**|Yuan Mi et.al.|[2409.18013](http://arxiv.org/abs/2409.18013)|null|
+|**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986](http://arxiv.org/abs/2409.17986)|null|
+|**2024-09-26**|**Modeling the Popularity of Events on Web by Sparsity and Mutual-Excitation Guided Graph Neural Network**|Jiaxin Deng et.al.|[2409.17678](http://arxiv.org/abs/2409.17678)|null|
+|**2024-09-26**|**Hand-object reconstruction via interaction-aware graph attention mechanism**|Taeyun Woo et.al.|[2409.17629](http://arxiv.org/abs/2409.17629)|null|
+|**2024-09-26**|**Convolutional Signal Propagation: A Simple Scalable Algorithm for Hypergraphs**|Pavel Procházka et.al.|[2409.17628](http://arxiv.org/abs/2409.17628)|null|
+|**2024-09-26**|**Neural P $^3$ M: A Long-Range Interaction Modeling Enhancer for Geometric GNNs**|Yusong Wang et.al.|[2409.17622](http://arxiv.org/abs/2409.17622)|null|
+|**2024-09-26**|**Heterogeneous Hyper-Graph Neural Networks for Context-aware Human Activity Recognition**|Wen Ge et.al.|[2409.17483](http://arxiv.org/abs/2409.17483)|null|
+|**2024-09-26**|**On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks**|Jiong Zhu et.al.|[2409.17475](http://arxiv.org/abs/2409.17475)|null|
 |**2024-09-25**|**Predictive Covert Communication Against Multi-UAV Surveillance Using Graph Koopman Autoencoder**|Sivaram Krishnan et.al.|[2409.17048](http://arxiv.org/abs/2409.17048)|null|
 |**2024-09-25**|**Erase then Rectify: A Training-Free Parameter Editing Approach for Cost-Effective Graph Unlearning**|Zhe-Rui Yang et.al.|[2409.16684](http://arxiv.org/abs/2409.16684)|null|
 |**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670](http://arxiv.org/abs/2409.16670)|null|
@@ -5461,5 +5469,5 @@
 |**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 
-<p align=right>(<a href=#Updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240928>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4899,6 +4899,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Spatiotemporal Learning on Cell-embedded Graphs**|Yuan Mi et.al.|[2409.18013](http://arxiv.org/abs/2409.18013)|null|
+|**2024-09-26**|**Supra-Laplacian Encoding for Transformer on Dynamic Graphs**|Yannis Karmim et.al.|[2409.17986](http://arxiv.org/abs/2409.17986)|null|
+|**2024-09-26**|**Modeling the Popularity of Events on Web by Sparsity and Mutual-Excitation Guided Graph Neural Network**|Jiaxin Deng et.al.|[2409.17678](http://arxiv.org/abs/2409.17678)|null|
+|**2024-09-26**|**Hand-object reconstruction via interaction-aware graph attention mechanism**|Taeyun Woo et.al.|[2409.17629](http://arxiv.org/abs/2409.17629)|null|
+|**2024-09-26**|**Convolutional Signal Propagation: A Simple Scalable Algorithm for Hypergraphs**|Pavel Procházka et.al.|[2409.17628](http://arxiv.org/abs/2409.17628)|null|
+|**2024-09-26**|**Neural P $^3$ M: A Long-Range Interaction Modeling Enhancer for Geometric GNNs**|Yusong Wang et.al.|[2409.17622](http://arxiv.org/abs/2409.17622)|null|
+|**2024-09-26**|**Heterogeneous Hyper-Graph Neural Networks for Context-aware Human Activity Recognition**|Wen Ge et.al.|[2409.17483](http://arxiv.org/abs/2409.17483)|null|
+|**2024-09-26**|**On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks**|Jiong Zhu et.al.|[2409.17475](http://arxiv.org/abs/2409.17475)|null|
 |**2024-09-25**|**Predictive Covert Communication Against Multi-UAV Surveillance Using Graph Koopman Autoencoder**|Sivaram Krishnan et.al.|[2409.17048](http://arxiv.org/abs/2409.17048)|null|
 |**2024-09-25**|**Erase then Rectify: A Training-Free Parameter Editing Approach for Cost-Effective Graph Unlearning**|Zhe-Rui Yang et.al.|[2409.16684](http://arxiv.org/abs/2409.16684)|null|
 |**2024-09-25**|**GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**|Zhe-Rui Yang et.al.|[2409.16670](http://arxiv.org/abs/2409.16670)|null|
