@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**PROXI: Challenging the GNNs for Link Prediction**|Astrit Tola et.al.|[2410.01802](http://arxiv.org/abs/2410.01802)|**[link](https://github.com/workrep20232/proxi)**|
+|**2024-10-02**|**Scalable and Consistent Graph Neural Networks for Distributed Mesh-based Data-driven Modeling**|Shivam Barwey et.al.|[2410.01657](http://arxiv.org/abs/2410.01657)|null|
+|**2024-10-02**|**Accessing Numerical Energy Hessians with Graph Neural Network Potentials and Their Application in Heterogeneous Catalysis**|Brook Wander et.al.|[2410.01650](http://arxiv.org/abs/2410.01650)|null|
+|**2024-10-02**|**Verbalized Graph Representation Learning: A Fully Interpretable Graph Model Based on Large Language Models Throughout the Entire Process**|Xingyu Ji et.al.|[2410.01457](http://arxiv.org/abs/2410.01457)|null|
+|**2024-10-02**|**Towards Dynamic Graph Neural Networks with Provably High-Order Expressive Power**|Zhe Wang et.al.|[2410.01367](http://arxiv.org/abs/2410.01367)|null|
+|**2024-10-02**|**Rethinking the Expressiveness of GNNs: A Computational Model Perspective**|Guanyu Cui et.al.|[2410.01308](http://arxiv.org/abs/2410.01308)|null|
+|**2024-10-02**|**"No Matter What You Do!": Mitigating Backdoor Attacks in Graph Neural Networks**|Jiale Zhang et.al.|[2410.01272](http://arxiv.org/abs/2410.01272)|**[link](https://github.com/graph-axis/gcleaner)**|
+|**2024-10-01**|**GAMMA-PD: Graph-based Analysis of Multi-Modal Motor Impairment Assessments in Parkinson's Disease**|Favour Nerrise et.al.|[2410.00944](http://arxiv.org/abs/2410.00944)|null|
+|**2024-10-01**|**Review of blockchain application with Graph Neural Networks, Graph Convolutional Networks and Convolutional Neural Networks**|Amy Ancelotti et.al.|[2410.00875](http://arxiv.org/abs/2410.00875)|null|
+|**2024-10-01**|**WiGNet: Windowed Vision Graph Neural Network**|Gabriele Spadaro et.al.|[2410.00807](http://arxiv.org/abs/2410.00807)|**[link](https://github.com/eidoslab/wignet)**|
 |**2024-09-30**|**geom2vec: pretrained GNNs as geometric featurizers for conformational dynamics**|Zihan Pengmei et.al.|[2409.19838](http://arxiv.org/abs/2409.19838)|**[link](https://github.com/zpengmei/geom2vec)**|
 |**2024-09-29**|**Generalizability of Graph Neural Networks for Decentralized Unlabeled Motion Planning**|Shreyas Muthusamy et.al.|[2409.19829](http://arxiv.org/abs/2409.19829)|null|
 |**2024-09-29**|**A Survey on Graph Neural Networks for Remaining Useful Life Prediction: Methodologies, Evaluation and Future Trends**|Yucheng Wang et.al.|[2409.19629](http://arxiv.org/abs/2409.19629)|null|
