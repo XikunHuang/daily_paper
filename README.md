@@ -4911,6 +4911,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**M $^3$ -Impute: Mask-guided Representation Learning for Missing Value Imputation**|Zhongyi Yu et.al.|[2410.08794](http://arxiv.org/abs/2410.08794)|**[link](https://github.com/alleinx/m3-impute)**|
+|**2024-10-11**|**Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis**|Zhifei Li et.al.|[2410.08759](http://arxiv.org/abs/2410.08759)|null|
+|**2024-10-11**|**Enhanced Robot Planning and Perception through Environment Prediction**|Vishnu Dutt Sharma et.al.|[2410.08560](http://arxiv.org/abs/2410.08560)|null|
+|**2024-10-11**|**IGNN-Solver: A Graph Neural Solver for Implicit Graph Neural Networks**|Junchao Lin et.al.|[2410.08524](http://arxiv.org/abs/2410.08524)|null|
+|**2024-10-10**|**KnowGraph: Knowledge-Enabled Anomaly Detection via Logical Reasoning on Graph Data**|Andy Zhou et.al.|[2410.08390](http://arxiv.org/abs/2410.08390)|null|
 |**2024-10-10**|**Heterogeneous Graph Auto-Encoder for CreditCard Fraud Detection**|Moirangthem Tiken Singh et.al.|[2410.08121](http://arxiv.org/abs/2410.08121)|null|
 |**2024-10-10**|**Learning Equivariant Non-Local Electron Density Functionals**|Nicholas Gao et.al.|[2410.07972](http://arxiv.org/abs/2410.07972)|null|
 |**2024-10-10**|**HeGraphAdapter: Tuning Multi-Modal Vision-Language Models with Heterogeneous Graph Adapter**|Yumiao Zhao et.al.|[2410.07854](http://arxiv.org/abs/2410.07854)|null|
