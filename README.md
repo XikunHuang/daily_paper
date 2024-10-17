@@ -1,4 +1,4 @@
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1545,7 +1545,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
 ## GNN
 
@@ -2438,7 +2438,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4905,7 +4905,7 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
 ## Graph
 
@@ -4920,7 +4920,7 @@
 |**2024-10-15**|**KA-GNN: Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction**|Longlong Li et.al.|[2410.11323](http://arxiv.org/abs/2410.11323)|null|
 |**2024-10-15**|**Backdoor Attack on Vertical Federated Graph Neural Network Learning**|Jirui Yang et.al.|[2410.11290](http://arxiv.org/abs/2410.11290)|null|
 |**2024-10-15**|**Rethinking Graph Transformer Architecture Design for Node Classification**|Jiajun Zhou et.al.|[2410.11189](http://arxiv.org/abs/2410.11189)|null|
-|**2024-10-14**|**NAR-*ICP: Neural Execution of Classical ICP-based Pointcloud Registration Algorithms**|Efimia Panagiotaki et.al.|[2410.11031](http://arxiv.org/abs/2410.11031)|null|
+|**2024-10-16**|**NAR-*ICP: Neural Execution of Classical ICP-based Pointcloud Registration Algorithms**|Efimia Panagiotaki et.al.|[2410.11031](http://arxiv.org/abs/2410.11031)|null|
 |**2024-10-14**|**Arrhythmia Classification Using Graph Neural Networks Based on Correlation Matrix**|Seungwoo Han et.al.|[2410.10758](http://arxiv.org/abs/2410.10758)|null|
 |**2024-10-14**|**NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models**|Yanbiao Ji et.al.|[2410.10743](http://arxiv.org/abs/2410.10743)|null|
 |**2024-10-14**|**A Personalized MOOC Learning Group and Course Recommendation Method Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658](http://arxiv.org/abs/2410.10658)|null|
@@ -5560,5 +5560,5 @@
 |**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 
-<p align=right>(<a href=#Updated-on-20241016>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241017>back to top</a>)</p>
 
