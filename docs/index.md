@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks**|Han Ji et.al.|[2410.17118](http://arxiv.org/abs/2410.17118)|**[link](https://github.com/hanji-ucd/gnn-hetnet)**|
+|**2024-10-22**|**Graph Neural Networks for Edge Signals: Orientation Equivariance and Invariance**|Dominik Fuchsgruber et.al.|[2410.16935](http://arxiv.org/abs/2410.16935)|null|
+|**2024-10-22**|**Dynamic graph neural networks for enhanced volatility prediction in financial markets**|Pulikandala Nithish Kumar et.al.|[2410.16858](http://arxiv.org/abs/2410.16858)|null|
+|**2024-10-22**|**Fast Graph Sharpness-Aware Minimization for Enhancing and Accelerating Few-Shot Node Classification**|Yihong Luo et.al.|[2410.16845](http://arxiv.org/abs/2410.16845)|**[link](https://github.com/draym28/fgsam_neurips24)**|
+|**2024-10-22**|**Can Large Language Models Act as Ensembler for Multi-GNNs?**|Hanqi Duan et.al.|[2410.16822](http://arxiv.org/abs/2410.16822)|null|
+|**2024-10-22**|**GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation**|Junyu Luo et.al.|[2410.16606](http://arxiv.org/abs/2410.16606)|**[link](https://github.com/luo-junyu/gala)**|
+|**2024-10-22**|**Graph Sampling for Scalable and Expressive Graph Neural Networks on Homophilic Graphs**|Haolin Li et.al.|[2410.16593](http://arxiv.org/abs/2410.16593)|null|
 |**2024-10-21**|**Theoretical Insights into Line Graph Transformation on Graph Learning**|Fan Yang et.al.|[2410.16138](http://arxiv.org/abs/2410.16138)|**[link](https://github.com/lukeyf/graphs-and-lines)**|
 |**2024-10-21**|**SeaDAG: Semi-autoregressive Diffusion for Conditional Directed Acyclic Graph Generation**|Xinyi Zhou et.al.|[2410.16119](http://arxiv.org/abs/2410.16119)|null|
 |**2024-10-21**|**Accelerating Discovery of Extreme Lattice Thermal Conductivity by Crystal Attention Graph Neural Network (CATGNN) Using Chemical Bonding Intuitive Descriptors**|Mohammed Al-Fahdi et.al.|[2410.16066](http://arxiv.org/abs/2410.16066)|null|
