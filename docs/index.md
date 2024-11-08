@@ -4899,6 +4899,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-07**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907](http://arxiv.org/abs/2411.04907)|null|
+|**2024-11-07**|**Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation**|Zhaoyang Zhang et.al.|[2411.04899](http://arxiv.org/abs/2411.04899)|null|
+|**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|**[link](https://github.com/abbahaddou/CGSO)**|
+|**2024-11-07**|**Cybercrime Prediction via Geographically Weighted Learning**|Muhammad Al-Zafar Khan et.al.|[2411.04635](http://arxiv.org/abs/2411.04635)|null|
+|**2024-11-07**|**Higher-Order GNNs Meet Efficiency: Sparse Sobolev Graph Neural Networks**|Jhony H. Giraldo et.al.|[2411.04570](http://arxiv.org/abs/2411.04570)|**[link](https://github.com/jhonygiraldo/S2-GNN)**|
+|**2024-11-07**|**ComFairGNN: Community Fair Graph Neural Network**|Yonas Sium et.al.|[2411.04371](http://arxiv.org/abs/2411.04371)|null|
+|**2024-11-07**|**GaGSL: Global-augmented Graph Structure Learning via Graph Information Bottleneck**|Shuangjie Li et.al.|[2411.04356](http://arxiv.org/abs/2411.04356)|null|
+|**2024-11-06**|**Graph neural networks and non-commuting operators**|Mauricio Velasco et.al.|[2411.04265](http://arxiv.org/abs/2411.04265)|**[link](https://github.com/kkylie/gtnn_weighted_circulant_graphs)**|
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
 |**2024-11-06**|**Reconsidering the Performance of GAE in Link Prediction**|Weishuo Ma et.al.|[2411.03845](http://arxiv.org/abs/2411.03845)|**[link](https://github.com/graphpku/refined-gae)**|
 |**2024-11-06**|**Graph Neural Networks with Coarse- and Fine-Grained Division for Mitigating Label Sparsity and Noise**|Shuangjie Li et.al.|[2411.03744](http://arxiv.org/abs/2411.03744)|null|
