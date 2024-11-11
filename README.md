@@ -4911,6 +4911,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Topology-aware Reinforcement Feature Space Reconstruction for Graph Data**|Wangyang Ying et.al.|[2411.05742](http://arxiv.org/abs/2411.05742)|null|
+|**2024-11-08**|**YOSO: You-Only-Sample-Once via Compressed Sensing for Graph Neural Network Training**|Yi Li et.al.|[2411.05693](http://arxiv.org/abs/2411.05693)|null|
+|**2024-11-08**|**Improving Molecular Graph Generation with Flow Matching and Optimal Transport**|Xiaoyang Hou et.al.|[2411.05676](http://arxiv.org/abs/2411.05676)|null|
+|**2024-11-08**|**Streaming Network for Continual Learning of Object Relocations under Household Context Drifts**|Ermanno Bartoli et.al.|[2411.05549](http://arxiv.org/abs/2411.05549)|null|
+|**2024-11-08**|**EUREKHA: Enhancing User Representation for Key Hackers Identification in Underground Forums**|Abdoul Nasser Hassane Amadou et.al.|[2411.05479](http://arxiv.org/abs/2411.05479)|**[link](https://github.com/jumbo110/eurekha)**|
+|**2024-11-08**|**Generalization, Expressivity, and Universality of Graph Neural Networks on Attributed Graphs**|Levi Rauchwerger et.al.|[2411.05464](http://arxiv.org/abs/2411.05464)|null|
+|**2024-11-08**|**Post-Hoc Robustness Enhancement in Graph Neural Networks with Conditional Random Fields**|Yassine Abbahaddou et.al.|[2411.05399](http://arxiv.org/abs/2411.05399)|null|
+|**2024-11-08**|**Distributed-Order Fractional Graph Operating Network**|Kai Zhao et.al.|[2411.05274](http://arxiv.org/abs/2411.05274)|**[link](https://github.com/zknus/neurips-2024-dragon)**|
+|**2024-11-07**|**Exploiting the Structure of Two Graphs with Graph Neural Networks**|Victor M. Tenorio et.al.|[2411.05119](http://arxiv.org/abs/2411.05119)|**[link](https://github.com/vmtenorio/io-gnn)**|
 |**2024-11-07**|**Enhancing Missing Data Imputation through Combined Bipartite Graph and Complete Directed Graph**|Zhaoyang Zhang et.al.|[2411.04907](http://arxiv.org/abs/2411.04907)|null|
 |**2024-11-07**|**Sampling-guided Heterogeneous Graph Neural Network with Temporal Smoothing for Scalable Longitudinal Data Imputation**|Zhaoyang Zhang et.al.|[2411.04899](http://arxiv.org/abs/2411.04899)|null|
 |**2024-11-07**|**Centrality Graph Shift Operators for Graph Neural Networks**|Yassine Abbahaddou et.al.|[2411.04655](http://arxiv.org/abs/2411.04655)|null|
