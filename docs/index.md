@@ -4899,6 +4899,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Bitcoin Research with a Transaction Graph Dataset**|Hugo Schnoering et.al.|[2411.10325](http://arxiv.org/abs/2411.10325)|null|
+|**2024-11-15**|**DuSEGO: Dual Second-order Equivariant Graph Ordinary Differential Equation**|Yingxu Wang et.al.|[2411.10000](http://arxiv.org/abs/2411.10000)|null|
 |**2024-11-15**|**Graph Neural Networks and Differential Equations: A hybrid approach for data assimilation of fluid flows**|M. Quattromini et.al.|[2411.09476](http://arxiv.org/abs/2411.09476)|null|
 |**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389](http://arxiv.org/abs/2411.09389)|null|
 |**2024-11-14**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting**|Weilin Ruan et.al.|[2411.09251](http://arxiv.org/abs/2411.09251)|null|
