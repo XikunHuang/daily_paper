@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4901,7 +4901,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534](http://arxiv.org/abs/2411.13534)|null|
 |**2024-11-20**|**Advancing Heatwave Forecasting via Distribution Informed-Graph Neural Networks (DI-GNNs): Integrating Extreme Value Theory with GNNs**|Farrukh A. Chishtie et.al.|[2411.13496](http://arxiv.org/abs/2411.13496)|null|
-|**2024-11-20**|**Predicting Wall Thickness Changes in Cold Forging Processes: An Integrated FEM and Neural Network approach**|Sasa Ilic et.al.|[2411.13366](http://arxiv.org/abs/2411.13366)|null|
+|**2024-11-21**|**Predicting Wall Thickness Changes in Cold Forging Processes: An Integrated FEM and Neural Network approach**|Sasa Ilic et.al.|[2411.13366](http://arxiv.org/abs/2411.13366)|null|
 |**2024-11-20**|**Unbiased Scene Graph Generation by Type-Aware Message Passing on Heterogeneous and Dual Graphs**|Guanglu Sun et.al.|[2411.13287](http://arxiv.org/abs/2411.13287)|null|
 |**2024-11-20**|**Domain Adaptive Unfolded Graph Neural Networks**|Zepeng Zhang et.al.|[2411.13137](http://arxiv.org/abs/2411.13137)|null|
 |**2024-11-20**|**Towards Unbiased and Robust Spatio-Temporal Scene Graph Generation and Anticipation**|Rohith Peddi et.al.|[2411.13059](http://arxiv.org/abs/2411.13059)|null|
