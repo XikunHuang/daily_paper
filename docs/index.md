@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Perturbation Ontology based Graph Attention Networks**|Yichen Wang et.al.|[2411.18520](http://arxiv.org/abs/2411.18520)|null|
+|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|null|
+|**2024-11-27**|**HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation**|Trong-Thuan Nguyen et.al.|[2411.18042](http://arxiv.org/abs/2411.18042)|null|
+|**2024-11-27**|**Causal and Local Correlations Based Network for Multivariate Time Series Classification**|Mingsen Du et.al.|[2411.18008](http://arxiv.org/abs/2411.18008)|null|
+|**2024-11-27**|**Graph Neural Network for Cerebral Blood Flow Prediction With Clinical Datasets**|Seungyeon Kim et.al.|[2411.17971](http://arxiv.org/abs/2411.17971)|null|
+|**2024-11-26**|**Spatio-temporal Causal Learning for Streamflow Forecasting**|Shu Wan et.al.|[2411.17937](http://arxiv.org/abs/2411.17937)|null|
+|**2024-11-26**|**GNN 101: Visual Learning of Graph Neural Networks in Your Web Browser**|Yilin Lu et.al.|[2411.17849](http://arxiv.org/abs/2411.17849)|null|
 |**2024-11-26**|**Instance-Aware Graph Prompt Learning**|Jiazheng Li et.al.|[2411.17676](http://arxiv.org/abs/2411.17676)|null|
 |**2024-11-26**|**A Graph Neural Network deep-dive into successful counterattacks**|Joris Bekkers et.al.|[2411.17450](http://arxiv.org/abs/2411.17450)|null|
 |**2024-11-26**|**Rewiring Techniques to Mitigate Oversquashing and Oversmoothing in GNNs: A Survey**|Hugo Attali et.al.|[2411.17429](http://arxiv.org/abs/2411.17429)|null|
