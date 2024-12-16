@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Shape error prediction in 5-axis machining using graph neural networks**|Julia Huuk et.al.|[2412.10341](http://arxiv.org/abs/2412.10341)|null|
+|**2024-12-13**|**A Novel Framework Using Deep Reinforcement Learning for Join Order Selection**|Chang Liu et.al.|[2412.10253](http://arxiv.org/abs/2412.10253)|null|
+|**2024-12-13**|**Keep It Simple: Towards Accurate Vulnerability Detection for Large Code Graphs**|Xin Peng et.al.|[2412.10164](http://arxiv.org/abs/2412.10164)|null|
+|**2024-12-13**|**Can LLMs Convert Graphs to Text-Attributed Graphs?**|Zehong Wang et.al.|[2412.10136](http://arxiv.org/abs/2412.10136)|**[link](https://github.com/zehong-wang/tans)**|
+|**2024-12-13**|**Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective**|Yuchen Fang et.al.|[2412.09972](http://arxiv.org/abs/2412.09972)|**[link](https://github.com/lmissher/patchstg)**|
+|**2024-12-13**|**GraSP: Simple yet Effective Graph Similarity Predictions**|Haoran Zheng et.al.|[2412.09968](http://arxiv.org/abs/2412.09968)|**[link](https://github.com/HaoranZ99/GraSP)**|
+|**2024-12-13**|**Towards Fair Graph Neural Networks via Graph Counterfactual without Sensitive Attributes**|Xuemin Wang et.al.|[2412.09947](http://arxiv.org/abs/2412.09947)|null|
+|**2024-12-13**|**Brain-inspired Chaotic Graph Backpropagation for Large-scale Combinatorial Optimization**|Peng Tao et.al.|[2412.09860](http://arxiv.org/abs/2412.09860)|null|
+|**2024-12-13**|**Universal Inceptive GNNs by Eliminating the Smoothness-generalization Dilemma**|Ming Gu et.al.|[2412.09805](http://arxiv.org/abs/2412.09805)|null|
+|**2024-12-12**|**TransferLight: Zero-Shot Traffic Signal Control on any Road-Network**|Johann Schmidt et.al.|[2412.09719](http://arxiv.org/abs/2412.09719)|null|
 |**2024-12-12**|**Search Strategy Generation for Branch and Bound Using Genetic Programming**|Gwen Maudet et.al.|[2412.09444](http://arxiv.org/abs/2412.09444)|null|
 |**2024-12-12**|**Opinion de-polarization of social networks with GNNs**|Konstantinos Mylonas et.al.|[2412.09404](http://arxiv.org/abs/2412.09404)|null|
 |**2024-12-12**|**Hybrid variable spiking graph neural networks for energy-efficient scientific machine learning**|Isha Jain et.al.|[2412.09379](http://arxiv.org/abs/2412.09379)|null|
