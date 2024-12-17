@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4903,7 +4903,7 @@ layout: default
 |**2024-12-13**|**A Novel Framework Using Deep Reinforcement Learning for Join Order Selection**|Chang Liu et.al.|[2412.10253](http://arxiv.org/abs/2412.10253)|null|
 |**2024-12-13**|**Keep It Simple: Towards Accurate Vulnerability Detection for Large Code Graphs**|Xin Peng et.al.|[2412.10164](http://arxiv.org/abs/2412.10164)|null|
 |**2024-12-13**|**Can LLMs Convert Graphs to Text-Attributed Graphs?**|Zehong Wang et.al.|[2412.10136](http://arxiv.org/abs/2412.10136)|**[link](https://github.com/zehong-wang/tans)**|
-|**2024-12-13**|**Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective**|Yuchen Fang et.al.|[2412.09972](http://arxiv.org/abs/2412.09972)|**[link](https://github.com/lmissher/patchstg)**|
+|**2024-12-13**|**Efficient Large-Scale Traffic Forecasting with Transformers: A Spatial Data Management Perspective**|Yuchen Fang et.al.|[2412.09972](http://arxiv.org/abs/2412.09972)|null|
 |**2024-12-13**|**GraSP: Simple yet Effective Graph Similarity Predictions**|Haoran Zheng et.al.|[2412.09968](http://arxiv.org/abs/2412.09968)|**[link](https://github.com/HaoranZ99/GraSP)**|
 |**2024-12-13**|**Towards Fair Graph Neural Networks via Graph Counterfactual without Sensitive Attributes**|Xuemin Wang et.al.|[2412.09947](http://arxiv.org/abs/2412.09947)|null|
 |**2024-12-13**|**Brain-inspired Chaotic Graph Backpropagation for Large-scale Combinatorial Optimization**|Peng Tao et.al.|[2412.09860](http://arxiv.org/abs/2412.09860)|null|
