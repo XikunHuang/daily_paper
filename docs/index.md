@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.18
+## Updated on 2024.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4903,7 +4903,7 @@ layout: default
 |**2024-12-17**|**Towards Effective Graph Rationalization via Boosting Environment Diversity**|Yujie Wang et.al.|[2412.12880](http://arxiv.org/abs/2412.12880)|null|
 |**2024-12-17**|**RA-SGG: Retrieval-Augmented Scene Graph Generation Framework via Multi-Prototype Learning**|Kanghoon Yoon et.al.|[2412.12788](http://arxiv.org/abs/2412.12788)|**[link](https://github.com/KanghoonYoon/torch-rasgg)**|
 |**2024-12-17**|**A Multigrid Graph U-Net Framework for Simulating Multiphase Flow in Heterogeneous Porous Media**|Jiamin Jiang et.al.|[2412.12757](http://arxiv.org/abs/2412.12757)|null|
-|**2024-12-17**|**AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks**|Shibing Mo et.al.|[2412.12483](http://arxiv.org/abs/2412.12483)|**[link](https://github.com/Explorermomo/AAAI2025-AutoSGNN)**|
+|**2024-12-18**|**AutoSGNN: Automatic Propagation Mechanism Discovery for Spectral Graph Neural Networks**|Shibing Mo et.al.|[2412.12483](http://arxiv.org/abs/2412.12483)|**[link](https://github.com/Explorermomo/AAAI2025-AutoSGNN)**|
 |**2024-12-17**|**Graph Learning in the Era of LLMs: A Survey from the Perspective of Data, Models, and Tasks**|Xunkai Li et.al.|[2412.12456](http://arxiv.org/abs/2412.12456)|null|
 |**2024-12-17**|**GG-SSMs: Graph-Generating State Space Models**|Nikola Zubić et.al.|[2412.12423](http://arxiv.org/abs/2412.12423)|null|
 |**2024-12-16**|**DeepSN: A Sheaf Neural Framework for Influence Maximization**|Asela Hevapathige et.al.|[2412.12416](http://arxiv.org/abs/2412.12416)|null|
