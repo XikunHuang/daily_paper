@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063](http://arxiv.org/abs/2412.15063)|null|
+|**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
+|**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738](http://arxiv.org/abs/2412.14738)|null|
+|**2024-12-19**|**IOHunter: Graph Foundation Model to Uncover Online Information Operations**|Marco Minici et.al.|[2412.14663](http://arxiv.org/abs/2412.14663)|null|
+|**2024-12-19**|**Trainable Adaptive Activation Function Structure (TAAFS) Enhances Neural Network Force Field Performance with Only Dozens of Additional Parameters**|Enji Li et.al.|[2412.14655](http://arxiv.org/abs/2412.14655)|null|
+|**2024-12-19**|**Towards Scalable and Deep Graph Neural Networks via Noise Masking**|Yuxuan Liang et.al.|[2412.14602](http://arxiv.org/abs/2412.14602)|null|
+|**2024-12-18**|**Towards Precise Prediction Uncertainty in GNNs: Refining GNNs with Topology-grouping Strategy**|Hyunjin Seo et.al.|[2412.14223](http://arxiv.org/abs/2412.14223)|null|
 |**2024-12-18**|**Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach**|Arshia Zolghadr et.al.|[2412.14119](http://arxiv.org/abs/2412.14119)|null|
 |**2024-12-18**|**Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation**|Jun Hu et.al.|[2412.13994](http://arxiv.org/abs/2412.13994)|**[link](https://github.com/crawlscript/mig-gt)**|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
