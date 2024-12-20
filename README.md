@@ -1,4 +1,4 @@
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1545,7 +1545,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 
 ## GNN
 
@@ -2438,7 +2438,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4905,7 +4905,7 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 
 ## Graph
 
@@ -4914,7 +4914,7 @@
 |**2024-12-18**|**Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach**|Arshia Zolghadr et.al.|[2412.14119](http://arxiv.org/abs/2412.14119)|null|
 |**2024-12-18**|**Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation**|Jun Hu et.al.|[2412.13994](http://arxiv.org/abs/2412.13994)|**[link](https://github.com/crawlscript/mig-gt)**|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
-|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|null|
+|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|**[link](https://github.com/malayp717/pm2.5)**|
 |**2024-12-18**|**Graph Coarsening via Supervised Granular-Ball for Scalable Graph Neural Network Training**|Shuyin Xia et.al.|[2412.13842](http://arxiv.org/abs/2412.13842)|null|
 |**2024-12-17**|**Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach**|Konstantin Zaitsev et.al.|[2412.13283](http://arxiv.org/abs/2412.13283)|null|
 |**2024-12-17**|**Enhancing Internet of Things Security throughSelf-Supervised Graph Neural Networks**|Safa Ben Atitallah et.al.|[2412.13240](http://arxiv.org/abs/2412.13240)|null|
@@ -5907,5 +5907,5 @@
 |**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 
-<p align=right>(<a href=#Updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241220>back to top</a>)</p>
 

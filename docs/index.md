@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4902,7 +4902,7 @@ layout: default
 |**2024-12-18**|**Learning and Reconstructing Conflicts in O-RAN: A Graph Neural Network Approach**|Arshia Zolghadr et.al.|[2412.14119](http://arxiv.org/abs/2412.14119)|null|
 |**2024-12-18**|**Modality-Independent Graph Neural Networks with Global Transformers for Multimodal Recommendation**|Jun Hu et.al.|[2412.13994](http://arxiv.org/abs/2412.13994)|**[link](https://github.com/crawlscript/mig-gt)**|
 |**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
-|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|null|
+|**2024-12-18**|**Spatio-Temporal Forecasting of PM2.5 via Spatial-Diffusion guided Encoder-Decoder Architecture**|Malay Pandey et.al.|[2412.13935](http://arxiv.org/abs/2412.13935)|**[link](https://github.com/malayp717/pm2.5)**|
 |**2024-12-18**|**Graph Coarsening via Supervised Granular-Ball for Scalable Graph Neural Network Training**|Shuyin Xia et.al.|[2412.13842](http://arxiv.org/abs/2412.13842)|null|
 |**2024-12-17**|**Enhancing Persona Classification in Dialogue Systems: A Graph Neural Network Approach**|Konstantin Zaitsev et.al.|[2412.13283](http://arxiv.org/abs/2412.13283)|null|
 |**2024-12-17**|**Enhancing Internet of Things Security throughSelf-Supervised Graph Neural Networks**|Safa Ben Atitallah et.al.|[2412.13240](http://arxiv.org/abs/2412.13240)|null|
