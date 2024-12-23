@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Astrometric constraints on stochastic gravitational wave background with neural networks**|Marienza Caldarola et.al.|[2412.15879](http://arxiv.org/abs/2412.15879)|null|
+|**2024-12-20**|**GraphSeqLM: A Unified Graph Language Framework for Omic Graph Learning**|Heming Zhang et.al.|[2412.15790](http://arxiv.org/abs/2412.15790)|null|
+|**2024-12-20**|**Prompt-based Unifying Inference Attack on Graph Neural Networks**|Yuecen Wei et.al.|[2412.15735](http://arxiv.org/abs/2412.15735)|**[link](https://github.com/ringbdstack/proia)**|
+|**2024-12-20**|**Pre-training Graph Neural Networks on Molecules by Using Subgraph-Conditioned Graph Information Bottleneck**|Van Thuy Hoang et.al.|[2412.15589](http://arxiv.org/abs/2412.15589)|null|
+|**2024-12-20**|**A Deep Probabilistic Framework for Continuous Time Dynamic Graph Generation**|Ryien Hosseini et.al.|[2412.15582](http://arxiv.org/abs/2412.15582)|null|
+|**2024-12-19**|**Investigating Relational State Abstraction in Collaborative MARL**|Sharlin Utke et.al.|[2412.15388](http://arxiv.org/abs/2412.15388)|**[link](https://github.com/gmontana/collaborativepickandplaceenv)**|
+|**2024-12-19**|**Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification**|Zijie Zhou et.al.|[2412.15302](http://arxiv.org/abs/2412.15302)|**[link](https://github.com/Dodo-D-Caster/Tokenphormer)**|
 |**2024-12-19**|**Graph-neural-network predictions of solid-state NMR parameters from spherical tensor decomposition**|Chiheb Ben Mahmoud et.al.|[2412.15063](http://arxiv.org/abs/2412.15063)|null|
 |**2024-12-19**|**Answer Set Networks: Casting Answer Set Programming into Deep Learning**|Arseny Skryagin et.al.|[2412.14814](http://arxiv.org/abs/2412.14814)|null|
 |**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738](http://arxiv.org/abs/2412.14738)|null|
