@@ -4911,6 +4911,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**A Probabilistic Model for Node Classification in Directed Graphs**|Diego Huerta et.al.|[2501.01630](http://arxiv.org/abs/2501.01630)|null|
 |**2025-01-02**|**HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation**|Runsong Jia et.al.|[2501.01203](http://arxiv.org/abs/2501.01203)|null|
 |**2025-01-02**|**Graph Generative Pre-trained Transformer**|Xiaohui Chen et.al.|[2501.01073](http://arxiv.org/abs/2501.01073)|null|
 |**2025-01-01**|**Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**|Haoyang Li et.al.|[2501.00773](http://arxiv.org/abs/2501.00773)|null|
