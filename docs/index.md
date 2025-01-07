@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4903,8 +4903,8 @@ layout: default
 |**2025-01-02**|**HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation**|Runsong Jia et.al.|[2501.01203](http://arxiv.org/abs/2501.01203)|null|
 |**2025-01-02**|**Graph Generative Pre-trained Transformer**|Xiaohui Chen et.al.|[2501.01073](http://arxiv.org/abs/2501.01073)|null|
 |**2025-01-01**|**Revisiting Graph Neural Networks on Graph-level Tasks: Comprehensive Experiments, Analysis, and Improvements**|Haoyang Li et.al.|[2501.00773](http://arxiv.org/abs/2501.00773)|null|
-|**2025-01-01**|**Avoiding Oversmoothing in Deep Graph Neural Networks: A Multiplicative Ergodic Analysis**|Ziang Chen et.al.|[2501.00762](http://arxiv.org/abs/2501.00762)|null|
-|**2025-01-01**|**AttriReBoost: A Gradient-Free Propagation Optimization Method for Cold Start Mitigation in Attribute Missing Graphs**|Mengran Li et.al.|[2501.00743](http://arxiv.org/abs/2501.00743)|null|
+|**2025-01-04**|**Residual connections provably mitigate oversmoothing in graph neural networks**|Ziang Chen et.al.|[2501.00762](http://arxiv.org/abs/2501.00762)|null|
+|**2025-01-01**|**AttriReBoost: A Gradient-Free Propagation Optimization Method for Cold Start Mitigation in Attribute Missing Graphs**|Mengran Li et.al.|[2501.00743](http://arxiv.org/abs/2501.00743)|**[link](https://github.com/limengran98/arb)**|
 |**2025-01-01**|**KAN KAN Buff Signed Graph Neural Networks?**|Muhieddine Shebaro et.al.|[2501.00709](http://arxiv.org/abs/2501.00709)|null|
 |**2024-12-31**|**Hierarchical equivariant graph neural networks for forecasting collective motion in vortex clusters and microswimmers**|Alec J. Linot et.al.|[2501.00626](http://arxiv.org/abs/2501.00626)|null|
 |**2024-12-31**|**Unbiased GNN Learning via Fairness-Aware Subgraph Diffusion**|Abdullah Alchihabi et.al.|[2501.00595](http://arxiv.org/abs/2501.00595)|null|
