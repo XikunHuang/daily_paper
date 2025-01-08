@@ -4911,6 +4911,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**GraphNeT 2.0 -- A Deep Learning Library for Neutrino Telescopes**|Rasmus F. Ørsøe et.al.|[2501.03817](http://arxiv.org/abs/2501.03817)|null|
+|**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765](http://arxiv.org/abs/2501.03765)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
+|**2025-01-07**|**Exploring Molecule Generation Using Latent Space Graph Diffusion**|Prashanth Pombala et.al.|[2501.03696](http://arxiv.org/abs/2501.03696)|**[link](https://github.com/prashanth-pombala/molecule-generation-using-latent-space-graph-diffusion)**|
+|**2025-01-07**|**MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction**|Mei Wu et.al.|[2501.03635](http://arxiv.org/abs/2501.03635)|**[link](https://github.com/meiwu5/mhgnet)**|
+|**2025-01-07**|**Deep Learning for Pathological Speech: A Survey**|Shakeel A. Sheikh et.al.|[2501.03536](http://arxiv.org/abs/2501.03536)|null|
+|**2025-01-07**|**LHGNN: Local-Higher Order Graph Neural Networks For Audio Classification and Tagging**|Shubhr Singh et.al.|[2501.03464](http://arxiv.org/abs/2501.03464)|null|
+|**2025-01-06**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432](http://arxiv.org/abs/2501.03432)|null|
 |**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
 |**2025-01-06**|**Balancing Efficiency and Expressiveness: Subgraph GNNs with Walk-Based Centrality**|Joshua Southern et.al.|[2501.03113](http://arxiv.org/abs/2501.03113)|null|
 |**2025-01-07**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahar et.al.|[2501.02981](http://arxiv.org/abs/2501.02981)|null|
