@@ -4899,6 +4899,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Discovery of Spin-Crossover Candidates with Equivariant Graph Neural Networks**|Angel Albavera-Mata et.al.|[2501.05341](http://arxiv.org/abs/2501.05341)|null|
+|**2025-01-09**|**Vision Graph Non-Contrastive Learning for Audio Deepfake Detection with Limited Labels**|Falih Gozi Febrinanto et.al.|[2501.04942](http://arxiv.org/abs/2501.04942)|null|
+|**2025-01-08**|**Intelligent experiments through real-time AI: Fast Data Processing and Autonomous Detector Control for sPHENIX and future EIC detectors**|J. Kvapil et.al.|[2501.04845](http://arxiv.org/abs/2501.04845)|null|
 |**2025-01-08**|**Large-Scale Spectral Graph Neural Networks via Laplacian Sparsification: Technical Report**|Haipeng Ding et.al.|[2501.04570](http://arxiv.org/abs/2501.04570)|null|
 |**2025-01-09**|**Dynamic Localisation of Spatial-Temporal Graph Neural Network**|Wenying Duan et.al.|[2501.04239](http://arxiv.org/abs/2501.04239)|null|
 |**2025-01-07**|**GraphNeT 2.0 -- A Deep Learning Library for Neutrino Telescopes**|Rasmus F. Ørsøe et.al.|[2501.03817](http://arxiv.org/abs/2501.03817)|null|
