@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Advancing Higgsino Searches by Integrating ML for Boosted Object Tagging and Event Selection**|Rameswar Sahu et.al.|[2501.07491](http://arxiv.org/abs/2501.07491)|null|
+|**2025-01-13**|**Dynami-CAL GraphNet: A Physics-Informed Graph Neural Network Conserving Linear and Angular Momentum for Dynamical Systems**|Vinay Sharma et.al.|[2501.07373](http://arxiv.org/abs/2501.07373)|null|
+|**2025-01-13**|**Generalizable Graph Neural Networks for Robust Power Grid Topology Control**|Matthijs de Jong et.al.|[2501.07186](http://arxiv.org/abs/2501.07186)|null|
+|**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114](http://arxiv.org/abs/2501.07114)|null|
+|**2025-01-13**|**Graph Contrastive Learning on Multi-label Classification for Recommendations**|Jiayang Wu et.al.|[2501.06985](http://arxiv.org/abs/2501.06985)|null|
+|**2025-01-11**|**Dual-Modality Representation Learning for Molecular Property Prediction**|Anyin Zhao et.al.|[2501.06608](http://arxiv.org/abs/2501.06608)|null|
+|**2025-01-11**|**On the Computational Capability of Graph Neural Networks: A Circuit Complexity Bound Perspective**|Xiaoyu Li et.al.|[2501.06444](http://arxiv.org/abs/2501.06444)|null|
 |**2025-01-10**|**Efficient Transition State Searches by Freezing String Method with Graph Neural Network Potentials**|Jonah Marks et.al.|[2501.06159](http://arxiv.org/abs/2501.06159)|null|
 |**2025-01-10**|**DeltaGNN: Graph Neural Network with Information Flow Control**|Kevin Mancini et.al.|[2501.06002](http://arxiv.org/abs/2501.06002)|**[link](https://github.com/basiralab/deltagnn)**|
 |**2025-01-10**|**Annealing Machine-assisted Learning of Graph Neural Network for Combinatorial Optimization**|Pablo Loyola et.al.|[2501.05845](http://arxiv.org/abs/2501.05845)|null|
