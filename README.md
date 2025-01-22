@@ -4911,6 +4911,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications**|Eugenio Borzone et.al.|[2501.12309](http://arxiv.org/abs/2501.12309)|null|
+|**2025-01-21**|**SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology**|Dongli Wu et.al.|[2501.12169](http://arxiv.org/abs/2501.12169)|null|
+|**2025-01-21**|**Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation**|Yang Wang et.al.|[2501.11870](http://arxiv.org/abs/2501.11870)|**[link](https://github.com/htyjers/c2f-metaembed)**|
+|**2025-01-20**|**Leveraging graph neural networks and mobility data for COVID-19 forecasting**|Fernando H. O. Duarte et.al.|[2501.11711](http://arxiv.org/abs/2501.11711)|null|
+|**2025-01-20**|**Graph Defense Diffusion Model**|Xin He et.al.|[2501.11568](http://arxiv.org/abs/2501.11568)|null|
+|**2025-01-20**|**Advancing Multi-Party Dialogue Systems with Speaker-ware Contrastive Learning**|Zhongtian Hu et.al.|[2501.11292](http://arxiv.org/abs/2501.11292)|null|
+|**2025-01-20**|**Spatiotemporal Air Quality Mapping in Urban Areas Using Sparse Sensor Data, Satellite Imagery, Meteorological Factors, and Spatial Features**|Osama Ahmad et.al.|[2501.11270](http://arxiv.org/abs/2501.11270)|null|
+|**2025-01-20**|**Fast instance-specific algorithm configuration with graph neural network**|Shingo Aihara et.al.|[2501.11240](http://arxiv.org/abs/2501.11240)|null|
+|**2025-01-20**|**Mitigating Spatial Disparity in Urban Prediction Using Residual-Aware Spatiotemporal Graph Neural Networks: A Chicago Case Study**|Dingyi Zhuang et.al.|[2501.11214](http://arxiv.org/abs/2501.11214)|null|
+|**2025-01-19**|**Achieving Network Resilience through Graph Neural Network-enabled Deep Reinforcement Learning**|Xuzeng Li et.al.|[2501.11074](http://arxiv.org/abs/2501.11074)|null|
 |**2025-01-17**|**Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks**|Michael Schwingshackl et.al.|[2501.10080](http://arxiv.org/abs/2501.10080)|**[link](https://github.com/ait-assistive-autonomous-systems/hopomop)**|
 |**2025-01-17**|**Virtual Nodes Improve Long-term Traffic Prediction**|Xiaoyang Cao et.al.|[2501.10048](http://arxiv.org/abs/2501.10048)|null|
 |**2025-01-17**|**Study on a Fast Solver for Combined Field Integral Equations of 3D Conducting Bodies Based on Graph Neural Networks**|Tao Shan et.al.|[2501.09923](http://arxiv.org/abs/2501.09923)|**[link](https://github.com/iemcs-lab/gnnsolver-cfie)**|
