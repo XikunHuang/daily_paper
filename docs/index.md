@@ -4899,6 +4899,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Channel Estimation for XL-MIMO Systems with Decentralized Baseband Processing: Integrating Local Reconstruction with Global Refinement**|Anzheng Tang et.al.|[2501.17059](http://arxiv.org/abs/2501.17059)|null|
+|**2025-01-28**|**Few Edges Are Enough: Few-Shot Network Attack Detection with Graph Neural Networks**|Tristan Bilot et.al.|[2501.16964](http://arxiv.org/abs/2501.16964)|null|
+|**2025-01-28**|**Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks**|Fabian Fumagalli et.al.|[2501.16944](http://arxiv.org/abs/2501.16944)|null|
+|**2025-01-28**|**Dynamic Hypergraph Representation for Bone Metastasis Cancer Analysis**|Yuxuan Chen et.al.|[2501.16787](http://arxiv.org/abs/2501.16787)|null|
+|**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722](http://arxiv.org/abs/2501.16722)|null|
+|**2025-01-28**|**Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook**|Jiawei Xue et.al.|[2501.16656](http://arxiv.org/abs/2501.16656)|null|
+|**2025-01-28**|**Applying Ensemble Models based on Graph Neural Network and Reinforcement Learning for Wind Power Forecasting**|Hongjin Song et.al.|[2501.16591](http://arxiv.org/abs/2501.16591)|null|
+|**2025-01-27**|**Evaluating the Impact of Detector Design on Jet Flavor Tagging for Future Colliders**|Dimitrios Ntounis et.al.|[2501.16584](http://arxiv.org/abs/2501.16584)|null|
 |**2025-01-27**|**Graph Neural Network Based Hybrid Beamforming Design in Wideband Terahertz MIMO-OFDM Systems**|Beier Li et.al.|[2501.16306](http://arxiv.org/abs/2501.16306)|null|
 |**2025-01-27**|**From Molecules to Mixtures: Learning Representations of Olfactory Mixture Similarity using Inductive Biases**|Gary Tom et.al.|[2501.16271](http://arxiv.org/abs/2501.16271)|null|
 |**2025-01-27**|**ReFill: Reinforcement Learning for Fill-In Minimization**|Elfarouk Harb et.al.|[2501.16130](http://arxiv.org/abs/2501.16130)|null|
