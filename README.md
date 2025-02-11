@@ -4911,6 +4911,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**RelGNN: Composite Message Passing for Relational Deep Learning**|Tianlang Chen et.al.|[2502.06784](http://arxiv.org/abs/2502.06784)|null|
+|**2025-02-10**|**Prompt-Driven Continual Graph Learning**|Qi Wang et.al.|[2502.06327](http://arxiv.org/abs/2502.06327)|null|
+|**2025-02-10**|**IceBerg: Debiased Self-Training for Class-Imbalanced Node Classification**|Zhixun Li et.al.|[2502.06280](http://arxiv.org/abs/2502.06280)|null|
+|**2025-02-10**|**Graph Neural Networks at a Fraction**|Rucha Bhalchandra Joshi et.al.|[2502.06136](http://arxiv.org/abs/2502.06136)|null|
+|**2025-02-09**|**Norm Augmented Graph AutoEncoders for Link Prediction**|Yunhui Liu et.al.|[2502.05868](http://arxiv.org/abs/2502.05868)|null|
+|**2025-02-09**|**Learning Accurate, Efficient, and Interpretable MLPs on Multiplex Graphs via Node-wise Multi-View Ensemble Distillation**|Yunhui Liu et.al.|[2502.05864](http://arxiv.org/abs/2502.05864)|null|
+|**2025-02-09**|**LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification**|Shubham Kumar Nigam et.al.|[2502.05836](http://arxiv.org/abs/2502.05836)|null|
+|**2025-02-09**|**GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation**|Danny Wang et.al.|[2502.05780](http://arxiv.org/abs/2502.05780)|null|
+|**2025-02-08**|**Rethinking Link Prediction for Directed Graphs**|Mingguo He et.al.|[2502.05724](http://arxiv.org/abs/2502.05724)|null|
+|**2025-02-08**|**Graph Neural Networks for Efficient AC Power Flow Prediction in Power Grids**|Seyedamirhossein Talebi et.al.|[2502.05702](http://arxiv.org/abs/2502.05702)|null|
 |**2025-02-07**|**Graph Contrastive Learning for Connectome Classification**|Martín Schmidt et.al.|[2502.05109](http://arxiv.org/abs/2502.05109)|null|
 |**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000](http://arxiv.org/abs/2502.05000)|null|
 |**2025-02-07**|**GNNs Getting ComFy: Community and Feature Similarity Guided Rewiring**|Celia Rubio-Madrigal et.al.|[2502.04891](http://arxiv.org/abs/2502.04891)|null|
