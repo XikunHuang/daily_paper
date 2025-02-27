@@ -4911,6 +4911,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Preference-Based Gradient Estimation for ML-Based Approximate Combinatorial Optimization**|Arman Mielke et.al.|[2502.19377](http://arxiv.org/abs/2502.19377)|null|
+|**2025-02-26**|**GraphBridge: Towards Arbitrary Transfer Learning in GNNs**|Li Ju et.al.|[2502.19252](http://arxiv.org/abs/2502.19252)|null|
+|**2025-02-26**|**Multi-level Attention-guided Graph Neural Network for Image Restoration**|Jiatao Jiang et.al.|[2502.19181](http://arxiv.org/abs/2502.19181)|null|
+|**2025-02-26**|**Graph Neural Networks embedded into Margules model for vapor-liquid equilibria prediction**|Edgar Ivan Sanchez Medina et.al.|[2502.18998](http://arxiv.org/abs/2502.18998)|null|
+|**2025-02-26**|**SE(3)-Equivariant Ternary Complex Prediction Towards Target Protein Degradation**|Fanglei Xue et.al.|[2502.18875](http://arxiv.org/abs/2502.18875)|null|
+|**2025-02-26**|**TabGLM: Tabular Graph Language Model for Learning Transferable Representations Through Multi-Modal Consistency Minimization**|Anay Majee et.al.|[2502.18847](http://arxiv.org/abs/2502.18847)|null|
+|**2025-02-26**|**Exploring Graph Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation**|Yuxiang Wang et.al.|[2502.18771](http://arxiv.org/abs/2502.18771)|**[link](https://github.com/myflashbarry/LLM-benchmarking)**|
+|**2025-02-26**|**Robust Prediction of Frictional Contact Network in Near-Jamming Suspensions Employing Deep Graph Neural Networks**|Armin Aminimajd et.al.|[2502.18743](http://arxiv.org/abs/2502.18743)|null|
 |**2025-02-25**|**Graph Augmentation for Cross Graph Domain Generalization**|Guanzi Chen et.al.|[2502.18188](http://arxiv.org/abs/2502.18188)|null|
 |**2025-02-25**|**ExPath: Towards Explaining Targeted Pathways for Biological Knowledge Bases**|Rikuto Kotoge et.al.|[2502.18026](http://arxiv.org/abs/2502.18026)|null|
 |**2025-02-25**|**GNN-XAR: A Graph Neural Network for Explainable Activity Recognition in Smart Homes**|Michele Fiori et.al.|[2502.17999](http://arxiv.org/abs/2502.17999)|null|
