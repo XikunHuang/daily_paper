@@ -1,4 +1,4 @@
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1545,7 +1545,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## GNN
 
@@ -2438,7 +2438,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4905,7 +4905,7 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
 ## Graph
 
@@ -4919,8 +4919,8 @@
 |**2025-03-05**|**Opportunistic Routing in Wireless Communications via Learnable State-Augmented Policies**|Sourajit Das et.al.|[2503.03736](http://arxiv.org/abs/2503.03736)|null|
 |**2025-03-05**|**REGRACE: A Robust and Efficient Graph-based Re-localization Algorithm using Consistency Evaluation**|Débora N. P. Oliveira et.al.|[2503.03599](http://arxiv.org/abs/2503.03599)|null|
 |**2025-03-05**|**Mineral segmentation using electron microscope images and spectral sampling through multimodal graph neural networks**|Samuel Repka et.al.|[2503.03507](http://arxiv.org/abs/2503.03507)|null|
-|**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|null|
-|**2025-03-05**|**Leap: Inductive Link Prediction via Learnable TopologyAugmentation**|Ahmed E. Samy et.al.|[2503.03331](http://arxiv.org/abs/2503.03331)|null|
+|**2025-03-05**|**GNNMerge: Merging of GNN Models Without Accessing Training Data**|Vipul Garg et.al.|[2503.03384](http://arxiv.org/abs/2503.03384)|**[link](https://github.com/idea-iitd/gnnmerge)**|
+|**2025-03-05**|**Leap: Inductive Link Prediction via Learnable TopologyAugmentation**|Ahmed E. Samy et.al.|[2503.03331](http://arxiv.org/abs/2503.03331)|**[link](https://github.com/ahmedesamy/leap)**|
 |**2025-03-05**|**LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**|Xi Zhu et.al.|[2503.03313](http://arxiv.org/abs/2503.03313)|null|
 |**2025-03-05**|**Exploring the Potential of Large Language Models as Predictors in Dynamic Text-Attributed Graphs**|Runlin Lei et.al.|[2503.03258](http://arxiv.org/abs/2503.03258)|null|
 |**2025-03-05**|**Structural Entropy Guided Unsupervised Graph Out-Of-Distribution Detection**|Yue Hou et.al.|[2503.03241](http://arxiv.org/abs/2503.03241)|null|
@@ -6266,5 +6266,5 @@
 |**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 
-<p align=right>(<a href=#Updated-on-20250310>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250311>back to top</a>)</p>
 
