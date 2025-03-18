@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**SMPR: A structure-enhanced multimodal drug-disease prediction model for drug repositioning and cold start**|Xin Dong et.al.|[2503.13322](http://arxiv.org/abs/2503.13322)|null|
+|**2025-03-17**|**Graph Generative Models Evaluation with Masked Autoencoder**|Chengen Wang et.al.|[2503.13271](http://arxiv.org/abs/2503.13271)|null|
+|**2025-03-17**|**MIXPINN: Mixed-Material Simulations by Physics-Informed Neural Network**|Xintian Yuan et.al.|[2503.13123](http://arxiv.org/abs/2503.13123)|null|
+|**2025-03-17**|**TA-GNN: Physics Inspired Time-Agnostic Graph Neural Network for Finger Motion Prediction**|Tinghui Li et.al.|[2503.13034](http://arxiv.org/abs/2503.13034)|null|
+|**2025-03-16**|**GraphEval: A Lightweight Graph-Based LLM Framework for Idea Evaluation**|Tao Feng et.al.|[2503.12600](http://arxiv.org/abs/2503.12600)|null|
+|**2025-03-16**|**Diffusion on Graph: Augmentation of Graph Structure for Node Classification**|Yancheng Wang et.al.|[2503.12563](http://arxiv.org/abs/2503.12563)|null|
+|**2025-03-16**|**Learning Privacy from Visual Entities**|Alessio Xompero et.al.|[2503.12464](http://arxiv.org/abs/2503.12464)|null|
+|**2025-03-16**|**GCBLANE: A graph-enhanced convolutional BiLSTM attention network for improved transcription factor binding site prediction**|Jonas Chris Ferrao et.al.|[2503.12377](http://arxiv.org/abs/2503.12377)|null|
+|**2025-03-15**|**Unsupervised Graph Anomaly Detection via Multi-Hypersphere Heterophilic Graph Learning**|Hang Ni et.al.|[2503.12037](http://arxiv.org/abs/2503.12037)|null|
+|**2025-03-15**|**Diffusion Dynamics Models with Generative State Estimation for Cloth Manipulation**|Tongxuan Tian et.al.|[2503.11999](http://arxiv.org/abs/2503.11999)|null|
 |**2025-03-14**|**Enhanced Soups for Graph Neural Networks**|Joseph Zuber et.al.|[2503.11612](http://arxiv.org/abs/2503.11612)|null|
 |**2025-03-14**|**GNNs as Predictors of Agentic Workflow Performances**|Yuanshuo Zhang et.al.|[2503.11301](http://arxiv.org/abs/2503.11301)|null|
 |**2025-03-14**|**Power-Aware Scheduling for Multi-Center HPC Electricity Cost Optimization**|Abrar Hossain et.al.|[2503.11011](http://arxiv.org/abs/2503.11011)|null|
