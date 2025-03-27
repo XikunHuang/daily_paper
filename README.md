@@ -1,4 +1,4 @@
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1545,7 +1545,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
 ## GNN
 
@@ -2438,7 +2438,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4905,20 +4905,20 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
 ## Graph
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-25**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666](http://arxiv.org/abs/2503.19666)|null|
+|**2025-03-26**|**Towards Efficient Training of Graph Neural Networks: A Multiscale Approach**|Eshed Gal et.al.|[2503.19666](http://arxiv.org/abs/2503.19666)|null|
 |**2025-03-25**|**Extracting Interpretable Logic Rules from Graph Neural Networks**|Chuqin Geng et.al.|[2503.19476](http://arxiv.org/abs/2503.19476)|null|
 |**2025-03-25**|**Causal invariant geographic network representations with feature and structural distribution shifts**|Yuhan Wang et.al.|[2503.19382](http://arxiv.org/abs/2503.19382)|null|
 |**2025-03-25**|**Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks**|Yiwei Zhang et.al.|[2503.19380](http://arxiv.org/abs/2503.19380)|null|
 |**2025-03-25**|**A Social Dynamical System for Twitter Analysis**|Zhiping Xiao et.al.|[2503.19316](http://arxiv.org/abs/2503.19316)|null|
 |**2025-03-25**|**Context-Aware Semantic Segmentation: Enhancing Pixel-Level Understanding with Large Language Models for Advanced Vision Applications**|Ben Rahman et.al.|[2503.19276](http://arxiv.org/abs/2503.19276)|null|
 |**2025-03-24**|**Graph neural networks extrapolate out-of-distribution for shortest paths**|Robert R. Nerem et.al.|[2503.19173](http://arxiv.org/abs/2503.19173)|null|
-|**2025-03-24**|**Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks**|Jiazhu Dai et.al.|[2503.19070](http://arxiv.org/abs/2503.19070)|null|
+|**2025-03-26**|**Graph-Level Label-Only Membership Inference Attack against Graph Neural Networks**|Jiazhu Dai et.al.|[2503.19070](http://arxiv.org/abs/2503.19070)|null|
 |**2025-03-24**|**Multi-Physics Inverse Design of Varifocal Optical Devices using Data-Driven Surrogates and Differential Modeling**|Zeqing Jin et.al.|[2503.18911](http://arxiv.org/abs/2503.18911)|null|
 |**2025-03-24**|**Energy-Efficient Dynamic Training and Inference for GNN-Based Network Modeling**|Chetna Singhal et.al.|[2503.18706](http://arxiv.org/abs/2503.18706)|null|
 |**2025-03-24**|**Predicting airfoil pressure distribution using boundary graph neural networks**|Sankalp Jena et.al.|[2503.18638](http://arxiv.org/abs/2503.18638)|null|
@@ -6352,5 +6352,5 @@
 |**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 
-<p align=right>(<a href=#Updated-on-20250326>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250327>back to top</a>)</p>
 
