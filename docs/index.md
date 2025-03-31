@@ -4899,6 +4899,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Comparing Methods for Bias Mitigation in Graph Neural Networks**|Barbara Hoffmann et.al.|[2503.22569](http://arxiv.org/abs/2503.22569)|null|
+|**2025-03-28**|**Graphs generated from minimal sets of finite point-set topologies**|Ketai Chen et.al.|[2503.22490](http://arxiv.org/abs/2503.22490)|null|
+|**2025-03-28**|**CFiCS: Graph-Based Classification of Common Factors and Microcounseling Skills**|Fabian Schmidt et.al.|[2503.22277](http://arxiv.org/abs/2503.22277)|null|
+|**2025-03-28**|**Data-driven modeling of fluid flow around rotating structures with graph neural networks**|Rui Gao et.al.|[2503.22252](http://arxiv.org/abs/2503.22252)|null|
+|**2025-03-28**|**Few-Shot Graph Out-of-Distribution Detection with LLMs**|Haoyan Xu et.al.|[2503.22097](http://arxiv.org/abs/2503.22097)|null|
+|**2025-03-27**|**Improving Equivariant Networks with Probabilistic Symmetry Breaking**|Hannah Lawrence et.al.|[2503.21985](http://arxiv.org/abs/2503.21985)|null|
 |**2025-03-27**|**A Comprehensive Benchmark for RNA 3D Structure-Function Modeling**|Luis Wyss et.al.|[2503.21681](http://arxiv.org/abs/2503.21681)|**[link](https://github.com/cgoliver/rnaglib)**|
 |**2025-03-27**|**Fusion of Graph Neural Networks via Optimal Transport**|Weronika Ormaniec et.al.|[2503.21579](http://arxiv.org/abs/2503.21579)|null|
 |**2025-03-27**|**CombiGCN: An effective GCN model for Recommender System**|Loc Tan Nguyen et.al.|[2503.21471](http://arxiv.org/abs/2503.21471)|null|
