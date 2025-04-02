@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4899,7 +4899,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305](http://arxiv.org/abs/2503.24305)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
+|**2025-04-01**|**Evaluating machine learning models for predicting pesticides toxicity to honey bees**|Jakub Adamczyk et.al.|[2503.24305](http://arxiv.org/abs/2503.24305)|**[link](https://github.com/j-adamczyk/apistox_bee_toxicity_ml_prediction)**|
 |**2025-03-31**|**Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review**|Bruno Deprez et.al.|[2503.24259](http://arxiv.org/abs/2503.24259)|null|
 |**2025-03-31**|**Traffic Engineering in Large-scale Networks with Generalizable Graph Neural Networks**|Fangtong Zhou et.al.|[2503.24203](http://arxiv.org/abs/2503.24203)|null|
 |**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130](http://arxiv.org/abs/2503.24130)|null|
