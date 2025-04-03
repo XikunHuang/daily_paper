@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4905,7 +4905,7 @@ layout: default
 |**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130](http://arxiv.org/abs/2503.24130)|null|
 |**2025-03-31**|**Inductive Graph Representation Learning with Quantum Graph Neural Networks**|Arthur M. Faria et.al.|[2503.24111](http://arxiv.org/abs/2503.24111)|null|
 |**2025-03-31**|**Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning**|Jiangjie Qiu et.al.|[2503.23766](http://arxiv.org/abs/2503.23766)|null|
-|**2025-03-31**|**GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs**|Priyanka Gautam et.al.|[2503.23713](http://arxiv.org/abs/2503.23713)|null|
+|**2025-03-31**|**GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs**|Priyanka Gautam et.al.|[2503.23713](http://arxiv.org/abs/2503.23713)|**[link](https://github.com/Priyankagautam08/DynamicGraphInfluenceMaximization-AAAI2025)**|
 |**2025-03-31**|**Predicting the von Neumann Entanglement Entropy Using a Graph Neural Network**|Anas Saleh et.al.|[2503.23635](http://arxiv.org/abs/2503.23635)|null|
 |**2025-03-30**|**Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting**|Fan-Keng Sun et.al.|[2503.23621](http://arxiv.org/abs/2503.23621)|null|
 |**2025-03-30**|**Graph-Eq: Discovering Mathematical Equations using Graph Generative Models**|Nisal Ranasinghe et.al.|[2503.23617](http://arxiv.org/abs/2503.23617)|null|

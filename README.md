@@ -1,4 +1,4 @@
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1545,7 +1545,7 @@
 |**2023-03-14**|**A Contrastive Knowledge Transfer Framework for Model Compression and Transfer Learning**|Kaiqi Zhao et.al.|[2303.07599](http://arxiv.org/abs/2303.07599)|**[link](https://github.com/kaiqi123/cktf)**|
 |**2023-03-13**|**Unsupervised HDR Image and Video Tone Mapping via Contrastive Learning**|Cong Cao et.al.|[2303.07327](http://arxiv.org/abs/2303.07327)|null|
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
 ## GNN
 
@@ -2438,7 +2438,7 @@
 |**2023-03-08**|**The Descriptive Complexity of Graph Neural Networks**|Martin Grohe et.al.|[2303.04613](http://arxiv.org/abs/2303.04613)|null|
 |**2023-03-08**|**Graph Neural Networks Enhanced Smart Contract Vulnerability Detection of Educational Blockchain**|Zhifeng Wang et.al.|[2303.04477](http://arxiv.org/abs/2303.04477)|null|
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
 ## Diffusion
 
@@ -4905,7 +4905,7 @@
 |**2023-05-03**|**Multimodal Data Augmentation for Image Captioning using Diffusion Models**|Changrong Xiao et.al.|[2305.01855](http://arxiv.org/abs/2305.01855)|**[link](https://github.com/xiaochr/multimodal-augmentation-image-captioning)**|
 |**2023-05-02**|**Unpaired Downscaling of Fluid Flows with Diffusion Bridges**|Tobias Bischoff et.al.|[2305.01822](http://arxiv.org/abs/2305.01822)|**[link](https://github.com/clima/diffusion-bridge-downscaling)**|
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
 ## Graph
 
@@ -4917,7 +4917,7 @@
 |**2025-03-31**|**Graph Neural Network-Based Predictive Modeling for Robotic Plaster Printing**|Diego Machain Rivera et.al.|[2503.24130](http://arxiv.org/abs/2503.24130)|null|
 |**2025-03-31**|**Inductive Graph Representation Learning with Quantum Graph Neural Networks**|Arthur M. Faria et.al.|[2503.24111](http://arxiv.org/abs/2503.24111)|null|
 |**2025-03-31**|**Accelerating High-Efficiency Organic Photovoltaic Discovery via Pretrained Graph Neural Networks and Generative Reinforcement Learning**|Jiangjie Qiu et.al.|[2503.23766](http://arxiv.org/abs/2503.23766)|null|
-|**2025-03-31**|**GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs**|Priyanka Gautam et.al.|[2503.23713](http://arxiv.org/abs/2503.23713)|null|
+|**2025-03-31**|**GNN-Based Candidate Node Predictor for Influence Maximization in Temporal Graphs**|Priyanka Gautam et.al.|[2503.23713](http://arxiv.org/abs/2503.23713)|**[link](https://github.com/Priyankagautam08/DynamicGraphInfluenceMaximization-AAAI2025)**|
 |**2025-03-31**|**Predicting the von Neumann Entanglement Entropy Using a Graph Neural Network**|Anas Saleh et.al.|[2503.23635](http://arxiv.org/abs/2503.23635)|null|
 |**2025-03-30**|**Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting**|Fan-Keng Sun et.al.|[2503.23621](http://arxiv.org/abs/2503.23621)|null|
 |**2025-03-30**|**Graph-Eq: Discovering Mathematical Equations using Graph Generative Models**|Nisal Ranasinghe et.al.|[2503.23617](http://arxiv.org/abs/2503.23617)|null|
@@ -6381,5 +6381,5 @@
 |**2024-06-03**|**In-Context Learning of Physical Properties: Few-Shot Adaptation to Out-of-Distribution Molecular Graphs**|Grzegorz Kaszuba et.al.|[2406.01808](http://arxiv.org/abs/2406.01808)|null|
 |**2024-06-03**|**AIFS - ECMWF's data-driven forecasting system**|Simon Lang et.al.|[2406.01465](http://arxiv.org/abs/2406.01465)|null|
 
-<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
 
