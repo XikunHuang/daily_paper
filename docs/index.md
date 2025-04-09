@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction**|Zongyue Qin et.al.|[2504.06193](http://arxiv.org/abs/2504.06193)|null|
+|**2025-04-08**|**Comparative Analysis of Classical and Quantum-Inspired Solvers: A Preliminary Study on the Weighted Max-Cut Problem**|Aitor Morais et.al.|[2504.05989](http://arxiv.org/abs/2504.05989)|null|
+|**2025-04-08**|**PRIMEDrive-CoT: A Precognitive Chain-of-Thought Framework for Uncertainty-Aware Object Interaction in Driving Scene Scenario**|Sriram Mandalika et.al.|[2504.05908](http://arxiv.org/abs/2504.05908)|null|
+|**2025-04-08**|**Adaptive Substructure-Aware Expert Model for Molecular Property Prediction**|Tianyi Jiang et.al.|[2504.05844](http://arxiv.org/abs/2504.05844)|null|
+|**2025-04-07**|**Graph Neural Networks for Enhancing Ensemble Forecasts of Extreme Rainfall**|Christopher Bülte et.al.|[2504.05471](http://arxiv.org/abs/2504.05471)|null|
+|**2025-04-07**|**GraphPINE: Graph Importance Propagation for Interpretable Drug Response Prediction**|Yoshitaka Inoue et.al.|[2504.05454](http://arxiv.org/abs/2504.05454)|null|
+|**2025-04-07**|**A Novel Approach to Linking Histology Images with DNA Methylation**|Manahil Raza et.al.|[2504.05403](http://arxiv.org/abs/2504.05403)|null|
 |**2025-04-07**|**Unifying Physics- and Data-Driven Modeling via Novel Causal Spatiotemporal Graph Neural Network for Interpretable Epidemic Forecasting**|Shuai Han et.al.|[2504.05140](http://arxiv.org/abs/2504.05140)|null|
 |**2025-04-07**|**AsyReC: A Multimodal Graph-based Framework for Spatio-Temporal Asymmetric Dyadic Relationship Classification**|Wang Tang et.al.|[2504.05030](http://arxiv.org/abs/2504.05030)|null|
 |**2025-04-07**|**Fine tuning generative adversarial networks with universal force fields: application to two-dimensional topological insulators**|Alexander C. Tyner et.al.|[2504.04940](http://arxiv.org/abs/2504.04940)|null|
