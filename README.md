@@ -4911,6 +4911,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Hypergraph Vision Transformers: Images are More than Nodes, More than Edges**|Joshua Fixelle et.al.|[2504.08710](http://arxiv.org/abs/2504.08710)|null|
+|**2025-04-11**|**LGRPool: Hierarchical Graph Pooling Via Local-Global Regularisation**|Farshad Noravesh et.al.|[2504.08530](http://arxiv.org/abs/2504.08530)|null|
+|**2025-04-11**|**Graph Reduction with Unsupervised Learning in Column Generation: A Routing Application**|Abdo Abouelrous et.al.|[2504.08401](http://arxiv.org/abs/2504.08401)|null|
+|**2025-04-11**|**Graph Based Deep Reinforcement Learning Aided by Transformers for Multi-Agent Cooperation**|Michael Elrod et.al.|[2504.08195](http://arxiv.org/abs/2504.08195)|null|
+|**2025-04-11**|**Detecting Credit Card Fraud via Heterogeneous Graph Neural Networks with Graph Attention**|Qiuwu Sha et.al.|[2504.08183](http://arxiv.org/abs/2504.08183)|null|
+|**2025-04-10**|**Communication-Efficient Cooperative Localization: A Graph Neural Network Approach**|Yinan Zou et.al.|[2504.08135](http://arxiv.org/abs/2504.08135)|null|
+|**2025-04-10**|**Scaling Laws of Graph Neural Networks for Atomistic Materials Modeling**|Chaojian Li et.al.|[2504.08112](http://arxiv.org/abs/2504.08112)|null|
 |**2025-04-10**|**Trading Graph Neural Network**|Xian Wu et.al.|[2504.07923](http://arxiv.org/abs/2504.07923)|null|
 |**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867](http://arxiv.org/abs/2504.07867)|null|
 |**2025-04-10**|**Harnessing Equivariance: Modeling Turbulence with Graph Neural Networks**|Marius Kurz et.al.|[2504.07741](http://arxiv.org/abs/2504.07741)|null|
