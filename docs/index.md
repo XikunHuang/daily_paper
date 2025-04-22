@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4902,10 +4902,10 @@ layout: default
 |**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786](http://arxiv.org/abs/2504.13786)|null|
 |**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
 |**2025-04-18**|**Multi-modal Knowledge Graph Generation with Semantics-enriched Prompts**|Yajing Xu et.al.|[2504.13631](http://arxiv.org/abs/2504.13631)|null|
-|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|null|
+|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|**[link](https://github.com/zahraakhlaghi/alda4rec)**|
 |**2025-04-18**|**ViG3D-UNet: Volumetric Vascular Connectivity-Aware Segmentation via 3D Vision Graph Representation**|Bowen Liu et.al.|[2504.13599](http://arxiv.org/abs/2504.13599)|null|
 |**2025-04-18**|**Bounded and Uniform Energy-based Out-of-distribution Detection for Graphs**|Shenzhi Yang et.al.|[2504.13429](http://arxiv.org/abs/2504.13429)|null|
-|**2025-04-17**|**Graph Learning at Scale: Characterizing and Optimizing Pre-Propagation GNNs**|Zichao Yue et.al.|[2504.13266](http://arxiv.org/abs/2504.13266)|null|
+|**2025-04-17**|**Graph Learning at Scale: Characterizing and Optimizing Pre-Propagation GNNs**|Zichao Yue et.al.|[2504.13266](http://arxiv.org/abs/2504.13266)|**[link](https://github.com/cornell-zhang/preprop-gnn)**|
 |**2025-04-17**|**Inference-friendly Graph Compression for Graph Neural Networks**|Yangxin Fan et.al.|[2504.13034](http://arxiv.org/abs/2504.13034)|null|
 |**2025-04-17**|**Explainable Scene Understanding with Qualitative Representations and Graph Neural Networks**|Nassim Belmecheri et.al.|[2504.12817](http://arxiv.org/abs/2504.12817)|null|
 |**2025-04-17**|**Uncertainty Quantification in Graph Neural Networks with Shallow Ensembles**|Tirtha Vinchurkar et.al.|[2504.12627](http://arxiv.org/abs/2504.12627)|null|
