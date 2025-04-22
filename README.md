@@ -4911,6 +4911,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147](http://arxiv.org/abs/2504.15147)|null|
+|**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075](http://arxiv.org/abs/2504.15075)|null|
+|**2025-04-21**|**Rhythm of Opinion: A Hawkes-Graph Framework for Dynamic Propagation Analysis**|Yulong Li et.al.|[2504.15072](http://arxiv.org/abs/2504.15072)|null|
+|**2025-04-21**|**Edge-boosted graph learning for functional brain connectivity analysis**|David Yang et.al.|[2504.14796](http://arxiv.org/abs/2504.14796)|null|
+|**2025-04-20**|**Uncovering Issues in the Radio Access Network by Looking at the Neighbors**|José Suárez-Varela et.al.|[2504.14686](http://arxiv.org/abs/2504.14686)|null|
+|**2025-04-20**|**LBM-GNN: Graph Neural Network Enhanced Lattice Boltzmann Method**|Yue Li et.al.|[2504.14494](http://arxiv.org/abs/2504.14494)|null|
+|**2025-04-20**|**Beamforming Design and Association Scheme for Multi-RIS Multi-User mmWave Systems Through Graph Neural Networks**|Mengbing Liu et.al.|[2504.14464](http://arxiv.org/abs/2504.14464)|null|
+|**2025-04-19**|**Integrating Single-Cell Foundation Models with Graph Neural Networks for Drug Response Prediction**|Till Rossner et.al.|[2504.14361](http://arxiv.org/abs/2504.14361)|null|
+|**2025-04-19**|**CHAINSFORMER: Numerical Reasoning on Knowledge Graphs from a Chain Perspective**|Ze Zhao et.al.|[2504.14282](http://arxiv.org/abs/2504.14282)|null|
+|**2025-04-19**|**Dual-channel Heterophilic Message Passing for Graph Fraud Detection**|Wenxin Zhang et.al.|[2504.14205](http://arxiv.org/abs/2504.14205)|null|
 |**2025-04-18**|**On the Relationship Between Robustness and Expressivity of Graph Neural Networks**|Lorenz Kummer et.al.|[2504.13786](http://arxiv.org/abs/2504.13786)|null|
 |**2025-04-18**|**Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems**|Vinay Sharma et.al.|[2504.13768](http://arxiv.org/abs/2504.13768)|null|
 |**2025-04-18**|**Multi-modal Knowledge Graph Generation with Semantics-enriched Prompts**|Yajing Xu et.al.|[2504.13631](http://arxiv.org/abs/2504.13631)|null|
