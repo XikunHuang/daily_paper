@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4899,6 +4899,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Differentiable graph neural network simulator for forward and inverse modeling of multi-layered slope system with multiple material properties**|Yongjin Choi et.al.|[2504.15938](http://arxiv.org/abs/2504.15938)|null|
+|**2025-04-22**|**ScaleGNN: Towards Scalable Graph Neural Networks via Adaptive High-order Neighboring Feature Fusion**|Xiang Li et.al.|[2504.15920](http://arxiv.org/abs/2504.15920)|null|
+|**2025-04-22**|**GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network**|Wenjing Xiao et.al.|[2504.15905](http://arxiv.org/abs/2504.15905)|null|
+|**2025-04-22**|**RiskNet: Interaction-Aware Risk Forecasting for Autonomous Driving in Long-Tail Scenarios**|Qichao Liu et.al.|[2504.15541](http://arxiv.org/abs/2504.15541)|null|
+|**2025-04-21**|**Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports**|Jiseon Kim et.al.|[2504.15333](http://arxiv.org/abs/2504.15333)|null|
 |**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147](http://arxiv.org/abs/2504.15147)|null|
 |**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075](http://arxiv.org/abs/2504.15075)|null|
 |**2025-04-21**|**Rhythm of Opinion: A Hawkes-Graph Framework for Dynamic Propagation Analysis**|Yulong Li et.al.|[2504.15072](http://arxiv.org/abs/2504.15072)|null|
