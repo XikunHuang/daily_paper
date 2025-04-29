@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Graph Neural Network Prediction of Nonlinear Optical Properties**|Yomn Alkabakibi et.al.|[2504.19987](http://arxiv.org/abs/2504.19987)|null|
+|**2025-04-28**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820](http://arxiv.org/abs/2504.19820)|null|
+|**2025-04-28**|**Heterophily-informed Message Passing**|Haishan Wang et.al.|[2504.19785](http://arxiv.org/abs/2504.19785)|null|
+|**2025-04-28**|**Learning Efficiency Meets Symmetry Breaking**|Yingbin Bai et.al.|[2504.19738](http://arxiv.org/abs/2504.19738)|null|
+|**2025-04-28**|**Explaining Vision GNNs: A Semantic and Visual Analysis of Graph-based Image Classification**|Nikolaos Chaidos et.al.|[2504.19682](http://arxiv.org/abs/2504.19682)|null|
+|**2025-04-28**|**Intelligent4DSE: Optimizing High-Level Synthesis Design Space Exploration with Graph Neural Networks and Large Language Models**|Lei Xu et.al.|[2504.19649](http://arxiv.org/abs/2504.19649)|null|
+|**2025-04-28**|**A Universal Spin-Orbit-Coupled Hamiltonian Model for Accelerated Quantum Material Discovery**|Yang Zhong et.al.|[2504.19586](http://arxiv.org/abs/2504.19586)|null|
+|**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
+|**2025-04-26**|**HeartSimSage: Attention-Enhanced Graph Neural Networks for Accelerating Cardiac Mechanics Modeling**|Lei Shi et.al.|[2504.18968](http://arxiv.org/abs/2504.18968)|null|
+|**2025-04-26**|**Kinship Verification through a Forest Neural Network**|Ali Nazari et.al.|[2504.18910](http://arxiv.org/abs/2504.18910)|null|
 |**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353](http://arxiv.org/abs/2504.18353)|null|
 |**2025-04-25**|**Efficient Learning on Large Graphs using a Densifying Regularity Lemma**|Jonathan Kouchly et.al.|[2504.18273](http://arxiv.org/abs/2504.18273)|null|
 |**2025-04-25**|**Efficient GNN Training Through Structure-Aware Randomized Mini-Batching**|Vignesh Balaji et.al.|[2504.18082](http://arxiv.org/abs/2504.18082)|null|
