@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Dual Explanations via Subgraph Matching for Malware Detection**|Hossein Shokouhinejad et.al.|[2504.20904](http://arxiv.org/abs/2504.20904)|null|
+|**2025-04-29**|**Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**|Junyuan Fang et.al.|[2504.20869](http://arxiv.org/abs/2504.20869)|null|
+|**2025-04-29**|**Mitigating the Structural Bias in Graph Adversarial Defenses**|Junyuan Fang et.al.|[2504.20848](http://arxiv.org/abs/2504.20848)|null|
+|**2025-04-29**|**DB-GNN: Dual-Branch Graph Neural Network with Multi-Level Contrastive Learning for Jointly Identifying Within- and Cross-Frequency Coupled Brain Networks**|Xiang Wang et.al.|[2504.20744](http://arxiv.org/abs/2504.20744)|null|
+|**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
+|**2025-04-29**|**SFi-Former: Sparse Flow Induced Attention for Graph Transformer**|Zhonghao Li et.al.|[2504.20666](http://arxiv.org/abs/2504.20666)|null|
+|**2025-04-29**|**Triadic Closure-Heterogeneity-Harmony GCN for Link Prediction**|Ke-ke Shang et.al.|[2504.20492](http://arxiv.org/abs/2504.20492)|null|
+|**2025-04-29**|**Understanding GNNs and Homophily in Dynamic Node Classification**|Michael Ito et.al.|[2504.20421](http://arxiv.org/abs/2504.20421)|null|
+|**2025-04-29**|**Skill Discovery for Software Scripting Automation via Offline Simulations with LLMs**|Paiheng Xu et.al.|[2504.20406](http://arxiv.org/abs/2504.20406)|null|
+|**2025-04-28**|**Generative Diffusion Models for Resource Allocation in Wireless Networks**|Yigit Berkay Uslu et.al.|[2504.20277](http://arxiv.org/abs/2504.20277)|null|
 |**2025-04-28**|**Graph Neural Network Prediction of Nonlinear Optical Properties**|Yomn Alkabakibi et.al.|[2504.19987](http://arxiv.org/abs/2504.19987)|null|
 |**2025-04-28**|**Hierarchical Uncertainty-Aware Graph Neural Network**|Yoonhyuk Choi et.al.|[2504.19820](http://arxiv.org/abs/2504.19820)|null|
 |**2025-04-28**|**Heterophily-informed Message Passing**|Haishan Wang et.al.|[2504.19785](http://arxiv.org/abs/2504.19785)|null|
