@@ -4899,6 +4899,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction**|Liu Junchi et.al.|[2505.00625](http://arxiv.org/abs/2505.00625)|**[link](https://github.com/MustBeOne/SA-GAT-SR)**|
+|**2025-05-01**|**TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching**|Yue Meng et.al.|[2505.00562](http://arxiv.org/abs/2505.00562)|null|
+|**2025-05-01**|**DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions**|Jinhui Yi et.al.|[2505.00402](http://arxiv.org/abs/2505.00402)|null|
+|**2025-05-01**|**From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**|Jie Yang et.al.|[2505.00364](http://arxiv.org/abs/2505.00364)|null|
+|**2025-05-01**|**Repetition Makes Perfect: Recurrent Sum-GNNs Match Message Passing Limit**|Eran Rosenbluth et.al.|[2505.00291](http://arxiv.org/abs/2505.00291)|null|
+|**2025-05-01**|**Graph Privacy: A Heterogeneous Federated GNN for Trans-Border Financial Data Circulation**|Zhizhong Tan et.al.|[2505.00257](http://arxiv.org/abs/2505.00257)|null|
 |**2025-04-30**|**Scalable Multi-Task Learning for Particle Collision Event Reconstruction with Heterogeneous Graph Neural Networks**|William Sutcliffe et.al.|[2504.21844](http://arxiv.org/abs/2504.21844)|null|
 |**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
 |**2025-04-30**|**ABG-NAS: Adaptive Bayesian Genetic Neural Architecture Search for Graph Representation Learning**|Sixuan Wang et.al.|[2504.21254](http://arxiv.org/abs/2504.21254)|null|
