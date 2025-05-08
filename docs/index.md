@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4899,12 +4899,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424](http://arxiv.org/abs/2505.03424)|null|
+|**2025-05-06**|**Framework GNN-AID: Graph Neural Network Analysis Interpretation and Defense**|Kirill Lukyanov et.al.|[2505.03424](http://arxiv.org/abs/2505.03424)|**[link](https://github.com/ispras/gnn-aid)**|
 |**2025-05-06**|**GNN-enabled Precoding for Massive MIMO LEO Satellite Communications**|Huibin Zhou et.al.|[2505.03311](http://arxiv.org/abs/2505.03311)|null|
 |**2025-05-06**|**HMAE: Self-Supervised Few-Shot Learning for Quantum Spin Systems**|Ibne Farabi Shihab et.al.|[2505.03140](http://arxiv.org/abs/2505.03140)|null|
 |**2025-05-06**|**HCOA*: Hierarchical Class-ordered A* for Navigation in Semantic Environments**|Evangelos Psomiadis et.al.|[2505.03128](http://arxiv.org/abs/2505.03128)|null|
 |**2025-05-06**|**STG: Spatiotemporal Graph Neural Network with Fusion and Spatiotemporal Decoupling Learning for Prognostic Prediction of Colorectal Cancer Liver Metastasis**|Yiran Zhu et.al.|[2505.03123](http://arxiv.org/abs/2505.03123)|null|
-|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712](http://arxiv.org/abs/2505.02712)|null|
+|**2025-05-05**|**Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks: The GATTACA Framework**|Andrzej Mizera et.al.|[2505.02712](http://arxiv.org/abs/2505.02712)|**[link](https://github.com/jakub-zarzycki2022/gattaca)**|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
 |**2025-05-05**|**Rethinking Federated Graph Learning: A Data Condensation Perspective**|Hao Zhang et.al.|[2505.02573](http://arxiv.org/abs/2505.02573)|null|
 |**2025-05-05**|**Robustness questions the interpretability of graph neural networks: what to do?**|Kirill Lukyanov et.al.|[2505.02566](http://arxiv.org/abs/2505.02566)|null|
