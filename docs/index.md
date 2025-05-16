@@ -4899,6 +4899,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Schreier-Coset Graph Propagation**|Aryan Mishra et.al.|[2505.10392](http://arxiv.org/abs/2505.10392)|null|
+|**2025-05-15**|**Context-aware collaborative pushing of heavy objects using skeleton-based intention prediction**|Gokhan Solak et.al.|[2505.10239](http://arxiv.org/abs/2505.10239)|null|
+|**2025-05-15**|**Instance-Prototype Affinity Learning for Non-Exemplar Continual Graph Learning**|Lei Song et.al.|[2505.10040](http://arxiv.org/abs/2505.10040)|null|
 |**2025-05-14**|**Rhomboid Tiling for Geometric Graph Deep Learning**|Yipeng Zhang et.al.|[2505.09586](http://arxiv.org/abs/2505.09586)|null|
 |**2025-05-14**|**Efficient Mixed Precision Quantization in Graph Neural Networks**|Samir Moustafa et.al.|[2505.09361](http://arxiv.org/abs/2505.09361)|**[link](https://github.com/samirmoustafa/mixq)**|
 |**2025-05-14**|**Quotient Complex Transformer (QCformer) for Perovskite Data Analysis**|Xinyu You et.al.|[2505.09174](http://arxiv.org/abs/2505.09174)|null|
