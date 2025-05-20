@@ -4911,6 +4911,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings**|Adrien Lagesse et.al.|[2505.13087](http://arxiv.org/abs/2505.13087)|null|
+|**2025-05-19**|**Power Allocation for Delay Optimization in Device-to-Device Networks: A Graph Reinforcement Learning Approach**|Hao Fang et.al.|[2505.12902](http://arxiv.org/abs/2505.12902)|null|
+|**2025-05-19**|**AdS-GNN -- a Conformally Equivariant Graph Neural Network**|Maksim Zhdanov et.al.|[2505.12880](http://arxiv.org/abs/2505.12880)|null|
+|**2025-05-19**|**Pave Your Own Path: Graph Gradual Domain Adaptation on Fused Gromov-Wasserstein Geodesics**|Zhichen Zeng et.al.|[2505.12709](http://arxiv.org/abs/2505.12709)|null|
+|**2025-05-19**|**scSiameseClu: A Siamese Clustering Framework for Interpreting single-cell RNA Sequencing Data**|Ping Xu et.al.|[2505.12626](http://arxiv.org/abs/2505.12626)|null|
+|**2025-05-19**|**Adaptive Graph Unlearning**|Pengfei Ding et.al.|[2505.12614](http://arxiv.org/abs/2505.12614)|null|
+|**2025-05-18**|**LM $^2$ otifs : An Explainable Framework for Machine-Generated Texts Detection**|Xu Zheng et.al.|[2505.12507](http://arxiv.org/abs/2505.12507)|null|
+|**2025-05-18**|**Addressing the Scarcity of Benchmarks for Graph XAI**|Michele Fontanesi et.al.|[2505.12437](http://arxiv.org/abs/2505.12437)|null|
+|**2025-05-18**|**It Takes a Graph to Know a Graph: Rewiring for Homophily with a Reference Graph**|Harel Mendelman et.al.|[2505.12411](http://arxiv.org/abs/2505.12411)|null|
+|**2025-05-18**|**LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization**|Hailong Luo et.al.|[2505.12396](http://arxiv.org/abs/2505.12396)|null|
 |**2025-05-16**|**Finding Counterfactual Evidences for Node Classification**|Dazhuo Qiu et.al.|[2505.11396](http://arxiv.org/abs/2505.11396)|null|
 |**2025-05-16**|**What Can We Learn From MIMO Graph Convolutions?**|Andreas Roth et.al.|[2505.11346](http://arxiv.org/abs/2505.11346)|null|
 |**2025-05-16**|**The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework**|Jincheng Huang et.al.|[2505.11335](http://arxiv.org/abs/2505.11335)|null|
