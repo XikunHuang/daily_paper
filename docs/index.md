@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4899,7 +4899,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
+|**2025-05-29**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
 |**2025-05-28**|**Geometric GNNs for Charged Particle Tracking at GlueX**|Ahmed Hossam Mohammed et.al.|[2505.22504](http://arxiv.org/abs/2505.22504)|null|
 |**2025-05-28**|**Forecasting Multivariate Urban Data via Decomposition and Spatio-Temporal Graph Analysis**|Amirhossein Sohrabbeig et.al.|[2505.22474](http://arxiv.org/abs/2505.22474)|null|
 |**2025-05-28**|**Directed Homophily-Aware Graph Neural Network**|Aihu Zhang et.al.|[2505.22362](http://arxiv.org/abs/2505.22362)|null|
