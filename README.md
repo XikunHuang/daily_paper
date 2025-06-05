@@ -4911,6 +4911,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations**|Paul Fuchs et.al.|[2506.04055](http://arxiv.org/abs/2506.04055)|null|
+|**2025-06-04**|**Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win**|Lorenz Kummer et.al.|[2506.03919](http://arxiv.org/abs/2506.03919)|null|
+|**2025-06-04**|**Graph Neural Networks for Resource Allocation in Multi-Channel Wireless Networks**|Lili Chen et.al.|[2506.03813](http://arxiv.org/abs/2506.03813)|null|
+|**2025-06-04**|**DiagNet: Detecting Objects using Diagonal Constraints on Adjacency Matrix of Graph Neural Network**|Chong Hyun Lee et.al.|[2506.03571](http://arxiv.org/abs/2506.03571)|null|
+|**2025-06-04**|**Topology-Aware Graph Neural Network-based State Estimation for PMU-Unobservable Power Systems**|Shiva Moshtagh et.al.|[2506.03493](http://arxiv.org/abs/2506.03493)|null|
+|**2025-06-03**|**Geometric Visual Fusion Graph Neural Networks for Multi-Person Human-Object Interaction Recognition in Videos**|Tanqiu Qiao et.al.|[2506.03440](http://arxiv.org/abs/2506.03440)|null|
+|**2025-06-03**|**Physics and Computing Performance of the EggNet Tracking Pipeline**|Jay Chan et.al.|[2506.03415](http://arxiv.org/abs/2506.03415)|null|
 |**2025-06-03**|**How Explanations Leak the Decision Logic: Stealing Graph Neural Networks via Explanation Alignment**|Bin Ma et.al.|[2506.03087](http://arxiv.org/abs/2506.03087)|null|
 |**2025-06-03**|**Understanding Stability Mechanisms in Single-Atom Alloys with Theory-infused Deep Learning**|Yang Huang et.al.|[2506.03031](http://arxiv.org/abs/2506.03031)|null|
 |**2025-06-03**|**Sheaves Reloaded: A Directional Awakening**|Stefano Fiorini et.al.|[2506.02842](http://arxiv.org/abs/2506.02842)|null|
