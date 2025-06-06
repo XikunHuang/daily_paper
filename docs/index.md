@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Joint Beamforming and Integer User Association using a GNN with Gumbel-Softmax Reparameterizations**|Qing Lyu et.al.|[2506.05241](http://arxiv.org/abs/2506.05241)|null|
+|**2025-06-05**|**Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning**|Jingyu Hu et.al.|[2506.05214](http://arxiv.org/abs/2506.05214)|null|
+|**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
+|**2025-06-05**|**Influence Functions for Edge Edits in Non-Convex Graph Neural Networks**|Jaeseung Heo et.al.|[2506.04694](http://arxiv.org/abs/2506.04694)|null|
+|**2025-06-05**|**The Oversmoothing Fallacy: A Misguided Narrative in GNN Research**|MoonJeong Park et.al.|[2506.04653](http://arxiv.org/abs/2506.04653)|null|
+|**2025-06-05**|**Ignoring Directionality Leads to Compromised Graph Neural Network Explanations**|Changsheng Sun et.al.|[2506.04608](http://arxiv.org/abs/2506.04608)|null|
+|**2025-06-04**|**SF $^2$ Bench: Evaluating Data-Driven Models for Compound Flood Forecasting in South Florida**|Xu Zheng et.al.|[2506.04281](http://arxiv.org/abs/2506.04281)|null|
 |**2025-06-04**|**chemtrain-deploy: A parallel and scalable framework for machine learning potentials in million-atom MD simulations**|Paul Fuchs et.al.|[2506.04055](http://arxiv.org/abs/2506.04055)|null|
 |**2025-06-04**|**Weisfeiler and Leman Go Gambling: Why Expressive Lottery Tickets Win**|Lorenz Kummer et.al.|[2506.03919](http://arxiv.org/abs/2506.03919)|null|
 |**2025-06-04**|**Graph Neural Networks for Resource Allocation in Multi-Channel Wireless Networks**|Lili Chen et.al.|[2506.03813](http://arxiv.org/abs/2506.03813)|null|
