@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Residual Reweighted Conformal Prediction for Graph Neural Networks**|Zheng Zhang et.al.|[2506.07854](http://arxiv.org/abs/2506.07854)|null|
+|**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
+|**2025-06-09**|**HeTa: Relation-wise Heterogeneous Graph Foundation Attack Model**|Yuling Wang et.al.|[2506.07428](http://arxiv.org/abs/2506.07428)|null|
+|**2025-06-08**|**GGBall: Graph Generative Model on Poincaré Ball**|Tianci Bu et.al.|[2506.07198](http://arxiv.org/abs/2506.07198)|null|
+|**2025-06-08**|**Efficient Text-Attributed Graph Learning through Selective Annotation and Graph Alignment**|Huanyi Xie et.al.|[2506.07168](http://arxiv.org/abs/2506.07168)|null|
+|**2025-06-08**|**MAGNet: A Multi-Scale Attention-Guided Graph Fusion Network for DRC Violation Detection**|Weihan Lu et.al.|[2506.07126](http://arxiv.org/abs/2506.07126)|null|
+|**2025-06-07**|**Graph-Based Physics-Guided Urban PM2.5 Air Quality Imputation with Constrained Monitoring Data**|Shangjie Du et.al.|[2506.06917](http://arxiv.org/abs/2506.06917)|null|
+|**2025-06-07**|**Graph Neural Networks in Modern AI-aided Drug Discovery**|Odin Zhang et.al.|[2506.06915](http://arxiv.org/abs/2506.06915)|null|
+|**2025-06-07**|**Uncertainty Estimation on Graphs with Structure Informed Stochastic Partial Differential Equations**|Fred Xu et.al.|[2506.06907](http://arxiv.org/abs/2506.06907)|null|
+|**2025-06-07**|**FuncGNN: Learning Functional Semantics of Logic Circuits with Graph Neural Networks**|Qiyun Zhao et.al.|[2506.06787](http://arxiv.org/abs/2506.06787)|null|
 |**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226](http://arxiv.org/abs/2506.06226)|null|
 |**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157](http://arxiv.org/abs/2506.06157)|null|
 |**2025-06-06**|**Flow-Attentional Graph Neural Networks**|Pascal Plettenberg et.al.|[2506.06127](http://arxiv.org/abs/2506.06127)|null|
