@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4908,7 +4908,7 @@ layout: default
 |**2025-06-15**|**KCLNet: Physics-Informed Power Flow Prediction via Constraints Projections**|Pantelis Dogoulis et.al.|[2506.12902](http://arxiv.org/abs/2506.12902)|null|
 |**2025-06-15**|**Large Scalable Cross-Domain Graph Neural Networks for Personalized Notification at LinkedIn**|Shihai He et.al.|[2506.12700](http://arxiv.org/abs/2506.12700)|null|
 |**2025-06-14**|**RAW-Explainer: Post-hoc Explanations of Graph Neural Networks on Knowledge Graphs**|Ryoji Kubo et.al.|[2506.12558](http://arxiv.org/abs/2506.12558)|null|
-|**2025-06-14**|**Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark**|Suyeon Kim et.al.|[2506.12468](http://arxiv.org/abs/2506.12468)|null|
+|**2025-06-17**|**Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark**|Suyeon Kim et.al.|[2506.12468](http://arxiv.org/abs/2506.12468)|null|
 |**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869](http://arxiv.org/abs/2506.11869)|null|
 |**2025-06-13**|**Taxonomy of reduction matrices for Graph Coarsening**|Antonin Joly et.al.|[2506.11743](http://arxiv.org/abs/2506.11743)|null|
 |**2025-06-13**|**Relational GNNs Cannot Learn $C_2$ Features for Planning**|Dillon Z. Chen et.al.|[2506.11721](http://arxiv.org/abs/2506.11721)|null|
