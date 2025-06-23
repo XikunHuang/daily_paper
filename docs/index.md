@@ -4899,6 +4899,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|null|
+|**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790](http://arxiv.org/abs/2506.16790)|null|
+|**2025-06-19**|**SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics**|Siddharth Viswanath et.al.|[2506.16602](http://arxiv.org/abs/2506.16602)|null|
+|**2025-06-19**|**Geometric Learning in Black-Box Optimization: A GNN Framework for Algorithm Performance Prediction**|Ana Kostovska et.al.|[2506.16144](http://arxiv.org/abs/2506.16144)|null|
+|**2025-06-19**|**Mitigating Over-Squashing in Graph Neural Networks by Spectrum-Preserving Sparsification**|Langzhang Liang et.al.|[2506.16110](http://arxiv.org/abs/2506.16110)|null|
+|**2025-06-19**|**Unveiling defect motifs in amorphous GeSe using machine learning interatomic potentials**|Minseok Moon et.al.|[2506.15934](http://arxiv.org/abs/2506.15934)|null|
+|**2025-06-18**|**KG-FGNN: Knowledge-guided GNN Foundation Model for Fertilisation-oriented Soil GHG Flux Prediction**|Yu Zhang et.al.|[2506.15896](http://arxiv.org/abs/2506.15896)|null|
 |**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652](http://arxiv.org/abs/2506.15652)|null|
 |**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507](http://arxiv.org/abs/2506.15507)|null|
 |**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289](http://arxiv.org/abs/2506.15289)|null|
