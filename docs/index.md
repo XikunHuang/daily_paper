@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4902,7 +4902,7 @@ layout: default
 |**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652](http://arxiv.org/abs/2506.15652)|null|
 |**2025-06-18**|**Over-squashing in Spatiotemporal Graph Neural Networks**|Ivan Marisca et.al.|[2506.15507](http://arxiv.org/abs/2506.15507)|null|
 |**2025-06-18**|**DOVA-PATBM: An Intelligent, Adaptive, and Scalable Framework for Optimizing Large-Scale EV Charging Infrastructure**|Chuan Li et.al.|[2506.15289](http://arxiv.org/abs/2506.15289)|null|
-|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|**[link](https://github.com/chymaera96/neuralsampleid)**|
+|**2025-06-20**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|**[link](https://github.com/chymaera96/neuralsampleid)**|
 |**2025-06-17**|**Automated Decision-Making on Networks with LLMs through Knowledge-Guided Evolution**|Xiaohan Zheng et.al.|[2506.14529](http://arxiv.org/abs/2506.14529)|null|
 |**2025-06-17**|**AST-Enhanced or AST-Overloaded? The Surprising Impact of Hybrid Graph Representations on Code Clone Detection**|Zixian Zhang et.al.|[2506.14470](http://arxiv.org/abs/2506.14470)|**[link](https://github.com/zixianreid/semantic_graph_code_code_clone)**|
 |**2025-06-17**|**Can Large Language Models Improve Spectral Graph Neural Networks?**|Kangkang Lu et.al.|[2506.14220](http://arxiv.org/abs/2506.14220)|null|
