@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Fast State-Augmented Learning for Wireless Resource Allocation with Dual Variable Regression**|Yigit Berkay Uslu et.al.|[2506.18748](http://arxiv.org/abs/2506.18748)|null|
+|**2025-06-23**|**SaGIF: Improving Individual Fairness in Graph Neural Networks via Similarity Encoding**|Yuchang Zhu et.al.|[2506.18696](http://arxiv.org/abs/2506.18696)|null|
+|**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525](http://arxiv.org/abs/2506.18525)|null|
+|**2025-06-23**|**Your Token Becomes Worthless: Unveiling Rug Pull Schemes in Crypto Token via Code-and-Transaction Fusion Analysis**|Hao Wu et.al.|[2506.18398](http://arxiv.org/abs/2506.18398)|null|
+|**2025-06-23**|**PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching**|Haotong Du et.al.|[2506.18382](http://arxiv.org/abs/2506.18382)|null|
+|**2025-06-23**|**Robot Tactile Gesture Recognition Based on Full-body Modular E-skin**|Shuo Jiang et.al.|[2506.18256](http://arxiv.org/abs/2506.18256)|null|
+|**2025-06-23**|**Multimodal Visual Image Based User Association and Beamforming Using Graph Neural Networks**|Yinghan Li et.al.|[2506.18218](http://arxiv.org/abs/2506.18218)|null|
+|**2025-06-22**|**Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks**|Masudul Hasan Masud Bhuiyan et.al.|[2506.18191](http://arxiv.org/abs/2506.18191)|null|
+|**2025-06-22**|**SliceGX: Layer-wise GNN Explanation with Model-slicing**|Tingting Zhu et.al.|[2506.17977](http://arxiv.org/abs/2506.17977)|null|
+|**2025-06-22**|**TROJAN-GUARD: Hardware Trojans Detection Using GNN in RTL Designs**|Kiran Thorat et.al.|[2506.17894](http://arxiv.org/abs/2506.17894)|null|
 |**2025-06-23**|**Generative Modeling of Full-Atom Protein Conformations using Latent Diffusion on Graph Embeddings**|Aditya Sengar et.al.|[2506.17064](http://arxiv.org/abs/2506.17064)|null|
 |**2025-06-20**|**Exploring and Improving Initialization for Deep Graph Neural Networks: A Signal Propagation Perspective**|Senmiao Wang et.al.|[2506.16790](http://arxiv.org/abs/2506.16790)|null|
 |**2025-06-19**|**SlepNet: Spectral Subgraph Representation Learning for Neural Dynamics**|Siddharth Viswanath et.al.|[2506.16602](http://arxiv.org/abs/2506.16602)|null|
