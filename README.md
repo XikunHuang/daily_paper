@@ -4911,6 +4911,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**CoATA: Effective Co-Augmentation of Topology and Attribute for Graph Neural Networks**|Tao Liu et.al.|[2506.22299](http://arxiv.org/abs/2506.22299)|null|
+|**2025-06-27**|**The Missing Link: Joint Legal Citation Prediction using Heterogeneous Graph Enrichment**|Lorenz Wendlinger et.al.|[2506.22165](http://arxiv.org/abs/2506.22165)|null|
+|**2025-06-27**|**Learning Distributed Safe Multi-Agent Navigation via Infinite-Horizon Optimal Graph Control**|Fenglan Wang et.al.|[2506.22117](http://arxiv.org/abs/2506.22117)|null|
+|**2025-06-27**|**Transformers are Graph Neural Networks**|Chaitanya K. Joshi et.al.|[2506.22084](http://arxiv.org/abs/2506.22084)|null|
+|**2025-06-27**|**Learning-Based Hybrid Neural Receiver for 6G-V2X Communications**|Osama Saleem et.al.|[2506.21983](http://arxiv.org/abs/2506.21983)|null|
+|**2025-06-26**|**Multi-task parallelism for robust pre-training of graph foundation models on multi-source, multi-fidelity atomistic modeling data**|Massimiliano Lupo Pasini et.al.|[2506.21788](http://arxiv.org/abs/2506.21788)|null|
+|**2025-06-26**|**Do We Really Need GNNs with Explicit Structural Modeling? MLPs Suffice for Language Model Representations**|Li Zhou et.al.|[2506.21682](http://arxiv.org/abs/2506.21682)|null|
 |**2025-06-26**|**Accelerating GNN Training through Locality-aware Dropout and Merge**|Gongjian Sun et.al.|[2506.21414](http://arxiv.org/abs/2506.21414)|null|
 |**2025-06-26**|**Temporal-Aware Graph Attention Network for Cryptocurrency Transaction Fraud Detection**|Zhi Zheng et.al.|[2506.21382](http://arxiv.org/abs/2506.21382)|null|
 |**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368](http://arxiv.org/abs/2506.21368)|null|
