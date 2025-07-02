@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4903,7 +4903,7 @@ layout: default
 |**2025-06-30**|**When GNNs Met a Word Equations Solver: Learning to Rank Equations (Extended Technical Report)**|Parosh Aziz Abdulla et.al.|[2506.23784](http://arxiv.org/abs/2506.23784)|null|
 |**2025-06-30**|**Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling**|Xiaoyang Li et.al.|[2506.23782](http://arxiv.org/abs/2506.23782)|null|
 |**2025-06-30**|**Graph Neural Networks to Predict Coercivity of Hard Magnetic Microstructures**|Heisam Moustafa et.al.|[2506.23615](http://arxiv.org/abs/2506.23615)|null|
-|**2025-06-29**|**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**|Suning Huang et.al.|[2506.23126](http://arxiv.org/abs/2506.23126)|null|
+|**2025-07-01**|**ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation**|Suning Huang et.al.|[2506.23126](http://arxiv.org/abs/2506.23126)|null|
 |**2025-06-29**|**Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction**|Hanlin Dong et.al.|[2506.23053](http://arxiv.org/abs/2506.23053)|null|
 |**2025-06-28**|**Prediction Gaps as Pathways to Explanation: Rethinking Educational Outcomes through Differences in Model Performance**|Javier Garcia-Bernardo et.al.|[2506.22993](http://arxiv.org/abs/2506.22993)|null|
 |**2025-06-28**|**Missing-Modality-Aware Graph Neural Network for Cancer Classification**|Sina Tabakhi et.al.|[2506.22901](http://arxiv.org/abs/2506.22901)|null|
