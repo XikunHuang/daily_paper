@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks**|Yukun Ma et.al.|[2507.01876](http://arxiv.org/abs/2507.01876)|null|
+|**2025-07-02**|**Direct Vertex Reconstruction of $Λ$ Baryons from Hits in CLAS12 using Graph Neural Networks**|Keegan Menkce et.al.|[2507.01868](http://arxiv.org/abs/2507.01868)|null|
+|**2025-07-02**|**MILP-SAT-GNN: Yet Another Neural SAT Solver**|Franco Alberto Cardillo et.al.|[2507.01825](http://arxiv.org/abs/2507.01825)|null|
+|**2025-07-01**|**Rotational Sampling: A Plug-and-Play Encoder for Rotation-Invariant 3D Molecular GNNs**|Dian Jin et.al.|[2507.01073](http://arxiv.org/abs/2507.01073)|null|
+|**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt et.al.|[2507.00937](http://arxiv.org/abs/2507.00937)|null|
+|**2025-07-01**|**Understanding Generalization in Node and Link Prediction**|Antonis Vasileiou et.al.|[2507.00927](http://arxiv.org/abs/2507.00927)|null|
+|**2025-07-01**|**NN-Former: Rethinking Graph Structure in Neural Architecture Representation**|Ruihan Xu et.al.|[2507.00880](http://arxiv.org/abs/2507.00880)|null|
+|**2025-07-01**|**Neural Augmented Kalman Filters for Road Network assisted GNSS positioning**|Hans van Gorp et.al.|[2507.00654](http://arxiv.org/abs/2507.00654)|null|
+|**2025-07-01**|**Cooperative Sheaf Neural Networks**|André Ribeiro et.al.|[2507.00647](http://arxiv.org/abs/2507.00647)|null|
+|**2025-07-01**|**A Recipe for Causal Graph Regression: Confounding Effects Revisited**|Yujia Yin et.al.|[2507.00440](http://arxiv.org/abs/2507.00440)|null|
 |**2025-06-30**|**Bridging Theory and Practice in Link Representation with Graph Neural Networks**|Veronica Lachi et.al.|[2506.24018](http://arxiv.org/abs/2506.24018)|null|
 |**2025-06-30**|**When GNNs Met a Word Equations Solver: Learning to Rank Equations (Extended Technical Report)**|Parosh Aziz Abdulla et.al.|[2506.23784](http://arxiv.org/abs/2506.23784)|null|
 |**2025-06-30**|**Calibrating Graph Neural Networks with Wavelet-Aware Temperature Scaling**|Xiaoyang Li et.al.|[2506.23782](http://arxiv.org/abs/2506.23782)|null|
