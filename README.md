@@ -4911,6 +4911,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes**|Jiaxing Wang et.al.|[2507.02690](http://arxiv.org/abs/2507.02690)|null|
+|**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427](http://arxiv.org/abs/2507.02427)|null|
+|**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409](http://arxiv.org/abs/2507.02409)|null|
+|**2025-07-02**|**Generating Large Semi-Synthetic Graphs of Any Size**|Rodrigo Tuna et.al.|[2507.02166](http://arxiv.org/abs/2507.02166)|null|
+|**2025-07-02**|**Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks**|Tuo Wang et.al.|[2507.02151](http://arxiv.org/abs/2507.02151)|null|
+|**2025-07-02**|**Enhancing Power Flow Estimation with Topology-Aware Gated Graph Neural Networks**|Shrenik Jadhav et.al.|[2507.02078](http://arxiv.org/abs/2507.02078)|null|
 |**2025-07-02**|**Joint Power Control and Precoding for Cell-Free Massive MIMO Systems With Sparse Multi-Dimensional Graph Neural Networks**|Yukun Ma et.al.|[2507.01876](http://arxiv.org/abs/2507.01876)|null|
 |**2025-07-02**|**Direct Vertex Reconstruction of $Λ$ Baryons from Hits in CLAS12 using Graph Neural Networks**|Keegan Menkce et.al.|[2507.01868](http://arxiv.org/abs/2507.01868)|null|
 |**2025-07-02**|**MILP-SAT-GNN: Yet Another Neural SAT Solver**|Franco Alberto Cardillo et.al.|[2507.01825](http://arxiv.org/abs/2507.01825)|null|
