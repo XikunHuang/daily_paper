@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Exploring Semantic Clustering and Similarity Search for Heterogeneous Traffic Scenario Graph**|Ferdinand Mütsch et.al.|[2507.05086](http://arxiv.org/abs/2507.05086)|null|
+|**2025-07-07**|**Replacing detector simulation with heterogeneous GNNs in flavour physics analyses**|Guillermo Hijano et.al.|[2507.05069](http://arxiv.org/abs/2507.05069)|null|
+|**2025-07-07**|**Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation**|Jinpeng Chen et.al.|[2507.04623](http://arxiv.org/abs/2507.04623)|null|
+|**2025-07-05**|**Graph Neural Networks as a Substitute for Transformers in Single-Cell Transcriptomics**|Jiaxin Qi et.al.|[2507.04125](http://arxiv.org/abs/2507.04125)|null|
+|**2025-07-05**|**Commute Networks as a Signature of Urban Socioeconomic Performance: Evaluating Mobility Structures with Deep Learning Models**|Devashish Khulbe et.al.|[2507.04027](http://arxiv.org/abs/2507.04027)|null|
+|**2025-07-05**|**Graph Collaborative Attention Network for Link Prediction in Knowledge Graphs**|Thanh Hoang-Minh et.al.|[2507.03947](http://arxiv.org/abs/2507.03947)|null|
+|**2025-07-05**|**Combining Graph Neural Networks and Mixed Integer Linear Programming for Molecular Inference under the Two-Layered Model**|Jianshen Zhu et.al.|[2507.03920](http://arxiv.org/abs/2507.03920)|null|
+|**2025-07-05**|**OrbitAll: A Unified Quantum Mechanical Representation Deep Learning Framework for All Molecular Systems**|Beom Seok Kang et.al.|[2507.03853](http://arxiv.org/abs/2507.03853)|null|
+|**2025-07-04**|**Distributed Equivariant Graph Neural Networks for Large-Scale Electronic Structure Prediction**|Manasa Kaniselvan et.al.|[2507.03840](http://arxiv.org/abs/2507.03840)|null|
+|**2025-07-04**|**Effective Capacitance Modeling Using Graph Neural Networks**|Eren Dogan et.al.|[2507.03787](http://arxiv.org/abs/2507.03787)|null|
 |**2025-07-03**|**RLHGNN: Reinforcement Learning-driven Heterogeneous Graph Neural Network for Next Activity Prediction in Business Processes**|Jiaxing Wang et.al.|[2507.02690](http://arxiv.org/abs/2507.02690)|null|
 |**2025-07-03**|**When Attention is Beneficial for Learning Wireless Resource Allocation Efficiently?**|Jia Guo et.al.|[2507.02427](http://arxiv.org/abs/2507.02427)|null|
 |**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409](http://arxiv.org/abs/2507.02409)|null|
