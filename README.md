@@ -4911,6 +4911,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073](http://arxiv.org/abs/2507.07073)|null|
+|**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
+|**2025-07-09**|**Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study**|Raffael Theiler et.al.|[2507.06694](http://arxiv.org/abs/2507.06694)|null|
+|**2025-07-09**|**Deep-Learning-Based Pre-Layout Parasitic Capacitance Prediction on SRAM Designs**|Shan Shen et.al.|[2507.06549](http://arxiv.org/abs/2507.06549)|null|
+|**2025-07-08**|**DecoyDB: A Dataset for Graph Contrastive Learning in Protein-Ligand Binding Affinity Prediction**|Yupu Zhang et.al.|[2507.06366](http://arxiv.org/abs/2507.06366)|null|
 |**2025-07-08**|**Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty**|Abhish Khanal et.al.|[2507.06129](http://arxiv.org/abs/2507.06129)|null|
 |**2025-07-08**|**Drag modelling for flows through assemblies of spherical particles with machine learning: A comparison of approaches**|Julia Reuter et.al.|[2507.05983](http://arxiv.org/abs/2507.05983)|null|
 |**2025-07-08**|**SPADE: Spatial-Aware Denoising Network for Open-vocabulary Panoptic Scene Graph Generation with Long- and Local-range Context Reasoning**|Xin Hu et.al.|[2507.05798](http://arxiv.org/abs/2507.05798)|null|
