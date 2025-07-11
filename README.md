@@ -4911,6 +4911,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain**|Zizhou Zhang et.al.|[2507.07854](http://arxiv.org/abs/2507.07854)|null|
+|**2025-07-10**|**Machine Learning Tools for the IceCube-Gen2 Optical Array**|Francisco Javier Vara Carbonell et.al.|[2507.07844](http://arxiv.org/abs/2507.07844)|null|
+|**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
+|**2025-07-10**|**Reconstruction of cosmic-ray properties with GNN in GRAND**|Arsène Ferrière et.al.|[2507.07541](http://arxiv.org/abs/2507.07541)|null|
+|**2025-07-10**|**NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation**|Jinfeng Xu et.al.|[2507.07522](http://arxiv.org/abs/2507.07522)|null|
+|**2025-07-10**|**GNN-CNN: An Efficient Hybrid Model of Convolutional and Graph Neural Networks for Text Representation**|Fardin Rastakhiz et.al.|[2507.07414](http://arxiv.org/abs/2507.07414)|null|
+|**2025-07-10**|**HGMP:Heterogeneous Graph Multi-Task Prompt Learning**|Pengfei Jiao et.al.|[2507.07405](http://arxiv.org/abs/2507.07405)|null|
+|**2025-07-10**|**ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2507.07389](http://arxiv.org/abs/2507.07389)|null|
+|**2025-07-10**|**GRIT: Graph Transformer For Internal Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2507.07388](http://arxiv.org/abs/2507.07388)|null|
+|**2025-07-10**|**Atherosclerosis through Hierarchical Explainable Neural Network Analysis**|Irsyad Adam et.al.|[2507.07373](http://arxiv.org/abs/2507.07373)|null|
 |**2025-07-09**|**An AI Approach for Learning the Spectrum of the Laplace-Beltrami Operator**|Yulin An et.al.|[2507.07073](http://arxiv.org/abs/2507.07073)|null|
 |**2025-07-09**|**GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning**|S M Taslim Uddin Raju et.al.|[2507.07006](http://arxiv.org/abs/2507.07006)|null|
 |**2025-07-09**|**Heterogeneous Graph Neural Networks for Short-term State Forecasting in Power Systems across Domains and Time Scales: A Hydroelectric Power Plant Case Study**|Raffael Theiler et.al.|[2507.06694](http://arxiv.org/abs/2507.06694)|null|
