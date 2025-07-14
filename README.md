@@ -4911,6 +4911,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
+|**2025-07-11**|**Unified People Tracking with Graph Neural Networks**|Martin Engilberge et.al.|[2507.08494](http://arxiv.org/abs/2507.08494)|null|
+|**2025-07-10**|**EvA: Evolutionary Attacks on Graphs**|Mohammad Sadegh Akhondzadeh et.al.|[2507.08212](http://arxiv.org/abs/2507.08212)|null|
+|**2025-07-10**|**EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification**|Zhuodong Jiang et.al.|[2507.08184](http://arxiv.org/abs/2507.08184)|null|
+|**2025-07-10**|**Exploring substructures in the Milky Way halo Neural networks applied to Gaia and APOGEE DR 17**|L. Berni et.al.|[2507.08074](http://arxiv.org/abs/2507.08074)|null|
 |**2025-07-10**|**Credit Risk Analysis for SMEs Using Graph Neural Networks in Supply Chain**|Zizhou Zhang et.al.|[2507.07854](http://arxiv.org/abs/2507.07854)|null|
 |**2025-07-10**|**Machine Learning Tools for the IceCube-Gen2 Optical Array**|Francisco Javier Vara Carbonell et.al.|[2507.07844](http://arxiv.org/abs/2507.07844)|null|
 |**2025-07-10**|**Context Pooling: Query-specific Graph Pooling for Generic Inductive Link Prediction in Knowledge Graphs**|Zhixiang Su et.al.|[2507.07595](http://arxiv.org/abs/2507.07595)|null|
