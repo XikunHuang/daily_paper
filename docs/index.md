@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
+|**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
+|**2025-07-14**|**Efficient Temporal Simple Path Graph Generation**|Zhiyang Tang et.al.|[2507.10017](http://arxiv.org/abs/2507.10017)|null|
+|**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014](http://arxiv.org/abs/2507.10014)|null|
+|**2025-07-14**|**Effects of structural properties of neural networks on machine learning performance**|Yash Arya et.al.|[2507.10005](http://arxiv.org/abs/2507.10005)|null|
+|**2025-07-14**|**Soft Graph Clustering for single-cell RNA Sequencing Data**|Ping Xu et.al.|[2507.09890](http://arxiv.org/abs/2507.09890)|null|
+|**2025-07-13**|**A Scalable and Efficient Signal Integration System for Job Matching**|Ping Liu et.al.|[2507.09797](http://arxiv.org/abs/2507.09797)|null|
+|**2025-07-13**|**Do we need equivariant models for molecule generation?**|Ewa M. Nowara et.al.|[2507.09753](http://arxiv.org/abs/2507.09753)|null|
+|**2025-07-12**|**Joint Access Point Activation and Power Allocation for Cell-Free Massive MIMO Aided ISAC Systems**|Nguyen Xuan Tung et.al.|[2507.09425](http://arxiv.org/abs/2507.09425)|null|
+|**2025-07-12**|**Lightweight Graph Neural Networks for Enhanced 5G NR Channel Estimation**|Sajedeh Norouzi et.al.|[2507.09408](http://arxiv.org/abs/2507.09408)|null|
 |**2025-07-11**|**Advancements in the IceAct Energy Spectrum Analysis**|Larissa Paul et.al.|[2507.08779](http://arxiv.org/abs/2507.08779)|null|
 |**2025-07-11**|**Unified People Tracking with Graph Neural Networks**|Martin Engilberge et.al.|[2507.08494](http://arxiv.org/abs/2507.08494)|null|
 |**2025-07-10**|**EvA: Evolutionary Attacks on Graphs**|Mohammad Sadegh Akhondzadeh et.al.|[2507.08212](http://arxiv.org/abs/2507.08212)|null|
