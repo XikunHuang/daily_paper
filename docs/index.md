@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SSL
@@ -4908,7 +4908,7 @@ layout: default
 |**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
 |**2025-07-14**|**Emulating Dark Matter Halo Merger Trees with Graph Generative Models**|Tri Nguyen et.al.|[2507.10652](http://arxiv.org/abs/2507.10652)|null|
 |**2025-07-14**|**Learning to Quantize and Precode in Massive MIMO Systems for Energy Reduction: a Graph Neural Network Approach**|Thomas Feys et.al.|[2507.10634](http://arxiv.org/abs/2507.10634)|null|
-|**2025-07-14**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
+|**2025-07-16**|**Beyond-mean-field fluctuations for the solution of constraint satisfaction problems**|Niklas Foos et.al.|[2507.10360](http://arxiv.org/abs/2507.10360)|null|
 |**2025-07-14**|**T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs**|Alireza Dizaji et.al.|[2507.10183](http://arxiv.org/abs/2507.10183)|null|
 |**2025-07-14**|**Efficient Temporal Simple Path Graph Generation**|Zhiyang Tang et.al.|[2507.10017](http://arxiv.org/abs/2507.10017)|null|
 |**2025-07-14**|**Forecasting Coccidioidomycosis (Valley Fever) in Arizona: A Graph Neural Network Approach**|Ali Sarabi et.al.|[2507.10014](http://arxiv.org/abs/2507.10014)|null|
