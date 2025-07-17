@@ -4899,6 +4899,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Heat Kernel Goes Topological**|Maximilian Krahn et.al.|[2507.12380](http://arxiv.org/abs/2507.12380)|null|
+|**2025-07-16**|**Catching Bid-rigging Cartels with Graph Attention Neural Networks**|David Imhof et.al.|[2507.12369](http://arxiv.org/abs/2507.12369)|null|
+|**2025-07-16**|**Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**|Tairan Huang et.al.|[2507.11997](http://arxiv.org/abs/2507.11997)|null|
+|**2025-07-15**|**Enhancements to the IceCube Extremely High Energy Neutrino Selection using Graph & Transformer Based Neural Networks**|Maxwell Nakos et.al.|[2507.11774](http://arxiv.org/abs/2507.11774)|null|
+|**2025-07-15**|**A Graph-in-Graph Learning Framework for Drug-Target Interaction Prediction**|Yuehua Song et.al.|[2507.11757](http://arxiv.org/abs/2507.11757)|null|
+|**2025-07-15**|**Graph Neural Networks Powered by Encoder Embedding for Improved Node Learning**|Shiyu Chen et.al.|[2507.11732](http://arxiv.org/abs/2507.11732)|null|
+|**2025-07-15**|**Subgraph Generation for Generalizing on Out-of-Distribution Links**|Jay Revolinsky et.al.|[2507.11710](http://arxiv.org/abs/2507.11710)|null|
+|**2025-07-15**|**PGT-I: Scaling Spatiotemporal GNNs with Memory-Efficient Distributed Training**|Seth Ockerman et.al.|[2507.11683](http://arxiv.org/abs/2507.11683)|null|
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
 |**2025-07-15**|**Urban delineation through the lens of commute networks: Leveraging graph embeddings to distinguish socioeconomic groups in cities**|Devashish Khulbe et.al.|[2507.11057](http://arxiv.org/abs/2507.11057)|null|
 |**2025-07-15**|**GATE: Graph Attention Neural Networks with Real-Time Edge Construction for Robust Indoor Localization using Mobile Embedded Devices**|Danish Gufran et.al.|[2507.11053](http://arxiv.org/abs/2507.11053)|null|
