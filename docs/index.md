@@ -4899,6 +4899,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Toward Practical Fluid Antenna Systems: Co-Optimizing Hardware and Software for Port Selection and Beamforming**|Sai Xu et.al.|[2507.14035](http://arxiv.org/abs/2507.14035)|null|
+|**2025-07-18**|**Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks**|Jagruti Patel et.al.|[2507.13992](http://arxiv.org/abs/2507.13992)|null|
+|**2025-07-18**|**Robust Anomaly Detection with Graph Neural Networks using Controllability**|Yifan Wei et.al.|[2507.13954](http://arxiv.org/abs/2507.13954)|null|
+|**2025-07-18**|**When Speed meets Accuracy: an Efficient and Effective Graph Model for Temporal Link Prediction**|Haoyang Li et.al.|[2507.13825](http://arxiv.org/abs/2507.13825)|null|
+|**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757](http://arxiv.org/abs/2507.13757)|null|
+|**2025-07-18**|**SamGoG: A Sampling-Based Graph-of-Graphs Framework for Imbalanced Graph Classification**|Shangyou Wang et.al.|[2507.13741](http://arxiv.org/abs/2507.13741)|null|
+|**2025-07-18**|**Learning Deformable Body Interactions With Adaptive Spatial Tokenization**|Hao Wang et.al.|[2507.13707](http://arxiv.org/abs/2507.13707)|null|
+|**2025-07-18**|**Binarizing Physics-Inspired GNNs for Combinatorial Optimization**|Martin Krutský et.al.|[2507.13703](http://arxiv.org/abs/2507.13703)|null|
+|**2025-07-17**|**Graph Neural Network Surrogates for Contacting Deformable Bodies with Necessary and Sufficient Contact Detection**|Vijay K. Dubey et.al.|[2507.13459](http://arxiv.org/abs/2507.13459)|null|
+|**2025-07-17**|**Air Traffic Controller Task Demand via Graph Neural Networks: An Interpretable Approach to Airspace Complexity**|Edward Henderson et.al.|[2507.13423](http://arxiv.org/abs/2507.13423)|null|
 |**2025-07-17**|**NGTM: Substructure-based Neural Graph Topic Model for Interpretable Graph Generation**|Yuanxin Zhuang et.al.|[2507.13133](http://arxiv.org/abs/2507.13133)|null|
 |**2025-07-17**|**A Spectral Interpretation of Redundancy in a Graph Reservoir**|Anna Bison et.al.|[2507.12963](http://arxiv.org/abs/2507.12963)|null|
 |**2025-07-17**|**Multi-Channel Graph Neural Network for Financial Risk Prediction of NEEQ Enterprises**|Jianyu Zhu et.al.|[2507.12787](http://arxiv.org/abs/2507.12787)|null|
